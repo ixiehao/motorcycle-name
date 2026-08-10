@@ -1,0 +1,106 @@
+{
+  "models": [
+    {
+      "id": "model:jianshe:fz150",
+      "brand": "Jianshe",
+      "names": {
+        "en": "YS150",
+        "zh-CN": "飞致150 街车",
+        "zh-TW": "飛致150 街車",
+        "ja": "YS150"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "建设雅马哈飞致150（YS150），150cc单缸电喷街车，雅马哈蓝芯技术，省油耐用的合资经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jianshe:tianjian-150",
+      "brand": "Jianshe",
+      "names": {
+        "en": "YBR150Z",
+        "zh-CN": "天剑150 街车",
+        "zh-TW": "天劍150 街車",
+        "ja": "YBR150Z"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "建设雅马哈天剑动力版YBR150Z，150cc单缸，面向实用市场的经典通路街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jianshe:ybr125",
+      "brand": "Jianshe",
+      "names": {
+        "en": "YBR125",
+        "zh-CN": "天剑YBR125 街车",
+        "zh-TW": "天劍YBR125 街車",
+        "ja": "YBR125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2004–present",
+      "note": "建设雅马哈天剑YBR125，125cc单缸空冷，曾是中国最畅销的合资125街车之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jianshe:jog-i",
+      "brand": "Jianshe",
+      "names": {
+        "en": "Jog i",
+        "zh-CN": "巧格i 125 踏板车",
+        "zh-TW": "巧格i 125 踏板車",
+        "ja": "ジョグi"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "建设雅马哈巧格i，125cc踏板车，雅马哈经典Jog系列，轻巧省油，城市代步热门车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jianshe:xunying-125",
+      "brand": "Jianshe",
+      "names": {
+        "en": "Cygnus 125",
+        "zh-CN": "巡鹰125 踏板车",
+        "zh-TW": "巡鷹125 踏板車",
+        "ja": "サイグナス125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "建设雅马哈巡鹰125，宽大饱满的车身被车友戏称\"胖头鱼\"，踏板界的小巡航",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jianshe:xingying-125",
+      "brand": "Jianshe",
+      "names": {
+        "en": "Xingying 125",
+        "zh-CN": "兴鹰125 踏板车",
+        "zh-TW": "興鷹125 踏板車",
+        "ja": "シンイン125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "建设雅马哈兴鹰125，巡鹰系列换代车型，搭载ASST动力辅助系统，配置智能钥匙",
+      "verified": "verified"
+    }
+  ]
+}

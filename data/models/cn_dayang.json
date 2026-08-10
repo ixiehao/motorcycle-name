@@ -1,0 +1,106 @@
+{
+  "models": [
+    {
+      "id": "model:dayang:vrui-adv150",
+      "brand": "Dayang",
+      "names": {
+        "en": "V-Rui ADV150",
+        "zh-CN": "V锐ADV150 跨界踏板",
+        "zh-TW": "V銳ADV150 跨界踏板",
+        "ja": "VルイADV150"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "大阳V锐ADV150，150cc水冷ADV跨界踏板，搭载Vi-Core混合动力系统，ABS+TCS配置丰富",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dayang:vrui-250t",
+      "brand": "Dayang",
+      "names": {
+        "en": "V-Rui 250T",
+        "zh-CN": "V锐250T 踏板车",
+        "zh-TW": "V銳250T 踏板車",
+        "ja": "Vルイ250T"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "大阳V锐250T中绵羊踏板，标配TCS牵引力控制，2026款升级原厂尾箱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dayang:vrui-300",
+      "brand": "Dayang",
+      "names": {
+        "en": "V-Rui 300",
+        "zh-CN": "V锐300 大踏板",
+        "zh-TW": "V銳300 大踏板",
+        "ja": "Vルイ300"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "大阳V锐300大踏板，292cc水冷，造型大气，配置丰富，面向长途摩旅用户",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dayang:dy100",
+      "brand": "Dayang",
+      "names": {
+        "en": "DY100",
+        "zh-CN": "DY100 弯梁车",
+        "zh-TW": "DY100 彎梁車",
+        "ja": "DY100"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:underbone",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1990–present",
+      "note": "大阳DY100经典弯梁车，上世纪九十年代凭借省油皮实成为国内弯梁市场的传奇车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dayang:dayang-110",
+      "brand": "Dayang",
+      "names": {
+        "en": "Dayang 110",
+        "zh-CN": "大阳110 弯梁车",
+        "zh-TW": "大陽110 彎梁車",
+        "ja": "ダイヤン110"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:underbone",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1990–present",
+      "note": "大阳110经典弯梁车，上市三十余年仍在生产销售，价格亲民，城乡代步首选之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dayang:dy90",
+      "brand": "Dayang",
+      "names": {
+        "en": "DY90",
+        "zh-CN": "大阳90 跨骑",
+        "zh-TW": "大陽90 跨騎",
+        "ja": "DY90"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1992–2005",
+      "note": "大阳90跨骑车，与大阳100弯梁车一同奠定了大阳在中原市场的地位，质量稳定油耗低",
+      "verified": "verified"
+    }
+  ]
+}

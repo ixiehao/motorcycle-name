@@ -1,0 +1,242 @@
+{
+  "models": [
+    {
+      "id": "model:hero:splendor-plus",
+      "brand": "Hero",
+      "names": {
+        "en": "Splendor Plus",
+        "zh-CN": "Splendor Plus 通勤弯梁",
+        "zh-TW": "Splendor Plus 通勤彎梁",
+        "ja": "スプレンダー プラス"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:underbone",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2001–present",
+      "note": "印度销量最高的入门通勤弯梁摩托车，搭载97.2cc风冷单缸，以省油耐用著称",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hero:splendor-ismart",
+      "brand": "Hero",
+      "names": {
+        "en": "Splendor iSmart",
+        "zh-CN": "Splendor iSmart 智能启停弯梁",
+        "zh-TW": "Splendor iSmart 智能啟停彎梁",
+        "ja": "スプレンダー アイスマート"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:underbone",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "Splendor家族升级款，搭载110cc i3s智能启停发动机，印度首批配备自动启停系统的弯梁车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hero:passion-pro",
+      "brand": "Hero",
+      "names": {
+        "en": "Passion Pro",
+        "zh-CN": "Passion Pro 通勤弯梁",
+        "zh-TW": "Passion Pro 通勤彎梁",
+        "ja": "パッション プロ"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:underbone",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2007–present",
+      "note": "经典Passion车系的运动版，110cc风冷单缸，印度家庭入门摩托车的首选之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hero:hf-deluxe",
+      "brand": "Hero",
+      "names": {
+        "en": "HF Deluxe",
+        "zh-CN": "HF Deluxe 入门弯梁",
+        "zh-TW": "HF Deluxe 入門彎梁",
+        "ja": "HF デラックス"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:underbone",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "Hero最畅销的入门车型之一，97.2cc单缸，主打极致性价比与低油耗",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hero:super-splendor",
+      "brand": "Hero",
+      "names": {
+        "en": "Super Splendor",
+        "zh-CN": "Super Splendor 通勤弯梁",
+        "zh-TW": "Super Splendor 通勤彎梁",
+        "ja": "スーパー スプレンダー"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:underbone",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2007–present",
+      "note": "Splendor家族的125cc升级款，124.7cc风冷单缸，动力与油耗平衡，印度通勤市场主力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hero:glamour-125",
+      "brand": "Hero",
+      "names": {
+        "en": "Glamour 125",
+        "zh-CN": "Glamour 125 通勤街车",
+        "zh-TW": "Glamour 125 通勤街車",
+        "ja": "グラマー125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2008–present",
+      "note": "Hero运动风格通勤街车，124.7cc单缸，外观时尚，印度125cc通勤市场热门车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hero:xtreme-160r",
+      "brand": "Hero",
+      "names": {
+        "en": "Xtreme 160R",
+        "zh-CN": "Xtreme 160R 运动街车",
+        "zh-TW": "Xtreme 160R 運動街車",
+        "ja": "エクストリーム160R"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "Hero入门运动街车，163cc单缸风冷，激进外观配轻量化车架，主打年轻市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hero:karizma-xmr",
+      "brand": "Hero",
+      "names": {
+        "en": "Karizma XMR",
+        "zh-CN": "Karizma XMR 仿赛",
+        "zh-TW": "Karizma XMR 仿賽",
+        "ja": "カリスマ XMR"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "Hero重返跑车市场的力作，210cc单缸油冷，全整流罩，配备TFT仪表与快速换挡",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hero:xpulse-200",
+      "brand": "Hero",
+      "names": {
+        "en": "Xpulse 200",
+        "zh-CN": "Xpulse 200 探险两用车",
+        "zh-TW": "Xpulse 200 探險兩用車",
+        "ja": "エクスパルス200"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "Hero首款探险两用摩托车，199.6cc单缸油冷，21/18寸辐条轮，印度入门ADV首选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hero:hunk",
+      "brand": "Hero",
+      "names": {
+        "en": "Hunk",
+        "zh-CN": "Hunk 150cc 运动通勤街车",
+        "zh-TW": "Hunk 150cc 運動通勤街車",
+        "ja": "ハンク"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2020",
+      "note": "150cc运动化通勤街车，149.2cc单缸，曾为Hero主力车型，2020年前后停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hero:destini-125",
+      "brand": "Hero",
+      "names": {
+        "en": "Destini 125",
+        "zh-CN": "Destini 125 踏板车",
+        "zh-TW": "Destini 125 踏板車",
+        "ja": "デスティニ125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "Hero的125cc通勤踏板车，124.6cc风冷单缸，宽大坐垫与置物空间，主打家庭用户",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hero:pleasure-plus",
+      "brand": "Hero",
+      "names": {
+        "en": "Pleasure Plus",
+        "zh-CN": "Pleasure Plus 女性踏板",
+        "zh-TW": "Pleasure Plus 女性踏板",
+        "ja": "プレジャー プラス"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "面向女性用户的入门踏板车，110cc单缸，轻巧易操控，印度女性通勤市场热门",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hero:maestro-edge-125",
+      "brand": "Hero",
+      "names": {
+        "en": "Maestro Edge 125",
+        "zh-CN": "Maestro Edge 125 运动踏板",
+        "zh-TW": "Maestro Edge 125 運動踏板",
+        "ja": "マエストロ エッジ125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "Hero中高端运动风格踏板车，124.6cc单缸风冷，配组合式制动系统",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hero:maverick-440",
+      "brand": "Hero",
+      "names": {
+        "en": "Maverick 440",
+        "zh-CN": "Maverick 440 街车",
+        "zh-TW": "Maverick 440 街車",
+        "ja": "マーベリック440"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "Hero与Harley-Davidson合作开发的大排量街车，440cc单缸风冷，主打中排量市场",
+      "verified": "verified"
+    }
+  ]
+}

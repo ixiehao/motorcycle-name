@@ -1,0 +1,38 @@
+{
+  "models": [
+    {
+      "id": "model:polaris:slingshot",
+      "brand": "Polaris",
+      "names": {
+        "en": "Slingshot",
+        "zh-CN": "Slingshot 弹弓 三轮跑车",
+        "zh-TW": "Slingshot 彈弓 三輪跑車",
+        "ja": "スリングショット"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "前两轮后单轮的三轮跑车，搭载2.0L/2.3L四缸发动机，开放式座舱，Polaris旗下独特产品",
+      "verified": "verified"
+    },
+    {
+      "id": "model:polaris:victory-octane",
+      "brand": "Polaris",
+      "names": {
+        "en": "Victory Octane",
+        "zh-CN": "Victory Octane 运动巡航车（停产）",
+        "zh-TW": "Victory Octane 運動巡航車（停產）",
+        "ja": "ビクトリー・オクタン"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2017",
+      "note": "原Victory品牌旗下1179cc V型双缸运动巡航车，与Indian Scout同平台，随Victory品牌2017年停产而终结",
+      "verified": "verified"
+    }
+  ]
+}

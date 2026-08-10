@@ -1,0 +1,1458 @@
+{
+  "categories": [
+    {
+      "id": "engine_powertrain",
+      "name": "发动机与动力",
+      "count": 10
+    },
+    {
+      "id": "transmission_drivetrain",
+      "name": "传动与驱动",
+      "count": 8
+    },
+    {
+      "id": "chassis_suspension",
+      "name": "底盘与悬挂",
+      "count": 7
+    },
+    {
+      "id": "braking",
+      "name": "制动系统",
+      "count": 6
+    },
+    {
+      "id": "electrical_electronics",
+      "name": "电气与电子系统",
+      "count": 6
+    },
+    {
+      "id": "safety_riding_aids",
+      "name": "骑行安全与辅助",
+      "count": 6
+    },
+    {
+      "id": "tires_wheels",
+      "name": "轮胎与车轮",
+      "count": 6
+    },
+    {
+      "id": "body_frame_fairing",
+      "name": "车身车架与外壳",
+      "count": 6
+    },
+    {
+      "id": "riding_comfort",
+      "name": "骑行与舒适",
+      "count": 5
+    },
+    {
+      "id": "racing_terms",
+      "name": "赛事与竞技",
+      "count": 13
+    },
+    {
+      "id": "safety_riding_skills",
+      "name": "安全驾驶知识",
+      "count": 15
+    },
+    {
+      "id": "brand_rider_aids",
+      "name": "品牌电控技术",
+      "count": 28
+    }
+  ],
+  "terms": [
+    {
+      "id": "glossary:engine_powertrain:01",
+      "category": "engine_powertrain",
+      "names": {
+        "en": "Engine",
+        "zh-CN": "发动机",
+        "zh-TW": "引擎",
+        "ja": "エンジン"
+      },
+      "abbr": "",
+      "note": "摩托车的动力核心，通过燃烧燃油产生机械能驱动车辆行驶。"
+    },
+    {
+      "id": "glossary:engine_powertrain:02",
+      "category": "engine_powertrain",
+      "names": {
+        "en": "Cylinder",
+        "zh-CN": "气缸",
+        "zh-TW": "汽缸",
+        "ja": "シリンダー"
+      },
+      "abbr": "",
+      "note": "发动机内活塞往复运动的空间，气缸数量和排列形式影响动力特性。"
+    },
+    {
+      "id": "glossary:engine_powertrain:03",
+      "category": "engine_powertrain",
+      "names": {
+        "en": "Displacement",
+        "zh-CN": "排量",
+        "zh-TW": "排氣量",
+        "ja": "排気量"
+      },
+      "abbr": "",
+      "note": "发动机所有气缸工作容积之和，单位通常为cc（立方厘米），是衡量发动机大小的重要指标。"
+    },
+    {
+      "id": "glossary:engine_powertrain:04",
+      "category": "engine_powertrain",
+      "names": {
+        "en": "Bore x Stroke",
+        "zh-CN": "缸径x行程",
+        "zh-TW": "缸徑x衝程",
+        "ja": "ボア×ストローク"
+      },
+      "abbr": "",
+      "note": "气缸内径（Bore）与活塞上下运动距离（Stroke）的乘积关系，影响发动机转速特性和扭矩输出。"
+    },
+    {
+      "id": "glossary:engine_powertrain:05",
+      "category": "engine_powertrain",
+      "names": {
+        "en": "Compression Ratio",
+        "zh-CN": "压缩比",
+        "zh-TW": "壓縮比",
+        "ja": "圧縮比"
+      },
+      "abbr": "",
+      "note": "气缸总容积与燃烧室容积的比值，高压缩比可提升效率但对燃油标号要求更高。"
+    },
+    {
+      "id": "glossary:engine_powertrain:06",
+      "category": "engine_powertrain",
+      "names": {
+        "en": "Torque",
+        "zh-CN": "扭矩",
+        "zh-TW": "扭力",
+        "ja": "トルク"
+      },
+      "abbr": "",
+      "note": "发动机曲轴输出的旋转力矩，决定车辆的加速能力和爬坡能力，单位为N·m或kg·m。"
+    },
+    {
+      "id": "glossary:engine_powertrain:07",
+      "category": "engine_powertrain",
+      "names": {
+        "en": "Horsepower",
+        "zh-CN": "马力",
+        "zh-TW": "馬力",
+        "ja": "馬力 (PS/HP)"
+      },
+      "abbr": "",
+      "note": "衡量发动机功率的单位，公制马力(PS)与英制马力(HP)略有差异，反映车辆的极速潜力。"
+    },
+    {
+      "id": "glossary:engine_powertrain:08",
+      "category": "engine_powertrain",
+      "names": {
+        "en": "Turbocharger",
+        "zh-CN": "涡轮增压器",
+        "zh-TW": "渦輪增壓器",
+        "ja": "ターボチャージャー"
+      },
+      "abbr": "Turbo",
+      "note": "利用发动机废气驱动涡轮压缩进气，小排量发动机可获得大功率输出，存在涡轮迟滞现象。"
+    },
+    {
+      "id": "glossary:engine_powertrain:09",
+      "category": "engine_powertrain",
+      "names": {
+        "en": "Supercharger",
+        "zh-CN": "机械增压器",
+        "zh-TW": "機械增壓器",
+        "ja": "スーパーチャージャー"
+      },
+      "abbr": "SC",
+      "note": "通过曲轴直接驱动压缩机压缩进气，无涡轮迟滞，动力响应直接，但会消耗部分发动机功率。"
+    },
+    {
+      "id": "glossary:engine_powertrain:10",
+      "category": "engine_powertrain",
+      "names": {
+        "en": "Throttle Body",
+        "zh-CN": "节气门体",
+        "zh-TW": "節流閥體",
+        "ja": "スロットルボディ"
+      },
+      "abbr": "",
+      "note": "控制发动机进气量的阀体装置，传统为拉线式，现代多为电子油门（Ride-by-Wire）控制。"
+    },
+    {
+      "id": "glossary:transmission_drivetrain:01",
+      "category": "transmission_drivetrain",
+      "names": {
+        "en": "Clutch",
+        "zh-CN": "离合器",
+        "zh-TW": "離合器",
+        "ja": "クラッチ"
+      },
+      "abbr": "",
+      "note": "连接或切断发动机与变速器之间动力传递的装置，换挡时需捏离合切断动力。"
+    },
+    {
+      "id": "glossary:transmission_drivetrain:02",
+      "category": "transmission_drivetrain",
+      "names": {
+        "en": "Transmission",
+        "zh-CN": "变速器",
+        "zh-TW": "變速箱",
+        "ja": "トランスミッション"
+      },
+      "abbr": "Gearbox",
+      "note": "通过变换齿轮比调节发动机输出转速和扭矩的装置，常见有手动、双离合、无级等形式。"
+    },
+    {
+      "id": "glossary:transmission_drivetrain:03",
+      "category": "transmission_drivetrain",
+      "names": {
+        "en": "Manual 5/6-speed",
+        "zh-CN": "手动5/6挡",
+        "zh-TW": "手動5/6檔",
+        "ja": "マニュアル5/6速"
+      },
+      "abbr": "MT",
+      "note": "传统手动变速器，通过脚踩换挡杆配合离合器切换挡位，街车跑车多为6挡。"
+    },
+    {
+      "id": "glossary:transmission_drivetrain:04",
+      "category": "transmission_drivetrain",
+      "names": {
+        "en": "Dual Clutch Transmission",
+        "zh-CN": "双离合自动变速器",
+        "zh-TW": "雙離合器自動變速箱",
+        "ja": "デュアルクラッチトランスミッション"
+      },
+      "abbr": "DCT",
+      "note": "本田首创的摩托车双离合器技术，两组离合器分别控制奇数和偶数挡，可自动或手动换挡，无顿挫感。"
+    },
+    {
+      "id": "glossary:transmission_drivetrain:05",
+      "category": "transmission_drivetrain",
+      "names": {
+        "en": "Continuously Variable Transmission",
+        "zh-CN": "无级变速器",
+        "zh-TW": "無段變速器",
+        "ja": "無段変速機"
+      },
+      "abbr": "CVT",
+      "note": "通过皮带/钢带与可变直径滑轮实现连续变速比，踏板车常用，换挡平顺无顿挫。"
+    },
+    {
+      "id": "glossary:transmission_drivetrain:06",
+      "category": "transmission_drivetrain",
+      "names": {
+        "en": "Chain Drive",
+        "zh-CN": "链条传动",
+        "zh-TW": "鏈條傳動",
+        "ja": "チェーンドライブ"
+      },
+      "abbr": "",
+      "note": "通过链条将动力从链轮传递至后轮，效率高、成本低，需要定期保养调整松紧和润滑。"
+    },
+    {
+      "id": "glossary:transmission_drivetrain:07",
+      "category": "transmission_drivetrain",
+      "names": {
+        "en": "Belt Drive",
+        "zh-CN": "皮带传动",
+        "zh-TW": "皮帶傳動",
+        "ja": "ベルトドライブ"
+      },
+      "abbr": "",
+      "note": "通过同步皮带传递动力，运转安静、免润滑、维护简单，哈雷等巡航车和踏板车常用。"
+    },
+    {
+      "id": "glossary:transmission_drivetrain:08",
+      "category": "transmission_drivetrain",
+      "names": {
+        "en": "Shaft Drive",
+        "zh-CN": "轴传动",
+        "zh-TW": "軸傳動",
+        "ja": "シャフトドライブ"
+      },
+      "abbr": "",
+      "note": "通过传动轴和锥形齿轮传递动力，耐久可靠、几乎免维护，多用于旅行车和大排量巡航车。"
+    },
+    {
+      "id": "glossary:chassis_suspension:01",
+      "category": "chassis_suspension",
+      "names": {
+        "en": "Frame",
+        "zh-CN": "车架",
+        "zh-TW": "車架",
+        "ja": "フレーム"
+      },
+      "abbr": "",
+      "note": "摩托车的骨架结构，承载发动机、悬挂、车身等部件，常见形式有钢管桁架、铝合金双翼梁等。"
+    },
+    {
+      "id": "glossary:chassis_suspension:02",
+      "category": "chassis_suspension",
+      "names": {
+        "en": "Swingarm",
+        "zh-CN": "后摇臂",
+        "zh-TW": "後搖臂",
+        "ja": "スイングアーム"
+      },
+      "abbr": "",
+      "note": "连接车架与后轮的摆动臂组件，允许后轮上下运动，单摇臂（Single-sided）便于快速换胎。"
+    },
+    {
+      "id": "glossary:chassis_suspension:03",
+      "category": "chassis_suspension",
+      "names": {
+        "en": "Front Fork",
+        "zh-CN": "前叉",
+        "zh-TW": "前叉",
+        "ja": "フロントフォーク"
+      },
+      "abbr": "",
+      "note": "摩托车前轮的悬挂组件，连接车架与前轮，负责缓冲路面冲击并支撑转向。"
+    },
+    {
+      "id": "glossary:chassis_suspension:04",
+      "category": "chassis_suspension",
+      "names": {
+        "en": "Telescopic Fork",
+        "zh-CN": "正立式前叉",
+        "zh-TW": "正立式前叉",
+        "ja": "テレスコピックフォーク"
+      },
+      "abbr": "",
+      "note": "传统前叉形式，套筒在下、内管在上，结构简单成本低，多数小排量和实用车型采用。"
+    },
+    {
+      "id": "glossary:chassis_suspension:05",
+      "category": "chassis_suspension",
+      "names": {
+        "en": "Upside Down Fork",
+        "zh-CN": "倒立式前叉",
+        "zh-TW": "倒立式前叉",
+        "ja": "倒立フォーク"
+      },
+      "abbr": "USD",
+      "note": "内管在下、套筒在上的前叉设计，刚性更高、簧下质量更轻，运动和越野车型普遍采用。"
+    },
+    {
+      "id": "glossary:chassis_suspension:06",
+      "category": "chassis_suspension",
+      "names": {
+        "en": "Monoshock",
+        "zh-CN": "单枪后避震",
+        "zh-TW": "單槍後避震",
+        "ja": "モノショック"
+      },
+      "abbr": "",
+      "note": "单支后中央避震器设计，通常配备多连杆机构，可调节预载和阻尼，运动车型主流配置。"
+    },
+    {
+      "id": "glossary:chassis_suspension:07",
+      "category": "chassis_suspension",
+      "names": {
+        "en": "Twin Shock",
+        "zh-CN": "双枪后避震",
+        "zh-TW": "雙槍後避震",
+        "ja": "ツインショック"
+      },
+      "abbr": "",
+      "note": "左右各一支后避震器的传统设计，复古车、巡航车和越野车常见，结构简单维护方便。"
+    },
+    {
+      "id": "glossary:braking:01",
+      "category": "braking",
+      "names": {
+        "en": "Disc Brake",
+        "zh-CN": "碟刹",
+        "zh-TW": "碟煞",
+        "ja": "ディスクブレーキ"
+      },
+      "abbr": "",
+      "note": "通过卡钳夹紧刹车盘产生制动力的制动系统，散热好、制动力强、不受雨水影响，现代摩托车主流。"
+    },
+    {
+      "id": "glossary:braking:02",
+      "category": "braking",
+      "names": {
+        "en": "Drum Brake",
+        "zh-CN": "鼓刹",
+        "zh-TW": "鼓煞",
+        "ja": "ドラムブレーキ"
+      },
+      "abbr": "",
+      "note": "通过制动蹄片向外扩张压紧鼓内壁产生制动力，结构封闭耐用，小排量车和后轮常用。"
+    },
+    {
+      "id": "glossary:braking:03",
+      "category": "braking",
+      "names": {
+        "en": "Anti-lock Braking System",
+        "zh-CN": "防抱死制动系统",
+        "zh-TW": "防鎖死煞車系統",
+        "ja": "アンチロックブレーキシステム"
+      },
+      "abbr": "ABS",
+      "note": "紧急制动时自动调节刹车压力，防止车轮抱死打滑，大幅提升骑行安全性，已成为多数新车标配。"
+    },
+    {
+      "id": "glossary:braking:04",
+      "category": "braking",
+      "names": {
+        "en": "Combined Brake System",
+        "zh-CN": "联动刹车系统",
+        "zh-TW": "連動煞車系統",
+        "ja": "前後連動ブレーキ"
+      },
+      "abbr": "CBS",
+      "note": "踩后刹或捏前刹时系统自动分配前后轮制动力，避免单一车轮制动不足或抱死，适合新手和踏板车。"
+    },
+    {
+      "id": "glossary:braking:05",
+      "category": "braking",
+      "names": {
+        "en": "Radial Caliper",
+        "zh-CN": "径向卡钳",
+        "zh-TW": "輻射卡鉗",
+        "ja": "ラジアルマウントキャリパー"
+      },
+      "abbr": "",
+      "note": "卡钳安装螺栓与刹车盘径向平行的大排量刹车卡钳，刚性更高、制动力更直接，运动车型标配。"
+    },
+    {
+      "id": "glossary:braking:06",
+      "category": "braking",
+      "names": {
+        "en": "Brake Master Cylinder",
+        "zh-CN": "刹车总泵",
+        "zh-TW": "煞車總泵",
+        "ja": "ブレーキマスターシリンダー"
+      },
+      "abbr": "",
+      "note": "将手指/脚部的机械力通过液压转化为制动压力的部件，分手泵（上泵）和脚泵（下泵）。"
+    },
+    {
+      "id": "glossary:electrical_electronics:01",
+      "category": "electrical_electronics",
+      "names": {
+        "en": "Engine Control Unit",
+        "zh-CN": "发动机控制单元",
+        "zh-TW": "引擎控制單元",
+        "ja": "エンジンコントロールユニット"
+      },
+      "abbr": "ECU",
+      "note": "摩托车的大脑，实时采集传感器数据并控制喷油、点火等，决定发动机的工作状态和动力输出。"
+    },
+    {
+      "id": "glossary:electrical_electronics:02",
+      "category": "electrical_electronics",
+      "names": {
+        "en": "Traction Control System",
+        "zh-CN": "牵引力控制系统",
+        "zh-TW": "循跡控制系統",
+        "ja": "トラクションコントロール"
+      },
+      "abbr": "TCS",
+      "note": "检测到后轮打滑时自动减小动力输出或制动，防止轮胎空转侧滑，湿滑路面和大排量车非常有用。"
+    },
+    {
+      "id": "glossary:electrical_electronics:03",
+      "category": "electrical_electronics",
+      "names": {
+        "en": "Ride-by-Wire",
+        "zh-CN": "电子油门",
+        "zh-TW": "電子節流閥",
+        "ja": "ライドバイワイヤ"
+      },
+      "abbr": "RBW",
+      "note": "油门把手与节气门之间无机械拉线，通过ECU电子信号控制，实现多种骑行模式和精准控制。"
+    },
+    {
+      "id": "glossary:electrical_electronics:04",
+      "category": "electrical_electronics",
+      "names": {
+        "en": "Full LED Lighting",
+        "zh-CN": "全LED照明",
+        "zh-TW": "全LED照明",
+        "ja": "フルLED"
+      },
+      "abbr": "",
+      "note": "全车灯具均采用LED光源，包括大灯、转向灯、尾灯等，亮度高、寿命长、功耗低。"
+    },
+    {
+      "id": "glossary:electrical_electronics:05",
+      "category": "electrical_electronics",
+      "names": {
+        "en": "Electronic Fuel Injection",
+        "zh-CN": "电子燃油喷射",
+        "zh-TW": "電子燃油噴射",
+        "ja": "電子燃料噴射装置"
+      },
+      "abbr": "EFI",
+      "note": "通过喷油嘴精确控制燃油喷入量的供油系统，取代传统化油器，排放更低、油耗更省、响应更快。"
+    },
+    {
+      "id": "glossary:electrical_electronics:06",
+      "category": "electrical_electronics",
+      "names": {
+        "en": "Ignition System",
+        "zh-CN": "点火系统",
+        "zh-TW": "點火系統",
+        "ja": "イグニッション"
+      },
+      "abbr": "",
+      "note": "产生高压电火花点燃气缸内混合气的系统，现代多为晶体管数字点火（TCI/CDI），正时精确。"
+    },
+    {
+      "id": "glossary:safety_riding_aids:01",
+      "category": "safety_riding_aids",
+      "names": {
+        "en": "Slipper Clutch",
+        "zh-CN": "滑动离合器",
+        "zh-TW": "滑動離合器",
+        "ja": "スリッパークラッチ"
+      },
+      "abbr": "",
+      "note": "快速降挡时离合器会轻微打滑，减轻发动机制动造成的后轮弹跳锁死，运动车型和大排量车标配。"
+    },
+    {
+      "id": "glossary:safety_riding_aids:02",
+      "category": "safety_riding_aids",
+      "names": {
+        "en": "Quick Shifter",
+        "zh-CN": "快速换挡系统",
+        "zh-TW": "快速換檔系統",
+        "ja": "クイックシフター"
+      },
+      "abbr": "QS",
+      "note": "无需捏离合和收油即可直接换挡的装置，分升挡单向和升降双向两种，赛道和激烈驾驶必备。"
+    },
+    {
+      "id": "glossary:safety_riding_aids:03",
+      "category": "safety_riding_aids",
+      "names": {
+        "en": "Wheelie Control",
+        "zh-CN": "防翘头控制系统",
+        "zh-TW": "防孤輪控制系統",
+        "ja": "ウィリーコントロール"
+      },
+      "abbr": "",
+      "note": "通过传感器检测前轮抬起并自动减小动力输出，防止大油门起步时前轮过度翘起翻倒。"
+    },
+    {
+      "id": "glossary:safety_riding_aids:04",
+      "category": "safety_riding_aids",
+      "names": {
+        "en": "Launch Control",
+        "zh-CN": "弹射起步控制系统",
+        "zh-TW": "彈射起步控制系統",
+        "ja": "ローンチコントロール"
+      },
+      "abbr": "",
+      "note": "限制起步转速和动力输出，使车辆以最佳牵引力起步，用于直线加速赛和专业赛道起步。"
+    },
+    {
+      "id": "glossary:safety_riding_aids:05",
+      "category": "safety_riding_aids",
+      "names": {
+        "en": "Cornering ABS",
+        "zh-CN": "弯道防抱死制动",
+        "zh-TW": "彎道防鎖死煞車",
+        "ja": "コーナリングABS"
+      },
+      "abbr": "",
+      "note": "配备惯性测量单元（IMU）的进阶ABS，在车辆倾斜过弯刹车时也能精准防抱死，避免失控。"
+    },
+    {
+      "id": "glossary:safety_riding_aids:06",
+      "category": "safety_riding_aids",
+      "names": {
+        "en": "Engine Brake Control",
+        "zh-CN": "发动机制动控制",
+        "zh-TW": "引擎煞車控制",
+        "ja": "エンジンブレーキコントロール"
+      },
+      "abbr": "EBC",
+      "note": "可调节发动机制动强度的电子系统，避免过弯收油时后轮因强引擎制动而打滑锁死。"
+    },
+    {
+      "id": "glossary:tires_wheels:01",
+      "category": "tires_wheels",
+      "names": {
+        "en": "Tire / Tyre",
+        "zh-CN": "轮胎",
+        "zh-TW": "輪胎",
+        "ja": "タイヤ"
+      },
+      "abbr": "",
+      "note": "摩托车与地面唯一接触的部件，其抓地力、磨损、气压直接影响骑行安全和操控。"
+    },
+    {
+      "id": "glossary:tires_wheels:02",
+      "category": "tires_wheels",
+      "names": {
+        "en": "Tubeless Tire",
+        "zh-CN": "真空胎",
+        "zh-TW": "無內胎輪胎",
+        "ja": "チューブレスタイヤ"
+      },
+      "abbr": "TL",
+      "note": "无内胎轮胎，扎钉后漏气缓慢，可临时修补继续行驶，现代摩托车主流配置。"
+    },
+    {
+      "id": "glossary:tires_wheels:03",
+      "category": "tires_wheels",
+      "names": {
+        "en": "Tyre Compound",
+        "zh-CN": "轮胎配方",
+        "zh-TW": "輪胎配方",
+        "ja": "タイヤコンパウンド"
+      },
+      "abbr": "",
+      "note": "轮胎橡胶的材料配方，硬配方耐磨但抓地差，软配方抓地强但磨损快，赛道胎多为双/多配方。"
+    },
+    {
+      "id": "glossary:tires_wheels:04",
+      "category": "tires_wheels",
+      "names": {
+        "en": "Rim / Wheel",
+        "zh-CN": "轮毂",
+        "zh-TW": "輪框",
+        "ja": "ホイール (リム)"
+      },
+      "abbr": "",
+      "note": "安装轮胎的金属轮圈部分，材质有铝合金、镁合金、碳纤维等，尺寸以英寸为单位。"
+    },
+    {
+      "id": "glossary:tires_wheels:05",
+      "category": "tires_wheels",
+      "names": {
+        "en": "Spoke Wheel",
+        "zh-CN": "辐条轮",
+        "zh-TW": "輻條輪",
+        "ja": "スポークホイール"
+      },
+      "abbr": "",
+      "note": "由多根钢丝辐条连接轮毂和轮圈的车轮，韧性好可缓冲冲击，越野车、复古车、ADV常用。"
+    },
+    {
+      "id": "glossary:tires_wheels:06",
+      "category": "tires_wheels",
+      "names": {
+        "en": "Alloy Wheel",
+        "zh-CN": "铝合金轮毂",
+        "zh-TW": "鋁合金輪框",
+        "ja": "アルミホイール"
+      },
+      "abbr": "",
+      "note": "一体铸造或锻造铝合金轮毂，刚性好、精度高、免调辐条，公路运动和踏板车标配。"
+    },
+    {
+      "id": "glossary:body_frame_fairing:01",
+      "category": "body_frame_fairing",
+      "names": {
+        "en": "Fairing",
+        "zh-CN": "整流罩",
+        "zh-TW": "車殼",
+        "ja": "カウル"
+      },
+      "abbr": "",
+      "note": "覆盖车身的外壳组件，分为全包、半包、无罩等，作用是降低风阻、保护发动机和外观造型。"
+    },
+    {
+      "id": "glossary:body_frame_fairing:02",
+      "category": "body_frame_fairing",
+      "names": {
+        "en": "Fuel Tank",
+        "zh-CN": "油箱",
+        "zh-TW": "油箱",
+        "ja": "燃料タンク"
+      },
+      "abbr": "",
+      "note": "储存汽油的容器，容量一般在10-20升左右，长途旅行车可达25升以上。"
+    },
+    {
+      "id": "glossary:body_frame_fairing:03",
+      "category": "body_frame_fairing",
+      "names": {
+        "en": "Seat",
+        "zh-CN": "坐垫",
+        "zh-TW": "坐墊",
+        "ja": "シート"
+      },
+      "abbr": "",
+      "note": "骑手和乘客乘坐的座椅，分体座、高低座、连体座等多种形式，材质和形状影响骑行舒适度。"
+    },
+    {
+      "id": "glossary:body_frame_fairing:04",
+      "category": "body_frame_fairing",
+      "names": {
+        "en": "Handlebar",
+        "zh-CN": "车把",
+        "zh-TW": "車把",
+        "ja": "ハンドル"
+      },
+      "abbr": "",
+      "note": "控制转向的部件，分手把（街车）、分离把（跑车）、高把（巡航）、蝴蝶把（旅行）等多种形式。"
+    },
+    {
+      "id": "glossary:body_frame_fairing:05",
+      "category": "body_frame_fairing",
+      "names": {
+        "en": "Clip-on Handlebars",
+        "zh-CN": "分离式车把",
+        "zh-TW": "分離式車把",
+        "ja": "クリップオン"
+      },
+      "abbr": "",
+      "note": "夹紧在前叉上的两段分离式低车把，前倾战斗姿态有助于降低重心，跑车和运动街车采用。"
+    },
+    {
+      "id": "glossary:body_frame_fairing:06",
+      "category": "body_frame_fairing",
+      "names": {
+        "en": "Windshield",
+        "zh-CN": "风挡",
+        "zh-TW": "風鏡",
+        "ja": "スクリーン (風防)"
+      },
+      "abbr": "",
+      "note": "车头前方的透明挡风玻璃，可降低高速时风压对骑手的冲击，旅行车多为可调高度式。"
+    },
+    {
+      "id": "glossary:riding_comfort:01",
+      "category": "riding_comfort",
+      "names": {
+        "en": "Cruise Control",
+        "zh-CN": "定速巡航系统",
+        "zh-TW": "定速巡航系統",
+        "ja": "クルーズコントロール"
+      },
+      "abbr": "CC",
+      "note": "自动保持设定车速行驶的电子系统，长途高速巡航时可解放右手减少疲劳。"
+    },
+    {
+      "id": "glossary:riding_comfort:02",
+      "category": "riding_comfort",
+      "names": {
+        "en": "Heated Grips",
+        "zh-CN": "加热手把",
+        "zh-TW": "加熱握把",
+        "ja": "グリップヒーター"
+      },
+      "abbr": "",
+      "note": "内置电热丝的握把，可多档调温，冬季或高海拔骑行时防止手指冻僵，旅行车和大排量车常见。"
+    },
+    {
+      "id": "glossary:riding_comfort:03",
+      "category": "riding_comfort",
+      "names": {
+        "en": "Adjustable Windscreen",
+        "zh-CN": "可调式风挡",
+        "zh-TW": "可調式風鏡",
+        "ja": "可変スクリーン"
+      },
+      "abbr": "",
+      "note": "可电动或手动调节高度和角度的风挡，不同车速和身高的骑手均可找到舒适的风阻位置。"
+    },
+    {
+      "id": "glossary:riding_comfort:04",
+      "category": "riding_comfort",
+      "names": {
+        "en": "Riding Ergonomics",
+        "zh-CN": "骑行三角",
+        "zh-TW": "騎乘三角",
+        "ja": "ライディングポジション"
+      },
+      "abbr": "",
+      "note": "车把、脚踏、坐垫三者相对位置决定的骑行姿势，街车直立、跑车战斗、巡航舒展、旅行舒适。"
+    },
+    {
+      "id": "glossary:riding_comfort:05",
+      "category": "riding_comfort",
+      "names": {
+        "en": "Luggage Panniers",
+        "zh-CN": "边箱",
+        "zh-TW": "馬鞍箱",
+        "ja": "パニアケース"
+      },
+      "abbr": "",
+      "note": "安装在车辆两侧的储物箱，分硬箱和软包，旅行和长途骑行必备，容量一般20-30升/侧。"
+    },
+    {
+      "id": "glossary:racing_terms:01",
+      "category": "racing_terms",
+      "names": {
+        "en": "MotoGP",
+        "zh-CN": "世界摩托车锦标赛",
+        "zh-TW": "世界摩托車錦標賽",
+        "ja": "MotoGP"
+      },
+      "abbr": "",
+      "note": "摩托车公路赛最高级别赛事，FIM主办，分MotoGP/Moto2/Moto3三个组别，使用原型赛车。"
+    },
+    {
+      "id": "glossary:racing_terms:02",
+      "category": "racing_terms",
+      "names": {
+        "en": "World Superbike Championship",
+        "zh-CN": "世界超级摩托车锦标赛",
+        "zh-TW": "世界超級摩托車錦標賽",
+        "ja": "スーパーバイク世界選手権"
+      },
+      "abbr": "WSBK",
+      "note": "FIM主办的量产改装摩托车公路赛，赛车须以市售车为基础改装，竞争激烈观赏性强。"
+    },
+    {
+      "id": "glossary:racing_terms:03",
+      "category": "racing_terms",
+      "names": {
+        "en": "Isle of Man TT",
+        "zh-CN": "曼岛TT",
+        "zh-TW": "曼島TT",
+        "ja": "TTマン島"
+      },
+      "abbr": "TT",
+      "note": "世界最危险最古老的公路摩托车赛事，在英国曼岛封闭街道计时赛，单圈60公里平均时速超200km/h。"
+    },
+    {
+      "id": "glossary:racing_terms:04",
+      "category": "racing_terms",
+      "names": {
+        "en": "Pikes Peak International Hill Climb",
+        "zh-CN": "派克峰国际爬山赛",
+        "zh-TW": "派克峰國際爬山賽",
+        "ja": "パイクスピーク"
+      },
+      "abbr": "",
+      "note": "美国科罗拉多州派克峰举行的年度爬山赛，赛程约20公里爬升1440米，终点海拔4302米。"
+    },
+    {
+      "id": "glossary:racing_terms:05",
+      "category": "racing_terms",
+      "names": {
+        "en": "Dakar Rally",
+        "zh-CN": "达喀尔拉力赛",
+        "zh-TW": "達卡拉力賽",
+        "ja": "ダカールラリー"
+      },
+      "abbr": "",
+      "note": "世界最艰苦的越野拉力赛，原巴黎到达喀尔，现移师沙特阿拉伯，摩托车组全程超7000公里以沙漠为主。"
+    },
+    {
+      "id": "glossary:racing_terms:06",
+      "category": "racing_terms",
+      "names": {
+        "en": "Suzuka 8 Hours",
+        "zh-CN": "铃鹿8小时耐力赛",
+        "zh-TW": "鈴鹿8小時耐力賽",
+        "ja": "鈴鹿8時間耐久ロードレース"
+      },
+      "abbr": "8耐",
+      "note": "日本铃鹿赛道举行的8小时耐力赛，FIM EWC分站之一，1978年创办。四大日厂倾巢出动，本田常年统治，被誉为耐力赛之王。"
+    },
+    {
+      "id": "glossary:racing_terms:07",
+      "category": "racing_terms",
+      "names": {
+        "en": "FIM Endurance World Championship",
+        "zh-CN": "世界耐力锦标赛",
+        "zh-TW": "世界耐力錦標賽",
+        "ja": "FIM世界耐久選手権"
+      },
+      "abbr": "EWC",
+      "note": "FIM主办的摩托车公路耐力赛，每场6-24小时，骑手轮换驾驶，包含铃鹿8小时、斯帕24小时等经典分站。"
+    },
+    {
+      "id": "glossary:racing_terms:08",
+      "category": "racing_terms",
+      "names": {
+        "en": "FIM Motocross World Championship",
+        "zh-CN": "世界摩托车越野锦标赛",
+        "zh-TW": "世界摩托車越野錦標賽",
+        "ja": "FIMモトクロス世界選手権"
+      },
+      "abbr": "MXGP",
+      "note": "FIM主办的场地越野摩托车赛，分MXGP（450cc）和MX2（250cc）两个组别，泥地赛道+跳跃，KTM、Yamaha、Honda争雄。"
+    },
+    {
+      "id": "glossary:racing_terms:09",
+      "category": "racing_terms",
+      "names": {
+        "en": "FIM Enel MotoE World Championship",
+        "zh-CN": "MotoE电动摩托车世锦赛",
+        "zh-TW": "MotoE電動摩托車世錦賽",
+        "ja": "MotoE世界選手権"
+      },
+      "abbr": "MotoE",
+      "note": "FIM主办的纯电动摩托车单品牌赛事，2019年创办，使用Ducati V21L原型车（2023年起），是MotoGP赛事周末的 supporting 项。"
+    },
+    {
+      "id": "glossary:racing_terms:10",
+      "category": "racing_terms",
+      "names": {
+        "en": "British Superbike Championship",
+        "zh-CN": "英国超级摩托车锦标赛",
+        "zh-TW": "英國超級摩托車錦標賽",
+        "ja": "ブリティッシュスーパーバイク選手権"
+      },
+      "abbr": "BSB",
+      "note": "英国国家级超级摩托赛，技术规则比WSBK更开放，无电控禁令，培养出众多MotoGP/WSBK车手，竞争激烈。"
+    },
+    {
+      "id": "glossary:racing_terms:11",
+      "category": "racing_terms",
+      "names": {
+        "en": "Macau Grand Prix",
+        "zh-CN": "澳门格兰披治大赛车",
+        "zh-TW": "澳門格蘭披治大賽車",
+        "ja": "マカオグランプリ"
+      },
+      "abbr": "",
+      "note": "中国澳门每年11月举行的街道赛，东望洋赛道6.2公里，摩托车组与F3同场，是亚洲最知名的公路街道赛事之一。"
+    },
+    {
+      "id": "glossary:racing_terms:12",
+      "category": "racing_terms",
+      "names": {
+        "en": "AMA Superbike Championship",
+        "zh-CN": "美国超级摩托车锦标赛",
+        "zh-TW": "美國超級摩托車錦標賽",
+        "ja": "AMAスーパーバイク選手権"
+      },
+      "abbr": "AMA",
+      "note": "美国MotoAmerica主办的超级摩托赛，1976年创办，是北美最高级别公路摩托赛，King of the Baggers近年备受关注。"
+    },
+    {
+      "id": "glossary:racing_terms:13",
+      "category": "racing_terms",
+      "names": {
+        "en": "FIM Speedway World Championship",
+        "zh-CN": "世界场地摩托车锦标赛",
+        "zh-TW": "世界場地摩托車錦標賽",
+        "ja": "FIMスピードウェイ世界選手権"
+      },
+      "abbr": "SGP",
+      "note": "FIM主办的场地沙地赛，无刹车、无变速、单缸500cc甲醇燃料车，椭圆土道逆时针绕圈，欧洲尤其是波兰和瑞典极流行。"
+    },
+    {
+      "id": "glossary:safety_riding_skills:01",
+      "category": "safety_riding_skills",
+      "names": {
+        "en": "Counter-steering",
+        "zh-CN": "推胎转向/逆操舵",
+        "zh-TW": "推胎轉向/逆操舵",
+        "ja": "カウンターステアリング"
+      },
+      "abbr": "",
+      "note": "摩托车转向的核心技巧：要向左转，先向右轻推车把使车身向左倾斜，再利用车身倾斜完成转向。所有速度下都适用，是安驾必备技能。"
+    },
+    {
+      "id": "glossary:safety_riding_skills:02",
+      "category": "safety_riding_skills",
+      "names": {
+        "en": "Defensive Riding",
+        "zh-CN": "防御性驾驶",
+        "zh-TW": "防禦性駕駛",
+        "ja": "ディフェンシブライディング"
+      },
+      "abbr": "",
+      "note": "主动预判其他道路使用者可能犯错的骑行方式，保持视野、距离、逃生路径，提前减速，避免进入危险位置。"
+    },
+    {
+      "id": "glossary:safety_riding_skills:03",
+      "category": "safety_riding_skills",
+      "names": {
+        "en": "All The Gear All The Time",
+        "zh-CN": "全装备骑行原则",
+        "zh-TW": "全裝備騎乘原則",
+        "ja": "ATGATT(常時全装備)"
+      },
+      "abbr": "ATGATT",
+      "note": "英文俗语，意为'每次骑行都穿全套装备'，包括头盔、骑行服、手套、骑行裤、骑行靴，是安驾文化的核心准则。"
+    },
+    {
+      "id": "glossary:safety_riding_skills:04",
+      "category": "safety_riding_skills",
+      "names": {
+        "en": "Apex",
+        "zh-CN": "入弯点/弯心",
+        "zh-TW": "入彎點/彎心",
+        "ja": "クリッピングポイント"
+      },
+      "abbr": "",
+      "note": "弯道中最靠近内侧的点，是过弯路线的关键参考。合理选择Apex能获得更直的出弯线路和更高的出弯速度。"
+    },
+    {
+      "id": "glossary:safety_riding_skills:05",
+      "category": "safety_riding_skills",
+      "names": {
+        "en": "Slow In, Fast Out",
+        "zh-CN": "慢进快出",
+        "zh-TW": "慢進快出",
+        "ja": "スローイン・ファストアウト"
+      },
+      "abbr": "",
+      "note": "过弯的基本原则：入弯前充分减速稳定入弯，弯中保持油门平稳，出弯时全力加速。比'快进慢出'更安全且出弯速度更高。"
+    },
+    {
+      "id": "glossary:safety_riding_skills:06",
+      "category": "safety_riding_skills",
+      "names": {
+        "en": "Outside-Inside-Outside",
+        "zh-CN": "外-内-外路线",
+        "zh-TW": "外-內-外路線",
+        "ja": "アウト・イン・アウト"
+      },
+      "abbr": "O-I-O",
+      "note": "过弯基本走线：从外缘入弯，到Apex贴近内侧，再回到外缘出弯，可最大化转弯半径、提高通过速度。"
+    },
+    {
+      "id": "glossary:safety_riding_skills:07",
+      "category": "safety_riding_skills",
+      "names": {
+        "en": "Target Fixation",
+        "zh-CN": "目标凝视",
+        "zh-TW": "目標凝視",
+        "ja": "ターゲットフィクセーション"
+      },
+      "abbr": "",
+      "note": "骑手盯着前方障碍物不放，导致车辆不自觉驶向该障碍的心理现象。安驾训练核心是'看向你要去的地方，而不是你想避开的地方'。"
+    },
+    {
+      "id": "glossary:safety_riding_skills:08",
+      "category": "safety_riding_skills",
+      "names": {
+        "en": "Visual Targeting",
+        "zh-CN": "视线引导",
+        "zh-TW": "視線引導",
+        "ja": "ビジョン(視線誘導)"
+      },
+      "abbr": "",
+      "note": "通过主动看向远方和出弯方向来引导车辆行驶的技巧，眼睛看向哪里车就会往哪里走，是高级骑行的基础。"
+    },
+    {
+      "id": "glossary:safety_riding_skills:09",
+      "category": "safety_riding_skills",
+      "names": {
+        "en": "Threshold Braking",
+        "zh-CN": "极限制动",
+        "zh-TW": "極限制動",
+        "ja": "スレッショルドブレーキング"
+      },
+      "abbr": "",
+      "note": "在不抱死轮胎的前提下施加最大制动力的技术，是缩短制动距离的核心技巧，需要在安全场地反复练习。"
+    },
+    {
+      "id": "glossary:safety_riding_skills:10",
+      "category": "safety_riding_skills",
+      "names": {
+        "en": "Trail Braking",
+        "zh-CN": "拖刹入弯",
+        "zh-TW": "拖煞入彎",
+        "ja": "トレイルブレーキング"
+      },
+      "abbr": "",
+      "note": "入弯时持续保持一定刹车压力使前叉下沉、轮胎贴地，至Apex附近逐渐释放。能压缩前叉提高前轮抓地力，使转向更精准。"
+    },
+    {
+      "id": "glossary:safety_riding_skills:11",
+      "category": "safety_riding_skills",
+      "names": {
+        "en": "Swerve",
+        "zh-CN": "紧急避让",
+        "zh-TW": "緊急避讓",
+        "ja": "スウェーブ(急回避)"
+      },
+      "abbr": "",
+      "note": "在保持速度的情况下快速变向避开障碍的技术，先反推车把快速倾倒，避开后立即回正，配合Counter-steering完成。"
+    },
+    {
+      "id": "glossary:safety_riding_skills:12",
+      "category": "safety_riding_skills",
+      "names": {
+        "en": "Body Position",
+        "zh-CN": "骑行姿势/身位",
+        "zh-TW": "騎乘姿勢/身位",
+        "ja": "ライディングポジション(体)"
+      },
+      "abbr": "",
+      "note": "通过身体重心移动辅助转向和稳定的技术，包括内侧挂腰、车顶压、油箱夹紧、外脚踩踏等，影响车辆平衡和抓地力分配。"
+    },
+    {
+      "id": "glossary:safety_riding_skills:13",
+      "category": "safety_riding_skills",
+      "names": {
+        "en": "Two-Second Rule",
+        "zh-CN": "两秒法则",
+        "zh-TW": "兩秒法則",
+        "ja": "2秒ルール"
+      },
+      "abbr": "",
+      "note": "跟车时与前车保持至少2秒时间间隔的安全距离，雨雪等恶劣天气应延长至4秒以上，给反应和制动留出余量。"
+    },
+    {
+      "id": "glossary:safety_riding_skills:14",
+      "category": "safety_riding_skills",
+      "names": {
+        "en": "Slow Speed Control",
+        "zh-CN": "慢速控车",
+        "zh-TW": "慢速控車",
+        "ja": "低速コントロール"
+      },
+      "abbr": "",
+      "note": "在堵车、停车场、U型掉头等低速场景下保持平衡和稳定的技术，要点是后刹微踩、油门恒定、视线远望、身体放松。"
+    },
+    {
+      "id": "glossary:safety_riding_skills:15",
+      "category": "safety_riding_skills",
+      "names": {
+        "en": "Counterweight",
+        "zh-CN": "配重转向",
+        "zh-TW": "配重轉向",
+        "ja": "カウンターウェイト"
+      },
+      "abbr": "",
+      "note": "低速小半径转向时身体向外侧偏移以平衡车身倾斜的技术，与高速弯的反向配重相反，是慢速控车的进阶技巧。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:01",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Ducati Traction Control",
+        "zh-CN": "杜卡迪牵引力控制",
+        "zh-TW": "杜卡迪循跡控制",
+        "ja": "ドゥカティ・トラクションコントロール"
+      },
+      "abbr": "DTC",
+      "note": "杜卡迪电控系统，基于IMU六轴传感器检测后轮打滑并自动调节点火喷油降低动力，多级可调，Panigale系列标配8级。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:02",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Ducati Wheelie Control",
+        "zh-CN": "杜卡迪防翘头控制",
+        "zh-TW": "杜卡迪防孤輪控制",
+        "ja": "ドゥカティ・ウィリーコントロール"
+      },
+      "abbr": "DWC",
+      "note": "杜卡迪防止前轮过度抬起的系统，通过IMU检测前轮离地高度并调节动力输出，5级可调。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:03",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Ducati Slide Control",
+        "zh-CN": "杜卡迪滑移控制",
+        "zh-TW": "杜卡迪滑移控制",
+        "ja": "ドゥカティ・スライドコントロール"
+      },
+      "abbr": "DSC",
+      "note": "杜卡迪允许后轮在出弯时可控侧滑的系统，由MotoGP技术下放，2级可调，让高水平骑手实现漂移出弯。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:04",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Ducati Power Launch",
+        "zh-CN": "杜卡迪弹射起步",
+        "zh-TW": "杜卡迪彈射起步",
+        "ja": "ドゥカティ・パワーランチ"
+      },
+      "abbr": "DPL",
+      "note": "杜卡迪弹射起步控制系统，限制起步转速和动力输出曲线，3级可调，让骑手实现最佳起步加速。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:05",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Ducati Quick Shift",
+        "zh-CN": "杜卡迪快速换挡",
+        "zh-TW": "杜卡迪快速換檔",
+        "ja": "ドゥカティ・クイックシフト"
+      },
+      "abbr": "DQS",
+      "note": "杜卡迪双向快速换挡系统，升降挡均无需捏离合和收油，DQS EVO 2版本响应更敏捷，赛道激烈驾驶利器。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:06",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "BMW Automatic Stability Control",
+        "zh-CN": "宝马自动稳定控制",
+        "zh-TW": "寶馬自動穩定控制",
+        "ja": "BMW・アンステリティコントロール"
+      },
+      "abbr": "ASC",
+      "note": "宝马摩托基础牵引力控制系统，通过对比前后轮转速检测打滑并减小动力，是DTC出现前的标配系统。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:07",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "BMW Dynamic Traction Control",
+        "zh-CN": "宝马动态牵引力控制",
+        "zh-TW": "寶馬動態循跡控制",
+        "ja": "BMW・ダイナミックトラクションコントロール"
+      },
+      "abbr": "DTC",
+      "note": "宝马基于IMU的高级牵引力控制，可感知车身倾角，弯道中也能精准控制打滑，Pro版本支持漂移模式。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:08",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "BMW Motor Slipping Regulation",
+        "zh-CN": "宝马发动机滑移调节",
+        "zh-TW": "寶馬引擎滑移調節",
+        "ja": "BMW・モータースリッピングレギュレーション"
+      },
+      "abbr": "MSR",
+      "note": "宝马防止急收油或降挡时后轮因强发动机制动锁死的系统，自动补油维持后轮稳定，与滑动离合器配合使用。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:09",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "BMW Hill Start Control Pro",
+        "zh-CN": "宝马坡道起步控制",
+        "zh-TW": "寶馬坡道起步控制",
+        "ja": "BMW・ヒルスタートコントロールPro"
+      },
+      "abbr": "HSC Pro",
+      "note": "宝马坡道辅助系统，上坡起步时自动保持制动2秒，Pro版支持下坡也工作，让骑手从容操作油门离合。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:10",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "BMW Shift Assistant",
+        "zh-CN": "宝马换挡辅助",
+        "zh-TW": "寶馬換檔輔助",
+        "ja": "BMW・シフトアシスタント"
+      },
+      "abbr": "",
+      "note": "宝马快速换挡系统，Pro版支持双向（升降挡）无离合换挡，无需收油，长途旅行和激烈驾驶都能减轻疲劳。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:11",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Inertial Measurement Unit",
+        "zh-CN": "惯性测量单元",
+        "zh-TW": "慣性測量單元",
+        "ja": "IMU(慣性計測装置)"
+      },
+      "abbr": "IMU",
+      "note": "六轴惯性传感器，检测车身三轴加速度和角速度，是现代电控的基础。Yamaha YZF-R1 2015款率先在量产摩托上搭载IMU。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:12",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Yamaha Motorcycle Stability Control",
+        "zh-CN": "雅马哈摩托车稳定控制",
+        "zh-TW": "山葉摩托車穩定控制",
+        "ja": "YMSC(ヤマハ・モータサイクルスタビリティコントロール)"
+      },
+      "abbr": "YMSC",
+      "note": "雅马哈基于IMU整合ABS+TCS+SCS+LIF的全方位稳定控制系统，能在车身倾角下协同工作，是YZF-R1的核心电控。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:13",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Yamaha Slide Control System",
+        "zh-CN": "雅马哈滑移控制系统",
+        "zh-TW": "山葉滑移控制系統",
+        "ja": "YSC(ヤマハ・スライドコントロール)"
+      },
+      "abbr": "SCS",
+      "note": "雅马哈允许后轮侧滑的电控系统，由MotoGP M1技术下放，可调节允许侧滑角度，过度时自动介入恢复抓地。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:14",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Yamaha Lift Control",
+        "zh-CN": "雅马哈防翘头控制",
+        "zh-TW": "山葉防孤輪控制",
+        "ja": "LIF(ヤマハ・リフトコントロール)"
+      },
+      "abbr": "LIF",
+      "note": "雅马哈防止前轮过度翘起的系统，基于IMU检测前轮离地并自动调整动力输出，4级可调。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:15",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Kawasaki Traction Control",
+        "zh-CN": "川崎牵引力控制",
+        "zh-TW": "川崎循跡控制",
+        "ja": "KTRC(カワサキ・トラクションコントロール)"
+      },
+      "abbr": "KTRC",
+      "note": "川崎牵引力控制系统，分全介入模式（防止任何打滑）和允许一定打滑的运动模式，多级可调，Ninja ZX-10R标配。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:16",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Kawasaki Launch Control Mode",
+        "zh-CN": "川崎弹射控制模式",
+        "zh-TW": "川崎彈射控制模式",
+        "ja": "KLCM(カワサキ・ローンチコントロール)"
+      },
+      "abbr": "KLCM",
+      "note": "川崎弹射起步系统，限制1-3挡的输出功率和转速曲线，3级可调，让ZX-10R/ZX-14R获得最佳起步加速度。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:17",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Kawasaki Intelligent Anti-lock Brake System",
+        "zh-CN": "川崎智能ABS",
+        "zh-TW": "川崎智能ABS",
+        "ja": "KIBS(カワサキ・インテリジェントABS)"
+      },
+      "abbr": "KIBS",
+      "note": "川崎高精度ABS系统，由Bosch合作开发，每秒监测车轮速度200+次，配合IMU可实现弯道ABS，ZX-10R/Z900等搭载。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:18",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Kawasaki Engine Brake Control",
+        "zh-CN": "川崎发动机制动控制",
+        "zh-TW": "川崎引擎煞車控制",
+        "ja": "KEBC(カワサキ・エンジンブレーキコントロール)"
+      },
+      "abbr": "KEBC",
+      "note": "川崎可调发动机制动强度系统，关闭时滑行更顺畅，开启时降挡入弯更稳定，赛道驾驶必备调节项。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:19",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Kawasaki Quick Shifter",
+        "zh-CN": "川崎快速换挡",
+        "zh-TW": "川崎快速換檔",
+        "ja": "KQS(カワサキ・クイックシフター)"
+      },
+      "abbr": "KQS",
+      "note": "川崎快速换挡系统，标准版支持升挡，双向版支持升降挡无离合操作，Ninja ZX-6R以上车型标配。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:20",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Honda Selectable Torque Control",
+        "zh-CN": "本田可选扭矩控制",
+        "zh-TW": "本田可選扭力控制",
+        "ja": "HSTC(ホンダ・セレクタブルトルクコントロール)"
+      },
+      "abbr": "HSTC",
+      "note": "本田牵引力控制系统，通过检测前后轮速差调节点火提前角降低动力，多级可调并可完全关闭，Africa Twin/CB系列搭载。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:21",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Honda Combined ABS",
+        "zh-CN": "本田联动ABS",
+        "zh-TW": "本田連動ABS",
+        "ja": "C-ABS(ホンダ・コンバインドABS)"
+      },
+      "abbr": "C-ABS",
+      "note": "本田前后轮联动刹车+ABS系统，捏前刹或踩后刹均会按比例分配前后制动力，提升新手和紧急情况下的制动效果。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:22",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Suzuki Drive Mode Selector",
+        "zh-CN": "铃木驱动模式选择器",
+        "zh-TW": "鈴木驅動模式選擇器",
+        "ja": "SDMS(スズキ・ドライブモードセレクター)"
+      },
+      "abbr": "SDMS",
+      "note": "铃木骑行模式切换系统，一键切换A/B/C三种动力输出特性（A全功率、B柔和、C雨地），SDMS-α还支持自定义各电控参数。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:23",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Suzuki Motion Track ABS",
+        "zh-CN": "铃木运动轨迹ABS",
+        "zh-TW": "鈴木運動軌跡ABS",
+        "ja": "スズキ・モーショントラックABS"
+      },
+      "abbr": "",
+      "note": "铃木搭载IMU的弯道ABS系统，可在车身倾斜状态下精准防抱死，配合TCS和HSC实现全方位稳定控制，GSX-R1000/V-Strom搭载。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:24",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "KTM Motor Traction Control",
+        "zh-CN": "KTM牵引力控制",
+        "zh-TW": "KTM循跡控制",
+        "ja": "MTC(KTM・モータートラクションコントロール)"
+      },
+      "abbr": "MTC",
+      "note": "KTM牵引力控制系统，配合IMU可实现倾角感知的TCS，多级可调（含Sport漂移模式），1290 Super Duke R/Super Adventure标配。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:25",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "KTM Motorcycle Stability Control",
+        "zh-CN": "KTM摩托车稳定控制",
+        "zh-TW": "KTM摩托車穩定控制",
+        "ja": "MSC(KTM・モータサイクルスタビリティコントロール)"
+      },
+      "abbr": "MSC",
+      "note": "KTM与Bosch联合开发的整车稳定系统，整合弯道ABS+TCS+MTC+HHC，可在所有倾角下协同工作防止失控。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:26",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Aprilia Performance Ride Control",
+        "zh-CN": "阿普利亚性能骑行控制",
+        "zh-TW": "阿普利亞性能騎乘控制",
+        "ja": "APRC(アプリリア・パフォーマンスライドコントロール)"
+      },
+      "abbr": "APRC",
+      "note": "阿普利亚电控套件总称，由WSBK赛车技术下放，整合ATC(牵引力)、AWC(防翘头)、ALC(弹射)、AQS(快排)、ACC(巡航)等子系统。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:27",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Triumph Traction Control",
+        "zh-CN": "凯旋牵引力控制",
+        "zh-TW": "凱旋循跡控制",
+        "ja": "TTC(トライアンフ・トラクションコントロール)"
+      },
+      "abbr": "TTC",
+      "note": "凯旋摩托牵引力控制系统，配合IMU实现弯道感知TCS，Bonneville T120/Tiger 900等车型搭载，可关闭以适配越野路段。"
+    },
+    {
+      "id": "glossary:brand_rider_aids:28",
+      "category": "brand_rider_aids",
+      "names": {
+        "en": "Harley-Davidson Reflex Defensive Rider Systems",
+        "zh-CN": "哈雷反射式防御骑手系统",
+        "zh-TW": "哈雷反射式防禦騎士系統",
+        "ja": "RDRS(ハーレー・リフレックスディフェンシブライダーシステム)"
+      },
+      "abbr": "RDRS",
+      "note": "哈雷戴维森基于IMU的电子套件，整合弯道ABS、TCS、HSTC(防翘头)、Drag-Torque Slip Control等，Sport S/America/RA 1250以上标配。"
+    }
+  ]
+}

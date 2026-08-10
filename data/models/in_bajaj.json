@@ -1,0 +1,242 @@
+{
+  "models": [
+    {
+      "id": "model:bajaj:pulsar-125",
+      "brand": "Bajaj",
+      "names": {
+        "en": "Pulsar 125",
+        "zh-CN": "Pulsar 125 脉冲星 街车",
+        "zh-TW": "Pulsar 125 脈衝星 街車",
+        "ja": "パルサー125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "Pulsar家族入门款，124.4cc单缸油冷，LED大灯，印度125cc运动通勤热门",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bajaj:pulsar-ns200",
+      "brand": "Bajaj",
+      "names": {
+        "en": "Pulsar NS200",
+        "zh-CN": "Pulsar NS200 脉冲星 街车",
+        "zh-TW": "Pulsar NS200 脈衝星 街車",
+        "ja": "パルサー NS200"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2012–present",
+      "note": "NS系列运动街车，199.5cc单缸水冷，钢管编织车架，同级性价比之王",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bajaj:pulsar-n250",
+      "brand": "Bajaj",
+      "names": {
+        "en": "Pulsar N250",
+        "zh-CN": "Pulsar N250 脉冲星 街车",
+        "zh-TW": "Pulsar N250 脈衝星 街車",
+        "ja": "パルサー N250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "新一代N系列街车，249.07cc单缸油冷，全LED与LCD仪表，接续NS200的市场定位",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bajaj:pulsar-rs200",
+      "brand": "Bajaj",
+      "names": {
+        "en": "Pulsar RS200",
+        "zh-CN": "Pulsar RS200 脉冲星 仿赛",
+        "zh-TW": "Pulsar RS200 脈衝星 仿賽",
+        "ja": "パルサー RS200"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "Pulsar系列唯一的全整流罩仿赛，199.5cc单缸水冷25马力，印度入门仿赛代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bajaj:pulsar-f250",
+      "brand": "Bajaj",
+      "names": {
+        "en": "Pulsar F250",
+        "zh-CN": "Pulsar F250 脉冲星 运动街车",
+        "zh-TW": "Pulsar F250 脈衝星 運動街車",
+        "ja": "パルサー F250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "N250的导流罩版本，249.07cc单缸油冷，带车头小风挡，兼顾运动与长途骑行",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bajaj:pulsar-150",
+      "brand": "Bajaj",
+      "names": {
+        "en": "Pulsar 150",
+        "zh-CN": "Pulsar 150 脉冲星 街车",
+        "zh-TW": "Pulsar 150 脈衝星 街車",
+        "ja": "パルサー150"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2001–present",
+      "note": "Pulsar车系开山之作，149.5cc单缸，印度运动街车的启蒙车型，历经二十余年长销不衰",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bajaj:pulsar-220f",
+      "brand": "Bajaj",
+      "names": {
+        "en": "Pulsar 220 F",
+        "zh-CN": "Pulsar 220 F 脉冲星 运动车",
+        "zh-TW": "Pulsar 220 F 脈衝星 運動車",
+        "ja": "パルサー220F"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2021",
+      "note": "曾经的印度最强220cc级街车，220cc单缸油冷，带导流罩设计，2021年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bajaj:dominar-400",
+      "brand": "Bajaj",
+      "names": {
+        "en": "Dominar 400",
+        "zh-CN": "Dominar 400 霸主 运动旅行车",
+        "zh-TW": "Dominar 400 霸主 運動旅行車",
+        "ja": "ドミナー400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "Bajaj旗舰运动旅行车，373.3cc单缸水冷（与KTM 390同源），带导流罩，长途利器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bajaj:dominar-250",
+      "brand": "Bajaj",
+      "names": {
+        "en": "Dominar 250",
+        "zh-CN": "Dominar 250 霸主 运动旅行车",
+        "zh-TW": "Dominar 250 霸主 運動旅行車",
+        "ja": "ドミナー250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "Dominar家族入门款，248.8cc单缸油冷，保留旗舰级旅行定位与配置",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bajaj:avenger-street-160",
+      "brand": "Bajaj",
+      "names": {
+        "en": "Avenger Street 160",
+        "zh-CN": "Avenger Street 160 复仇者 巡航车",
+        "zh-TW": "Avenger Street 160 復仇者 巡航車",
+        "ja": "アベンジャー ストリート160"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "印度入门巡航车，160cc单缸风冷，低坐高，圆灯与双排气，个性鲜明",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bajaj:avenger-cruise-220",
+      "brand": "Bajaj",
+      "names": {
+        "en": "Avenger Cruise 220",
+        "zh-CN": "Avenger Cruise 220 复仇者 巡航车",
+        "zh-TW": "Avenger Cruise 220 復仇者 巡航車",
+        "ja": "アベンジャー クルーズ220"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2005–present",
+      "note": "印度最经典的入门巡航车，219.9cc单缸油冷，自2005年推出长销至今",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bajaj:ct-100",
+      "brand": "Bajaj",
+      "names": {
+        "en": "CT 100",
+        "zh-CN": "CT 100 入门通勤车",
+        "zh-TW": "CT 100 入門通勤車",
+        "ja": "CT100"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2005–present",
+      "note": "印度最畅销的100cc级入门通勤车之一，单缸风冷，极致省油耐用，农村市场主力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bajaj:platina-110",
+      "brand": "Bajaj",
+      "names": {
+        "en": "Platina 110",
+        "zh-CN": "Platina 110 铂金 通勤车",
+        "zh-TW": "Platina 110 鉑金 通勤車",
+        "ja": "プラチナ110"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2006–present",
+      "note": "Bajaj主力通勤车，115cc单缸风冷，iGET发动机技术，骑姿舒适，节油耐用",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bajaj:chetak",
+      "brand": "Bajaj",
+      "names": {
+        "en": "Chetak",
+        "zh-CN": "Chetak 电动踏板",
+        "zh-TW": "Chetak 電動踏板",
+        "ja": "チェタク"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "复活经典车名的电动踏板车，2020年推出，锂电驱动，金属车身，印度高端电踏代表",
+      "verified": "verified"
+    }
+  ]
+}

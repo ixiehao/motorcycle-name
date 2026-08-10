@@ -1,0 +1,395 @@
+{
+  "models": [
+    {
+      "id": "model:jawa:350",
+      "brand": "Jawa",
+      "names": {
+        "en": "350",
+        "zh-CN": "Jawa 350 经典街车",
+        "zh-TW": "Jawa 350 經典街車",
+        "ja": "ヤワ350"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "复兴版Jawa 350，334cc单缸，复古水冷街车，由印度Classic Legends在捷克品牌授权下生产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:500-ohc",
+      "brand": "Jawa",
+      "names": {
+        "en": "500 OHC",
+        "zh-CN": "500 OHC 单缸摩托车（停产）",
+        "zh-TW": "500 OHC 單缸摩托車（停產）",
+        "ja": "500OHC"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1952–1958",
+      "note": "488cc顶置凸轮轴单缸摩托车，1950年代Jawa的大排量车型，性能出色口碑良好",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:perak",
+      "brand": "Jawa",
+      "names": {
+        "en": "Perak",
+        "zh-CN": "Perak 单座鲍勃车",
+        "zh-TW": "Perak 單座鮑勃車",
+        "ja": "ペラク"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:bobber",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "334cc单缸单座鲍勃车，磨砂黑涂装与双排气管设计，Jawa复兴系列中最具个性的一款",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:500-ohv",
+      "brand": "Jawa",
+      "names": {
+        "en": "500 OHV",
+        "zh-CN": "Jawa 500 OHV 首款四冲程单缸车（停产）",
+        "zh-TW": "Jawa 500 OHV 首款四衝程單缸車（停產）",
+        "ja": "ヤワ 500 OHV"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1929–1932",
+      "note": "Jawa品牌首款量产车型，源自Wanderer的500cc四冲程顶置气门单缸，1929年10月上市，为品牌奠定可靠耐用的口碑",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:175",
+      "brand": "Jawa",
+      "names": {
+        "en": "175",
+        "zh-CN": "Jawa 175 轻量二冲程单缸车（停产）",
+        "zh-TW": "Jawa 175 輕量二衝程單缸車（停產）",
+        "ja": "ヤワ 175"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1932–1946",
+      "note": "1932年推出的大萧条时期廉价轻量车，整备质量仅70公斤，是Jawa战前销量主力，总产量超27000辆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:350-sv",
+      "brand": "Jawa",
+      "names": {
+        "en": "350 SV",
+        "zh-CN": "Jawa 350 SV 四冲程单缸街车（停产）",
+        "zh-TW": "Jawa 350 SV 四衝程單缸街車（停產）",
+        "ja": "ヤワ 350 SV"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1934–1936",
+      "note": "1934年推出的350cc四冲程侧置气门单缸摩托，是Jawa战前大排量街车的重要车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:350-ohv",
+      "brand": "Jawa",
+      "names": {
+        "en": "350 OHV",
+        "zh-CN": "Jawa 350 OHV 四冲程单缸街车（停产）",
+        "zh-TW": "Jawa 350 OHV 四衝程單缸街車（停產）",
+        "ja": "ヤワ 350 OHV"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1935–1946",
+      "note": "350 SV的后继车型，改用顶置气门并横跨二战生产，是Jawa战前四冲程单缸的经典代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:250-special",
+      "brand": "Jawa",
+      "names": {
+        "en": "250 Special",
+        "zh-CN": "Jawa 250 Special 二冲程单缸街车（停产）",
+        "zh-TW": "Jawa 250 Special 二衝程單缸街車（停產）",
+        "ja": "ヤワ 250 スペシャル"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1934–1940",
+      "note": "1934年推出的250cc二冲程单缸，Jawa战前最著名的轻量车型，其后续250系列成为中国幸福XF250的技术源头",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:250-duplex-blok",
+      "brand": "Jawa",
+      "names": {
+        "en": "250 Duplex-Blok",
+        "zh-CN": "Jawa 250 Duplex-Blok 军用二冲程摩托（停产）",
+        "zh-TW": "Jawa 250 Duplex-Blok 軍用二衝程摩托（停產）",
+        "ja": "ヤワ 250 デュプレックスブロック"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1939–1945",
+      "note": "1939年起生产的250cc二冲程单缸，采用一体式发动机设计，二战期间大量被军方征用，是战后Pérák的技术基础",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:250-perak",
+      "brand": "Jawa",
+      "names": {
+        "en": "250 Pérák",
+        "zh-CN": "Jawa 250 Pérák 弹簧人 二冲程街车（停产）",
+        "zh-TW": "Jawa 250 Pérák 彈簧人 二衝程街車（停產）",
+        "ja": "ヤワ 250 ペラーク"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1946–1954",
+      "note": "绰号弹簧人的250cc二冲程单缸，二战后的捷克国民摩托，摆动式后悬挂为其标志性设计",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:350-perak",
+      "brand": "Jawa",
+      "names": {
+        "en": "350 Pérák",
+        "zh-CN": "Jawa 350 Pérák 弹簧人 双缸二冲程街车（停产）",
+        "zh-TW": "Jawa 350 Pérák 彈簧人 雙缸二衝程街車（停產）",
+        "ja": "ヤワ 350 ペラーク"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1948–1956",
+      "note": "Jawa传奇双缸二冲程，绰号弹簧人，是战后东欧最受欢迎的摩托之一，性能出色口碑极佳",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:250-353",
+      "brand": "Jawa",
+      "names": {
+        "en": "250/353 Kývačka",
+        "zh-CN": "Jawa 250/353 Kývačka 二冲程街车（停产）",
+        "zh-TW": "Jawa 250/353 Kývačka 二衝程街車（停產）",
+        "ja": "ヤワ 250/353 キーヴァチカ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1954–1962",
+      "note": "Kývačka意为摆动式后悬挂，250cc二冲程单缸，出口120多个国家，中国幸福XF250即以它为原型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:350-354",
+      "brand": "Jawa",
+      "names": {
+        "en": "350/354 Kývačka",
+        "zh-CN": "Jawa 350/354 Kývačka 双缸二冲程街车（停产）",
+        "zh-TW": "Jawa 350/354 Kývačka 雙缸二衝程街車（停產）",
+        "ja": "ヤワ 350/354 キーヴァチカ"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1954–1964",
+      "note": "343cc双缸二冲程，Kývačka摆动式后悬挂，1950年代Jawa主力出口车型，风靡全球120多个国家",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:250-559",
+      "brand": "Jawa",
+      "names": {
+        "en": "250/559 Panelka",
+        "zh-CN": "Jawa 250/559 Panelka 二冲程街车（停产）",
+        "zh-TW": "Jawa 250/559 Panelka 二衝程街車（停產）",
+        "ja": "ヤワ 250/559 パネルカ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1962–1974",
+      "note": "1960年代Jawa 250cc主力车型，率先搭载Jawa首创的自动离心式离合器，皮实耐用的国民车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:350-360",
+      "brand": "Jawa",
+      "names": {
+        "en": "350/360 Automatic",
+        "zh-CN": "Jawa 350/360 Automatic 自动离合二冲程街车（停产）",
+        "zh-TW": "Jawa 350/360 Automatic 自動離合二衝程街車（停產）",
+        "ja": "ヤワ 350/360 オートマチック"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1964–1974",
+      "note": "343cc二冲程单缸，世界上首款配备自动离心式离合器的摩托车，该专利后为本田仿制并需支付授权费",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:350-361-sport",
+      "brand": "Jawa",
+      "names": {
+        "en": "350/361 Sport",
+        "zh-CN": "Jawa 350/361 Sport 双缸二冲程运动车（停产）",
+        "zh-TW": "Jawa 350/361 Sport 雙缸二衝程運動車（停產）",
+        "ja": "ヤワ 350/361 スポルト"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1965–1969",
+      "note": "双缸二冲程运动版，配备更大的19英寸轮圈，是1960年代Jawa运动车型的代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:350-californian",
+      "brand": "Jawa",
+      "names": {
+        "en": "350 Californian",
+        "zh-CN": "Jawa 350 Californian 双缸二冲程街车（停产）",
+        "zh-TW": "Jawa 350 Californian 雙缸二衝程街車（停產）",
+        "ja": "ヤワ 350 カリフォルニアン"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1967–1973",
+      "note": "双缸二冲程，专为北美市场设计的出口车型，经典红黑配色风靡美国，是Jawa最知名的出口型号之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:250-bizon",
+      "brand": "Jawa",
+      "names": {
+        "en": "250/623 Bizon",
+        "zh-CN": "Jawa 250/623 Bizon 野牛 二冲程街车（停产）",
+        "zh-TW": "Jawa 250/623 Bizon 野牛 二衝程街車（停產）",
+        "ja": "ヤワ 250/623 ビゾン"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1963–1971",
+      "note": "Bizon意为野牛，250cc二冲程单缸，造型硬朗实用，是1960年代Jawa的主力街车之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:350-634",
+      "brand": "Jawa",
+      "names": {
+        "en": "350/634",
+        "zh-CN": "Jawa 350/634 双缸二冲程街车（停产）",
+        "zh-TW": "Jawa 350/634 雙缸二衝程街車（停產）",
+        "ja": "ヤワ 350/634"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1973–1985",
+      "note": "343cc双缸二冲程，1970年代Jawa最畅销的传奇车型，机械结构一直延续至1990年代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:350-638",
+      "brand": "Jawa",
+      "names": {
+        "en": "350/638",
+        "zh-CN": "Jawa 350/638 双缸二冲程街车（停产）",
+        "zh-TW": "Jawa 350/638 雙缸二衝程街車（停產）",
+        "ja": "ヤワ 350/638"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–1994",
+      "note": "634的后继双缸二冲程，1986年起输出约34马力，是捷克斯洛伐克时代最后的主流350车型之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:350-639",
+      "brand": "Jawa",
+      "names": {
+        "en": "350/639",
+        "zh-CN": "Jawa 350/639 双缸二冲程街车（停产）",
+        "zh-TW": "Jawa 350/639 雙缸二衝程街車（停產）",
+        "ja": "ヤワ 350/639"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–1994",
+      "note": "与638同期生产的双缸二冲程，首次为350系列配备前盘式刹车，是Jawa双缸系列的收官之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:250-californian",
+      "brand": "Jawa",
+      "names": {
+        "en": "250 Californian",
+        "zh-CN": "Jawa 250 Californian 二冲程街车（停产）",
+        "zh-TW": "Jawa 250 Californian 二衝程街車（停產）",
+        "ja": "ヤワ 250 カリフォルニアン"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1963–1971",
+      "note": "250cc二冲程单缸，与350 Californian同期面向北美市场推出，风格独特",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jawa:babetta",
+      "brand": "Jawa",
+      "names": {
+        "en": "Babetta",
+        "zh-CN": "Jawa Babetta 50cc 轻便摩托（停产）",
+        "zh-TW": "Jawa Babetta 50cc 輕便摩托（停產）",
+        "ja": "ヤワ バベッタ"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1970–1999",
+      "note": "50cc轻便摩托，1970年起在斯洛伐克工厂生产并以Jawa品牌外销，首创电子点火，是捷克与东欧家喻户晓的代步车型",
+      "verified": "verified"
+    }
+  ]
+}

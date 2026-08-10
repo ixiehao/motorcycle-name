@@ -1,0 +1,242 @@
+{
+  "models": [
+    {
+      "id": "model:tvs:apache-rtr-160",
+      "brand": "TVS",
+      "names": {
+        "en": "Apache RTR 160",
+        "zh-CN": "Apache RTR 160 阿帕奇 街车",
+        "zh-TW": "Apache RTR 160 阿帕奇 街車",
+        "ja": "アパッチ RTR160"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2011–present",
+      "note": "TVS最成功的运动街车系列，159.7cc单缸，名字取自Racing Throttle Response，印度运动通勤标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tvs:apache-rtr-200",
+      "brand": "TVS",
+      "names": {
+        "en": "Apache RTR 200 4V",
+        "zh-CN": "Apache RTR 200 4V 阿帕奇 街车",
+        "zh-TW": "Apache RTR 200 4V 阿帕奇 街車",
+        "ja": "アパッチ RTR200 4V"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "Apache系列性能街车，197.75cc单缸油冷4气门，21马力，同级运动性能标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tvs:apache-rr-310",
+      "brand": "TVS",
+      "names": {
+        "en": "Apache RR 310",
+        "zh-CN": "Apache RR 310 阿帕奇 仿赛",
+        "zh-TW": "Apache RR 310 阿帕奇 仿賽",
+        "ja": "アパッチ RR310"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "TVS旗舰仿赛，312cc单缸水冷（与BMW G310RR同平台），印度首款国际级入门仿赛",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tvs:apache-rtr-310",
+      "brand": "TVS",
+      "names": {
+        "en": "Apache RTR 310",
+        "zh-CN": "Apache RTR 310 阿帕奇 街车",
+        "zh-TW": "Apache RTR 310 阿帕奇 街車",
+        "ja": "アパッチ RTR310"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "RTR街车旗舰，312.2cc单缸水冷35马力，TFT仪表，电子快排与巡航控制",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tvs:jupiter-110",
+      "brand": "TVS",
+      "names": {
+        "en": "Jupiter 110",
+        "zh-CN": "Jupiter 110 木星 家庭踏板",
+        "zh-TW": "Jupiter 110 木星 家庭踏板",
+        "ja": "ジュピター110"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "TVS最畅销的家庭踏板车，110cc单缸风冷，大空间大座桶，印度家庭通勤主力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tvs:jupiter-125",
+      "brand": "TVS",
+      "names": {
+        "en": "Jupiter 125",
+        "zh-CN": "Jupiter 125 木星 家庭踏板",
+        "zh-TW": "Jupiter 125 木星 家庭踏板",
+        "ja": "ジュピター125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "Jupiter系列的125cc升级款，124.8cc单缸，新增LED灯具与数字化仪表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tvs:ntorq-125",
+      "brand": "TVS",
+      "names": {
+        "en": "NTorq 125",
+        "zh-CN": "NTorq 125 运动踏板",
+        "zh-TW": "NTorq 125 運動踏板",
+        "ja": "エントルク125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "TVS运动踏板代表作，124.8cc单缸，智能互联仪表，年轻人通勤改装首选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tvs:raider-125",
+      "brand": "TVS",
+      "names": {
+        "en": "Raider 125",
+        "zh-CN": "Raider 125 掠夺者 运动通勤车",
+        "zh-TW": "Raider 125 掠奪者 運動通勤車",
+        "ja": "レイダー125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "主打年轻人的运动通勤车，124.8cc单缸，轻量化车身，运动化骑行三角",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tvs:ronin-225",
+      "brand": "TVS",
+      "names": {
+        "en": "Ronin 225",
+        "zh-CN": "Ronin 225 浪人 复古街车",
+        "zh-TW": "Ronin 225 浪人 復古街車",
+        "ja": "ローニン225"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "以浪人命名的现代复古街车，225.9cc单缸油冷，圆灯设计，多种骑姿可调",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tvs:radeon",
+      "brand": "TVS",
+      "names": {
+        "en": "Radeon",
+        "zh-CN": "Radeon 通勤车",
+        "zh-TW": "Radeon 通勤車",
+        "ja": "ラデオン"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "TVS入门通勤车，109.7cc单缸，经济实惠，主打乡村与城市代步市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tvs:scooty-pep-plus",
+      "brand": "TVS",
+      "names": {
+        "en": "Scooty Pep+",
+        "zh-CN": "Scooty Pep+ 女性踏板",
+        "zh-TW": "Scooty Pep+ 女性踏板",
+        "ja": "スクーティ ペップ+"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "印度最经典的女性通勤踏板，90cc单缸，轻巧车身，女性和学生用户首选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tvs:iqube",
+      "brand": "TVS",
+      "names": {
+        "en": "iQube",
+        "zh-CN": "iQube 电动踏板",
+        "zh-TW": "iQube 電動踏板",
+        "ja": "アイキューブ"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "TVS首款电动踏板车，2020年推出，锂电驱动，智能互联，印度电动两轮车代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tvs:xl-100",
+      "brand": "TVS",
+      "names": {
+        "en": "XL 100",
+        "zh-CN": "XL 100 轻便助力车",
+        "zh-TW": "XL 100 輕便助力車",
+        "ja": "XL100"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:underbone",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2005–present",
+      "note": "全球销量最高的轻便助力车（moped），99.7cc单缸，印度农村与低收入市场之王",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tvs:star-city-plus",
+      "brand": "TVS",
+      "names": {
+        "en": "Star City Plus",
+        "zh-CN": "Star City Plus 星城 通勤车",
+        "zh-TW": "Star City Plus 星城 通勤車",
+        "ja": "スターシティ プラス"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "TVS经典通勤车，109.7cc单缸，经济耐用，印度入门摩托车市场主力",
+      "verified": "verified"
+    }
+  ]
+}

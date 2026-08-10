@@ -1,0 +1,786 @@
+{
+  "models": [
+    {
+      "id": "model:aprilia:tuono-660-factory",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Tuono 660 Factory",
+        "zh-CN": "Tuono 660 Factory 中量级运动街车",
+        "zh-TW": "Tuono 660 Factory 中量級運動街車",
+        "ja": "トゥオーノ660ファクトリー"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "659cc并列双缸RS660同平台，95马力，半整流运动街车，Factory高规格",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:tuono-v4-factory",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Tuono V4 Factory",
+        "zh-CN": "Tuono V4 Factory 公升级运动街车",
+        "zh-TW": "Tuono V4 Factory 公升級運動街車",
+        "ja": "トゥオーノV4ファクトリー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "1099cc 65°V4，175马力，RSV4街车版，Ohlins智能悬挂，顶级性能街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:rs-660",
+      "brand": "Aprilia",
+      "names": {
+        "en": "RS 660",
+        "zh-CN": "RS 660 中量级仿赛",
+        "zh-TW": "RS 660 中量級仿賽",
+        "ja": "RS660"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "659cc并列双缸前倾270°，100马力，气动翼，电子系统全面，中量级新标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:rsv4-1100-factory",
+      "brand": "Aprilia",
+      "names": {
+        "en": "RSV4 1100 Factory",
+        "zh-CN": "RSV4 1100 Factory 旗舰仿赛",
+        "zh-TW": "RSV4 1100 Factory 旗艦仿賽",
+        "ja": "RSV4 1100ファクトリー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "1099cc 65°V4，217马力，MotoGP气动翼，Ohlins NPX前叉，WSBK技术下放",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:tuareg-660",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Tuareg 660",
+        "zh-CN": "Tuareg 660 中量级探险车",
+        "zh-TW": "Tuareg 660 中量級探險車",
+        "ja": "トゥアレグ660"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "659cc双缸RS660同平台，21/18辐条轮，达喀尔血统，硬派越野ADV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:dorsoduro-900",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Dorsoduro 900",
+        "zh-CN": "Dorsoduro 900 滑胎超级摩托（停产）",
+        "zh-TW": "Dorsoduro 900 滑胎超級摩托（停產）",
+        "ja": "ドルソドゥーロ900"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:supermoto",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2020",
+      "note": "896cc 90°V缸，Aprilia经典滑胎车，高把大转向角，已停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:shiver-900",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Shiver 900",
+        "zh-CN": "Shiver 900 街车（停产）",
+        "zh-TW": "Shiver 900 街車（停產）",
+        "ja": "シヴァー900"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2020",
+      "note": "896cc V缸，Shiver系列升级版，Dorsoduro同引擎街车版，已停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:sr-gt-125",
+      "brand": "Aprilia",
+      "names": {
+        "en": "SR GT 125 / SR GT 200",
+        "zh-CN": "SR GT 125/200 跨界运动踏板",
+        "zh-TW": "SR GT 125/200 跨界運動踏板",
+        "ja": "SR GT125/200"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "跨界ADV风格踏板，14寸大脚，174cc/125cc两款，i-get发动机，运动玩乐取向",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:rs-125",
+      "brand": "Aprilia",
+      "names": {
+        "en": "RS 125 / RS 250 SP",
+        "zh-CN": "RS 125/RS 250 SP 小排量仿赛",
+        "zh-TW": "RS 125/RS 250 SP 小排量仿賽",
+        "ja": "RS125/RS250SP"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "RS系列入门，RS125单缸/RS250 SP双缸，年轻车手入门赛道首选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:caponord-1200-rally",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Caponord 1200 Rally",
+        "zh-CN": "Caponord 1200 Rally 老款探险车（停产）",
+        "zh-TW": "Caponord 1200 Rally 老款探險車（停產）",
+        "ja": "カポノルド1200ラリー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2017",
+      "note": "1197cc V缸Dorsoduro同引擎，ADD半自动悬挂，Rally辐条轮版，已停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:rsv4-xtrenta",
+      "brand": "Aprilia",
+      "names": {
+        "en": "RSV4 XTrenta",
+        "zh-CN": "RSV4 XTrenta 限量赛道旗舰仿赛",
+        "zh-TW": "RSV4 XTrenta 限量賽道旗艦仿賽",
+        "ja": "RSV4 エックストレンタ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "1100cc V4 230马力，XTrenta全球限量100台，全碳纤维，MotoGP气动技术",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:tuareg-660-rally",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Tuareg 660 Rally",
+        "zh-CN": "Tuareg 660 Rally 达喀尔限量硬派探险",
+        "zh-TW": "Tuareg 660 Rally 達卡限量硬派探險",
+        "ja": "トゥアレグ660ラリー"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "Tuareg 660限量拉力版，24L油箱，越野强化，专属达喀尔涂装，限量发售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:rs-457",
+      "brand": "Aprilia",
+      "names": {
+        "en": "RS 457",
+        "zh-CN": "RS 457 入门仿赛",
+        "zh-TW": "RS 457 入門仿賽",
+        "ja": "RS457"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "457cc并列双缸，2024年全新入门仿赛，轻量化铝合金车架，A2驾照友好",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:tuono-660",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Tuono 660",
+        "zh-CN": "Tuono 660 中量级运动街车",
+        "zh-TW": "Tuono 660 中量級運動街車",
+        "ja": "トゥオーノ660"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "659cc并列双缸，RS660街车版，95马力，中量级运动街车新选择",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:sx-125",
+      "brand": "Aprilia",
+      "names": {
+        "en": "SX 125",
+        "zh-CN": "SX 125 滑胎超级摩托",
+        "zh-TW": "SX 125 滑胎超級摩托",
+        "ja": "SX125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:supermoto",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "125cc单缸滑胎车，2024年新一代，轻量化越野风格，A1驾照可骑",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:rx-125",
+      "brand": "Aprilia",
+      "names": {
+        "en": "RX 125",
+        "zh-CN": "RX 125 林道越野车",
+        "zh-TW": "RX 125 林道越野車",
+        "ja": "RX125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "125cc单缸林道车，2024年新一代，辐条轮越野风格，SX125的耐力版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:dorsoduro-750",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Dorsoduro 750",
+        "zh-CN": "Dorsoduro 750 滑胎超级摩托（停产）",
+        "zh-TW": "Dorsoduro 750 滑胎超級摩托（停產）",
+        "ja": "ドルソドゥーロ750"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:supermoto",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2013",
+      "note": "749cc V缸，Dorsoduro系列初代滑胎车，2013年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:mana-850",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Mana 850",
+        "zh-CN": "Mana 850 自动挡街车（停产）",
+        "zh-TW": "Mana 850 自動擋街車（停產）",
+        "ja": "マナ850"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2012",
+      "note": "839cc V缸，创新CVT无级自动变速箱街车，2012年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:dani",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Dani 50",
+        "zh-CN": "Dani 50 首款50cc摩托车",
+        "zh-TW": "Dani 50 首款50cc摩托車",
+        "ja": "ダニ50"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1972",
+      "note": "阿普利亚首款50cc摩托车，创始人之子Ivano Beggio接手公司后开发，阿普利亚摩托车之路的起点",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:colibri",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Colibrì",
+        "zh-CN": "Colibrì 轻便摩托车",
+        "zh-TW": "Colibrì 輕便摩托車",
+        "ja": "コリブリ"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1975",
+      "note": "阿普利亚首批量产轻便摩托车（moped）之一，与Daniela、Packi同为品牌初创期产品",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:scarabeo-50",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Scarabeo 50",
+        "zh-CN": "Scarabeo 50 越野摩托车",
+        "zh-TW": "Scarabeo 50 越野摩托車",
+        "ja": "スカラベオ50"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1970–1979",
+      "note": "1970年推出的越野摩托车（motocross），50/125cc两款，生产至1970年代末，阿普利亚越野赛车辉煌的开端",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:tl320",
+      "brand": "Aprilia",
+      "names": {
+        "en": "TL 320",
+        "zh-CN": "TL 320 障碍攀爬车",
+        "zh-TW": "TL 320 障礙攀爬車",
+        "ja": "TL320"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1981–1988",
+      "note": "1981年推出的障碍攀爬车（trials），320cc二冲程，为阿普利亚日后称霸世界障碍锦标赛打下基础",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:mx-50",
+      "brand": "Aprilia",
+      "names": {
+        "en": "MX 50",
+        "zh-CN": "MX 50 越野摩托车",
+        "zh-TW": "MX 50 越野摩托車",
+        "ja": "MX50"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1981–1992",
+      "note": "1980年代二冲程越野摩托车，MX系列50cc入门款，欧洲青少年越野入门经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:rx-50",
+      "brand": "Aprilia",
+      "names": {
+        "en": "RX 50",
+        "zh-CN": "RX 50 林道越野车",
+        "zh-TW": "RX 50 林道越野車",
+        "ja": "RX50"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–1993",
+      "note": "1980年代二冲程耐力越野车（enduro），RX系列入门排量，与MX越野版互为兄弟车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:af1-50",
+      "brand": "Aprilia",
+      "names": {
+        "en": "AF1 50",
+        "zh-CN": "AF1 50 小排量仿赛",
+        "zh-TW": "AF1 50 小排量仿賽",
+        "ja": "AF1 50"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1986–1993",
+      "note": "1986年推出的50cc二冲程小排量仿赛，AF1运动车系入门款，RS系列前身",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:af1-125",
+      "brand": "Aprilia",
+      "names": {
+        "en": "AF1 125",
+        "zh-CN": "AF1 125 二冲程仿赛",
+        "zh-TW": "AF1 125 二衝程仿賽",
+        "ja": "AF1 125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1986–1993",
+      "note": "1986年推出的125cc二冲程仿赛，搭载Rotax发动机，1987年Loris Reggiani驾驶AF1为阿普利亚夺得首个GP分站冠军",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:tuareg-600",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Tuareg 600",
+        "zh-CN": "Tuareg 600 达喀尔拉力越野车",
+        "zh-TW": "Tuareg 600 達卡拉力越野車",
+        "ja": "トゥアレグ600"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1986–1993",
+      "note": "1986年推出的大油箱拉力越野车，专为达喀尔等非洲拉力赛设计，Tuareg车系鼻祖",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:amico",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Amico",
+        "zh-CN": "Amico 全塑踏板车",
+        "zh-TW": "Amico 全塑踏板車",
+        "ja": "アミーコ"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–1997",
+      "note": "1990年推出的意大利首款全塑料外壳踏板车，大轮径设计，欧式大脚羊（大轮踏板）代表，后衍生Scarabeo踏板系列",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:pegaso-600",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Pegaso 600",
+        "zh-CN": "Pegaso 600 单缸耐力街车",
+        "zh-TW": "Pegaso 600 單缸耐力街車",
+        "ja": "ペガソ600"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–1995",
+      "note": "1990年推出的600cc单缸街车，由越野平台衍生，搭载Rotax发动机，Pegaso车系首款",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:rs-50",
+      "brand": "Aprilia",
+      "names": {
+        "en": "RS 50",
+        "zh-CN": "RS 50 二冲程小排量仿赛",
+        "zh-TW": "RS 50 二衝程小排量仿賽",
+        "ja": "RS50"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1992–2005",
+      "note": "50cc二冲程仿赛，RS家族最小排量，1990年代欧洲青少年入门赛道首选，后由RS4 50接替",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:rs-125-2t",
+      "brand": "Aprilia",
+      "names": {
+        "en": "RS 125 (two-stroke)",
+        "zh-CN": "RS 125 二冲程仿赛（老款）",
+        "zh-TW": "RS 125 二衝程仿賽（老款）",
+        "ja": "RS125（2ストローク）"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1995–2011",
+      "note": "1995年推出的125cc二冲程仿赛，搭载Rotax发动机，罗西等GP世界冠军战车的民用版，后由RS4 125接替",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:rs-250",
+      "brand": "Aprilia",
+      "names": {
+        "en": "RS 250",
+        "zh-CN": "RS 250 二冲程V缸仿赛",
+        "zh-TW": "RS 250 二衝程V缸仿賽",
+        "ja": "RS250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1995–2004",
+      "note": "1995年推出的250cc二冲程V型双缸仿赛，搭载铃木RGV250同源V缸发动机，约72马力，欧系二冲程绝唱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:moto-6.5",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Moto 6.5",
+        "zh-CN": "Moto 6.5 设计艺术街车",
+        "zh-TW": "Moto 6.5 設計藝術街車",
+        "ja": "モト6.5"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1995–2002",
+      "note": "1995年由设计师Philippe Starck操刀的650cc单缸艺术街车，曾展出纽约现代艺术博物馆，1997年停产、1999年复产至2002年",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:pegaso-650",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Pegaso 650",
+        "zh-CN": "Pegaso 650 单缸探险车",
+        "zh-TW": "Pegaso 650 單缸探險車",
+        "ja": "ペガソ650"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2009",
+      "note": "650cc单缸（与宝马F650同源Rotax发动机），1997年改款为长途ADV风格，2006年再街车化，Pegaso车系收官",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:rsv-mille",
+      "brand": "Aprilia",
+      "names": {
+        "en": "RSV Mille",
+        "zh-CN": "RSV Mille 超级跑车",
+        "zh-TW": "RSV Mille 超級跑車",
+        "ja": "RSVミッレ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1998–2003",
+      "note": "阿普利亚首款V型双缸超级跑车，998cc Rotax发动机，1999年起征战WSBK，RSV4的前身",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:sl1000-falco",
+      "brand": "Aprilia",
+      "names": {
+        "en": "SL 1000 Falco",
+        "zh-CN": "SL 1000 Falco 运动旅行车",
+        "zh-TW": "SL 1000 Falco 運動旅行車",
+        "ja": "SL1000ファルコ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1998–2004",
+      "note": "1998年推出的1000cc V型双缸运动旅行车，与RSV Mille同平台Rotax发动机，偏运动取向",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:rst1000-futura",
+      "brand": "Aprilia",
+      "names": {
+        "en": "RST 1000 Futura",
+        "zh-CN": "RST 1000 Futura 运动旅行车",
+        "zh-TW": "RST 1000 Futura 運動旅行車",
+        "ja": "RST1000フューチュラ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2000–2004",
+      "note": "2000年推出的998cc V型双缸运动旅行车，半整流罩设计，Rotax发动机，长途舒适取向",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:etv1000-caponord",
+      "brand": "Aprilia",
+      "names": {
+        "en": "ETV 1000 Caponord",
+        "zh-CN": "ETV 1000 Caponord 探险旅行车",
+        "zh-TW": "ETV 1000 Caponord 探險旅行車",
+        "ja": "ETV1000カポノルド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2001–2007",
+      "note": "2001年推出的1000cc V型双缸探险旅行车，Rotax发动机，面向长途ADV市场，Caponord车系鼻祖",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:tuono-1000r",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Tuono 1000R",
+        "zh-CN": "Tuono 1000R 公升级街车",
+        "zh-TW": "Tuono 1000R 公升級街車",
+        "ja": "トゥオーノ1000R"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2010",
+      "note": "2003年推出的公升级街车，RSV Mille的街车版，高把加小号整流罩，被多家媒体评为年度最佳街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:rsv1000r",
+      "brand": "Aprilia",
+      "names": {
+        "en": "RSV 1000R",
+        "zh-CN": "RSV 1000R 超级跑车",
+        "zh-TW": "RSV 1000R 超級跑車",
+        "ja": "RSV1000R"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004–2008",
+      "note": "RSV Mille继任者，998cc V型双缸，含Factory高规格版，RSV4推出前的阿普利亚旗舰仿赛",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:sxv-450-550",
+      "brand": "Aprilia",
+      "names": {
+        "en": "SXV 450 / SXV 550",
+        "zh-CN": "SXV 450/550 滑胎超级摩托",
+        "zh-TW": "SXV 450/550 滑胎超級摩托",
+        "ja": "SXV450/550"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:supermoto",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2009",
+      "note": "2006年推出的V型双缸450/550cc滑胎车，曾横扫FIM Supermoto世锦赛S1/S2级别冠军，滑胎界传奇",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:rxv-450-550",
+      "brand": "Aprilia",
+      "names": {
+        "en": "RXV 450 / RXV 550",
+        "zh-CN": "RXV 450/550 越野耐力车",
+        "zh-TW": "RXV 450/550 越野耐力車",
+        "ja": "RXV450/550"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2009",
+      "note": "2006年推出的V型双缸450/550cc越野耐力车，与SXV同平台，SXV的耐力越野版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:tuono-457",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Tuono 457",
+        "zh-CN": "Tuono 457 入门运动街车",
+        "zh-TW": "Tuono 457 入門運動街車",
+        "ja": "トゥオーノ457"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025年全新入门街车，457cc并列双缸48马力，铝合金车架干重157kg，RS 457同平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:rs-457-gp-replica",
+      "brand": "Aprilia",
+      "names": {
+        "en": "RS 457 GP Replica",
+        "zh-CN": "RS 457 GP Replica MotoGP涂装特别版仿赛",
+        "zh-TW": "RS 457 GP Replica MotoGP塗裝特別版仿賽",
+        "ja": "RS457 GPレプリカ"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026年RS 457特别版，457cc双缸，MotoGP厂队赛车涂装贴花，入门仿赛新配色",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:rsv4-factory-2026",
+      "brand": "Aprilia",
+      "names": {
+        "en": "RSV4 Factory (2026)",
+        "zh-CN": "RSV4 Factory 2026款 旗舰仿赛",
+        "zh-TW": "RSV4 Factory 2026款 旗艦仿賽",
+        "ja": "RSV4ファクトリー（2026）"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026厂车版重大更新，1100cc V4，升级空气动力学与电控，MotoGP技术下放",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aprilia:tuono-v4-factory-2026",
+      "brand": "Aprilia",
+      "names": {
+        "en": "Tuono V4 Factory (2026)",
+        "zh-CN": "Tuono V4 Factory 2026款 公升级运动街车",
+        "zh-TW": "Tuono V4 Factory 2026款 公升級運動街車",
+        "ja": "トゥオーノV4ファクトリー（2026）"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026厂车版重大更新，1099cc V4，RSV4同源动力，Ohlins智能悬挂，旗舰性能街车",
+      "verified": "verified"
+    }
+  ]
+}

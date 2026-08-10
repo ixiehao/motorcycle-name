@@ -1,0 +1,242 @@
+{
+  "models": [
+    {
+      "id": "model:benda:jinjila-300",
+      "brand": "Benda",
+      "names": {
+        "en": "Jinjila 300",
+        "zh-CN": "金吉拉300 巡航车",
+        "zh-TW": "金吉拉300 巡航車",
+        "ja": "ジンジーラ300"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "奔达金吉拉300，V型双缸300cc巡航车，2020年发布，带动了国产小排量复古巡航的热潮",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benda:huishi-300",
+      "brand": "Benda",
+      "names": {
+        "en": "Rock 300",
+        "zh-CN": "灰石300 巡航车",
+        "zh-TW": "灰石300 巡航車",
+        "ja": "ロック300"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "奔达灰石300（Rock 300），V型双缸美式巡航车，在金吉拉300基础上推出，加长轴距更显大气",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benda:lfc700",
+      "brand": "Benda",
+      "names": {
+        "en": "LFC700",
+        "zh-CN": "燎LFC700 巡航车",
+        "zh-TW": "燎LFC700 巡航車",
+        "ja": "LFC700"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "奔达燎LFC700，680cc直列四缸巡航车，国产四缸巡航的开创车型之一，造型极具未来感",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benda:tangdao-700",
+      "brand": "Benda",
+      "names": {
+        "en": "LFS-700 Tangdao",
+        "zh-CN": "唐刀LFS-700 街车",
+        "zh-TW": "唐刀LFS-700 街車",
+        "ja": "タントウLFS-700"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "奔达唐刀LFS-700，680cc直列四缸街车，以古代唐刀为设计灵感，机甲风格造型，国产四缸街车代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benda:napoleon-450",
+      "brand": "Benda",
+      "names": {
+        "en": "Napoleon 450",
+        "zh-CN": "拿破仑450 Bobber",
+        "zh-TW": "拿破崙450 Bobber",
+        "ja": "ナポレオン450"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:bobber",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "奔达拿破仑450，450cc V型双缸Bobber风格巡航，长轴距、短尾单座，国产Bobber人气车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benda:rock-250",
+      "brand": "Benda",
+      "names": {
+        "en": "Rock 250",
+        "zh-CN": "灰石250 Bobber",
+        "zh-TW": "灰石250 Bobber",
+        "ja": "ロック250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:bobber",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "奔达灰石250，入门级Bobber巡航，亮黑低趴宽胎造型，被称为入门Bobber颜值天花板",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benda:black-flag-250",
+      "brand": "Benda",
+      "names": {
+        "en": "Black Flag 250",
+        "zh-CN": "黑旗250 Bobber",
+        "zh-TW": "黑旗250 Bobber",
+        "ja": "ブラックフラッグ250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:bobber",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "奔达黑旗250，外露V型双缸发动机的入门美式Bobber，奔达巡航家族的新成员",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benda:jinjila-250",
+      "brand": "Benda",
+      "names": {
+        "en": "Jinjila 250",
+        "zh-CN": "金吉拉250 巡航车",
+        "zh-TW": "金吉拉250 巡航車",
+        "ja": "ジンジーラ250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "奔达2025款金吉拉250，249cc V型双缸水冷，约25.8匹马力，标配ABS+TCS与滑动离合，售价15999元起，入门V缸巡航热门之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benda:jinjila-500",
+      "brand": "Benda",
+      "names": {
+        "en": "Jinjila 500",
+        "zh-CN": "金吉拉500 复古巡航车",
+        "zh-TW": "金吉拉500 復古巡航車",
+        "ja": "ジンジーラ500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "奔达2025款金吉拉500复古巡航，476cc V型双缸水冷，最大功率39kW约53匹，标配智能车联网，售价22980元起",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benda:jinjila-250-cvt",
+      "brand": "Benda",
+      "names": {
+        "en": "Jinjila 250 CVT",
+        "zh-CN": "金吉拉250 CVT自动挡巡航车",
+        "zh-TW": "金吉拉250 CVT 自動擋巡航車",
+        "ja": "ジンジーラ250 CVT"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "奔达2026款金吉拉250 CVT，249cc V型双缸配自研CVT无级变速，自动挡V缸巡航门槛进一步拉低，售价17980元",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benda:rock-707",
+      "brand": "Benda",
+      "names": {
+        "en": "Rock 707",
+        "zh-CN": "灰石707 巡航车",
+        "zh-TW": "灰石707 巡航車",
+        "ja": "ロック707"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "奔达2025款灰石707，691.6cc V型双缸水冷，最大功率54kW约73.5匹，皮带传动，高配提供电子离合与定速巡航，售价2.59万元起",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benda:rock-250-cvt",
+      "brand": "Benda",
+      "names": {
+        "en": "Rock 250 CVT",
+        "zh-CN": "灰石250 CVT自动挡巡航车",
+        "zh-TW": "灰石250 CVT 自動擋巡航車",
+        "ja": "ロック250 CVT"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:bobber",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "奔达灰石250 CVT，2025中国摩博会上市，249cc V型双缸匹配CVT无级变速，取消离合手柄，售价18980元",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benda:black-flag-600",
+      "brand": "Benda",
+      "names": {
+        "en": "Black Flag 600",
+        "zh-CN": "黑旗600 巡航车",
+        "zh-TW": "黑旗600 巡航車",
+        "ja": "ブラックフラッグ600"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "奔达2026款黑旗600，598.5cc V型四缸水冷巡航，Pro版32800元、Ultra EC版36800元，标配电子离合，Ultra版带空气悬挂",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benda:rock-250-2026",
+      "brand": "Benda",
+      "names": {
+        "en": "Rock 250 (2026)",
+        "zh-CN": "灰石250 Bobber（2026款）",
+        "zh-TW": "灰石250 Bobber（2026款）",
+        "ja": "ロック250（2026年型）"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:bobber",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "奔达新一代2026款灰石250，换装全新发动机并多项升级，售价维持16980元，入门Bobber市场现象级车型",
+      "verified": "verified"
+    }
+  ]
+}

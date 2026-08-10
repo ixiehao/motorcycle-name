@@ -1,0 +1,55 @@
+{
+  "models": [
+    {
+      "id": "model:moto-morini:x-cape-650",
+      "brand": "Moto Morini",
+      "names": {
+        "en": "X-Cape 650",
+        "zh-CN": "X-Cape 650 探险车",
+        "zh-TW": "X-Cape 650 探險車",
+        "ja": "Xケープ650"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "649cc并列双缸探险车，复兴后的Moto Morini主力ADV，兼顾公路与越野",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-morini:seiemmezzo",
+      "brand": "Moto Morini",
+      "names": {
+        "en": "Seiemmezzo 6½",
+        "zh-CN": "Seiemmezzo 6½ 街车",
+        "zh-TW": "Seiemmezzo 6½ 街車",
+        "ja": "セイエメッツォ6.5"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "649cc并列双缸复古街车，提供STR街车版与SCR攀爬版，意大利设计复兴之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-morini:milano-1200",
+      "brand": "Moto Morini",
+      "names": {
+        "en": "Milano 1200",
+        "zh-CN": "Milano 1200 意式街车（停产）",
+        "zh-TW": "Milano 1200 意式街車（停產）",
+        "ja": "ミラノ1200"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2018",
+      "note": "1187cc V型双缸街车，意大利工程师Franco Lambertini设计，体现Moto Morini V-twin传统",
+      "verified": "verified"
+    }
+  ]
+}

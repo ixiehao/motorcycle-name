@@ -1,0 +1,72 @@
+{
+  "models": [
+    {
+      "id": "model:zero:srf",
+      "brand": "Zero",
+      "names": {
+        "en": "SR/F",
+        "zh-CN": "SR/F 电动街车",
+        "zh-TW": "SR/F 電動街車",
+        "ja": "SR/F"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2019–present",
+      "note": "Zero旗舰电动街车，110马力，续航约320公里，支持CCS快充，是高端电动摩托标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zero:srs",
+      "brand": "Zero",
+      "names": {
+        "en": "SR/S",
+        "zh-CN": "SR/S 电动跑车",
+        "zh-TW": "SR/S 電動跑車",
+        "ja": "SR/S"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "SR/F的整流罩跑车版，110马力，全车空气动力学设计，续航约320公里",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zero:fxe",
+      "brand": "Zero",
+      "names": {
+        "en": "FXE",
+        "zh-CN": "FXE 电动街车",
+        "zh-TW": "FXE 電動街車",
+        "ja": "FXE"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "轻量化纯电街车，峰值约27千瓦，极简设计，主打都市通勤的入门级Zero车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zero:dsr",
+      "brand": "Zero",
+      "names": {
+        "en": "DSR",
+        "zh-CN": "DSR 电动越野两用车（停产）",
+        "zh-TW": "DSR 電動越野兩用車（停產）",
+        "ja": "DSR"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2017–2022",
+      "note": "双用途电动越野街车，峰值约44马力，后被DSR/X等新平台车型取代",
+      "verified": "verified"
+    }
+  ]
+}

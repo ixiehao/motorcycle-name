@@ -1,0 +1,191 @@
+{
+  "models": [
+    {
+      "id": "model:sundiro-honda:cbf190r",
+      "brand": "Sundiro-Honda",
+      "names": {
+        "en": "CBF190R",
+        "zh-CN": "CBF190R 街车",
+        "zh-TW": "CBF190R 街車",
+        "ja": "CBF190R"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "新大洲本田CBF190R，184cc单缸运动街车，与五羊本田CB190R同平台，曾喊出\"上打250、下压150\"",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sundiro-honda:cbf190x",
+      "brand": "Sundiro-Honda",
+      "names": {
+        "en": "CBF190X",
+        "zh-CN": "战鹰CBF190X 探险车",
+        "zh-TW": "戰鷹CBF190X 探險車",
+        "ja": "CBF190X"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "新大洲本田战鹰CBF190X，184cc单缸休旅探险车，鸟嘴造型，入门摩旅热门车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sundiro-honda:cbf190tr",
+      "brand": "Sundiro-Honda",
+      "names": {
+        "en": "CBF190TR",
+        "zh-CN": "CBF190TR 复古车",
+        "zh-TW": "CBF190TR 復古車",
+        "ja": "CBF190TR"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "新大洲本田CBF190TR，184cc单缸复古车型，圆灯攀爬风格，与鸷道CB190SS相呼应的复古双子星",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sundiro-honda:rx125",
+      "brand": "Sundiro-Honda",
+      "names": {
+        "en": "RX125",
+        "zh-CN": "裂行RX125 踏板车",
+        "zh-TW": "裂行RX125 踏板車",
+        "ja": "RX125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "新大洲本田裂行RX125，125cc运动风格踏板车，外观锐利动感，当红合资踏板之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sundiro-honda:ns125rx",
+      "brand": "Sundiro-Honda",
+      "names": {
+        "en": "NS125RX",
+        "zh-CN": "NS125RX 踏板车",
+        "zh-TW": "NS125RX 踏板車",
+        "ja": "NS125RX"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "新大洲本田NS125RX，承袭裂行运动基因，仿赛前脸设计，搭载本田ESP发动机",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sundiro-honda:ns125la",
+      "brand": "Sundiro-Honda",
+      "names": {
+        "en": "NS125LA",
+        "zh-CN": "NS125LA 复古踏板",
+        "zh-TW": "NS125LA 復古踏板",
+        "ja": "NS125LA"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "新大洲本田NS125LA，125cc复古风格踏板车，圆润造型高颜值，国产合资复古踏板人气车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sundiro-honda:wave110",
+      "brand": "Sundiro-Honda",
+      "names": {
+        "en": "Wave 110",
+        "zh-CN": "Wave110 弯梁车",
+        "zh-TW": "Wave110 彎梁車",
+        "ja": "ウェーブ110"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:underbone",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "新大洲本田Wave110弯梁车，本田经典弯梁平台，省油耐用，城乡通勤利器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sundiro-honda:ns150gx",
+      "brand": "Sundiro-Honda",
+      "names": {
+        "en": "NS150GX",
+        "zh-CN": "NS150GX 跨界踏板",
+        "zh-TW": "NS150GX 跨界踏板",
+        "ja": "NS150GX"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "新大洲本田首款150cc水冷踏板，2025年3月上市15980元起，ADV跨界风格，2026款降价升级至15280元起",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sundiro-honda:cbf190tr-2025",
+      "brand": "Sundiro-Honda",
+      "names": {
+        "en": "CBF190TR (2025)",
+        "zh-CN": "CBF190TR 复古车（2025款）",
+        "zh-TW": "CBF190TR 復古車（2025款）",
+        "ja": "CBF190TR（2025年型）"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "新大洲本田2025款CBF190TR，指导价降至12980元，补齐双通道ABS与滑动离合，配置全面升级",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sundiro-honda:ns125la-2025",
+      "brand": "Sundiro-Honda",
+      "names": {
+        "en": "NS125LA (2025)",
+        "zh-CN": "NS125LA 复古踏板（2025款）",
+        "zh-TW": "NS125LA 復古踏板（2025款）",
+        "ja": "NS125LA（2025年型）"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "新大洲本田2025款NS125LA复古踏板，增配降价售价10980元起，维持圆润复古造型与高颜值卖点",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sundiro-honda:cbf150-longtaizi",
+      "brand": "Sundiro-Honda",
+      "names": {
+        "en": "CBF150 Longtaizi",
+        "zh-CN": "CBF150 龙太子 复古太子车",
+        "zh-TW": "CBF150 龍太子 復古太子車",
+        "ja": "CBF150ロンタイズ"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "新大洲本田25周年新品，型号SDH150-37，2026年8月6日上市，150cc复古太子巡航车，圆灯水滴油箱造型",
+      "verified": "verified"
+    }
+  ]
+}

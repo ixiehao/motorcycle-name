@@ -1,0 +1,174 @@
+{
+  "models": [
+    {
+      "id": "model:zxmoto:820rr",
+      "brand": "ZXMOTO",
+      "names": {
+        "en": "820RR",
+        "zh-CN": "820RR 仿赛",
+        "zh-TW": "820RR 仿賽",
+        "ja": "820RR"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "张雪机车首款量产仿赛，820cc三缸水冷，轻量化设计，2026年3月正式上市，被誉为国产最强三缸仿赛",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zxmoto:820rr-r",
+      "brand": "ZXMOTO",
+      "names": {
+        "en": "820RR-R",
+        "zh-CN": "820RR-R 高性能仿赛",
+        "zh-TW": "820RR-R 高性能仿賽",
+        "ja": "820RR-R"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "820RR的高配版仿赛，赛道化配置升级，与820R街车同时发布，定价4万级别",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zxmoto:820rr-rs",
+      "brand": "ZXMOTO",
+      "names": {
+        "en": "820RR-RS",
+        "zh-CN": "820RR-RS 赛事版",
+        "zh-TW": "820RR-RS 賽事版",
+        "ja": "820RR-RS"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "820RR赛事版本，曾代表张雪机车征战WSBK并夺冠，整车国产化率高达87%，是国产赛事仿赛的标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zxmoto:820r",
+      "brand": "ZXMOTO",
+      "names": {
+        "en": "820R",
+        "zh-CN": "820R 运动街车",
+        "zh-TW": "820R 運動街車",
+        "ja": "820R"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "张雪机车820平台运动街车，与820RR-R同平台，整备质量仅188kg，轻量化表现突出",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zxmoto:820x",
+      "brand": "ZXMOTO",
+      "names": {
+        "en": "820X",
+        "zh-CN": "820X 探险车",
+        "zh-TW": "820X 探險車",
+        "ja": "820X"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "张雪机车820平台第三款市售车型，中量级探险车，兼顾公路与非铺装路面骑行",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zxmoto:500f",
+      "brand": "ZXMOTO",
+      "names": {
+        "en": "500F",
+        "zh-CN": "500F 四缸复古车",
+        "zh-TW": "500F 四缸復古車",
+        "ja": "500F"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "张雪机车500cc直列四缸复古街车，填补品牌在四缸复古细分市场的车型空白",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zxmoto:500rr",
+      "brand": "ZXMOTO",
+      "names": {
+        "en": "500RR 2026",
+        "zh-CN": "500RR 四缸仿赛（2026款）",
+        "zh-TW": "500RR 四缸仿賽（2026款）",
+        "ja": "500RR 2026"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "张雪机车470cc直列四缸仿赛，2026款双摇臂版29980元、单摇臂版33680元，标配弯道ABS等电控，是国产四缸仿赛销量冠军车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zxmoto:mx250",
+      "brand": "ZXMOTO",
+      "names": {
+        "en": "MX250",
+        "zh-CN": "MX250 场地越野车",
+        "zh-TW": "MX250 場地越野車",
+        "ja": "MX250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "张雪机车首款场地越野摩托，2026年4月30日发布，干重仅102kg，最大功率30kW，KYB全可调减震，纯场地竞技车型不可上牌",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zxmoto:mx450",
+      "brand": "ZXMOTO",
+      "names": {
+        "en": "MX450",
+        "zh-CN": "MX450 场地越野车",
+        "zh-TW": "MX450 場地越野車",
+        "ja": "MX450"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "张雪机车450cc水冷场地越野车，2026年4月与MX250同期上市，为可上牌版本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zxmoto:450rally",
+      "brand": "ZXMOTO",
+      "names": {
+        "en": "450Rally",
+        "zh-CN": "450Rally 拉力车",
+        "zh-TW": "450Rally 拉力車",
+        "ja": "450Rally"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "张雪机车2026年7月上市的450cc硬派拉力车，用于试水拉力市场，为后续ADV车型布局铺路",
+      "verified": "verified"
+    }
+  ]
+}

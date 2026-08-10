@@ -1,0 +1,55 @@
+{
+  "models": [
+    {
+      "id": "model:ccm:spitfire",
+      "brand": "CCM",
+      "names": {
+        "en": "Spitfire Scrambler",
+        "zh-CN": "Spitfire Scrambler 攀爬车",
+        "zh-TW": "Spitfire Scrambler 攀爬車",
+        "ja": "スピットファイア・スクランブラー"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "600cc单缸轻量化攀爬车，英国博尔顿手工制造，干重仅约150公斤的复古越野风格车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ccm:gp450",
+      "brand": "CCM",
+      "names": {
+        "en": "GP450",
+        "zh-CN": "GP450 耐力越野车（停产）",
+        "zh-TW": "GP450 耐力越野車（停產）",
+        "ja": "GP450"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2020",
+      "note": "449cc单缸耐力越野车，致敬达喀尔拉力赛，轻量化钢管车架的竞技取向车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ccm:ft35",
+      "brand": "CCM",
+      "names": {
+        "en": "FT35",
+        "zh-CN": "FT35 场地越野赛车",
+        "zh-TW": "FT35 場地越野賽車",
+        "ja": "FT35"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "348cc单缸平地赛车(flat track)，CCM量产版直线场地赛车，提供Street Moto公路版本",
+      "verified": "verified"
+    }
+  ]
+}

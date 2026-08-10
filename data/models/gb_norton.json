@@ -1,0 +1,446 @@
+{
+  "models": [
+    {
+      "id": "model:norton:energette",
+      "brand": "Norton",
+      "names": {
+        "en": "Energette",
+        "zh-CN": "Energette 首款摩托 小型单缸",
+        "zh-TW": "Energette 首款摩托 小型單缸",
+        "ja": "エネルジェット"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1902–1906",
+      "note": "Norton于1902年推出的首款摩托车，搭载小型Clement发动机，被视为诺顿品牌的开端",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:big-four",
+      "brand": "Norton",
+      "names": {
+        "en": "Big Four",
+        "zh-CN": "Big Four 侧阀单缸街车",
+        "zh-TW": "Big Four 側閥單缸街車",
+        "ja": "ビッグフォー"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1907–1954",
+      "note": "633cc侧阀单缸，得名于4马力标称，生产近半个世纪，是英国著名的边三轮重型单缸，二战中大量服役",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:model-16h",
+      "brand": "Norton",
+      "names": {
+        "en": "Model 16H",
+        "zh-CN": "Model 16H 侧阀单缸街车",
+        "zh-TW": "Model 16H 側閥單缸街車",
+        "ja": "モデル16H"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1921–1954",
+      "note": "490cc侧阀单缸，二战英军主力军用摩托车WD16H的原型，战争期间生产逾十万辆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:model-18",
+      "brand": "Norton",
+      "names": {
+        "en": "Model 18",
+        "zh-CN": "Model 18 顶置气门单缸街车",
+        "zh-TW": "Model 18 頂置氣門單缸街車",
+        "ja": "モデル18"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1922–1954",
+      "note": "490cc OHV顶置气门单缸，Norton首款顶置气门车型，1924年赢得曼岛TT高级组冠军",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:cs1",
+      "brand": "Norton",
+      "names": {
+        "en": "CS1",
+        "zh-CN": "CS1 顶置凸轮轴单缸赛车",
+        "zh-TW": "CS1 頂置凸輪軸單缸賽車",
+        "ja": "CS1"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1928–1939",
+      "note": "490cc OHC顶置凸轮轴单缸，CS即Camshaft之意，Norton赛车血统的源头",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:es2",
+      "brand": "Norton",
+      "names": {
+        "en": "ES2",
+        "zh-CN": "ES2 顶置气门单缸街车",
+        "zh-TW": "ES2 頂置氣門單缸街車",
+        "ja": "ES2"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1928–1964",
+      "note": "490cc OHV单缸，Norton生命周期最长的单缸车型之一，战后延续生产至1960年代中期",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:international-model-30",
+      "brand": "Norton",
+      "names": {
+        "en": "International Model 30",
+        "zh-CN": "International Model 30 国际赛车 500cc",
+        "zh-TW": "International Model 30 國際賽車 500cc",
+        "ja": "インターナショナル モデル30"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1932–1939",
+      "note": "490cc OHC单缸赛车，曼岛TT常胜车型，1931至1939年间Norton九次高级TT中七次夺冠的主力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:international-model-40",
+      "brand": "Norton",
+      "names": {
+        "en": "International Model 40",
+        "zh-CN": "International Model 40 国际赛车 350cc",
+        "zh-TW": "International Model 40 國際賽車 350cc",
+        "ja": "インターナショナル モデル40"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1932–1939",
+      "note": "348cc OHC单缸赛车，Model 30的350cc版本，同样征战曼岛TT",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:model-50",
+      "brand": "Norton",
+      "names": {
+        "en": "Model 50",
+        "zh-CN": "Model 50 顶置气门单缸",
+        "zh-TW": "Model 50 頂置氣門單缸",
+        "ja": "モデル50"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1933–1939",
+      "note": "348cc OHV单缸轻型街车，战后曾以新款继续生产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:manx-500",
+      "brand": "Norton",
+      "names": {
+        "en": "Manx 500",
+        "zh-CN": "Manx 500 曼岛 单缸赛车",
+        "zh-TW": "Manx 500 曼島 單缸賽車",
+        "ja": "マンクス500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1936–1963",
+      "note": "传奇单缸赛车，498cc伞齿驱动双顶置凸轮轴，配著名的Featherbed摇篮车架，私属赛车手的首选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:dominator-88",
+      "brand": "Norton",
+      "names": {
+        "en": "Dominator 88",
+        "zh-CN": "Dominator 88 并列双缸街车",
+        "zh-TW": "Dominator 88 並列雙缸街車",
+        "ja": "ドミネーター88"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1952–1966",
+      "note": "497cc并列双缸，Featherbed车架版本，Norton双缸时代的开创者，源自1949年的Model 7 Dominator",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:dominator-99",
+      "brand": "Norton",
+      "names": {
+        "en": "Dominator 99",
+        "zh-CN": "Dominator 99 并列双缸街车",
+        "zh-TW": "Dominator 99 並列雙缸街車",
+        "ja": "ドミネーター99"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1956–1962",
+      "note": "596cc并列双缸，Dominator系列的600cc版本，1955年9月推出",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:dominator-650ss",
+      "brand": "Norton",
+      "names": {
+        "en": "Dominator 650SS",
+        "zh-CN": "Dominator 650SS 运动并列双缸",
+        "zh-TW": "Dominator 650SS 運動並列雙缸",
+        "ja": "ドミネーター650SS"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1961–1968",
+      "note": "646cc并列双缸运动版，双化油器高压缩设定，咖啡馆赛车文化的经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:atlas",
+      "brand": "Norton",
+      "names": {
+        "en": "Atlas 750",
+        "zh-CN": "Atlas 750 并列双缸街车",
+        "zh-TW": "Atlas 750 並列雙缸街車",
+        "ja": "アトラス750"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1962–1968",
+      "note": "745cc并列双缸，Norton立缸双缸中排量最大的车型，以高速时振动剧烈著称",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:p11",
+      "brand": "Norton",
+      "names": {
+        "en": "P11",
+        "zh-CN": "P11 沙漠赛车 攀爬越野",
+        "zh-TW": "P11 沙漠賽車 攀爬越野",
+        "ja": "P11"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1967–1969",
+      "note": "Atlas 750发动机装入越野车架的出口型沙漠赛车，在北美大受欢迎",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:commando-750",
+      "brand": "Norton",
+      "names": {
+        "en": "Commando 750",
+        "zh-CN": "Commando 750 并列双缸街车",
+        "zh-TW": "Commando 750 並列雙缸街車",
+        "ja": "コマンド750"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1973",
+      "note": "745cc并列双缸，诺顿防振橡胶Isolastic悬挂系统，英国摩托黄金时代的代表作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:commando-850",
+      "brand": "Norton",
+      "names": {
+        "en": "Commando 850",
+        "zh-CN": "Commando 850 并列双缸街车",
+        "zh-TW": "Commando 850 並列雙缸街車",
+        "ja": "コマンド850"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1973–1977",
+      "note": "828cc并列双缸，Commando系列最终章，1975年起配备电启动，英国最后一批经典双缸",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:commando-roadster",
+      "brand": "Norton",
+      "names": {
+        "en": "Commando Roadster",
+        "zh-CN": "Commando Roadster 标准街车版",
+        "zh-TW": "Commando Roadster 標準街車版",
+        "ja": "コマンド ロードスター"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1970–1975",
+      "note": "Commando标准公路版，主打北美市场，750cc与850cc排量均有",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:commando-fastback",
+      "brand": "Norton",
+      "names": {
+        "en": "Commando Fastback",
+        "zh-CN": "Commando Fastback 溜背造型街车",
+        "zh-TW": "Commando Fastback 溜背造型街車",
+        "ja": "コマンド ファストバック"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1969–1973",
+      "note": "早期Commando的溜背尾造型版本，双座设计，造型优雅",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:commando-hi-rider",
+      "brand": "Norton",
+      "names": {
+        "en": "Commando Hi-Rider",
+        "zh-CN": "Commando Hi-Rider 高把巡航版",
+        "zh-TW": "Commando Hi-Rider 高把巡航版",
+        "ja": "コマンド ハイライダー"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1971–1975",
+      "note": "高车把运动造型版本，面向北美市场，风格更张扬",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:commando-interstate",
+      "brand": "Norton",
+      "names": {
+        "en": "Commando Interstate",
+        "zh-CN": "Commando Interstate 旅行版",
+        "zh-TW": "Commando Interstate 旅行版",
+        "ja": "コマンド インターステート"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1972–1975",
+      "note": "大油箱长途旅行版，1975年推出带电启动的Mark 3",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:interpol",
+      "brand": "Norton",
+      "names": {
+        "en": "Interpol",
+        "zh-CN": "Interpol 警用摩托",
+        "zh-TW": "Interpol 警用摩托",
+        "ja": "インターポール"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1970–1976",
+      "note": "Commando平台的警用版，带全整流罩，英国及多国警方使用",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:interpol-2",
+      "brand": "Norton",
+      "names": {
+        "en": "Interpol 2",
+        "zh-CN": "Interpol 2 转子发动机警用摩托",
+        "zh-TW": "Interpol 2 轉子發動機警用摩托",
+        "ja": "インターポール2"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–1988",
+      "note": "588cc汪克尔转子发动机，Norton是唯一量产转子摩托车的英国厂商，供警方与RAC使用",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:commander",
+      "brand": "Norton",
+      "names": {
+        "en": "Commander",
+        "zh-CN": "Commander 转子发动机旅行摩托",
+        "zh-TW": "Commander 轉子發動機旅行摩托",
+        "ja": "コマンダー"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1988–1992",
+      "note": "水冷转子发动机运动旅行车，Norton转子车型的旗舰",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:f1-sport",
+      "brand": "Norton",
+      "names": {
+        "en": "F1 Sport",
+        "zh-CN": "F1 Sport 转子发动机跑车",
+        "zh-TW": "F1 Sport 轉子發動機跑車",
+        "ja": "F1スポーツ"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1992–1994",
+      "note": "转子发动机仿赛，源自RCW588厂车，赛道战功赫赫",
+      "verified": "verified"
+    },
+    {
+      "id": "model:norton:commando-961",
+      "brand": "Norton",
+      "names": {
+        "en": "Commando 961",
+        "zh-CN": "Commando 961 复古并列双缸街车",
+        "zh-TW": "Commando 961 復古並列雙缸街車",
+        "ja": "コマンド961"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "2010年复兴的961cc并列双缸复古街车，致敬经典Commando，现由印度TVS集团旗下生产",
+      "verified": "verified"
+    }
+  ]
+}

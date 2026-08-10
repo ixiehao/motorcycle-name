@@ -1,0 +1,106 @@
+{
+  "models": [
+    {
+      "id": "model:lk:318-lk300t",
+      "brand": "LK",
+      "names": {
+        "en": "318 LK300T",
+        "zh-CN": "318 LK300T 大踏板",
+        "zh-TW": "318 LK300T 大踏板",
+        "ja": "318 LK300T"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "力刻318 LK300T，300cc大踏板，力刻进军整车市场的开山之作，以318国道命名",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lk:318-lk250t",
+      "brand": "LK",
+      "names": {
+        "en": "318 LK250T",
+        "zh-CN": "318 LK250T 大踏板",
+        "zh-TW": "318 LK250T 大踏板",
+        "ja": "318 LK250T"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "力刻318 LK250T，250cc版本大踏板，与300版本同平台，价格更亲民",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lk:318gt",
+      "brand": "LK",
+      "names": {
+        "en": "318GT",
+        "zh-CN": "318GT 摩旅踏板",
+        "zh-TW": "318GT 摩旅踏板",
+        "ja": "318GT"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "力刻318GT，330cc单缸水冷性能摩旅踏板，标配电动风挡、电加热手把和16升油箱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lk:jimei-108",
+      "brand": "LK",
+      "names": {
+        "en": "Jimei 108",
+        "zh-CN": "及美108 复古踏板",
+        "zh-TW": "及美108 復古踏板",
+        "ja": "ジーメイ108"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "力刻及美108，108cc复古风格踏板，原创设计颜值高，2023款新增青春版和PRO版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lk:gobi-150",
+      "brand": "LK",
+      "names": {
+        "en": "Gobi 150",
+        "zh-CN": "戈壁Gobi 150 跨界踏板",
+        "zh-TW": "戈壁Gobi 150 跨界踏板",
+        "ja": "ゴビ150"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "力刻戈壁Gobi 150，150cc ADV风格跨界踏板，辐条轮加真空胎，续航达400公里",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lk:gobi-250",
+      "brand": "LK",
+      "names": {
+        "en": "Gobi 250",
+        "zh-CN": "戈壁250 跨界踏板",
+        "zh-TW": "戈壁250 跨界踏板",
+        "ja": "ゴビ250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "力刻戈壁250，250cc ADV跨界踏板，能通勤能越野的\"双修\"踏板，售价15999元",
+      "verified": "verified"
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "models": [
+    {
+      "id": "model:bultaco:tralla-101",
+      "brand": "Bultaco",
+      "names": {
+        "en": "Tralla 101",
+        "zh-CN": "Tralla 101 公路车",
+        "zh-TW": "Tralla 101 公路車",
+        "ja": "トラヤ101"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1959–1963",
+      "note": "Bultaco首款车型，125cc二冲程单缸公路车，1959年3月发布，以运动性能开启品牌传奇",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:mercurio-125",
+      "brand": "Bultaco",
+      "names": {
+        "en": "Mercurio 125",
+        "zh-CN": "Mercurio 125 公路车",
+        "zh-TW": "Mercurio 125 公路車",
+        "ja": "メルクリオ125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1960–1966",
+      "note": "125cc二冲程单缸经济型公路车，主打平价实用，与Montesa Comando等车型竞争",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:mercurio-155",
+      "brand": "Bultaco",
+      "names": {
+        "en": "Mercurio 155",
+        "zh-CN": "Mercurio 155 公路车",
+        "zh-TW": "Mercurio 155 公路車",
+        "ja": "メルクリオ155"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1963–1974",
+      "note": "155cc二冲程单缸公路车，Mercurio系列加大排量版本，生产周期横跨1960-70年代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:metralla-62",
+      "brand": "Bultaco",
+      "names": {
+        "en": "Metralla 62",
+        "zh-CN": "Metralla 62 运动街车",
+        "zh-TW": "Metralla 62 運動街車",
+        "ja": "メトラヤ62"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1962–1966",
+      "note": "196cc二冲程单缸运动街车，Metralla意为\"弹片\"，是1960年代西班牙高性能街车的代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:metralla-mk2",
+      "brand": "Bultaco",
+      "names": {
+        "en": "Metralla MK2",
+        "zh-CN": "Metralla MK2 运动街车",
+        "zh-TW": "Metralla MK2 運動街車",
+        "ja": "メトラヤMK2"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1966–1974",
+      "note": "244cc二冲程单缸超级运动街车，当时最快的250cc量产车之一，配套厂方Kit America竞技套件",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:matador-250",
+      "brand": "Bultaco",
+      "names": {
+        "en": "Matador 250",
+        "zh-CN": "Matador 250 耐力越野车",
+        "zh-TW": "Matador 250 耐力越野車",
+        "ja": "マタドール250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1965–1976",
+      "note": "244cc二冲程耐力越野车，国际六日赛(ISDT)常胜车型，Bultaco耐力赛领域的主力战车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:sherpa-t",
+      "brand": "Bultaco",
+      "names": {
+        "en": "Sherpa T",
+        "zh-CN": "Sherpa T 试验车",
+        "zh-TW": "Sherpa T 試驗車",
+        "ja": "シェルパT"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1964–1984",
+      "note": "Bultaco传奇试验车，与Sammy Miller合作开发，二冲程单缸，统治世界试验赛20年的经典车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:sherpa-t-350",
+      "brand": "Bultaco",
+      "names": {
+        "en": "Sherpa T 350",
+        "zh-CN": "Sherpa T 350 试验车",
+        "zh-TW": "Sherpa T 350 試驗車",
+        "ja": "シェルパT350"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–1979",
+      "note": "350cc大排量版试验车，1970年代中期推出，为偏好大排量试验车的车手而设",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:pursang-250",
+      "brand": "Bultaco",
+      "names": {
+        "en": "Pursang 250",
+        "zh-CN": "Pursang 250 越野赛车",
+        "zh-TW": "Pursang 250 越野賽車",
+        "ja": "プルサン250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1964–1979",
+      "note": "244cc二冲程越野赛车，1970年代Bultaco motocross主力，Jim Pomeroy曾驾驶其赢得1973年西班牙大奖赛",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:astro-250",
+      "brand": "Bultaco",
+      "names": {
+        "en": "Astro 250",
+        "zh-CN": "Astro 250 短道赛车",
+        "zh-TW": "Astro 250 短道賽車",
+        "ja": "アストロ250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1971–1974",
+      "note": "244cc二冲程短道(dirt-track)赛车，动力输出平顺强劲，是美国AMA短道赛的热门战车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:astro-360",
+      "brand": "Bultaco",
+      "names": {
+        "en": "Astro 360",
+        "zh-CN": "Astro 360 短道赛车",
+        "zh-TW": "Astro 360 短道賽車",
+        "ja": "アストロ360"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–1976",
+      "note": "360cc二冲程短道赛车，Astro系列加大排量版本，配备后轮碟刹",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:alpina-250",
+      "brand": "Bultaco",
+      "names": {
+        "en": "Alpina 250",
+        "zh-CN": "Alpina 250 耐力越野车",
+        "zh-TW": "Alpina 250 耐力越野車",
+        "ja": "アルピナ250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1971–1977",
+      "note": "244cc二冲程trail越野车，兼具试验与公路行驶能力，与西班牙红十字会合作开发，Alpina系列开端",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:alpina-350",
+      "brand": "Bultaco",
+      "names": {
+        "en": "Alpina 350",
+        "zh-CN": "Alpina 350 耐力越野车",
+        "zh-TW": "Alpina 350 耐力越野車",
+        "ja": "アルピナ350"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1973–1977",
+      "note": "350cc二冲程trail越野车，Alpina系列加大排量版本，兼顾off-road与长途骑行",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:frontera-250",
+      "brand": "Bultaco",
+      "names": {
+        "en": "Frontera 250",
+        "zh-CN": "Frontera 250 耐力越野车",
+        "zh-TW": "Frontera 250 耐力越野車",
+        "ja": "フロンテラ250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1975–1978",
+      "note": "244cc二冲程耐力越野车，Frontera系列成员，Bultaco末期enduro赛场的主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:frontera-370",
+      "brand": "Bultaco",
+      "names": {
+        "en": "Frontera 370",
+        "zh-CN": "Frontera 370 耐力越野车",
+        "zh-TW": "Frontera 370 耐力越野車",
+        "ja": "フロンテラ370"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1976–1979",
+      "note": "370cc二冲程耐力越野车，Gold Medal金奖版性能强劲，曾征战达喀尔拉力赛",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:streaker-125",
+      "brand": "Bultaco",
+      "names": {
+        "en": "Streaker 125",
+        "zh-CN": "Streaker 125 运动街车",
+        "zh-TW": "Streaker 125 運動街車",
+        "ja": "ストリーカー125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1977",
+      "note": "119cc二冲程单缸青年运动街车，全新车架设计，配备前后碟刹",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:lobito-125",
+      "brand": "Bultaco",
+      "names": {
+        "en": "Lobito 125",
+        "zh-CN": "Lobito 125 轻量越野车",
+        "zh-TW": "Lobito 125 輕量越野車",
+        "ja": "ロビート125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1970–1975",
+      "note": "125cc二冲程轻量越野车，Lobito意为\"小狼\"，面向年轻车手，该系列畅销十余年",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:el-bandido",
+      "brand": "Bultaco",
+      "names": {
+        "en": "El Bandido",
+        "zh-CN": "El Bandido 越野赛车",
+        "zh-TW": "El Bandido 越野賽車",
+        "ja": "エルバンディード"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1971",
+      "note": "350cc起步、后升级360cc的二冲程越野赛车，Bultaco首款大排量motocross车型，El Bandido意为\"大盗\"",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:el-tigre",
+      "brand": "Bultaco",
+      "names": {
+        "en": "El Tigre",
+        "zh-CN": "El Tigre 越野车",
+        "zh-TW": "El Tigre 越野車",
+        "ja": "エルティグレ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1969",
+      "note": "244cc二冲程越野车，基于Metralla动力平台开发的北美市场车型，El Tigre意为\"老虎\"",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:tss-125",
+      "brand": "Bultaco",
+      "names": {
+        "en": "TSS 125",
+        "zh-CN": "TSS 125 公路赛车",
+        "zh-TW": "TSS 125 公路賽車",
+        "ja": "TSS125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1965–1968",
+      "note": "125cc水冷二冲程公路赛车，面向私人车手的厂队赛车，1960年代125组赛场的劲旅",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bultaco:brinco",
+      "brand": "Bultaco",
+      "names": {
+        "en": "Brinco",
+        "zh-CN": "Brinco 电动越野车",
+        "zh-TW": "Brinco 電動越野車",
+        "ja": "ブリンコ"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2015–2017",
+      "note": "2015年推出的纯电越野摩托自行车，重约40公斤，是Bultaco 2014年复兴后的首款量产车型",
+      "verified": "verified"
+    }
+  ]
+}

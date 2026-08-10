@@ -1,0 +1,38 @@
+{
+  "models": [
+    {
+      "id": "model:munch:mammut-1200",
+      "brand": "Münch",
+      "names": {
+        "en": "Mammut 1200",
+        "zh-CN": "Mammut 1200 巨型旅行车（停产）",
+        "zh-TW": "Mammut 1200 巨型旅行車（停產）",
+        "ja": "マンムート1200"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1966–1971",
+      "note": "搭载NSU 1177cc四缸汽车发动机，1960年代最大排量量产摩托，被誉为两轮巨兽",
+      "verified": "verified"
+    },
+    {
+      "id": "model:munch:mammut-2000",
+      "brand": "Münch",
+      "names": {
+        "en": "Mammut 2000",
+        "zh-CN": "Mammut 2000 巨型旅行车（停产）",
+        "zh-TW": "Mammut 2000 巨型旅行車（停產）",
+        "ja": "マンムート2000"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1976–1980",
+      "note": "搭载NSU 1977cc四缸发动机，排量近2升的终极两轮巨兽，Münch品牌巅峰之作",
+      "verified": "verified"
+    }
+  ]
+}

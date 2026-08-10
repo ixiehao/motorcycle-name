@@ -1,0 +1,582 @@
+{
+  "models": [
+    {
+      "id": "model:moto-guzzi:v7-stone",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "V7 Stone",
+        "zh-CN": "V7 Stone 复古街车",
+        "zh-TW": "V7 Stone 復古街車",
+        "ja": "V7ストーン"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "853cc横置V型双缸，Moto Guzzi经典系列，复古简约街车，2021年升级850cc",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:v7-special",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "V7 Special",
+        "zh-CN": "V7 Special 复古街车",
+        "zh-TW": "V7 Special 復古街車",
+        "ja": "V7スペシャル"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2012–present",
+      "note": "V7系列复古版，镀铬细节与辐条轮，经典意式风格，2021年升级853cc",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:v9-bobber",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "V9 Bobber",
+        "zh-CN": "V9 Bobber 巡航车",
+        "zh-TW": "V9 Bobber 巡航車",
+        "ja": "V9ボバー"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:bobber",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "853cc横置V缸，Bobber风格，单座短尾，暗黑涂装",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:v85-tt",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "V85 TT",
+        "zh-CN": "V85 TT 中量级探险车",
+        "zh-TW": "V85 TT 中量級探險車",
+        "ja": "V85TT"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "853cc横置V缸，中量级探险车，致敬1985年V65 TT拉力赛车，鸟嘴设计",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:v100-mandello",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "V100 Mandello",
+        "zh-CN": "V100 Mandello 运动旅行车",
+        "zh-TW": "V100 Mandello 運動旅行車",
+        "ja": "V100マンデッロ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "1042cc横置V缸，首款水冷+自适应空气动力学设计，2023年全新旗舰",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:california-1400",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "California 1400",
+        "zh-CN": "California 1400 加州1400 巡航车（停产）",
+        "zh-TW": "California 1400 加州1400 巡航車（停產）",
+        "ja": "カリフォルニア1400"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2019",
+      "note": "1380cc横置V缸，加州系列最后一代，美式风格意式巡航，2019年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:audace",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "Audace",
+        "zh-CN": "Audace 暗黑巡航车（停产）",
+        "zh-TW": "Audace 暗黑巡航車（停產）",
+        "ja": "アウダーチェ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2020",
+      "note": "1380cc横置V缸，California暗黑Bobber版，2020年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:stelvio",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "Stelvio",
+        "zh-CN": "Stelvio 斯泰尔维奥 探险车",
+        "zh-TW": "Stelvio 斯泰爾維奧 探險車",
+        "ja": "ステルヴィオ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "1042cc横置V缸，V100同平台探险车，2024年上市，越野与公路兼顾",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:normale",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "Normale",
+        "zh-CN": "Normale 经典单缸摩托",
+        "zh-TW": "Normale 經典單缸摩托",
+        "ja": "ノルマーレ"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1921–1924",
+      "note": "Moto Guzzi首款量产车，1921年诞生，498cc水平单缸，奠定品牌近半个世纪的单缸传统",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:gt500-norge",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "GT500 Norge",
+        "zh-CN": "GT500 Norge 长途旅行摩托",
+        "zh-TW": "GT500 Norge 長途旅行摩托",
+        "ja": "GT500ノルゲ"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1928–1930",
+      "note": "1928年Giuseppe Guzzi驾驶GT500从工厂远征挪威北极圈约4000英里，测试世界首创的后摇臂弹性悬挂",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:albatros",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "Albatros",
+        "zh-CN": "Albatros 信天翁 250cc 赛车",
+        "zh-TW": "Albatros 信天翁 250cc 賽車",
+        "ja": "アルバトロス"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1928–1933",
+      "note": "250cc GP大奖赛赛车，水滴形空气动力学车身，1920-30年代意大利轻量级赛事的王者",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:condor",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "Condor",
+        "zh-CN": "Condor 神鹰 500cc 赛车",
+        "zh-TW": "Condor 神鷹 500cc 賽車",
+        "ja": "コンドル"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1938–1940",
+      "note": "Carcano设计的500cc单缸赛车，Nello Pagani 1939年夺得Circuito del Lario冠军，因二战中断生产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:airone",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "Airone",
+        "zh-CN": "Airone 苍鹭 250cc 街车",
+        "zh-TW": "Airone 蒼鷺 250cc 街車",
+        "ja": "アイローネ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1939–1957",
+      "note": "二战前后最成功的250cc单缸车型，与Falcone并称单缸双雄，军民两用，出口多个国家",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:alce",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "Alce",
+        "zh-CN": "Alce 麋鹿 军用摩托",
+        "zh-TW": "Alce 麋鹿 軍用摩托",
+        "ja": "アルチェ"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1939–1945",
+      "note": "二战期间为意大利军队生产的500cc水平单缸军用车型，结构坚固可靠，战后演化为Astore民用版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:astore",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "Astore",
+        "zh-CN": "Astore 鹞鹰 500cc 街车",
+        "zh-TW": "Astore 鷂鷹 500cc 街車",
+        "ja": "アストーレ"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1949–1953",
+      "note": "战后500cc单缸街车，Alce的民用演化版，注重舒适与实用性",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:falcone",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "Falcone",
+        "zh-CN": "Falcone 猎鹰 500cc 单缸",
+        "zh-TW": "Falcone 獵鷹 500cc 單缸",
+        "ja": "ファルコーネ"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1950–1967",
+      "note": "单缸时代的巅峰之作，500cc水平单缸，意大利警察与军队长期采用，被誉为最硬核的意式单缸",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:galletto",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "Galletto",
+        "zh-CN": "Galletto 公鸡 大轮踏板车",
+        "zh-TW": "Galletto 公雞 大輪踏板車",
+        "ja": "ガレット"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1950–1966",
+      "note": "Moto Guzzi著名大轮踏板车，160-192cc单缸，1950-60年代意大利平民出行的经典之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:zigolo",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "Zigolo",
+        "zh-CN": "Zigolo 轻便摩托车",
+        "zh-TW": "Zigolo 輕便摩托車",
+        "ja": "ジーゴロ"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1953–1966",
+      "note": "98cc轻便摩托车，皮实耐用，战后意大利大众通勤的代表车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:lodola",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "Lodola",
+        "zh-CN": "Lodola 175cc 运动街车",
+        "zh-TW": "Lodola 175cc 運動街車",
+        "ja": "ロドーラ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1956–1966",
+      "note": "175cc运动单缸，Lodola Sport赛车版活跃于意大利本土赛事，与Zigolo同平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:cardellino",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "Cardellino",
+        "zh-CN": "Cardellino 金丝雀 轻便摩托",
+        "zh-TW": "Cardellino 金絲雀 輕便摩托",
+        "ja": "カルデリーノ"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1954–1965",
+      "note": "65-83cc轻便摩托车，造型轻巧可爱，1950-60年代意大利城市通勤利器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:stornello",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "Stornello",
+        "zh-CN": "Stornello 125cc 入门街车",
+        "zh-TW": "Stornello 125cc 入門街車",
+        "ja": "ストルネッロ"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1960–1975",
+      "note": "125cc入门街车，含160cc与Scrambler版本，SEIMM时代的销量主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:v7",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "V7",
+        "zh-CN": "V7 经典横置V缸摩托",
+        "zh-TW": "V7 經典橫置V缸摩托",
+        "ja": "V7"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1967–1977",
+      "note": "1967年推出的首款横置90°V型双缸，Carcano设计，轴传动，Moto Guzzi标志性设计的起点",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:v750-ambassador",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "V750 Ambassador",
+        "zh-CN": "V750 Ambassador 美式巡航车",
+        "zh-TW": "V750 Ambassador 美式巡航車",
+        "ja": "V750アンバサダー"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1972",
+      "note": "面向美国市场的V7系列，美式巡航风格，加州警方采购，为California的诞生铺路",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:v7-sport",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "V7 Sport",
+        "zh-CN": "V7 Sport 运动街车",
+        "zh-TW": "V7 Sport 運動街車",
+        "ja": "V7スポーツ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1971–1974",
+      "note": "Lino Tonti设计的传奇运动车，首款200km/h级量产车，五速变速箱与紧凑车架，现代运动摩托鼻祖",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:v850-california",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "V850 California",
+        "zh-CN": "V850 California 巡航车",
+        "zh-TW": "V850 California 巡航車",
+        "ja": "V850カリフォルニア"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1972–1975",
+      "note": "巡航车鼻祖，1972年为洛杉矶警方打造，美式风格与横置V缸的结合，California系列的开端",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:850-t",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "850 T",
+        "zh-CN": "850 T 街车",
+        "zh-TW": "850 T 街車",
+        "ja": "850T"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–1975",
+      "note": "V7系列的现代化改款，844cc横置V缸，北美市场称Interceptor，T系列鼻祖",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:850-t3",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "850 T3",
+        "zh-CN": "850 T3 街车",
+        "zh-TW": "850 T3 街車",
+        "ja": "850T3"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1975–1979",
+      "note": "世界首批搭载集成式制动(linked brakes)的量产车型之一，1975年推出，T系列承前启后",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:v1000-convert",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "V1000 Convert",
+        "zh-CN": "V1000 Convert 自动挡旅行车",
+        "zh-TW": "V1000 Convert 自動擋旅行車",
+        "ja": "V1000コンバート"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1975–1984",
+      "note": "世界首款量产自动挡摩托车，液力变矩器无需离合器换挡，949cc横置V缸",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:le-mans-850",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "Le Mans 850",
+        "zh-CN": "Le Mans 850 运动街车",
+        "zh-TW": "Le Mans 850 運動街車",
+        "ja": "ルマン850"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1975–1978",
+      "note": "摩托古兹最传奇的运动车型，横置V型双缸850cc，勒芒赛命名，被誉为'意大利人的摇滚'",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:1000-sp",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "1000 SP",
+        "zh-CN": "1000 SP 运动旅行车",
+        "zh-TW": "1000 SP 運動旅行車",
+        "ja": "1000SP"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1977–1985",
+      "note": "949cc横置V缸运动旅行车，全导流罩GT设计，1980年代长途旅行的标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:v50",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "V50",
+        "zh-CN": "V50 中量级街车",
+        "zh-TW": "V50 中量級街車",
+        "ja": "V50"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1977–1986",
+      "note": "Tonti设计的小V缸系列，490cc轻量化车架，含V50 Monza运动版，中量级代表作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:le-mans-iii",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "Le Mans III",
+        "zh-CN": "Le Mans III 运动街车",
+        "zh-TW": "Le Mans III 運動街車",
+        "ja": "ルマンIII"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1981–1984",
+      "note": "Le Mans系列第三代，方形散热片设计，844cc横置V缸运动车，1981-1984年生产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:v65",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "V65",
+        "zh-CN": "V65 中量级街车",
+        "zh-TW": "V65 中量級街車",
+        "ja": "V65"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1982–1987",
+      "note": "643cc小V缸系列，含V65 Lario与V65 Florida巡航版，1980年代欧洲市场热销",
+      "verified": "verified"
+    },
+    {
+      "id": "model:moto-guzzi:le-mans-1000",
+      "brand": "Moto Guzzi",
+      "names": {
+        "en": "Le Mans 1000",
+        "zh-CN": "Le Mans 1000 运动街车",
+        "zh-TW": "Le Mans 1000 運動街車",
+        "ja": "ルマン1000"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1985–1991",
+      "note": "Le Mans系列最终章，949cc横置V缸，方形散热片加全导流罩，1985-1991年生产",
+      "verified": "verified"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "models": [
+    {
+      "id": "model:shineray:xy400",
+      "brand": "Shineray",
+      "names": {
+        "en": "XY400",
+        "zh-CN": "XY400 复古街车",
+        "zh-TW": "XY400 復古街車",
+        "ja": "XY400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "鑫源经典400cc单缸复古街车，车友俗称\"棍王\"，借鉴本田CB400SS风格，是中国上市最早的一批复古车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:shineray:weekend",
+      "brand": "Shineray",
+      "names": {
+        "en": "XY400-B Weekend",
+        "zh-CN": "周末风XY400-B 边三轮",
+        "zh-TW": "週末風XY400-B 邊三輪",
+        "ja": "ウィークエンドXY400-B"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "鑫源基于XY400棍王改款而来的复古边三轮，上市后广受复古玩家青睐",
+      "verified": "verified"
+    },
+    {
+      "id": "model:shineray:sv440-silver-bottle",
+      "brand": "Shineray",
+      "names": {
+        "en": "SV440 Silver Bottle",
+        "zh-CN": "SV440 银瓶 全地形复古车",
+        "zh-TW": "SV440 銀瓶 全地形復古車",
+        "ja": "SV440 シルバーボトル"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "鑫源SV440银瓶，440cc单缸电喷全地形复古车，造型硬朗，续航超过500公里",
+      "verified": "verified"
+    },
+    {
+      "id": "model:shineray:x5",
+      "brand": "Shineray",
+      "names": {
+        "en": "X5",
+        "zh-CN": "X5 拉力探险车",
+        "zh-TW": "X5 拉力探險車",
+        "ja": "X5"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "鑫源X5，399cc单缸风油冷，2014年推出的国内首款量产长途拉力越野车，被誉为\"入门ADV神车\"",
+      "verified": "verified"
+    },
+    {
+      "id": "model:shineray:525x",
+      "brand": "Shineray",
+      "names": {
+        "en": "525X",
+        "zh-CN": "525X 探险车",
+        "zh-TW": "525X 探險車",
+        "ja": "525X"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "鑫源525X中量级ADV，494cc并列双缸，承袭鑫源越野基因，从环塔赛场走来，主打全能配置",
+      "verified": "verified"
+    },
+    {
+      "id": "model:shineray:x6",
+      "brand": "Shineray",
+      "names": {
+        "en": "X6",
+        "zh-CN": "X6 越野车",
+        "zh-TW": "X6 越野車",
+        "ja": "X6"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "鑫源X6民用版越野车，248cc单缸水冷，轻量化车架，面向林道与场地越野爱好者",
+      "verified": "verified"
+    },
+    {
+      "id": "model:shineray:sc250x",
+      "brand": "Shineray",
+      "names": {
+        "en": "SC250X Twin",
+        "zh-CN": "SC250X 双缸ADV踏板车",
+        "zh-TW": "SC250X 雙缸ADV踏板車",
+        "ja": "SC250X ツイン"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "鑫源250cc双缸跨界ADV踏板，2025米兰车展首发，湿式CVT传动配辐条轮毂，2026年国内上市，是全球罕见的250cc双缸踏板",
+      "verified": "verified"
+    },
+    {
+      "id": "model:shineray:super-six-650",
+      "brand": "Shineray",
+      "names": {
+        "en": "SUPER SIX 650",
+        "zh-CN": "SUPER SIX 650 复古越野车",
+        "zh-TW": "SUPER SIX 650 復古越野車",
+        "ja": "スーパーシックス650"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "鑫源2025米兰车展发布的644cc风冷大单缸复古越野车，致敬SWM六日耐力赛冠军赛车，超长行程减震配前21后18辐条轮毂",
+      "verified": "verified"
+    },
+    {
+      "id": "model:shineray:cr200",
+      "brand": "Shineray",
+      "names": {
+        "en": "CR200",
+        "zh-CN": "CR200 自动挡巡航车",
+        "zh-TW": "CR200 自動擋巡航車",
+        "ja": "CR200"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "鑫源200cc双缸CVT自动挡巡航车，2025年米兰车展亮相并开启共创征名，2026年上市，主打入门自动挡巡航市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:shineray:hurricane-525",
+      "brand": "Shineray",
+      "names": {
+        "en": "Hurricane 525",
+        "zh-CN": "飓风525 边三轮",
+        "zh-TW": "颶風525 邊三輪",
+        "ja": "ハリケーン525"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "鑫源2025款轴传动边三轮，525cc双缸水冷，售价49990元，是国产首款轴传动侉子，主打硬核穿越与长途摩旅",
+      "verified": "verified"
+    }
+  ]
+}

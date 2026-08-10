@@ -1,0 +1,106 @@
+{
+  "models": [
+    {
+      "id": "model:wangjiang:xiaolingtong-150-sidecar",
+      "brand": "Wangjiang",
+      "names": {
+        "en": "Xiaolingtong 150 Sidecar",
+        "zh-CN": "现代小铃童150 边三轮",
+        "zh-TW": "現代小鈴童150 邊三輪",
+        "ja": "シャオリントン150サイドカー"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "望江现代小铃童150迷你边三轮，轴传动设计，售价16800元，造型呆萌圆润",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wangjiang:xiaolingtong-125",
+      "brand": "Wangjiang",
+      "names": {
+        "en": "Xiaolingtong 125",
+        "zh-CN": "现代小铃童125 迷你车",
+        "zh-TW": "現代小鈴童125 迷你車",
+        "ja": "シャオリントン125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "望江现代小铃童125，125cc迷你车型，小猴子风格，是望江边三轮版本的母体车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wangjiang:gn250",
+      "brand": "Wangjiang",
+      "names": {
+        "en": "GN250",
+        "zh-CN": "望江铃木GN250 巡航车",
+        "zh-TW": "望江鈴木GN250 巡航車",
+        "ja": "GN250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1988–2005",
+      "note": "望江铃木GN250，250cc单缸太子巡航车，初代CKD进口售价高达3.5万元，一代经典太子车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wangjiang:yuemei",
+      "brand": "Wangjiang",
+      "names": {
+        "en": "Yuemei",
+        "zh-CN": "悦美 踏板车",
+        "zh-TW": "悅美 踏板車",
+        "ja": "ユエメイ"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "望江悦美，125cc通勤踏板车，造型时尚小巧，城市代步高性价比之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wangjiang:wj125t-36",
+      "brand": "Wangjiang",
+      "names": {
+        "en": "WJ125T-36",
+        "zh-CN": "WJ125T-36 踏板车",
+        "zh-TW": "WJ125T-36 踏板車",
+        "ja": "WJ125T-36"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "望江WJ125T-36，125cc主力通勤踏板车型，皮实耐用价格亲民",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wangjiang:cb150r",
+      "brand": "Wangjiang",
+      "names": {
+        "en": "CB150R",
+        "zh-CN": "CB150R 复古跨骑",
+        "zh-TW": "CB150R 復古跨騎",
+        "ja": "CB150R"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "望江CB150R，150cc复古风格跨骑车，圆灯造型致敬经典CB系列",
+      "verified": "verified"
+    }
+  ]
+}

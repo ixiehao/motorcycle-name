@@ -1,0 +1,38 @@
+{
+  "models": [
+    {
+      "id": "model:sherco:300-se",
+      "brand": "Sherco",
+      "names": {
+        "en": "300 SE",
+        "zh-CN": "300 SE 耐力越野车",
+        "zh-TW": "300 SE 耐力越野車",
+        "ja": "300SE"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2012–present",
+      "note": "293cc二冲程耐力越野车，Sherco SE系列主力型号，欧洲enduro赛场上的常胜军",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sherco:450-sef",
+      "brand": "Sherco",
+      "names": {
+        "en": "450 SEF",
+        "zh-CN": "450 SEF 耐力越野车",
+        "zh-TW": "450 SEF 耐力越野車",
+        "ja": "450SEF"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "449cc四冲程单缸耐力越野车，Sherco四冲程enduro代表作，征战世界耐力锦标赛",
+      "verified": "verified"
+    }
+  ]
+}

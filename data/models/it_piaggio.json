@@ -1,0 +1,395 @@
+{
+  "models": [
+    {
+      "id": "model:piaggio:mp3-300",
+      "brand": "Piaggio",
+      "names": {
+        "en": "MP3 300",
+        "zh-CN": "MP3 300 倒三轮踏板车",
+        "zh-TW": "MP3 300 倒三輪踏板車",
+        "ja": "MP3 300"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "Piaggio标志性倒三轮踏板，前双轮倾斜技术，278cc，安全稳定",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:mp3-500",
+      "brand": "Piaggio",
+      "names": {
+        "en": "MP3 500",
+        "zh-CN": "MP3 500 倒三轮踏板车（停产）",
+        "zh-TW": "MP3 500 倒三輪踏板車（停產）",
+        "ja": "MP3 500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2017",
+      "note": "493cc倒三轮大踏板，前双轮设计，2006年推出，2017年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:beverly-300",
+      "brand": "Piaggio",
+      "names": {
+        "en": "Beverly 300",
+        "zh-CN": "Beverly 300 大踏板",
+        "zh-TW": "Beverly 300 大踏板",
+        "ja": "ビバリー300"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "278cc大踏板，运动化设计，欧系中量级踏板代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:liberty-125",
+      "brand": "Piaggio",
+      "names": {
+        "en": "Liberty 125",
+        "zh-CN": "Liberty 125 自由125 踏板车",
+        "zh-TW": "Liberty 125 自由125 踏板車",
+        "ja": "リバティ125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2012–present",
+      "note": "轻巧都市踏板，125cc，灵活省油，欧系通勤选择",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:medley-125",
+      "brand": "Piaggio",
+      "names": {
+        "en": "Medley 125",
+        "zh-CN": "Medley 125 踏板车",
+        "zh-TW": "Medley 125 踏板車",
+        "ja": "メドレー125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "125cc都市踏板，前置油箱，舒适坐垫，欧系通勤代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:piaggio-1",
+      "brand": "Piaggio",
+      "names": {
+        "en": "Piaggio 1",
+        "zh-CN": "Piaggio 1 纯电踏板车",
+        "zh-TW": "Piaggio 1 純電踏板車",
+        "ja": "ピアジオ1"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "Piaggio首款纯电踏板，可拆卸电池，都市短途通勤",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:ape-50",
+      "brand": "Piaggio",
+      "names": {
+        "en": "Ape 50",
+        "zh-CN": "Ape 50 三轮货车",
+        "zh-TW": "Ape 50 三輪貨車",
+        "ja": "アペ 50"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1948–2015",
+      "note": "Piaggio经典三轮运输车，1948年问世，意大利和印度市场的国民运输工具",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:ape-calessino",
+      "brand": "Piaggio",
+      "names": {
+        "en": "Ape Calessino",
+        "zh-CN": "Ape Calessino 复古三轮车",
+        "zh-TW": "Ape Calessino 復古三輪車",
+        "ja": "アペ・カレッシーノ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2007–present",
+      "note": "Ape复古风格观光版三轮车，2007年以限量版推出，2013年起量产Calessino 200，旅游市场标志车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:vespa-98",
+      "brand": "Piaggio",
+      "names": {
+        "en": "Vespa 98",
+        "zh-CN": "Vespa 98 原版踏板车",
+        "zh-TW": "Vespa 98 原版踏板車",
+        "ja": "ベスパ98"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1946–1948",
+      "note": "1946年诞生的世界首款Vespa，98cc二冲程发动机，开创全球踏板车时代，当时由Piaggio生产销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:ciao",
+      "brand": "Piaggio",
+      "names": {
+        "en": "Ciao",
+        "zh-CN": "Ciao 轻便摩托",
+        "zh-TW": "Ciao 輕便摩托",
+        "ja": "チャオ"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1967–2006",
+      "note": "1967年问世的经典轻便摩托，49cc二冲程，欧洲最畅销通勤车型之一，部分市场以Vespa Ciao名义销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:bravo",
+      "brand": "Piaggio",
+      "names": {
+        "en": "Bravo",
+        "zh-CN": "Bravo 轻便摩托",
+        "zh-TW": "Bravo 輕便摩托",
+        "ja": "ブラボー"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1973–2001",
+      "note": "Ciao家族运动款轻便摩托，1972年发布、1973年量产，带后悬挂与伸缩前叉，与Ciao同平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:boxer",
+      "brand": "Piaggio",
+      "names": {
+        "en": "Boxer",
+        "zh-CN": "Boxer 轻便摩托",
+        "zh-TW": "Boxer 輕便摩托",
+        "ja": "ボクサー"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1970–1983",
+      "note": "1970年推出的经典轻便摩托，Ciao同族兄弟，1983年停产并被Si取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:si",
+      "brand": "Piaggio",
+      "names": {
+        "en": "Si",
+        "zh-CN": "Si 轻便摩托",
+        "zh-TW": "Si 輕便摩托",
+        "ja": "シー"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1978–2001",
+      "note": "1978年发布的轻便摩托，Boxer换代车型，伸缩前叉加后单避震，长期畅销至2001年",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:grillo",
+      "brand": "Piaggio",
+      "names": {
+        "en": "Grillo",
+        "zh-CN": "Grillo 轻便摩托",
+        "zh-TW": "Grillo 輕便摩托",
+        "ja": "グリッロ"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1989–1996",
+      "note": "1989年推出的Ciao/Si/Bravo家族轻便摩托，14英寸轮毂操控更灵活，取代Boss，1996年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:sfera",
+      "brand": "Piaggio",
+      "names": {
+        "en": "Sfera",
+        "zh-CN": "Sfera 都市踏板车",
+        "zh-TW": "Sfera 都市踏板車",
+        "ja": "スフェーラ"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–1998",
+      "note": "1990年发布的塑料车身踏板车，获Compasso d'Oro设计奖，125cc为Piaggio首款四冲程踏板发动机",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:zip",
+      "brand": "Piaggio",
+      "names": {
+        "en": "Zip",
+        "zh-CN": "Zip 都市小踏板",
+        "zh-TW": "Zip 都市小踏板",
+        "ja": "ジップ"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1992–2024",
+      "note": "1992年问世的都市小踏板，欧洲畅销数十年，2024年因欧5+排放法规停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:skipper",
+      "brand": "Piaggio",
+      "names": {
+        "en": "Skipper",
+        "zh-CN": "Skipper 紧凑型踏板车",
+        "zh-TW": "Skipper 緊湊型踏板車",
+        "ja": "スキッパー"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1993–2002",
+      "note": "1993年发布的紧凑型踏板车，125/150cc二冲程，1998年改款，2002年停产，后继为Fly",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:hexagon",
+      "brand": "Piaggio",
+      "names": {
+        "en": "Hexagon",
+        "zh-CN": "Hexagon 中量级大踏板",
+        "zh-TW": "Hexagon 中量級大踏板",
+        "ja": "ヘキサゴン"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1994–2003",
+      "note": "1994年推出的中量级踏板车，125-250cc水冷发动机，1990年代欧洲大轮踏板标杆，后继为X9",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:nrg",
+      "brand": "Piaggio",
+      "names": {
+        "en": "NRG",
+        "zh-CN": "NRG 运动小踏板",
+        "zh-TW": "NRG 運動小踏板",
+        "ja": "NRG"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1994–2020",
+      "note": "1994年发布的运动小踏板，50cc二冲程，欧洲青少年改装文化代表，2020年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:liberty-50",
+      "brand": "Piaggio",
+      "names": {
+        "en": "Liberty 50",
+        "zh-CN": "Liberty 50 自由50 踏板车（初代）",
+        "zh-TW": "Liberty 50 自由50 踏板車（初代）",
+        "ja": "リバティ50"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2004",
+      "note": "Liberty初代50cc版本，1997年巴塞罗那车展首发，大轮踏板先驱，第一代2004年换代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:beverly-200",
+      "brand": "Piaggio",
+      "names": {
+        "en": "Beverly 200",
+        "zh-CN": "Beverly 200 初代大踏板",
+        "zh-TW": "Beverly 200 初代大踏板",
+        "ja": "ビバリー200"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2001–2004",
+      "note": "Beverly初代200cc版本，2001年问世，198cc水冷LEADER发动机，开启Piaggio大踏板系列，2004年换代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:x9-500",
+      "brand": "Piaggio",
+      "names": {
+        "en": "X9 500",
+        "zh-CN": "X9 500 大踏板",
+        "zh-TW": "X9 500 大踏板",
+        "ja": "X9 500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2000–2009",
+      "note": "2000年发布的大踏板旗舰，459cc四冲程水冷，X9车系顶配，2009年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:piaggio:x7-300",
+      "brand": "Piaggio",
+      "names": {
+        "en": "X7 300",
+        "zh-CN": "X7 300 运动大踏板",
+        "zh-TW": "X7 300 運動大踏板",
+        "ja": "X7 300"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2012",
+      "note": "2007年推出的运动大踏板，278cc Quasar电喷发动机，欧洲市场2012年停产，2021年在中国由宗申合作复产",
+      "verified": "verified"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "models": [
+    {
+      "id": "model:ural:gear-up",
+      "brand": "Ural",
+      "names": {
+        "en": "Gear Up",
+        "zh-CN": "Gear Up 边三轮军旅款",
+        "zh-TW": "Gear Up 邊三輪軍旅款",
+        "ja": "ギアアップ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1999–present",
+      "note": "749cc水平对置双缸边三轮摩托，军绿色涂装与前置备胎，Ural最具辨识度的经典款",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ural:patrol",
+      "brand": "Ural",
+      "names": {
+        "en": "Patrol",
+        "zh-CN": "Patrol 巡逻 边三轮",
+        "zh-TW": "Patrol 巡邏 邊三輪",
+        "ja": "パトロール"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2004–present",
+      "note": "749cc水平对置双缸边三轮，军规涂装的实用型两轮驱动越野边车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ural:solo",
+      "brand": "Ural",
+      "names": {
+        "en": "Solo",
+        "zh-CN": "Solo 两轮经典款",
+        "zh-TW": "Solo 兩輪經典款",
+        "ja": "ソロ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "749cc水平对置双缸的两轮版本，延续二战宝马R71血统的复古造型",
+      "verified": "verified"
+    }
+  ]
+}

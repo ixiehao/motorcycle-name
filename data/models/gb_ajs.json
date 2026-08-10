@@ -1,0 +1,446 @@
+{
+  "models": [
+    {
+      "id": "model:ajs:model-16",
+      "brand": "AJS",
+      "names": {
+        "en": "Model 16",
+        "zh-CN": "Model 16 单缸摩托车（停产）",
+        "zh-TW": "Model 16 單缸摩托車（停產）",
+        "ja": "モデル16"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1949–1967",
+      "note": "348cc单缸摩托车，战后AJS主力公路车型，多次参与ISDT国际六日赛并夺奖",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:model-31",
+      "brand": "AJS",
+      "names": {
+        "en": "Model 31",
+        "zh-CN": "Model 31 双缸摩托车（停产）",
+        "zh-TW": "Model 31 雙缸摩托車（停產）",
+        "ja": "モデル31"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1949–1968",
+      "note": "646cc并列双缸摩托车，与Matchless G11/G12同平台，AJS战后期最大排量公路车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:big-port",
+      "brand": "AJS",
+      "names": {
+        "en": "Big Port",
+        "zh-CN": "Big Port 单缸摩托车（停产）",
+        "zh-TW": "Big Port 單缸摩托車（停產）",
+        "ja": "ビッグポート"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1922–1927",
+      "note": "350cc顶置气门单缸运动车，以大直径排气口得名，1920年代AJS最受欢迎的运动车型，1923年起公开销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:model-7",
+      "brand": "AJS",
+      "names": {
+        "en": "Model 7",
+        "zh-CN": "Model 7 单缸摩托车（停产）",
+        "zh-TW": "Model 7 單缸摩托車（停產）",
+        "ja": "モデル7"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1929–1931",
+      "note": "349cc顶置凸轮轴单缸车，1929年M系列中的凸轮轴高速型号，也是战前AJS著名的竞赛机器之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:model-8",
+      "brand": "AJS",
+      "names": {
+        "en": "Model 8",
+        "zh-CN": "Model 8 单缸摩托车（停产）",
+        "zh-TW": "Model 8 單缸摩托車（停產）",
+        "ja": "モデル8"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1929–1931",
+      "note": "498cc顶置气门单缸车，1929年M系列中排量最大的OHV单缸公路车型，提供单口与双口排气两种版本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:model-10",
+      "brand": "AJS",
+      "names": {
+        "en": "Model 10",
+        "zh-CN": "Model 10 单缸赛车（停产）",
+        "zh-TW": "Model 10 單缸賽車（停產）",
+        "ja": "モデル10"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1929–1931",
+      "note": "498cc顶置凸轮轴单缸赛车，接续1927年K10工厂赛车，为战前AJS大排量竞赛机器，1929年售价约72英镑",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:model-12",
+      "brand": "AJS",
+      "names": {
+        "en": "Model 12",
+        "zh-CN": "Model 12 单缸摩托车（停产）",
+        "zh-TW": "Model 12 單缸摩托車（停產）",
+        "ja": "モデル12"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1929–1931",
+      "note": "248cc侧阀单缸轻量车，1929年M系列中的入门级车型，售价仅约40英镑，为当时AJS最便宜的摩托车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:r7",
+      "brand": "AJS",
+      "names": {
+        "en": "R7",
+        "zh-CN": "R7 单缸赛车（停产）",
+        "zh-TW": "R7 單缸賽車（停產）",
+        "ja": "R7"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1929–1930",
+      "note": "350cc顶置凸轮轴单缸工厂赛车，1929年赢得9场大奖赛中的8场，并在法国蒙特里赛道创下一小时104.5英里等多项世界纪录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:s3",
+      "brand": "AJS",
+      "names": {
+        "en": "S3",
+        "zh-CN": "S3 双缸摩托车（停产）",
+        "zh-TW": "S3 雙缸摩托車（停產）",
+        "ja": "S3 Vツイン"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1931–1932",
+      "note": "496cc横置V型双缸旅行车，采用合金缸头与轴传动初级驱动，研发成本过高导致销售不畅，1931年AJS被Matchless收购",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:silver-streak",
+      "brand": "AJS",
+      "names": {
+        "en": "Silver Streak",
+        "zh-CN": "Silver Streak 单缸摩托车（停产）",
+        "zh-TW": "Silver Streak 單缸摩托車（停產）",
+        "ja": "シルバーストリーク"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1938–1939",
+      "note": "1938年推出的超级运动车系，提供250/350/500cc顶置气门单缸三种排量，以大量镀铬件与手工调校引擎为卖点，500cc版为498cc",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:v4",
+      "brand": "AJS",
+      "names": {
+        "en": "V4",
+        "zh-CN": "V4 四缸赛车（停产）",
+        "zh-TW": "V4 四缸賽車（停產）",
+        "ja": "V4"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1936–1939",
+      "note": "495cc水冷机械增压V4赛车，1939年成为首台在阿尔斯特大奖赛跑出单圈超过100英里时速的摩托车，因二战爆发而停止开发",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:model-18",
+      "brand": "AJS",
+      "names": {
+        "en": "Model 18",
+        "zh-CN": "Model 18 单缸摩托车（停产）",
+        "zh-TW": "Model 18 單缸摩托車（停產）",
+        "ja": "モデル18"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1945–1966",
+      "note": "498cc推杆顶置气门单缸车，与Matchless G80同平台，源自1930年代设计，是战后英国大单缸时代的代表作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:model-18s",
+      "brand": "AJS",
+      "names": {
+        "en": "Model 18S",
+        "zh-CN": "Model 18S 单缸摩托车（停产）",
+        "zh-TW": "Model 18S 單缸摩托車（停產）",
+        "ja": "モデル18S"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1949–1966",
+      "note": "Model 18的后悬挂版本，S代表弹簧后悬挂，1951年起改用Jampot减震器，1960年代中期被昵称为政治家(The Statesman)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:model-18cs",
+      "brand": "AJS",
+      "names": {
+        "en": "Model 18CS",
+        "zh-CN": "Model 18CS 单缸越野摩托车（停产）",
+        "zh-TW": "Model 18CS 單缸越野摩托車（停產）",
+        "ja": "モデル18CS"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1951–1966",
+      "note": "498cc单缸攀爬赛车型，C代表竞赛、S代表悬挂，1956年起改为86mm缸径短行程版本，是AMC越野赛车代表作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:model-16ms",
+      "brand": "AJS",
+      "names": {
+        "en": "Model 16MS",
+        "zh-CN": "Model 16MS 单缸摩托车（停产）",
+        "zh-TW": "Model 16MS 單缸摩托車（停產）",
+        "ja": "モデル16MS"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1948–1958",
+      "note": "348cc单缸运动版公路车，Model 16系列的运动型号，S代表弹簧后悬挂，与Matchless G3LS同平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:model-16mc",
+      "brand": "AJS",
+      "names": {
+        "en": "Model 16MC",
+        "zh-CN": "Model 16MC 单缸越野摩托车（停产）",
+        "zh-TW": "Model 16MC 單缸越野摩托車（停產）",
+        "ja": "モデル16MC"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1947–1958",
+      "note": "348cc单缸竞赛版车型，C代表Competition，常用于国际六日赛(ISDT)等耐力越野赛事，与Matchless G3LC同平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:model-20",
+      "brand": "AJS",
+      "names": {
+        "en": "Model 20",
+        "zh-CN": "Model 20 双缸摩托车（停产）",
+        "zh-TW": "Model 20 雙缸摩托車（停產）",
+        "ja": "モデル20"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1949–1959",
+      "note": "498cc并列双缸车，AMC战后首款民用双缸，与Matchless G9同平台，1959年衍生出DeLuxe/Standard/CS/CSR版本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:model-20csr",
+      "brand": "AJS",
+      "names": {
+        "en": "Model 20CSR",
+        "zh-CN": "Model 20CSR 双缸摩托车（停产）",
+        "zh-TW": "Model 20CSR 雙缸摩托車（停產）",
+        "ja": "モデル20CSR"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1959",
+      "note": "498cc并列双缸高性能公路版，CSR代表竞赛风格公路车，与Matchless G9CSR同平台，为Model 20车系末期的运动旗舰",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:model-30",
+      "brand": "AJS",
+      "names": {
+        "en": "Model 30",
+        "zh-CN": "Model 30 双缸摩托车（停产）",
+        "zh-TW": "Model 30 雙缸摩托車（停產）",
+        "ja": "モデル30"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1956–1959",
+      "note": "593cc并列双缸车，AMC首款600cc级民用双缸，与Matchless G11同平台，1958年推出30CS与30CSR运动版本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:model-33",
+      "brand": "AJS",
+      "names": {
+        "en": "Model 33",
+        "zh-CN": "Model 33 双缸摩托车（停产）",
+        "zh-TW": "Model 33 雙缸摩托車（停產）",
+        "ja": "モデル33"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1963–1969",
+      "note": "646cc并列双缸车，与Matchless G15及Norton N15CS同平台的G15系列成员，分M33 Mk2/CS/CSR三款，是AJS最后一款四冲程车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:porcupine",
+      "brand": "AJS",
+      "names": {
+        "en": "Porcupine",
+        "zh-CN": "Porcupine 双缸赛车（停产）",
+        "zh-TW": "Porcupine 雙缸賽車（停產）",
+        "ja": "ポーキュパイン"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1945–1954",
+      "note": "500cc双顶置凸轮轴水平双缸赛车，原为机械增压设计，1949年由Les Graham驾驶E90夺得首届世界摩托车锦标赛500cc冠军，E95仅制造4台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:7r-boy-racer",
+      "brand": "AJS",
+      "names": {
+        "en": "7R Boy Racer",
+        "zh-CN": "7R Boy Racer 单缸赛车（停产）",
+        "zh-TW": "7R Boy Racer 單缸賽車（停產）",
+        "ja": "7R ボーイレーサー"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1948–1963",
+      "note": "AJS最著名的348cc单顶置凸轮轴单缸赛车，绰号少年赛车手，曼岛TT与私人车队赛的传奇车型，1957年比尔·尼尔森改装7R赢得首届500cc越野世界锦标赛",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:7r3",
+      "brand": "AJS",
+      "names": {
+        "en": "7R3",
+        "zh-CN": "7R3 单缸赛车（停产）",
+        "zh-TW": "7R3 單缸賽車（停產）",
+        "ja": "7R3"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1951–1954",
+      "note": "7R的三气门缸头工厂特制版，为应对意大利多缸赛车而开发，1954年改进后赢得世界锦标赛前两轮及曼岛TT",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:model-14",
+      "brand": "AJS",
+      "names": {
+        "en": "Model 14",
+        "zh-CN": "Model 14 单缸摩托车（停产）",
+        "zh-TW": "Model 14 單缸摩托車（停產）",
+        "ja": "モデル14"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1958–1960",
+      "note": "248cc两冲程单缸轻量级摩托车，与Matchless G2同平台，为AMC于1958年推出的250cc轻型车系，1959年增派生14CS越野版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:stormer",
+      "brand": "AJS",
+      "names": {
+        "en": "Stormer",
+        "zh-CN": "Stormer 越野摩托车（停产）",
+        "zh-TW": "Stormer 越野摩托車（停產）",
+        "ja": "ストーマー"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1974",
+      "note": "250/370/410cc两冲程越野赛车，前身为1968年250cc Y4，1969年更名Stormer并推出370cc Y5，1972年增加410cc版本，是AJS品牌最后的竞赛系列",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ajs:h5",
+      "brand": "AJS",
+      "names": {
+        "en": "H5",
+        "zh-CN": "H5 单缸摩托车（停产）",
+        "zh-TW": "H5 單缸摩托車（停產）",
+        "ja": "H5"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1928",
+      "note": "1928年款350cc单缸运动车，1935年英国电影《No Limit》中主角驾驶的Shuttleworth Snap摩托车即以此为原型",
+      "verified": "verified"
+    }
+  ]
+}

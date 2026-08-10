@@ -1,0 +1,38 @@
+{
+  "models": [
+    {
+      "id": "model:montesa:cota-301rr",
+      "brand": "Montesa",
+      "names": {
+        "en": "Cota 301RR",
+        "zh-CN": "Cota 301RR 试验摩托",
+        "zh-TW": "Cota 301RR 試驗摩托",
+        "ja": "コタ301RR"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "299cc四冲程试验摩托车，本田技术加持的Honda Montesa主力trials车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:montesa:cota-4rt",
+      "brand": "Montesa",
+      "names": {
+        "en": "Cota 4RT",
+        "zh-CN": "Cota 4RT 试验摩托（停产）",
+        "zh-TW": "Cota 4RT 試驗摩托（停產）",
+        "ja": "コタ4RT"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2017",
+      "note": "249cc四冲程试验摩托车，基于本田CRF250R发动机，曾统治世界试验锦标赛多年",
+      "verified": "verified"
+    }
+  ]
+}

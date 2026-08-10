@@ -1,0 +1,106 @@
+{
+  "models": [
+    {
+      "id": "model:hanway:b50",
+      "brand": "Hanway",
+      "names": {
+        "en": "B50",
+        "zh-CN": "B50 Bobber",
+        "zh-TW": "B50 Bobber",
+        "ja": "B50"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:bobber",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "汉威B50，500cc双缸软尾Bobber，2022年8月发布，国产中量级软尾Bobber的先驱车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hanway:yp500",
+      "brand": "Hanway",
+      "names": {
+        "en": "YP500",
+        "zh-CN": "雅痞YP500 Bobber",
+        "zh-TW": "雅痞YP500 Bobber",
+        "ja": "YP500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:bobber",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "汉威雅痞YP500，基于B50打造的英式Bobber单座版，498cc直列双缸水冷，英伦复古风十足",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hanway:b40",
+      "brand": "Hanway",
+      "names": {
+        "en": "B40",
+        "zh-CN": "B40 巡航车",
+        "zh-TW": "B40 巡航車",
+        "ja": "B40"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "汉威B40，400cc排量级巡航车，与B50同场发布，入门复古巡航之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hanway:yp400",
+      "brand": "Hanway",
+      "names": {
+        "en": "YP400",
+        "zh-CN": "YP400 Bobber",
+        "zh-TW": "YP400 Bobber",
+        "ja": "YP400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:bobber",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "汉威YP400，400cc平价Bobber车型，主打高性价比的入门复古定制风格",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hanway:hs-125",
+      "brand": "Hanway",
+      "names": {
+        "en": "HS 125 Scrambler",
+        "zh-CN": "HS 125 攀爬者",
+        "zh-TW": "HS 125 攀爬者",
+        "ja": "HS125スクランブラー"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "汉威HS 125 Scrambler，125cc复古攀爬风格车，2023北京摩展发布，售价10980元",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hanway:hc-125",
+      "brand": "Hanway",
+      "names": {
+        "en": "HC 125 Blackcafe",
+        "zh-CN": "HC 125 咖啡赛车",
+        "zh-TW": "HC 125 咖啡賽車",
+        "ja": "HC125ブラックカフェ"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:cafe-racer",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "汉威HC 125 Blackcafe，125cc咖啡赛车风格复古车，与HS 125同场发布",
+      "verified": "verified"
+    }
+  ]
+}

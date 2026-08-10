@@ -1,0 +1,531 @@
+{
+  "models": [
+    {
+      "id": "model:vespa:primavera-125",
+      "brand": "Vespa",
+      "names": {
+        "en": "Primavera 125",
+        "zh-CN": "Primavera 125 春天 踏板车",
+        "zh-TW": "Primavera 125 春天 踏板車",
+        "ja": "プリマヴェーラ125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "Vespa经典中小型踏板，圆灯圆润车身，125cc四冲程，欧洲都市通勤代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:sprint-150",
+      "brand": "Vespa",
+      "names": {
+        "en": "Sprint 150",
+        "zh-CN": "Sprint 150 冲刺150 踏板车",
+        "zh-TW": "Sprint 150 衝刺150 踏板車",
+        "ja": "スプリント150"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "Primavera运动版，线条更凌厉带方形大灯，155cc排量",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:gts-300",
+      "brand": "Vespa",
+      "names": {
+        "en": "GTS 300",
+        "zh-CN": "GTS 300 踏板车",
+        "zh-TW": "GTS 300 踏板車",
+        "ja": "GTS300"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "Vespa旗舰大踏板，278cc发动机，动力充沛，都市与高速兼顾",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:gtv-300",
+      "brand": "Vespa",
+      "names": {
+        "en": "GTV 300",
+        "zh-CN": "GTV 300 复古踏板车",
+        "zh-TW": "GTV 300 復古踏板車",
+        "ja": "GTV300"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "GTS复古版，车把下方外露大灯设计致敬经典，限量风格",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:vespa-946",
+      "brand": "Vespa",
+      "names": {
+        "en": "946",
+        "zh-CN": "946 限量踏板车",
+        "zh-TW": "946 限量踏板車",
+        "ja": "946"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "2013年百年纪念限量车型，全铝合金车身，手工打造，奢华收藏级",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:elettrica",
+      "brand": "Vespa",
+      "names": {
+        "en": "Elettrica",
+        "zh-CN": "Elettrica 纯电踏板车",
+        "zh-TW": "Elettrica 純電踏板車",
+        "ja": "エレットリカ"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2018–present",
+      "note": "Vespa纯电踏板，续航约100km，保留经典造型，静音环保",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:primavera-50",
+      "brand": "Vespa",
+      "names": {
+        "en": "Primavera 50",
+        "zh-CN": "Primavera 50 春天 轻便踏板车",
+        "zh-TW": "Primavera 50 春天 輕便踏板車",
+        "ja": "プリマヴェーラ50"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "Primavera系列50cc轻便版，燃油经济，欧洲青少年通勤首选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:vespa-98",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa 98",
+        "zh-CN": "Vespa 98 首款踏板车",
+        "zh-TW": "Vespa 98 首款踏板車",
+        "ja": "ベスパ98"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1946–1948",
+      "note": "1946年推出的全球首款Vespa，源自MP6原型，98cc二冲程三速引擎，开创世界踏板车时代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:vespa-125",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa 125",
+        "zh-CN": "Vespa 125 经典踏板车",
+        "zh-TW": "Vespa 125 經典踏板車",
+        "ja": "ベスパ125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1948–1957",
+      "note": "1948年推出的125cc版本，首配后轮悬挂与改良前悬，因《罗马假日》电影闻名全球",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:vba-125",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa VBA 125",
+        "zh-CN": "Vespa VBA 125 经典踏板车",
+        "zh-TW": "Vespa VBA 125 經典踏板車",
+        "ja": "ベスパVBA125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1953–1957",
+      "note": "1953年推出的125cc宽框架车型，大灯移至车把，经典圆润造型，战后大众通勤主力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:gs-150",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa GS 150",
+        "zh-CN": "Vespa GS 150 运动踏板车",
+        "zh-TW": "Vespa GS 150 運動踏板車",
+        "ja": "ベスパGS150"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1955–1961",
+      "note": "1955年推出的Gran Sport运动款，150cc强化二冲程引擎，长座垫配整流罩车头，运动踏板先驱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:vbb-150",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa VBB 150",
+        "zh-CN": "Vespa VBB 150 经典踏板车",
+        "zh-TW": "Vespa VBB 150 經典踏板車",
+        "ja": "ベスパVBB150"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1957–1965",
+      "note": "1957年推出的150cc宽框架车型，动力充沛造型优雅，长销至60年代中期的意大利经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:gs-160",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa GS 160",
+        "zh-CN": "Vespa GS 160 运动踏板车",
+        "zh-TW": "Vespa GS 160 運動踏板車",
+        "ja": "ベスパGS160"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1962–1964",
+      "note": "1962年推出的GS系列强化版，160cc动力提升，整流罩车头，60年代运动踏板代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:vespa-50",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa 50",
+        "zh-CN": "Vespa 50 轻便踏板车",
+        "zh-TW": "Vespa 50 輕便踏板車",
+        "ja": "ベスパ50"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1963–1971",
+      "note": "1963年推出的小框架50cc轻便车型，省油易驾，开启Vespa小排量时代，欧洲通勤经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:180-ss",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa 180 SS",
+        "zh-CN": "Vespa 180 SS 运动踏板车",
+        "zh-TW": "Vespa 180 SS 運動踏板車",
+        "ja": "ベスパ180SS"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1964–1968",
+      "note": "1964年推出的Super Sport旗舰，180cc大排量二冲程，极速出众的运动风格车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:vespa-90",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa 90",
+        "zh-CN": "Vespa 90 轻便踏板车",
+        "zh-TW": "Vespa 90 輕便踏板車",
+        "ja": "ベスパ90"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1965–1971",
+      "note": "1965年推出的小框架90cc轻便车型，与50同平台，经济实用，欧洲青少年热门",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:125-super",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa 125 Super",
+        "zh-CN": "Vespa 125 Super 运动踏板车",
+        "zh-TW": "Vespa 125 Super 運動踏板車",
+        "ja": "ベスパ125スーパー"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1965–1969",
+      "note": "1965年推出的小框架125cc运动款，Super定位操控轻巧，欧洲市场热销",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:super-150",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa Super 150",
+        "zh-CN": "Vespa Super 150 经典踏板车",
+        "zh-TW": "Vespa Super 150 經典踏板車",
+        "ja": "ベスパスーパー150"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1965–1969",
+      "note": "1965年推出的150cc大框架经典，接替VBB成为主力，现代化车头造型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:sprint-150-classic",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa Sprint 150",
+        "zh-CN": "Vespa Sprint 150 初代冲刺踏板车",
+        "zh-TW": "Vespa Sprint 150 初代衝刺踏板車",
+        "ja": "ベスパスプリント150"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1965–1979",
+      "note": "1965年推出的VLB系列运动款150，经典短尾造型，60-70年代Mod亚文化图腾",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:primavera-125-classic",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa Primavera 125",
+        "zh-CN": "Vespa Primavera 125 初代春天踏板车",
+        "zh-TW": "Vespa Primavera 125 初代春天踏板車",
+        "ja": "ベスパプリマヴェーラ125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1973",
+      "note": "1968年推出的经典小框架125，圆润车身与圆灯造型，全球畅销名车，现代Primavera前身",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:rally-180",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa Rally 180",
+        "zh-CN": "Vespa Rally 180 经典竞速踏板车",
+        "zh-TW": "Vespa Rally 180 經典競速踏板車",
+        "ja": "ベスパラリー180"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1973",
+      "note": "1968年推出的运动版，180cc强劲动力，车头下置大灯致敬初代设计，收藏热门",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:p125x",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa P125X",
+        "zh-CN": "Vespa P125X 经典踏板车",
+        "zh-TW": "Vespa P125X 經典踏板車",
+        "ja": "ベスパP125X"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1978–1982",
+      "note": "1978年P系列首代125cc，全新设计语言，方形车头与尾灯，开启P系列时代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:p150x",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa P150X",
+        "zh-CN": "Vespa P150X 经典踏板车",
+        "zh-TW": "Vespa P150X 經典踏板車",
+        "ja": "ベスパP150X"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1978–1982",
+      "note": "1978年P系列首代150cc，P125X兄弟车型，动力更充沛",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:px200e",
+      "brand": "Vespa",
+      "names": {
+        "en": "P200E",
+        "zh-CN": "P200E 经典踏板",
+        "zh-TW": "P200E 經典踏板",
+        "ja": "P200E"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1978–1995",
+      "note": "Vespa P系列旗舰，198cc二冲程单缸，经典圆润车身，全球踏板文化图腾",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:pk-125",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa PK 125",
+        "zh-CN": "Vespa PK 125 经典踏板车",
+        "zh-TW": "Vespa PK 125 經典踏板車",
+        "ja": "ベスパPK125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1982–1996",
+      "note": "1982年推出的PK系列125cc，小框架平台继承者，S/XLS/FL2多代演进，含自动变速版本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:t5",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa T5",
+        "zh-CN": "Vespa T5 运动踏板车",
+        "zh-TW": "Vespa T5 運動踏板車",
+        "ja": "ベスパT5"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1985–1990",
+      "note": "1985年推出的P系列高性能125，5扫气口竞赛级引擎，方形运动车头，经典收藏款",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:cosa-200",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa Cosa 200",
+        "zh-CN": "Vespa Cosa 200 经典踏板车",
+        "zh-TW": "Vespa Cosa 200 經典踏板車",
+        "ja": "ベスパコーサ200"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1988–1995",
+      "note": "1988年推出的Cosa系列200cc，全新设计大框架，前液压悬挂与数字仪表，现代化尝试",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:et2-50",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa ET2 50",
+        "zh-CN": "Vespa ET2 50 现代化踏板车",
+        "zh-TW": "Vespa ET2 50 現代化踏板車",
+        "ja": "ベスパET2 50"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2005",
+      "note": "1997年推出的现代化自动挡50cc二冲程，圆润新潮车身，开启Vespa现代化新纪元",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:et4-125",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa ET4 125",
+        "zh-CN": "Vespa ET4 125 现代化踏板车",
+        "zh-TW": "Vespa ET4 125 現代化踏板車",
+        "ja": "ベスパET4 125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1996–2005",
+      "note": "1996年推出的ET系列四冲程125，全自动变速，现代Vespa复兴的开端车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:gt-200",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa GT 200 Granturismo",
+        "zh-CN": "Vespa GT 200 Granturismo 大踏板车",
+        "zh-TW": "Vespa GT 200 Granturismo 大踏板車",
+        "ja": "ベスパGT200グラントゥーリズモ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2008",
+      "note": "2003年推出的GT大框架系列，200cc四冲程引擎，12英寸大轮径，主打长途舒适骑行",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vespa:gts-250",
+      "brand": "Vespa",
+      "names": {
+        "en": "Vespa GTS 250",
+        "zh-CN": "Vespa GTS 250 初代大踏板车",
+        "zh-TW": "Vespa GTS 250 初代大踏板車",
+        "ja": "ベスパGTS250"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2010",
+      "note": "2005年推出的GTS系列初代，250cc电喷引擎，现代Vespa大踏板旗舰的开端",
+      "verified": "verified"
+    }
+  ]
+}

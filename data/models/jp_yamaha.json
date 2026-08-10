@@ -1,0 +1,2112 @@
+{
+  "models": [
+    {
+      "id": "model:yamaha:mt-03",
+      "brand": "Yamaha",
+      "names": {
+        "en": "MT-03",
+        "zh-CN": "MT-03 入门街车",
+        "zh-TW": "MT-03 入門街車",
+        "ja": "MT-03"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "与YZF-R3同平台，321cc并列双缸，入门街车代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:mt-07",
+      "brand": "Yamaha",
+      "names": {
+        "en": "MT-07",
+        "zh-CN": "MT-07 扭力大师",
+        "zh-TW": "MT-07 扭力大師",
+        "ja": "MT-07"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "689cc并列双缸Crossplane概念，低扭强劲，中量级性价比之王",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:mt-09",
+      "brand": "Yamaha",
+      "names": {
+        "en": "MT-09",
+        "zh-CN": "MT-09 三缸街车",
+        "zh-TW": "MT-09 三缸街車",
+        "ja": "MT-09"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "890cc并列三缸，扭矩充沛，电子配置丰富，2024年大改款",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:mt-10",
+      "brand": "Yamaha",
+      "names": {
+        "en": "MT-10",
+        "zh-CN": "MT-10 公升级街车",
+        "zh-TW": "MT-10 公升級街車",
+        "ja": "MT-10"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "搭载R1同款十字曲轴四缸发动机，公升级街车旗舰，SP版配Ohlins",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yzf-r3",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YZF-R3",
+        "zh-CN": "YZF-R3 小排量仿赛",
+        "zh-TW": "YZF-R3 小排量仿賽",
+        "ja": "YZF-R3"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "321cc并列双缸入门仿赛，M1同家族外观设计，赛道入门好选择",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yzf-r6",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YZF-R6",
+        "zh-CN": "YZF-R6 中量级仿赛（赛道专供）",
+        "zh-TW": "YZF-R6 中量級仿賽（賽道專供）",
+        "ja": "YZF-R6"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1999–2020",
+      "note": "中量级四缸仿赛传奇，2020年停产民用版，现为Race Only赛道版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yzf-r1-r1m",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YZF-R1 / R1M",
+        "zh-CN": "YZF-R1/R1M 旗舰仿赛",
+        "zh-TW": "YZF-R1/R1M 旗艦仿賽",
+        "ja": "YZF-R1/R1M"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "公升级四缸旗舰仿赛，十字曲轴发动机，R1M配Ohlins+碳纤维MotoGP技术",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:fz1-fazer",
+      "brand": "Yamaha",
+      "names": {
+        "en": "FZ-1 / FZ1 FAZER",
+        "zh-CN": "FZ1 FAZER 老款街车（停产）",
+        "zh-TW": "FZ1 FAZER 老款街車（停產）",
+        "ja": "FZ1 フェザー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2001–2015",
+      "note": "初代R1发动机街车化，MT-10前身，经典公升级街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:tracer-7-tracer-9",
+      "brand": "Yamaha",
+      "names": {
+        "en": "Tracer 7 / Tracer 9 / GT",
+        "zh-CN": "Tracer 7/9 GT 运动旅行",
+        "zh-TW": "Tracer 7/9 GT 運動旅行",
+        "ja": "トレーサー7/9 GT"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "MT系列同平台运动旅行车，GT版带边箱，长途舒适+运动性能",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:tenere-700",
+      "brand": "Yamaha",
+      "names": {
+        "en": "Tenere 700",
+        "zh-CN": "Tenere 700 T7 硬派探险",
+        "zh-TW": "Tenere 700 T7 硬派探險",
+        "ja": "テネレ700"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "硬派ADV标杆，MT-07同款双缸，钢管车架，专注越野性能",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:super-tenere-xt1200z",
+      "brand": "Yamaha",
+      "names": {
+        "en": "Super Tenere XT1200Z",
+        "zh-CN": "超级泰内雷 XT1200Z 大探险（停产）",
+        "zh-TW": "超級泰內雷 XT1200Z 大探險（停產）",
+        "ja": "スーパーテネレ XT1200Z"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2021",
+      "note": "1200cc并列双缸大ADV，轴传动，达喀尔赛事技术下放",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xvs950-bolt",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XVS950 Bolt / XVS1300",
+        "zh-CN": "XVS950 Bolt V缸巡航",
+        "zh-TW": "XVS950 Bolt V缸巡航",
+        "ja": "XVS950 ボルト/XVS1300"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "美式Bobber风格V缸巡航，950cc/1300cc两档，极简改装风格",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:vmax",
+      "brand": "Yamaha",
+      "names": {
+        "en": "VMAX",
+        "zh-CN": "VMAX 大魔鬼（停产经典）",
+        "zh-TW": "VMAX 大魔鬼（停產經典）",
+        "ja": "V-MAX"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1985–2020",
+      "note": "1700cc V4大魔鬼，肌肉巡航传奇，V-Boost加速系统名震一时",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xjr1300",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XJR1300",
+        "zh-CN": "XJR1300 直四复古街车（停产）",
+        "zh-TW": "XJR1300 直四復古街車（停產）",
+        "ja": "XJR1300"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1999–2018",
+      "note": "1250cc气冷直列四缸，复古街车代表，最后期配Öhlins悬挂",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xmax",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XMAX 300 / 250",
+        "zh-CN": "XMAX 踏板车",
+        "zh-TW": "XMAX 踏板車",
+        "ja": "XMAX300/250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2006–present",
+      "note": "中高端大踏板，Blue Core发动机，TCS循迹，大储物空间",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:nmax",
+      "brand": "Yamaha",
+      "names": {
+        "en": "NMAX 155 / 125",
+        "zh-CN": "NMAX 踏板车",
+        "zh-TW": "NMAX 踏板車",
+        "ja": "NMAX155/125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "155cc VVA可变气门踏板，东南亚畅销，ABS+TCS",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:tmax-560",
+      "brand": "Yamaha",
+      "names": {
+        "en": "TMAX 560 / Tech Max",
+        "zh-CN": "TMAX 560 大绵羊旗舰",
+        "zh-TW": "TMAX 560 大綿羊旗艦",
+        "ja": "TMAX 560 テックマックス"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "大绵羊之王，562cc并列双缸，运动性能媲美街车，Tech Max顶配版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:sr400",
+      "brand": "Yamaha",
+      "names": {
+        "en": "SR400",
+        "zh-CN": "SR400 单缸复古街车（停产）",
+        "zh-TW": "SR400 單缸復古街車（停產）",
+        "ja": "SR400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1978–2021",
+      "note": "经典单缸复古，长期保留脚启动，43年传奇生涯落幕",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xsr700-xsr900",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XSR700 / XSR900",
+        "zh-CN": "XSR700/900 复古街车",
+        "zh-TW": "XSR700/900 復古街車",
+        "ja": "XSR700/XSR900"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "Sport Heritage系列，MT同平台复古外观，Legacy Yellow经典配色",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:ys250-fazer-fz25",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YS250 Fazer / FZ25",
+        "zh-CN": "YS250 Fazer / FZ25 街车",
+        "zh-TW": "YS250 Fazer / FZ25 街車",
+        "ja": "FZ25/フェザー250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "新兴市场250cc蓝芯街车，FZ25国内名飞致250，油耗极低",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yzf-r125",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YZF-R125",
+        "zh-CN": "YZF-R125 小排量仿赛",
+        "zh-TW": "YZF-R125 小排量仿賽",
+        "ja": "YZF-R125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2008–present",
+      "note": "125cc单缸入门仿赛，欧洲A1驾照热门车型，R系列家族化外观",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yzf-r15",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YZF-R15",
+        "zh-CN": "YZF-R15 入门仿赛",
+        "zh-TW": "YZF-R15 入門仿賽",
+        "ja": "YZF-R15"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "155cc单缸VVA可变气门，东南亚印度市场明星入门跑车，操控出色",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:mt-15",
+      "brand": "Yamaha",
+      "names": {
+        "en": "MT-15",
+        "zh-CN": "MT-15 入门街车",
+        "zh-TW": "MT-15 入門街車",
+        "ja": "MT-15"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "R15同平台街车版，155cc单缸，MT家族暗黑风格，新兴市场畅销",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:tw200",
+      "brand": "Yamaha",
+      "names": {
+        "en": "TW200",
+        "zh-CN": "TW200 胖胎两用车",
+        "zh-TW": "TW200 胖胎兩用車",
+        "ja": "TW200"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1987–present",
+      "note": "196cc单缸+肥厚越野胎，复古玩乐型两用车，美国市场长青经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xt250",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XT250",
+        "zh-CN": "XT250 林道两用车",
+        "zh-TW": "XT250 林道兩用車",
+        "ja": "XT250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1980–present",
+      "note": "249cc单缸轻量两用车，重量轻操控好，越野通勤两相宜",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:fjr1300",
+      "brand": "Yamaha",
+      "names": {
+        "en": "FJR1300",
+        "zh-CN": "FJR1300 运动旅行车",
+        "zh-TW": "FJR1300 運動旅行車",
+        "ja": "FJR1300"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2001–present",
+      "note": "1298cc四缸运动旅行标杆，轴传动+电动风挡，长途巡航舒适可靠",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:majesty-400",
+      "brand": "Yamaha",
+      "names": {
+        "en": "Majesty 400",
+        "zh-CN": "Majesty 400 大绵羊",
+        "zh-TW": "Majesty 400 大綿羊",
+        "ja": "マジェスティ400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2004–present",
+      "note": "395cc水冷大踏板，大沙发座椅+电动风挡，日系大绵羊先驱之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:jog",
+      "brand": "Yamaha",
+      "names": {
+        "en": "Jog",
+        "zh-CN": "Jog 巧格 踏板车",
+        "zh-TW": "Jog 巧格 踏板車",
+        "ja": "ジョグ"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1982–present",
+      "note": "49cc轻踏板，日本本土与东南亚畅销40余年，国内称巧格，改装文化浓厚",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:cygnus-x",
+      "brand": "Yamaha",
+      "names": {
+        "en": "Cygnus X",
+        "zh-CN": "Cygnus X 劲战 踏板车",
+        "zh-TW": "Cygnus X 勁戰 機車",
+        "ja": "シグナスX"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2002–present",
+      "note": "台湾市场经典运动踏板，125cc，改装文化浓厚，现款升级为Cygnus Gryphus",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:wr250r",
+      "brand": "Yamaha",
+      "names": {
+        "en": "WR250R",
+        "zh-CN": "WR250R 林道越野（停产）",
+        "zh-TW": "WR250R 林道越野（停產）",
+        "ja": "WR250R"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2020",
+      "note": "250cc水冷单缸可上牌林道越野，整备质量仅134kg，越野性能标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yz450f",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YZ450F",
+        "zh-CN": "YZ450F 场地越野",
+        "zh-TW": "YZ450F 場地越野",
+        "ja": "YZ450F"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2003–present",
+      "note": "449cc四冲程场地越野赛车，反向汽缸设计重心更低，AMA越野赛常胜车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:rd350",
+      "brand": "Yamaha",
+      "names": {
+        "en": "RD350",
+        "zh-CN": "RD350 二冲程街跑（停产）",
+        "zh-TW": "RD350 二衝程街跑（停產）",
+        "ja": "RD350"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1973–1990",
+      "note": "347cc并列双缸二冲程名机，后期改水冷，速度与操控的传奇之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yz250f",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YZ250F",
+        "zh-CN": "YZ250F 场地越野",
+        "zh-TW": "YZ250F 場地越野",
+        "ja": "YZ250F"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2001–present",
+      "note": "四冲程250cc场地越野赛车，YZ450F技术下放，MX2组别主力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yz250",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YZ250",
+        "zh-CN": "YZ250 二冲程场地越野",
+        "zh-TW": "YZ250 二衝程場地越野",
+        "ja": "YZ250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1974–present",
+      "note": "250cc二冲程场地越野常青树，二冲程最后的坚守，至今仍在产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yz125",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YZ125",
+        "zh-CN": "YZ125 场地越野",
+        "zh-TW": "YZ125 場地越野",
+        "ja": "YZ125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1974–present",
+      "note": "125cc二冲程场地越野赛车，入门MX黄金排量，轻量易控",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yz85",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YZ85",
+        "zh-CN": "YZ85 青少年场地越野",
+        "zh-TW": "YZ85 青少年場地越野",
+        "ja": "YZ85"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2001–present",
+      "note": "85cc二冲程青少年场地越野赛车，小排量MX赛事主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yz65",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YZ65",
+        "zh-CN": "YZ65 儿童场地越野",
+        "zh-TW": "YZ65 兒童場地越野",
+        "ja": "YZ65"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "65cc二冲程儿童场地越野赛车，配备YPVS可变排气，入门MX启蒙车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yz450fx",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YZ450FX",
+        "zh-CN": "YZ450FX 闭场越野",
+        "zh-TW": "YZ450FX 閉場越野",
+        "ja": "YZ450FX"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "YZ450F闭场越野版，18英寸后轮+加大油箱，GNCC赛事常胜军",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yz250fx",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YZ250FX",
+        "zh-CN": "YZ250FX 闭场越野",
+        "zh-TW": "YZ250FX 閉場越野",
+        "ja": "YZ250FX"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "YZ250F闭场越野版，电启动+18英寸后轮，越野赛事利器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yz250x",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YZ250X",
+        "zh-CN": "YZ250X 二冲程闭场越野",
+        "zh-TW": "YZ250X 二衝程閉場越野",
+        "ja": "YZ250X"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "二冲程越野版YZ250，闭场越野与耐力赛取向，二冲程情怀之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:wr450f",
+      "brand": "Yamaha",
+      "names": {
+        "en": "WR450F",
+        "zh-CN": "WR450F 耐力越野",
+        "zh-TW": "WR450F 耐力越野",
+        "ja": "WR450F"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2003–present",
+      "note": "450cc四冲程耐力越野车，部分市场可上牌，越野赛事与穿越两相宜",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:wr250f",
+      "brand": "Yamaha",
+      "names": {
+        "en": "WR250F",
+        "zh-CN": "WR250F 耐力越野",
+        "zh-TW": "WR250F 耐力越野",
+        "ja": "WR250F"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2001–present",
+      "note": "250cc四冲程耐力越野车，YZ250F同平台，赛事与练习兼顾",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:tt-r125",
+      "brand": "Yamaha",
+      "names": {
+        "en": "TT-R125",
+        "zh-CN": "TT-R125 青少年林道车",
+        "zh-TW": "TT-R125 青少年林道車",
+        "ja": "TT-R125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2001–present",
+      "note": "124cc气冷单缸青少年林道车，电启动+自动离合，越野入门之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:pw50",
+      "brand": "Yamaha",
+      "names": {
+        "en": "PW50",
+        "zh-CN": "PW50 儿童越野车",
+        "zh-TW": "PW50 兒童越野車",
+        "ja": "PW50"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1981–present",
+      "note": "49cc二冲程儿童越野车，全球销量最大的儿童摩托，初学者神器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:rd500lc",
+      "brand": "Yamaha",
+      "names": {
+        "en": "RD500LC",
+        "zh-CN": "RD500LC 二冲程V4仿赛（停产）",
+        "zh-TW": "RD500LC 二衝程V4仿賽（停產）",
+        "ja": "RD500LC"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–1987",
+      "note": "499cc V型四缸二冲程旗舰跑车，GP赛车复刻量产，两冲程黄金时代代表作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:rz350",
+      "brand": "Yamaha",
+      "names": {
+        "en": "RZ350",
+        "zh-CN": "RZ350 二冲程跑车（停产）",
+        "zh-TW": "RZ350 二衝程跑車（停產）",
+        "ja": "RZ350"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1983–1990",
+      "note": "347cc二冲程并列双缸，YPVS可变排气技术，80年代传奇小钢炮",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:tz750",
+      "brand": "Yamaha",
+      "names": {
+        "en": "TZ750",
+        "zh-CN": "TZ750 二冲程GP赛车（停产）",
+        "zh-TW": "TZ750 二衝程GP賽車（停產）",
+        "ja": "TZ750"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–1979",
+      "note": "748cc直列四缸二冲程GP赛车，雅马哈赛道霸主，绰号'街道火箭'",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xs650",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XS650",
+        "zh-CN": "XS650 双缸复古街车（停产）",
+        "zh-TW": "XS650 雙缸復古街車（停產）",
+        "ja": "XS650"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1970–1983",
+      "note": "653cc风冷双缸复古街车，咖啡馆改装圈经典底子，雅马哈70年代功臣",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:fj1100",
+      "brand": "Yamaha",
+      "names": {
+        "en": "FJ1100",
+        "zh-CN": "FJ1100 运动旅行车（停产）",
+        "zh-TW": "FJ1100 運動旅行車（停產）",
+        "ja": "FJ1100"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–1986",
+      "note": "1097cc直列四缸全整流罩运动旅行车，FJ1200前身，长途高速利器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:fzr1000",
+      "brand": "Yamaha",
+      "names": {
+        "en": "FZR1000",
+        "zh-CN": "FZR1000 公升仿赛（停产）",
+        "zh-TW": "FZR1000 公升仿賽（停產）",
+        "ja": "FZR1000"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1987–1995",
+      "note": "989cc直列四缸超级运动车，1989年加入EXUP可变排气，公升仿赛标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yzf-r1-gen1",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YZF-R1 (First Gen)",
+        "zh-CN": "YZF-R1 初代 公升仿赛（停产）",
+        "zh-TW": "YZF-R1 初代 公升仿賽（停產）",
+        "ja": "YZF-R1（初代）"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1998–1999",
+      "note": "1998年初代R1横空出世，998cc紧凑短轴距，超级运动车革命之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:sr500",
+      "brand": "Yamaha",
+      "names": {
+        "en": "SR500",
+        "zh-CN": "SR500 单缸复古街车（停产）",
+        "zh-TW": "SR500 單缸復古街車（停產）",
+        "ja": "SR500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1978–1999",
+      "note": "499cc风冷单缸复古车，脚启动情怀之选，SR400的大哥",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xt600",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XT600",
+        "zh-CN": "XT600 林道两用车（停产）",
+        "zh-TW": "XT600 林道兩用車（停產）",
+        "ja": "XT600"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1983–2003",
+      "note": "595cc单缸长途林道车，XT系列传奇，撒哈拉穿越经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xv750",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XV750 Virago",
+        "zh-CN": "XV750 Virago V缸巡航（停产）",
+        "zh-TW": "XV750 Virago V缸巡航（停產）",
+        "ja": "XV750 ビラーゴ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1981–1999",
+      "note": "748cc V型双缸Virago巡航车，日系美式巡航先驱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:ya-1",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YA-1",
+        "zh-CN": "YA-1 红蜻蜓 125cc",
+        "zh-TW": "YA-1 紅蜻蜓 125cc",
+        "ja": "YA-1（赤とんぼ）"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1955–1958",
+      "note": "雅马哈量产第一号摩托车，123cc二冲程单缸，源自德国DKW RT125技术，昵称红蜻蜓，日本自动车技术会历史遗产车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yb-1",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YB-1",
+        "zh-CN": "YB-1 125cc 二冲程街车",
+        "zh-TW": "YB-1 125cc 二衝程街車",
+        "ja": "YB-1"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1955–1957",
+      "note": "1955年底推出的YA-1改进版，排量增大4cc以降低转速，与红蜻蜓同属雅马哈起步期的量产车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yc-1",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YC-1",
+        "zh-CN": "YC-1 175cc 二冲程街车",
+        "zh-TW": "YC-1 175cc 二衝程街車",
+        "ja": "YC-1"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1956–1958",
+      "note": "雅马哈第二款量产车，175cc（实际174cc）二冲程单缸，1956年4月投产，YA-1的正式后继车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yd-1",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YD-1",
+        "zh-CN": "YD-1 250cc 二冲程双缸街车",
+        "zh-TW": "YD-1 250cc 二衝程雙缸街車",
+        "ja": "YD-1"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1957–1959",
+      "note": "雅马哈首款250cc二冲程并列双缸，1957年上市，开创雅马哈双缸街车传统，YD-2/YD-3一脉相承",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yds-3",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YDS-3",
+        "zh-CN": "YDS-3 250cc 二冲程运动街车",
+        "zh-TW": "YDS-3 250cc 二衝程運動街車",
+        "ja": "YDS-3"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1964–1969",
+      "note": "246cc二冲程并列双缸，搭载世界首款二冲程自动分离润滑系统（Autolube），1960年代雅马哈运动车代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:ys-1",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YS-1",
+        "zh-CN": "YS-1 250cc 二冲程运动街车",
+        "zh-TW": "YS-1 250cc 二衝程運動街車",
+        "ja": "YS-1"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1967–1969",
+      "note": "1967年推出的246cc二冲程并列双缸运动街车，轻快操控，二冲程黄金时代的前驱车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:rd250",
+      "brand": "Yamaha",
+      "names": {
+        "en": "RD250",
+        "zh-CN": "RD250 二冲程双缸跑车",
+        "zh-TW": "RD250 二衝程雙缸跑車",
+        "ja": "RD250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1973–1987",
+      "note": "247cc二冲程并列双缸，RD系列代表作，日本/澳洲市场又名RZ250，后期改水冷并搭载YPVS可变排气",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:rd400",
+      "brand": "Yamaha",
+      "names": {
+        "en": "RD400",
+        "zh-CN": "RD400 二冲程双缸跑车",
+        "zh-TW": "RD400 二衝程雙缸跑車",
+        "ja": "RD400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1976–1979",
+      "note": "399cc气冷二冲程并列双缸，RD350扩缸版，主要为北美市场打造，70年代末性能街车代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:tzr250",
+      "brand": "Yamaha",
+      "names": {
+        "en": "TZR250",
+        "zh-CN": "TZR250 二冲程仿赛",
+        "zh-TW": "TZR250 二衝程仿賽",
+        "ja": "TZR250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1986–1995",
+      "note": "249cc二冲程跑车，由并列双缸发展到90度V型双缸，搭载YPVS可变排气，二冲程仿赛巅峰之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:dt-1",
+      "brand": "Yamaha",
+      "names": {
+        "en": "DT-1",
+        "zh-CN": "DT-1 250cc 越野开创者",
+        "zh-TW": "DT-1 250cc 越野開創者",
+        "ja": "DT-1"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1971",
+      "note": "1968年推出，被公认为世界首款真正的量产越野摩托车，246cc二冲程单缸，开创了trail bike新品类",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:dt250",
+      "brand": "Yamaha",
+      "names": {
+        "en": "DT250",
+        "zh-CN": "DT250 250cc 林道两用车",
+        "zh-TW": "DT250 250cc 林道兩用車",
+        "ja": "DT250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1972–1977",
+      "note": "DT-1后继车型，246cc二冲程单缸林道车，1970年代美国越野摩托车热潮的主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:mx400",
+      "brand": "Yamaha",
+      "names": {
+        "en": "MX400",
+        "zh-CN": "MX400 400cc 场地越野",
+        "zh-TW": "MX400 400cc 場地越野",
+        "ja": "MX400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1976–1979",
+      "note": "397cc二冲程单缸场地越野赛车，MX系列中坚型号，1970年代后半期越野赛事主力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xs750",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XS750",
+        "zh-CN": "XS750 750cc 三缸街车",
+        "zh-TW": "XS750 750cc 三缸街車",
+        "ja": "XS750"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1976–1981",
+      "note": "747cc风冷三缸四冲程街车，雅马哈首款三缸机，轴传动，XS四冲程家族承上启下之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xs1100",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XS1100",
+        "zh-CN": "XS1100 1100cc 四缸街车",
+        "zh-TW": "XS1100 1100cc 四缸街車",
+        "ja": "XS1100（XSイレブン）"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1977–1983",
+      "note": "1101cc风冷四缸，别名XS Eleven，1978年亮相时是当时排量最大的量产摩托之一，轴传动长途巡航利器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xj650",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XJ650",
+        "zh-CN": "XJ650 650cc 四缸街车",
+        "zh-TW": "XJ650 650cc 四缸街車",
+        "ja": "XJ650"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1980–1985",
+      "note": "653cc风冷四缸街车，Maxim与Seca两种形态，80年代初期中量级主力，轻快易操控",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:fj1200",
+      "brand": "Yamaha",
+      "names": {
+        "en": "FJ1200",
+        "zh-CN": "FJ1200 1200cc 运动旅行",
+        "zh-TW": "FJ1200 1200cc 運動旅行",
+        "ja": "FJ1200"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1986–1996",
+      "note": "1188cc气冷四缸运动旅行车，FJ1100升级版，欧洲长途旅行常青树，1991年起可选ABS",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:fzx750",
+      "brand": "Yamaha",
+      "names": {
+        "en": "FZX750",
+        "zh-CN": "FZX750 750cc V4街车",
+        "zh-TW": "FZX750 750cc V4街車",
+        "ja": "FZX750"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1986–1991",
+      "note": "749cc水冷V型四缸街车（Fazer），短轴距操控灵活，80年代末四缸热潮中的个性之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:fzr400",
+      "brand": "Yamaha",
+      "names": {
+        "en": "FZR400",
+        "zh-CN": "FZR400 400cc 仿赛",
+        "zh-TW": "FZR400 400cc 仿賽",
+        "ja": "FZR400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1987–1994",
+      "note": "399cc水冷四缸仿赛，铝合金Delta车架，日本本土400cc仿赛黄金时代代表，弯道性能一流",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xt500",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XT500",
+        "zh-CN": "XT500 500cc 单缸两用车",
+        "zh-TW": "XT500 500cc 單缸兩用車",
+        "ja": "XT500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1976–1989",
+      "note": "499cc风冷单缸两用车，1979年巴黎达喀尔冠军车型，越野拉力赛大单缸传奇，与SR500共用动力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:tdm850",
+      "brand": "Yamaha",
+      "names": {
+        "en": "TDM850",
+        "zh-CN": "TDM850 850cc 公路ADV",
+        "zh-TW": "TDM850 850cc 公路ADV",
+        "ja": "TDM850"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1991–2001",
+      "note": "849cc水冷双缸，公路型冒险车先驱，发动机源自达喀尔冠军XTZ750，后期改270度曲轴低扭充沛",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xtz750",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XTZ750 Super Ténéré",
+        "zh-CN": "XTZ750 Super Ténéré 达喀尔ADV",
+        "zh-TW": "XTZ750 Super Ténéré 達卡ADV",
+        "ja": "XTZ750 スーパーテネレ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1989–1996",
+      "note": "749cc水冷双缸探险车，1991年巴黎达喀尔冠军，Super Ténéré传奇的开端，TDM850发动机的源头",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xvs650",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XVS650 DragStar",
+        "zh-CN": "XVS650 DragStar 650cc V缸巡航",
+        "zh-TW": "XVS650 DragStar 650cc V缸巡航",
+        "ja": "XVS650 ドラッグスター"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2010",
+      "note": "649cc风冷V型双缸巡航车，日文名DragStar（ドラッグスター），DragStar系列最畅销型号，美式巡航东方代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:gts1000",
+      "brand": "Yamaha",
+      "names": {
+        "en": "GTS1000",
+        "zh-CN": "GTS1000 1000cc 运动旅行",
+        "zh-TW": "GTS1000 1000cc 運動旅行",
+        "ja": "GTS1000"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1993–1996",
+      "note": "998cc四缸运动旅行车，1993年推出，搭载独创的RADD轮毂中心转向前悬挂，技术超前的小众杰作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:mate",
+      "brand": "Yamaha",
+      "names": {
+        "en": "Mate",
+        "zh-CN": "Mate 50cc 弯梁商务车",
+        "zh-TW": "Mate 50cc 彎樑商務車",
+        "ja": "メイト"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:underbone",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1965–2008",
+      "note": "50cc弯梁商务车，搭载Autolube自动分离润滑，日本邮政、配送与家庭通勤国民车，生产长达43年",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:chappy",
+      "brand": "Yamaha",
+      "names": {
+        "en": "Chappy",
+        "zh-CN": "Chappy 50cc 休闲小摩托",
+        "zh-TW": "Chappy 50cc 休閒小機車",
+        "ja": "チャピィ"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:underbone",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1973–1983",
+      "note": "1973年上市的50cc休闲小摩托，圆润龟壳造型，自动挡轻巧易骑，日本家庭用车文化代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:vino",
+      "brand": "Yamaha",
+      "names": {
+        "en": "Vino",
+        "zh-CN": "Vino 50cc 复古踏板",
+        "zh-TW": "Vino 50cc 復古踏板",
+        "ja": "ビーノ"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1997–present",
+      "note": "1997年上市的古着风格50cc踏板车，复古圆灯圆润车身，由二冲程演变为四冲程水冷，至今仍在生产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yzf-r9",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YZF-R9",
+        "zh-CN": "YZF-R9 中量级仿赛（2025款）",
+        "zh-TW": "YZF-R9 中量級仿賽（2025款）",
+        "ja": "YZF-R9"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "雅马哈2025年全新中量级仿赛，890cc CP3三缸（MT-09同平台），2026款推出70周年纪念版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xsr900-gp",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XSR900 GP",
+        "zh-CN": "XSR900 GP 复古运动车（2025款）",
+        "zh-TW": "XSR900 GP 復古運動車（2025款）",
+        "ja": "XSR900 GP"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cafe-racer",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "雅马哈2025年全新Sport Heritage车型，890cc CP3三缸，致敬1980年代YZR500 GP赛车风格半导流罩",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:mt-07-2025",
+      "brand": "Yamaha",
+      "names": {
+        "en": "MT-07 (2025)",
+        "zh-CN": "MT-07 扭力大师（2025新世代）",
+        "zh-TW": "MT-07 扭力大師（2025新世代）",
+        "ja": "MT-07"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "雅马哈2025年全新一代MT-07，689cc CP2双缸强化中低扭，可选Y-AMT手自一体变速箱，全新车架与骑行三角",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:tenere-700-world-raid-2026",
+      "brand": "Yamaha",
+      "names": {
+        "en": "Ténéré 700 World Raid",
+        "zh-CN": "Ténéré 700 World Raid 拉力探险（2026款）",
+        "zh-TW": "Ténéré 700 World Raid 拉力探險（2026款）",
+        "ja": "テネレ700 ワールドレイド"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026款Ténéré 700 World Raid，689cc CP2双缸，首次搭载6轴IMU与弯道ABS，升级全可调悬挂与大容量油箱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yds-1",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YDS-1",
+        "zh-CN": "YDS-1 250cc 二冲程运动街车",
+        "zh-TW": "YDS-1 250cc 二衝程運動街車",
+        "ja": "YDS-1"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1963–1964",
+      "note": "246cc二冲程并列双缸，YDS系列首作，搭载Autolube自动分离润滑系统，1960年代雅马哈运动车先驱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yds-2",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YDS-2",
+        "zh-CN": "YDS-2 250cc 二冲程运动街车",
+        "zh-TW": "YDS-2 250cc 二衝程運動街車",
+        "ja": "YDS-2"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1964–1967",
+      "note": "YDS-1改进版，246cc二冲程并列双缸，改进悬挂与制动，YDS-3的前身",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yr-1",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YR-1",
+        "zh-CN": "YR-1 250cc 二冲程运动街车",
+        "zh-TW": "YR-1 250cc 二衝程運動街車",
+        "ja": "YR-1"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1967–1969",
+      "note": "246cc二冲程并列双缸，YS-1后继高端运动车型，造型更运动化，1960年代末性能街车代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yr-2-3",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YR-2 / YR-3",
+        "zh-CN": "YR-2/YR-3 350cc 二冲程运动街车",
+        "zh-TW": "YR-2/YR-3 350cc 二衝程運動街車",
+        "ja": "YR-2/YR-3"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1971",
+      "note": "347cc二冲程并列双缸，YR-1的350cc扩缸版，1970年升级为YR-3（5速），R5系列前身",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:r5",
+      "brand": "Yamaha",
+      "names": {
+        "en": "R5",
+        "zh-CN": "R5 350cc 二冲程运动街车",
+        "zh-TW": "R5 350cc 二衝程運動街車",
+        "ja": "R5"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1970–1973",
+      "note": "347cc二冲程并列双缸，YR-3后继车型，强劲350cc小钢炮，RD350直接前身",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xs-1",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XS-1 / XS-2",
+        "zh-CN": "XS-1/XS-2 650cc 四冲程街车",
+        "zh-TW": "XS-1/XS-2 650cc 四衝程街車",
+        "ja": "XS-1/XS-2"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1970–1972",
+      "note": "653cc风冷四冲程并列双缸，雅马哈首款量产四冲程街车，XS650前身，借鉴英国BSA技术",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xs400",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XS400",
+        "zh-CN": "XS400 400cc 四冲程街车",
+        "zh-TW": "XS400 400cc 四衝程街車",
+        "ja": "XS400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1976–1982",
+      "note": "391cc风冷并列双缸，XS系列中量级入门街车，性价比较高，适合新手",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xs500",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XS500",
+        "zh-CN": "XS500 500cc 四冲程街车",
+        "zh-TW": "XS500 500cc 四衝程街車",
+        "ja": "XS500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1973–1975",
+      "note": "498cc风冷并列双缸，XS系列中量级代表，1970年代中期雅马哈四冲程街车中坚型号",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xs850",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XS850",
+        "zh-CN": "XS850 850cc 三缸街车",
+        "zh-TW": "XS850 850cc 三缸街車",
+        "ja": "XS850"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1979–1981",
+      "note": "826cc风冷三缸四冲程，XS750后继扩缸版，轴传动，三缸声浪独特",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xj400",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XJ400",
+        "zh-CN": "XJ400 400cc 四缸街车",
+        "zh-TW": "XJ400 400cc 四缸街車",
+        "ja": "XJ400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1980–1989",
+      "note": "398cc风冷直列四缸，XJ系列入门排量，日本本土400cc驾照黄金排量时代的代表车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xj550",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XJ550",
+        "zh-CN": "XJ550 550cc 四缸街车",
+        "zh-TW": "XJ550 550cc 四缸街車",
+        "ja": "XJ550"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1981–1984",
+      "note": "531cc风冷直列四缸，XJ系列中量级，有Maxim巡航版与Seca运动版两种形态",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xj600-diversion",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XJ600 Diversion",
+        "zh-CN": "XJ600 Diversion 600cc 街车",
+        "zh-TW": "XJ600 Diversion 600cc 街車",
+        "ja": "XJ600 ディバージョン"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–1998",
+      "note": "598cc风冷四缸，欧洲市场称Diversion/Seca II，可靠耐用，欧洲畅销多年的中量级街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xj750",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XJ750",
+        "zh-CN": "XJ750 750cc 四缸街车",
+        "zh-TW": "XJ750 750cc 四缸街車",
+        "ja": "XJ750"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1981–1985",
+      "note": "745cc风冷四缸，XJ系列准公升级，Maxim巡航版低把手设计，80年代中量级主力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xj900",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XJ900",
+        "zh-CN": "XJ900 900cc 四缸运动旅行车",
+        "zh-TW": "XJ900 900cc 四缸運動旅行車",
+        "ja": "XJ900"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1983–1994",
+      "note": "853cc风冷四缸，XJ系列公升级运动旅行版，半整流罩设计，长途舒适性优秀",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xj900-diversion",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XJ900 Diversion",
+        "zh-CN": "XJ900 Diversion 900cc 运动旅行车",
+        "zh-TW": "XJ900 Diversion 900cc 運動旅行車",
+        "ja": "XJ900 ディバージョン"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1994–2003",
+      "note": "853cc风冷四缸，XJ900后继车型，全整流罩，欧洲市场热销的运动旅行车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:fzr250",
+      "brand": "Yamaha",
+      "names": {
+        "en": "FZR250",
+        "zh-CN": "FZR250 250cc 四缸仿赛",
+        "zh-TW": "FZR250 250cc 四缸仿賽",
+        "ja": "FZR250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1987–1990",
+      "note": "249cc水冷四缸，250cc排量搭载四缸18,000rpm高转引擎，EXUP可变排气，日本本土250cc仿赛黄金时代代表作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:fzr600",
+      "brand": "Yamaha",
+      "names": {
+        "en": "FZR600",
+        "zh-CN": "FZR600 600cc 中量级仿赛",
+        "zh-TW": "FZR600 600cc 中量級仿賽",
+        "ja": "FZR600"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1989–1999",
+      "note": "599cc水冷四缸中量级仿赛，FZR系列长青树，1992年改款升级Delta车架，600cc赛事热门之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:fzr750r",
+      "brand": "Yamaha",
+      "names": {
+        "en": "FZR750R (OW01)",
+        "zh-CN": "FZR750R OW01 750cc 限量仿赛",
+        "zh-TW": "FZR750R OW01 750cc 限量仿賽",
+        "ja": "FZR750R (OW01)"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1987–1990",
+      "note": "749cc水冷四缸，雅马哈首款超级运动限量版，代号OW01，铝合金车架+钛合金连杆，仅生产500台，为赛事认证打造",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yzf600r",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YZF600R Thundercat",
+        "zh-CN": "YZF600R Thundercat 600cc 仿赛",
+        "zh-TW": "YZF600R Thundercat 600cc 仿賽",
+        "ja": "YZF600R サンダーキャット"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1994–2004",
+      "note": "599cc水冷四缸中量级仿赛，FZR600后继车型，绰号Thundercat，兼顾公路与赛道，600cc经典常青树",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:yzf750r",
+      "brand": "Yamaha",
+      "names": {
+        "en": "YZF750R",
+        "zh-CN": "YZF750R 750cc 仿赛",
+        "zh-TW": "YZF750R 750cc 仿賽",
+        "ja": "YZF750R"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1993–1996",
+      "note": "749cc水冷四缸，FZR750R后继，World Superbike赛事参赛车型，公路版亦具有纯正赛车基因",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:rd350lc",
+      "brand": "Yamaha",
+      "names": {
+        "en": "RD350LC",
+        "zh-CN": "RD350LC 350cc 水冷二冲程跑车",
+        "zh-TW": "RD350LC 350cc 水冷二衝程跑車",
+        "ja": "RD350LC"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1980–1982",
+      "note": "347cc二冲程并列双缸水冷，RD系列首款水冷车型，绰号'水冷RD'，两冲程黄金时代的经典之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:rd125",
+      "brand": "Yamaha",
+      "names": {
+        "en": "RD125",
+        "zh-CN": "RD125 125cc 二冲程双缸跑车",
+        "zh-TW": "RD125 125cc 二衝程雙缸跑車",
+        "ja": "RD125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–1987",
+      "note": "123cc二冲程并列双缸，RD系列最小排量型号，入门级二冲程运动车，培养了一代车手",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:tzr125",
+      "brand": "Yamaha",
+      "names": {
+        "en": "TZR125",
+        "zh-CN": "TZR125 125cc 二冲程仿赛",
+        "zh-TW": "TZR125 125cc 二衝程仿賽",
+        "ja": "TZR125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1986–1995",
+      "note": "124cc二冲程单缸（后改水冷），搭载YPVS可变排气，Delbox方形整流罩，欧洲与日本市场经典小排量仿赛",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:dt125",
+      "brand": "Yamaha",
+      "names": {
+        "en": "DT125",
+        "zh-CN": "DT125 125cc 林道两用车",
+        "zh-TW": "DT125 125cc 林道兩用車",
+        "ja": "DT125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–1997",
+      "note": "123cc二冲程单缸林道车，DT系列中小排量代表，欧洲与日本市场畅销多年的入门级两用车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xt350",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XT350",
+        "zh-CN": "XT350 350cc 林道两用车",
+        "zh-TW": "XT350 350cc 林道兩用車",
+        "ja": "XT350"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1985–2000",
+      "note": "346cc风冷单缸两用车，XT系列中量级长青树，轻巧可靠，越野入门与日常通勤皆宜",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xt550",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XT550",
+        "zh-CN": "XT550 550cc 单缸两用车",
+        "zh-TW": "XT550 550cc 單缸兩用車",
+        "ja": "XT550"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1981–1983",
+      "note": "558cc风冷单缸两用车，XT500扩缸后继车型，双排气管布局，XT600的前身",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xt660",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XT660",
+        "zh-CN": "XT660 660cc 单缸两用车",
+        "zh-TW": "XT660 660cc 單缸兩用車",
+        "ja": "XT660"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004–2016",
+      "note": "660cc水冷单缸两用车，XT600的后续电喷版，强劲低扭，长途穿越利器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xtz660",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XTZ660 Ténéré",
+        "zh-CN": "XTZ660 Ténéré 660cc 探险车",
+        "zh-TW": "XTZ660 Ténéré 660cc 探險車",
+        "ja": "XTZ660 テネレ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1991–1999",
+      "note": "659cc水冷单缸探险车，Ténéré系列中量级版，XTZ750单缸缩小版，轻量化穿越之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:srx400",
+      "brand": "Yamaha",
+      "names": {
+        "en": "SRX400",
+        "zh-CN": "SRX400 400cc 单缸运动街车",
+        "zh-TW": "SRX400 400cc 單缸運動街車",
+        "ja": "SRX400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1985–1997",
+      "note": "399cc风冷单缸运动街车，SR系列的运动化版本，轻量化单缸乐趣，日本本土400cc经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:srx600",
+      "brand": "Yamaha",
+      "names": {
+        "en": "SRX600",
+        "zh-CN": "SRX600 600cc 单缸运动街车",
+        "zh-TW": "SRX600 600cc 單缸運動街車",
+        "ja": "SRX600"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1985–1990",
+      "note": "595cc风冷单缸运动街车，SRX系列最大排量，轻量化车架+大单缸扭矩，操控乐趣极高",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:sdr200",
+      "brand": "Yamaha",
+      "names": {
+        "en": "SDR200",
+        "zh-CN": "SDR200 200cc 二冲程单缸运动车",
+        "zh-TW": "SDR200 200cc 二衝程單缸運動車",
+        "ja": "SDR200"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1986–1990",
+      "note": "195cc二冲程水冷单缸，轻量化运动街车，绰号'二冲程单缸暴徒'，操控灵活加速迅猛",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:tt500",
+      "brand": "Yamaha",
+      "names": {
+        "en": "TT500",
+        "zh-CN": "TT500 500cc 场地越野",
+        "zh-TW": "TT500 500cc 場地越野",
+        "ja": "TT500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1975–1981",
+      "note": "499cc风冷四冲程单缸场地越野赛车，雅马哈首批四冲程纯越野车，大单缸低扭强劲",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:wr400f",
+      "brand": "Yamaha",
+      "names": {
+        "en": "WR400F",
+        "zh-CN": "WR400F 400cc 四冲程耐力越野",
+        "zh-TW": "WR400F 400cc 四衝程耐力越野",
+        "ja": "WR400F"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1998–2000",
+      "note": "399cc水冷四冲程单缸耐力越野车，WR系列首款四冲程车型，开创了WR四冲程越野传奇",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xv250",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XV250 Virago",
+        "zh-CN": "XV250 Virago 250cc V缸巡航",
+        "zh-TW": "XV250 Virago 250cc V缸巡航",
+        "ja": "XV250 ビラーゴ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1988–2010",
+      "note": "249cc风冷V型双缸，Virago系列最小排量，入门级巡航车代表，轻巧低座高，适合新手",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xv535",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XV535 Virago",
+        "zh-CN": "XV535 Virago 535cc V缸巡航",
+        "zh-TW": "XV535 Virago 535cc V缸巡航",
+        "ja": "XV535 ビラーゴ"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1988–2003",
+      "note": "535cc风冷V型双缸，Virago系列中量级畅销型号，日系美式巡航经典之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xv1100",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XV1100 Virago",
+        "zh-CN": "XV1100 Virago 1100cc V缸巡航",
+        "zh-TW": "XV1100 Virago 1100cc V缸巡航",
+        "ja": "XV1100 ビラーゴ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1985–1999",
+      "note": "1063cc风冷V型双缸，Virago系列公升级旗舰，Virago家族最大排量，美式巡航风格浓郁",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:tdm900",
+      "brand": "Yamaha",
+      "names": {
+        "en": "TDM900",
+        "zh-CN": "TDM900 900cc 公路探险车",
+        "zh-TW": "TDM900 900cc 公路探險車",
+        "ja": "TDM900"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2012",
+      "note": "897cc水冷双缸，TDM850后继车型，270度曲轴低扭充沛，公路型ADV先驱，操控灵活驾驶乐趣高",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xjr400",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XJR400",
+        "zh-CN": "XJR400 400cc 四缸复古街车",
+        "zh-TW": "XJR400 400cc 四缸復古街車",
+        "ja": "XJR400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1993–2007",
+      "note": "399cc风冷直列四缸，XJR系列400cc版，气冷四缸复古街车，日本本土400cc大排量驾照经典之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:xjr1200",
+      "brand": "Yamaha",
+      "names": {
+        "en": "XJR1200",
+        "zh-CN": "XJR1200 1200cc 四缸复古街车",
+        "zh-TW": "XJR1200 1200cc 四缸復古街車",
+        "ja": "XJR1200"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1995–1999",
+      "note": "1188cc风冷直列四缸，XJR1300的前身，气冷大排量复古街车，造型经典改装热门",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yamaha:bws-50",
+      "brand": "Yamaha",
+      "names": {
+        "en": "BW's 50",
+        "zh-CN": "BW's 50 50cc 小轮踏板",
+        "zh-TW": "BW's 50 50cc 小輪踏板",
+        "ja": "BW's 50"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1992–2005",
+      "note": "49cc二冲程小轮踏板，粗犷越野风格，大肥胎+双圆灯，欧洲与日本街头的经典个性踏板",
+      "verified": "verified"
+    }
+  ]
+}

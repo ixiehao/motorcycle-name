@@ -1,0 +1,939 @@
+{
+  "models": [
+    {
+      "id": "model:ducati:monster-937",
+      "brand": "Ducati",
+      "names": {
+        "en": "Monster 937 / Monster SP",
+        "zh-CN": "Monster 937 / Monster SP 怪兽 街车",
+        "zh-TW": "Monster 937 / Monster SP 怪獸 街車",
+        "ja": "モンスター937/モンスターSP"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "937cc Testastretta 11° V缸，全新车架减重18kg，Monster系列新时代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:monster-797",
+      "brand": "Ducati",
+      "names": {
+        "en": "Monster 797",
+        "zh-CN": "Monster 797 入门怪兽 街车（停产）",
+        "zh-TW": "Monster 797 入門怪獸 街車（停產）",
+        "ja": "モンスター797"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2021",
+      "note": "803cc气冷Desmodue V缸，Scrambler同引擎，入门Monster，2021年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:panigale-v2",
+      "brand": "Ducati",
+      "names": {
+        "en": "Panigale V2",
+        "zh-CN": "Panigale V2 中量级仿赛",
+        "zh-TW": "Panigale V2 中量級仿賽",
+        "ja": "パニガーレV2"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "955cc Superquadro V缸，155马力，V4小弟，电子悬挂，赛道利器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:panigale-v2-final-edition",
+      "brand": "Ducati",
+      "names": {
+        "en": "Panigale V2 Superquadro Final Edition",
+        "zh-CN": "Panigale V2 Superquadro Final Edition 最终版仿赛",
+        "zh-TW": "Panigale V2 Superquadro Final Edition 最終版仿賽",
+        "ja": "パニガーレV2 スーパークアドロ ファイナルエディション"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "Superquadro双缸最终版本，特别涂装+Ohlins，限量纪念车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:panigale-v4",
+      "brand": "Ducati",
+      "names": {
+        "en": "Panigale V4 / V4 S / V4 R",
+        "zh-CN": "Panigale V4/V4 S/V4 R 旗舰仿赛",
+        "zh-TW": "Panigale V4/V4 S/V4 R 旗艦仿賽",
+        "ja": "パニガーレV4/V4S/V4R"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "1103cc Desmosedici Stradale V4，V4 S为Ohlins版，V4 R赛道版240马力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:supersport-950",
+      "brand": "Ducati",
+      "names": {
+        "en": "SuperSport 950 / S",
+        "zh-CN": "SuperSport 950/S 鸰速 运动旅行跑车",
+        "zh-TW": "SuperSport 950/S 鴒速 運動旅行跑車",
+        "ja": "スーパースポーツ950/S"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "937cc Testastretta 11° V缸，日常友好仿赛，舒适骑姿，S版配Ohlins",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:streetfighter-v4",
+      "brand": "Ducati",
+      "names": {
+        "en": "Streetfighter V4 / V4 S",
+        "zh-CN": "Streetfighter V4/V4 S 街霸 运动街车",
+        "zh-TW": "Streetfighter V4/V4 S 街霸 運動街車",
+        "ja": "ストリートファイターV4/V4S"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "Panigale V4去整流罩，208马力，气动双翼，公升街车性能天花板",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:hypermotard-950",
+      "brand": "Ducati",
+      "names": {
+        "en": "Hypermotard 950 / SP",
+        "zh-CN": "Hypermotard 950/SP 骇客 滑胎超级摩托",
+        "zh-TW": "Hypermotard 950/SP 駭客 滑胎超級摩托",
+        "ja": "ハイパーモタード950/SP"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:supermoto",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "937cc Testastretta V缸，高把滑胎风格，SP版Ohlins+Marchesini",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:hyperstrada",
+      "brand": "Ducati",
+      "names": {
+        "en": "Hyperstrada",
+        "zh-CN": "Hyperstrada 骇道 跨界旅行（停产）",
+        "zh-TW": "Hyperstrada 駭道 跨界旅行（停產）",
+        "ja": "ハイパーストラーダ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2018",
+      "note": "Hypermotard旅行版，小风挡+边箱，821cc引擎，已并入Multistrada线",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:multistrada-v2",
+      "brand": "Ducati",
+      "names": {
+        "en": "Multistrada V2 / V4 S",
+        "zh-CN": "Multistrada V2/V4 S 揽途 探险车",
+        "zh-TW": "Multistrada V2/V4 S 攬途 探險車",
+        "ja": "マルチストラーダV2/V4S"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "V2为937cc双缸，V4 S为1158cc Granturismo V4，杜卡迪主力ADV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:multistrada-v4-rally",
+      "brand": "Ducati",
+      "names": {
+        "en": "Multistrada V4 Rally",
+        "zh-CN": "Multistrada V4 Rally 揽途 大探险硬派版",
+        "zh-TW": "Multistrada V4 Rally 攬途 大探險硬派版",
+        "ja": "マルチストラーダV4ラリー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "V4 Rally越野强化版，30L油箱，21寸前轮，Skyhook EVO悬挂，长行程",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:diavel-1260",
+      "brand": "Ducati",
+      "names": {
+        "en": "Diavel 1260 / Diavel V4",
+        "zh-CN": "Diavel 1260/Diavel V4 大魔鬼 巡航运动车",
+        "zh-TW": "Diavel 1260/Diavel V4 大魔鬼 巡航運動車",
+        "ja": "ディアベル1260/ディアベルV4"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "1260为Testastretta DVT双缸，Diavel V4为Granturismo V4，肌肉巡航运动",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:xdiavel",
+      "brand": "Ducati",
+      "names": {
+        "en": "XDiavel / XDiavel Nera",
+        "zh-CN": "XDiavel/XDiavel Nera X大魔鬼 美式巡航",
+        "zh-TW": "XDiavel/XDiavel Nera X大魔鬼 美式巡航",
+        "ja": "Xディアベル/Xディアベルネラ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "1262cc Testastretta DVT，前置脚踏，240宽胎，纯正美式巡航风格，Nera限量",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:desertx",
+      "brand": "Ducati",
+      "names": {
+        "en": "DesertX",
+        "zh-CN": "DesertX 沙漠X 硬派探险车",
+        "zh-TW": "DesertX 沙漠X 硬派探險車",
+        "ja": "デザートX"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "937cc Testastretta V缸，复古达喀尔拉力风格，21/18寸轮圈，硬派越野",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:scrambler-1100",
+      "brand": "Ducati",
+      "names": {
+        "en": "Scrambler 1100 Pro / Sport Pro",
+        "zh-CN": "Scrambler 1100 Pro/Sport Pro 自游1100 攀爬者",
+        "zh-TW": "Scrambler 1100 Pro/Sport Pro 自遊1100 攀爬者",
+        "ja": "スクランブラー1100プロ/スポーツプロ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "1079cc L型双缸，大排量自游，复古攀爬，Sport Pro配Ohlins",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:scrambler-800-next-gen",
+      "brand": "Ducati",
+      "names": {
+        "en": "Scrambler 800 Next-Gen",
+        "zh-CN": "Scrambler 800 Next-Gen 自游800 新一代攀爬者",
+        "zh-TW": "Scrambler 800 Next-Gen 自遊800 新一代攀爬者",
+        "ja": "スクランブラー800 ネクストジェネレーション"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "803cc Desmodue气冷V缸，新一代自游，4寸TFT，Icon/Full Throttle/Nightshift三款",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:monster-1200",
+      "brand": "Ducati",
+      "names": {
+        "en": "Monster 1200",
+        "zh-CN": "Monster 1200 大怪兽 街车（停产）",
+        "zh-TW": "Monster 1200 大怪獸 街車（停產）",
+        "ja": "モンスター1200"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2020",
+      "note": "1198cc Testastretta 11° V缸，Monster系列旗舰，钢管编织车架，2020年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:streetfighter-v2",
+      "brand": "Ducati",
+      "names": {
+        "en": "Streetfighter V2",
+        "zh-CN": "Streetfighter V2 街霸 中量级运动街车",
+        "zh-TW": "Streetfighter V2 街霸 中量級運動街車",
+        "ja": "ストリートファイターV2"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "955cc Superquadro V缸，Panigale V2街车版，150马力，中量级街车性能代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:hypermotard-698-mono",
+      "brand": "Ducati",
+      "names": {
+        "en": "Hypermotard 698 Mono",
+        "zh-CN": "Hypermotard 698 Mono 单缸滑胎超级摩托",
+        "zh-TW": "Hypermotard 698 Mono 單缸滑胎超級摩托",
+        "ja": "ハイパーモタード698モノ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:supermoto",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "659cc单缸，2024年全新单缸滑胎车，杜卡迪时隔多年重回单缸市场之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:desertx-rally",
+      "brand": "Ducati",
+      "names": {
+        "en": "DesertX Rally",
+        "zh-CN": "DesertX Rally 沙漠X 拉力版探险车",
+        "zh-TW": "DesertX Rally 沙漠X 拉力版探險車",
+        "ja": "デザートXラリー"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "DesertX越野强化版，长行程悬挂，21寸辐条前轮，达喀尔拉力风格",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:panigale-959",
+      "brand": "Ducati",
+      "names": {
+        "en": "Panigale 959",
+        "zh-CN": "Panigale 959 中量级仿赛（停产）",
+        "zh-TW": "Panigale 959 中量級仿賽（停產）",
+        "ja": "パニガーレ959"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2019",
+      "note": "955cc Superquadro V缸，Panigale 899后继车型，2019年被Panigale V2取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:1299-panigale",
+      "brand": "Ducati",
+      "names": {
+        "en": "1299 Panigale",
+        "zh-CN": "1299 Panigale 旗舰仿赛（停产）",
+        "zh-TW": "1299 Panigale 旗艦仿賽（停產）",
+        "ja": "1299パニガーレ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2018",
+      "note": "1285cc Superquadro V缸，205马力，双缸仿赛巅峰，2018年被Panigale V4取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:supersport-939",
+      "brand": "Ducati",
+      "names": {
+        "en": "SuperSport 939",
+        "zh-CN": "SuperSport 939 鸰速 运动旅行跑车（停产）",
+        "zh-TW": "SuperSport 939 鴒速 運動旅行跑車（停產）",
+        "ja": "スーパースポーツ939"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2020",
+      "note": "937cc Testastretta V缸，舒适骑姿运动跑车，2020年停产，后继SuperSport 950",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:scrambler-400",
+      "brand": "Ducati",
+      "names": {
+        "en": "Scrambler 400 Icon Dark",
+        "zh-CN": "Scrambler 400 Icon Dark 自游400 攀爬者",
+        "zh-TW": "Scrambler 400 Icon Dark 自遊400 攀爬者",
+        "ja": "スクランブラー400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "399cc单缸，印度市场入门自游，复古攀爬风格，2024年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:multistrada-950",
+      "brand": "Ducati",
+      "names": {
+        "en": "Multistrada 950",
+        "zh-CN": "Multistrada 950 揽途950 探险车（停产）",
+        "zh-TW": "Multistrada 950 攬途950 探險車（停產）",
+        "ja": "マルチストラーダ950"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2021",
+      "note": "937cc Testastretta V缸，中量级揽途，公路探险兼顾，2021年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:cucciolo",
+      "brand": "Ducati",
+      "names": {
+        "en": "Cucciolo",
+        "zh-CN": "Cucciolo 幼犬 助力自行车（停产）",
+        "zh-TW": "Cucciolo 幼犬 助力自行車（停產）",
+        "ja": "クッチョロ"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1946–1956",
+      "note": "杜卡迪首款摩托车，1946年问世，约48cc单缸引擎装于自行车上，得名'幼犬'，战后意大利国民之爱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:250-monza",
+      "brand": "Ducati",
+      "names": {
+        "en": "250 Monza",
+        "zh-CN": "250 Monza 公路单缸街车（停产）",
+        "zh-TW": "250 Monza 公路單缸街車（停產）",
+        "ja": "250モンツァ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1961–1968",
+      "note": "249cc顶置凸轮轴单缸，以蒙扎赛道命名，60年代杜卡迪主力单缸公路车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:250-mach-1",
+      "brand": "Ducati",
+      "names": {
+        "en": "250 Mach 1",
+        "zh-CN": "250 Mach 1 单缸运动车（停产）",
+        "zh-TW": "250 Mach 1 單缸運動車（停產）",
+        "ja": "250マッハ1"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cafe-racer",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1964–1965",
+      "note": "249cc单缸，当时量产250cc中最快，极速约150km/h，被称为'最快的250'",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:750-gt",
+      "brand": "Ducati",
+      "names": {
+        "en": "750 GT",
+        "zh-CN": "750 GT 首款L型双缸旅行车（停产）",
+        "zh-TW": "750 GT 首款L型雙缸旅行車（停產）",
+        "ja": "750GT"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1971–1974",
+      "note": "杜卡迪首款量产L型双缸公路车，748cc伞齿驱动凸轮轴引擎，1972年Imola赛车即基于此开发",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:750-sport",
+      "brand": "Ducati",
+      "names": {
+        "en": "750 Sport",
+        "zh-CN": "750 Sport 运动双缸（停产）",
+        "zh-TW": "750 Sport 運動雙缸（停產）",
+        "ja": "750スポルト"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1972–1974",
+      "note": "1972年Paul Smart与Bruno Spaggiari驾驶该车包揽Imola 200英里赛冠亚军，奠定杜卡迪双缸赛车声誉",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:750-super-sport",
+      "brand": "Ducati",
+      "names": {
+        "en": "750 Super Sport",
+        "zh-CN": "750 Super Sport 圆机匣超级运动（停产）",
+        "zh-TW": "750 Super Sport 圓機匣超級運動（停產）",
+        "ja": "750スーパースポルト"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1973–1974",
+      "note": "1974年量产仅401台，杜卡迪最具收藏价值的经典，直接脱胎于Imola赛车，挽救了濒临破产的杜卡迪",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:900-super-sport",
+      "brand": "Ducati",
+      "names": {
+        "en": "900 Super Sport",
+        "zh-CN": "900 Super Sport 方机匣超级运动（停产）",
+        "zh-TW": "900 Super Sport 方機匣超級運動（停產）",
+        "ja": "900スーパースポルト"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1975–1981",
+      "note": "864cc方机匣伞齿双缸，1975年推出750/900两版，Mike Hailwood 1978年驾900SS夺得曼岛TT冠军",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:900-mhr",
+      "brand": "Ducati",
+      "names": {
+        "en": "900 MHR",
+        "zh-CN": "900 MHR 海沃德致敬版（停产）",
+        "zh-TW": "900 MHR 海沃德致敬版（停產）",
+        "ja": "900MHR"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1979–1986",
+      "note": "纪念Mike Hailwood 1978年曼岛TT冠军的复刻车型，绿金涂装，杜卡迪最经典收藏车型之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:pantah",
+      "brand": "Ducati",
+      "names": {
+        "en": "Pantah 500/600/650",
+        "zh-CN": "Pantah 500/600/650 现代双缸鼻祖（停产）",
+        "zh-TW": "Pantah 500/600/650 現代雙缸鼻祖（停產）",
+        "ja": "パンタ500/600/650"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1980–1986",
+      "note": "1979年首发，首款皮带驱动凸轮轴的双缸，500SL/600SL/TL/650SL系列，现代杜卡迪L型双缸鼻祖",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:750-paso",
+      "brand": "Ducati",
+      "names": {
+        "en": "750 Paso",
+        "zh-CN": "750 Paso 全包式运动旅行车（停产）",
+        "zh-TW": "750 Paso 全包式運動旅行車（停產）",
+        "ja": "750パソ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1986–1988",
+      "note": "Tamburini设计的全包覆整流罩车型，以车手Pasolini命名，80年代杜卡迪设计革新之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:851",
+      "brand": "Ducati",
+      "names": {
+        "en": "851",
+        "zh-CN": "851 首款电喷超级跑车（停产）",
+        "zh-TW": "851 首款電噴超級跑車（停產）",
+        "ja": "851"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1987–1992",
+      "note": "杜卡迪首款电喷水冷四气门Desmoquattro超级跑车，1990年Raymond Roche驾驶851夺得SBK世界冠军",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:888",
+      "brand": "Ducati",
+      "names": {
+        "en": "888",
+        "zh-CN": "888 超级跑车（停产）",
+        "zh-TW": "888 超級跑車（停產）",
+        "ja": "888"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1991–1993",
+      "note": "851扩缸而来的888cc超级跑车，SP系列限量版称霸SBK赛场，是916的前身",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:900-supersport",
+      "brand": "Ducati",
+      "names": {
+        "en": "900 Supersport",
+        "zh-CN": "900 Supersport 风冷超级运动（停产）",
+        "zh-TW": "900 Supersport 風冷超級運動（停產）",
+        "ja": "900スーパースポーツ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1988–2007",
+      "note": "1988年复活的风冷两气门Desmodue超级运动系列，904cc，贯穿80-90年代的经典SS车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:monster-900",
+      "brand": "Ducati",
+      "names": {
+        "en": "Monster 900",
+        "zh-CN": "Monster 900 怪兽始祖 街车（停产）",
+        "zh-TW": "Monster 900 怪獸始祖 街車（停產）",
+        "ja": "モンスター900"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1993–2001",
+      "note": "1993年推出的首款Monster，904cc气冷双缸+钢管编织车架，开创裸把街车时代，杜卡迪救世主车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:916",
+      "brand": "Ducati",
+      "names": {
+        "en": "916",
+        "zh-CN": "916 超级跑车（停产）",
+        "zh-TW": "916 超級跑車（停產）",
+        "ja": "916"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1994–1998",
+      "note": "传奇设计师Tamburini操刀的经典超级跑车，单侧摇臂与座下排气开创性设计，90年代称霸SBK豪取四冠",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:748",
+      "brand": "Ducati",
+      "names": {
+        "en": "748",
+        "zh-CN": "748 中排量超级跑车（停产）",
+        "zh-TW": "748 中排量超級跑車（停產）",
+        "ja": "748"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1994–2003",
+      "note": "916的小排量版本，748cc，共享916车架与外观，为中排量车手提供SBK血统战车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:996",
+      "brand": "Ducati",
+      "names": {
+        "en": "996",
+        "zh-CN": "996 超级跑车（停产）",
+        "zh-TW": "996 超級跑車（停產）",
+        "ja": "996"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1999–2002",
+      "note": "916的继任者，996cc电喷L型双缸，2001年Bayliss驾驶996夺冠，延续916传奇",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:998",
+      "brand": "Ducati",
+      "names": {
+        "en": "998",
+        "zh-CN": "998 超级跑车（停产）",
+        "zh-TW": "998 超級跑車（停產）",
+        "ja": "998"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2004",
+      "note": "916系列的最终进化，998cc Testastretta双缸，延续916系SBK冠军血统的收官之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:st2",
+      "brand": "Ducati",
+      "names": {
+        "en": "ST2",
+        "zh-CN": "ST2 运动旅行车（停产）",
+        "zh-TW": "ST2 運動旅行車（停產）",
+        "ja": "ST2"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2003",
+      "note": "杜卡迪首款现代运动旅行车，944cc气冷双缸，开启ST系列公路长途之旅",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:st4",
+      "brand": "Ducati",
+      "names": {
+        "en": "ST4",
+        "zh-CN": "ST4 运动旅行车（停产）",
+        "zh-TW": "ST4 運動旅行車（停產）",
+        "ja": "ST4"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1999–2005",
+      "note": "ST系列高性能版，搭载916cc水冷四气门Desmoquattro引擎，2005年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:mh900e",
+      "brand": "Ducati",
+      "names": {
+        "en": "MH900e",
+        "zh-CN": "MH900e 致敬经典咖啡赛车（停产）",
+        "zh-TW": "MH900e 致敬經典咖啡賽車（停產）",
+        "ja": "MH900e"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cafe-racer",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2000–2002",
+      "note": "Pierre Terblanche设计的复古咖啡赛车，致敬Mike Hailwood，全球限量2000台，网络首发即售罄",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:999",
+      "brand": "Ducati",
+      "names": {
+        "en": "999",
+        "zh-CN": "999 超级跑车（停产）",
+        "zh-TW": "999 超級跑車（停產）",
+        "ja": "999"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2006",
+      "note": "Terblanche设计取代916系列的超级跑车，外观颇具争议但战绩辉煌，2003/2004/2006三年SBK冠军",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:1098",
+      "brand": "Ducati",
+      "names": {
+        "en": "1098",
+        "zh-CN": "1098 超级跑车（停产）",
+        "zh-TW": "1098 超級跑車（停產）",
+        "ja": "1098"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2008",
+      "note": "2007年推出的Testastretta Evoluzione双缸，性能超越999R，SBK赛场屡获佳绩的经典战车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:1198",
+      "brand": "Ducati",
+      "names": {
+        "en": "1198",
+        "zh-CN": "1198 超级跑车（停产）",
+        "zh-TW": "1198 超級跑車（停產）",
+        "ja": "1198"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2010",
+      "note": "1098扩缸版本，1198cc Testastretta Evoluzione双缸，双缸仿赛时代尾声，2012年被1199 Panigale取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:panigale-v4-2025",
+      "brand": "Ducati",
+      "names": {
+        "en": "Panigale V4 / V4 S (2025)",
+        "zh-CN": "Panigale V4/V4 S 旗舰仿赛（2025款）",
+        "zh-TW": "Panigale V4/V4 S 旗艦仿賽（2025款）",
+        "ja": "パニガーレV4/V4S（2025）"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025款新一代旗舰仿赛，1103cc Desmosedici V4升级，全新车架与空气动力学设计",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:panigale-v2-2025",
+      "brand": "Ducati",
+      "names": {
+        "en": "Panigale V2 / V2 S (2025)",
+        "zh-CN": "Panigale V2/V2 S 中量级仿赛（2025款）",
+        "zh-TW": "Panigale V2/V2 S 中量級仿賽（2025款）",
+        "ja": "パニガーレV2/V2S（2025）"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025年换代，890cc全新V2引擎取代Superquadro，约120马力，大幅减重",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:streetfighter-v2-2025",
+      "brand": "Ducati",
+      "names": {
+        "en": "Streetfighter V2 / V2 S (2025)",
+        "zh-CN": "Streetfighter V2/V2 S 街霸 中量级运动街车（2025款）",
+        "zh-TW": "Streetfighter V2/V2 S 街霸 中量級運動街車（2025款）",
+        "ja": "ストリートファイターV2/V2S（2025）"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025年换代，890cc全新V2引擎带IVT可变正时，取消Desmo气门改用弹簧气门",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:multistrada-v2-2025",
+      "brand": "Ducati",
+      "names": {
+        "en": "Multistrada V2 / V2 S (2025)",
+        "zh-CN": "Multistrada V2/V2 S 揽途 中量级探险车（2025款）",
+        "zh-TW": "Multistrada V2/V2 S 攬途 中量級探險車（2025款）",
+        "ja": "マルチストラーダV2/V2S（2025）"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025年换代，890cc全新V2引擎平台，减重约18kg，干重199kg",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:multistrada-v4-rs",
+      "brand": "Ducati",
+      "names": {
+        "en": "Multistrada V4 RS",
+        "zh-CN": "Multistrada V4 RS 揽途 高性能探险车",
+        "zh-TW": "Multistrada V4 RS 攬途 高性能探險車",
+        "ja": "マルチストラーダV4 RS"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026款全新，Panigale V4同源1103cc V4引擎，干式离合，运动旅行性能巅峰",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ducati:diavel-v4-rs",
+      "brand": "Ducati",
+      "names": {
+        "en": "Diavel V4 RS",
+        "zh-CN": "Diavel V4 RS 大魔鬼 高性能巡航运动车",
+        "zh-TW": "Diavel V4 RS 大魔鬼 高性能巡航運動車",
+        "ja": "ディアベルV4 RS"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026款全新，1158cc Granturismo V4动力升级至约180马力，运动巡航巅峰",
+      "verified": "verified"
+    }
+  ]
+}

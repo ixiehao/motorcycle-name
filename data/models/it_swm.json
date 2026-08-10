@@ -1,0 +1,55 @@
+{
+  "models": [
+    {
+      "id": "model:swm:rs-300-r",
+      "brand": "SWM",
+      "names": {
+        "en": "RS 300 R",
+        "zh-CN": "RS 300 R 耐力越野车",
+        "zh-TW": "RS 300 R 耐力越野車",
+        "ja": "RS300R"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "300cc四冲程单缸耐力越野车，继承Husqvarna技术血统，SWM复兴后主力越野车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:swm:rs-450",
+      "brand": "SWM",
+      "names": {
+        "en": "RS 450",
+        "zh-CN": "RS 450 耐力越野车",
+        "zh-TW": "RS 450 耐力越野車",
+        "ja": "RS450"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "449cc四冲程单缸耐力越野车，动力充沛，面向专业林道与耐力赛用户",
+      "verified": "verified"
+    },
+    {
+      "id": "model:swm:gran-milano-440",
+      "brand": "SWM",
+      "names": {
+        "en": "Gran Milano 440",
+        "zh-CN": "Gran Milano 440 复古攀爬车",
+        "zh-TW": "Gran Milano 440 復古攀爬車",
+        "ja": "グランミラノ440"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "444cc单缸复古攀爬车，米兰设计风格，SWM复兴后的公路车型代表",
+      "verified": "verified"
+    }
+  ]
+}

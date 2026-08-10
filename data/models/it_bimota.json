@@ -1,0 +1,72 @@
+{
+  "models": [
+    {
+      "id": "model:bimota:tesi-h2",
+      "brand": "Bimota",
+      "names": {
+        "en": "Tesi H2",
+        "zh-CN": "Tesi H2 轮毂转向运动摩托",
+        "zh-TW": "Tesi H2 輪轂轉向運動摩托",
+        "ja": "テシH2"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "搭载川崎H2机械增压四缸发动机，标志性轮毂中心转向(hub-center steering)设计，Kawasaki参股后推出的复兴旗舰",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bimota:kb4",
+      "brand": "Bimota",
+      "names": {
+        "en": "KB4",
+        "zh-CN": "KB4 复古咖啡赛车",
+        "zh-TW": "KB4 復古咖啡賽車",
+        "ja": "KB4"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cafe-racer",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "搭载川崎Z900RS的948cc四缸发动机，Neo Retro风格，碳纤维车体与Bimota手工车架的现代复古之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bimota:db11",
+      "brand": "Bimota",
+      "names": {
+        "en": "DB11",
+        "zh-CN": "DB11 运动街车（停产）",
+        "zh-TW": "DB11 運動街車（停產）",
+        "ja": "DB11"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2019",
+      "note": "搭载杜卡迪1198cc发动机，手工铝制车架，限量生产的极致运动街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bimota:yb4",
+      "brand": "Bimota",
+      "names": {
+        "en": "YB4",
+        "zh-CN": "YB4 经典仿赛（停产）",
+        "zh-TW": "YB4 經典仿賽（停產）",
+        "ja": "YB4"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1987–1989",
+      "note": "搭载雅马哈FZ750发动机，80年代Bimota经典仿赛，轻量化车架的赛道取向之作",
+      "verified": "verified"
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "models": [
+    {
+      "id": "model:haojue:dl250",
+      "brand": "Haojue",
+      "names": {
+        "en": "DL250",
+        "zh-CN": "DL250 探险旅行车",
+        "zh-TW": "DL250 探險旅行車",
+        "ja": "DL250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "豪爵铃木旗下250cc探险旅行车，双缸水冷，中国摩旅市场最畅销的入门拉力车型之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:haojue:gsx250r",
+      "brand": "Haojue",
+      "names": {
+        "en": "GSX250R",
+        "zh-CN": "GSX250R 入门仿赛",
+        "zh-TW": "GSX250R 入門仿賽",
+        "ja": "GSX250R"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "豪爵铃木合资生产的250cc入门仿赛，双缸水冷，铃木GSX系列家族外观，国内最畅销的入门跑车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:haojue:tr300",
+      "brand": "Haojue",
+      "names": {
+        "en": "TR300",
+        "zh-CN": "TR300 巡航车",
+        "zh-TW": "TR300 巡航車",
+        "ja": "TR300"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "豪爵298cc双缸巡航车，圆润复古造型，做工精细，国产入门巡航热门车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:haojue:dr300",
+      "brand": "Haojue",
+      "names": {
+        "en": "DR300",
+        "zh-CN": "DR300 街车",
+        "zh-TW": "DR300 街車",
+        "ja": "DR300"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "豪爵298cc并列双缸街车，动力调校偏向运动，做工与操控表现优异，定位高端通路街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:haojue:xcr300",
+      "brand": "Haojue",
+      "names": {
+        "en": "XCR300",
+        "zh-CN": "XCR300 跨界街车",
+        "zh-TW": "XCR300 跨界街車",
+        "ja": "XCR300"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "DR300同平台跨界风格街车，298cc双缸，高位排气加越野元素，XCR家族定位多功能街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:haojue:hj150",
+      "brand": "Haojue",
+      "names": {
+        "en": "HJ150",
+        "zh-CN": "HJ150 跨骑车",
+        "zh-TW": "HJ150 跨騎車",
+        "ja": "HJ150"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "豪爵经典150cc单缸跨骑通路车，皮实耐用，性价比高，国内乡镇农村市场畅销车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:haojue:uhr150",
+      "brand": "Haojue",
+      "names": {
+        "en": "UHR150",
+        "zh-CN": "UHR150 水冷踏板",
+        "zh-TW": "UHR150 水冷踏板",
+        "ja": "UHR150"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "豪爵150cc单缸水冷踏板，配置ABS+TCS，做工精良，国产150踏板高端标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:haojue:afr125",
+      "brand": "Haojue",
+      "names": {
+        "en": "AFR125",
+        "zh-CN": "AFR125 通勤踏板",
+        "zh-TW": "AFR125 通勤踏板",
+        "ja": "AFR125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "豪爵主力125cc通勤踏板，搭载ESS发动机，LED大灯，静音启动，城市代步首选之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:haojue:usr125",
+      "brand": "Haojue",
+      "names": {
+        "en": "USR125",
+        "zh-CN": "USR125 运动踏板",
+        "zh-TW": "USR125 運動踏板",
+        "ja": "USR125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "豪爵125cc运动风格踏板，轻量化车架，操控灵活，ESS动力平台，都市年轻用户群体",
+      "verified": "verified"
+    },
+    {
+      "id": "model:haojue:vx125",
+      "brand": "Haojue",
+      "names": {
+        "en": "VX125",
+        "zh-CN": "VX125 实用踏板",
+        "zh-TW": "VX125 實用踏板",
+        "ja": "VX125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "豪爵125cc实用型踏板，大座桶大平踏，ESS发动机，主打日常通勤与实用性",
+      "verified": "verified"
+    },
+    {
+      "id": "model:haojue:vd125",
+      "brand": "Haojue",
+      "names": {
+        "en": "VD125",
+        "zh-CN": "VD125 经典踏板",
+        "zh-TW": "VD125 經典踏板",
+        "ja": "VD125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "豪爵125cc经典款式踏板，ESS发动机，复古圆润设计，皮实耐用，性价比出色",
+      "verified": "verified"
+    },
+    {
+      "id": "model:haojue:vf125",
+      "brand": "Haojue",
+      "names": {
+        "en": "VF125",
+        "zh-CN": "VF125 代步踏板",
+        "zh-TW": "VF125 代步踏板",
+        "ja": "VF125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "豪爵125cc入门代步踏板，经济实惠，动力平顺，城市短途通勤主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:haojue:ufr150",
+      "brand": "Haojue",
+      "names": {
+        "en": "UFR150",
+        "zh-CN": "UFR150 旗舰水冷踏板",
+        "zh-TW": "UFR150 旗艦水冷踏板",
+        "ja": "UFR150"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "豪爵2025年推出的旗舰级150cc水冷踏板，149cc单缸水冷发动机，全系标配博世ABS+电装TCS、气囊后减震与TFT仪表，售价17880元起",
+      "verified": "verified"
+    },
+    {
+      "id": "model:haojue:dks150-2025",
+      "brand": "Haojue",
+      "names": {
+        "en": "DKS150 2025",
+        "zh-CN": "DKS150 跨骑街车（2025款）",
+        "zh-TW": "DKS150 跨騎街車（2025款）",
+        "ja": "DKS150"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "豪爵2025款150cc跨骑街车，2025年5月上市，139kg轻量化车身配16.5L大油箱，超长续航，主打实用通勤与载货",
+      "verified": "verified"
+    },
+    {
+      "id": "model:haojue:afr125x-2025",
+      "brand": "Haojue",
+      "names": {
+        "en": "AFR125X 2025",
+        "zh-CN": "AFR125X 通勤踏板（2025款）",
+        "zh-TW": "AFR125X 通勤踏板（2025款）",
+        "ja": "AFR125X"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "豪爵2025款AFR125X踏板，AFR125S的升级换代车型，单缸风冷ESS发动机，配博世ABS，售价10580元，主打万元级通勤市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:haojue:adx125-plus-2026",
+      "brand": "Haojue",
+      "names": {
+        "en": "ADX125 Plus 2026",
+        "zh-CN": "ADX125 Plus 平踏板（2026款）",
+        "zh-TW": "ADX125 Plus 平踏板（2026款）",
+        "ja": "ADX125 Plus"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "豪爵2026款ADX125 Plus平踏板，升级高功引擎、TFT投屏仪表与智能配置，前轮博世ABS，售价11380元起，主打家用通勤",
+      "verified": "verified"
+    },
+    {
+      "id": "model:haojue:uhr150-2026",
+      "brand": "Haojue",
+      "names": {
+        "en": "UHR150 2026",
+        "zh-CN": "UHR150 水冷踏板（2026款）",
+        "zh-TW": "UHR150 水冷踏板（2026款）",
+        "ja": "UHR150"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "豪爵2026款UHR150踏板，LED大灯升级为欧司朗光源透镜灯组等四项配置升级，150cc单缸水冷，延续ABS+TCS配置",
+      "verified": "verified"
+    },
+    {
+      "id": "model:haojue:gsx250r-2026",
+      "brand": "Haojue",
+      "names": {
+        "en": "GSX250R 2026",
+        "zh-CN": "GSX250R 入门仿赛（2026款）",
+        "zh-TW": "GSX250R 入門仿賽（2026款）",
+        "ja": "GSX250R"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "豪爵铃木2026款GSX250R，搭载全新VVL可变气门发动机，升级滑动离合、TFT全彩仪表、透镜LED大灯并新增前脸双侧定风翼，售价18980元",
+      "verified": "verified"
+    },
+    {
+      "id": "model:haojue:dl250-2026",
+      "brand": "Haojue",
+      "names": {
+        "en": "DL250 2026",
+        "zh-CN": "DL250 探险旅行车（2026款）",
+        "zh-TW": "DL250 探險旅行車（2026款）",
+        "ja": "DL250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "豪爵铃木2026款DL250，升级滑动离合、彩色液晶仪表、LED大灯与原厂C口快充，新增黑武士配色，标准版19880元起",
+      "verified": "verified"
+    },
+    {
+      "id": "model:haojue:tr300-amt-2026",
+      "brand": "Haojue",
+      "names": {
+        "en": "TR300 AMT 2026",
+        "zh-CN": "TR300 AMT 巡航车（2026款）",
+        "zh-TW": "TR300 AMT 巡航車（2026款）",
+        "ja": "TR300 AMT"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "豪爵2026款TR300自动挡巡航车，搭载自研AMT电控变速箱与皮带传动，外观同步改款，预计2026年10月上市，售价约2.3万元",
+      "verified": "verified"
+    }
+  ]
+}

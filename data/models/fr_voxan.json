@@ -1,0 +1,38 @@
+{
+  "models": [
+    {
+      "id": "model:voxan:cafe-racer-996",
+      "brand": "Voxan",
+      "names": {
+        "en": "Cafe Racer 996",
+        "zh-CN": "Cafe Racer 996 咖啡赛车（停产）",
+        "zh-TW": "Cafe Racer 996 咖啡賽車（停產）",
+        "ja": "カフェレーサー996"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cafe-racer",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1999–2005",
+      "note": "996cc V型双缸咖啡赛车，法国手工品牌Voxan的代表作，独特法式设计与强劲性能",
+      "verified": "verified"
+    },
+    {
+      "id": "model:voxan:wattman",
+      "brand": "Voxan",
+      "names": {
+        "en": "Wattman",
+        "zh-CN": "Wattman 纯电怪兽",
+        "zh-TW": "Wattman 純電怪獸",
+        "ja": "ワットマン"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2019–present",
+      "note": "约366马力纯电摩托车，多次打破电动摩托车陆地速度纪录，由Venturi集团旗下Voxan打造",
+      "verified": "verified"
+    }
+  ]
+}

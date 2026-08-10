@@ -1,0 +1,837 @@
+{
+  "models": [
+    {
+      "id": "model:harley-davidson:sportster-s",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Sportster S",
+        "zh-CN": "Sportster S 运动者S 巡航车",
+        "zh-TW": "Sportster S 運動者S 巡航車",
+        "ja": "スポーツスターS"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "Revolution Max 1250T V缸发动机，新一代运动者系列，高性能巡航",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:sportster-nightster",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Sportster Nightster",
+        "zh-CN": "Sportster Nightster 夜行者 巡航车",
+        "zh-TW": "Sportster Nightster 夜行者 巡航車",
+        "ja": "スポーツスター ナイトスター"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "Revolution Max 975T发动机，入门级运动者，经典复古外观",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:forty-eight",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Forty-Eight (X48)",
+        "zh-CN": "Forty-Eight X48 巡航车（停产）",
+        "zh-TW": "Forty-Eight X48 巡航車（停產）",
+        "ja": "フォーティーエイト(X48)"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2022",
+      "note": "Evolution 1200cc V缸，经典Sportster系列，花生油箱，短尾设计",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:iron-883",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Iron 883 (883N)",
+        "zh-CN": "Iron 883 硬汉883N 巡航车（停产）",
+        "zh-TW": "Iron 883 硬漢883N 巡航車（停產）",
+        "ja": "アイアン883(883N)"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2022",
+      "note": "Evolution 883cc V缸，暗黑风格，入门哈雷经典，2022年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:street-bob-114",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Street Bob 114",
+        "zh-CN": "Street Bob 114 街霸 软尾巡航",
+        "zh-TW": "Street Bob 114 街霸 軟尾巡航",
+        "ja": "ストリートボブ114"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bobber",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "Milwaukee-Eight 114软尾车架，Bobber极简风格，单人座设计",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:fat-boy-114",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Fat Boy 114",
+        "zh-CN": "Fat Boy 114 肥仔 巡航车",
+        "zh-TW": "Fat Boy 114 肥仔 巡航車",
+        "ja": "ファットボーイ114"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "Milwaukee-Eight 114发动机，实心盘轮毂，《终结者》电影名车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:heritage-classic-114",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Heritage Classic 114",
+        "zh-CN": "Heritage Classic 114 经典继承者 巡航车",
+        "zh-TW": "Heritage Classic 114 經典繼承者 巡航車",
+        "ja": "ヘリテイジクラシック114"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "Milwaukee-Eight 114，复古风挡+皮质边箱，可拆卸整流罩巡航",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:road-king",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Road King",
+        "zh-CN": "Road King 路王 袋式旅行车",
+        "zh-TW": "Road King 路王 袋式旅行車",
+        "ja": "ロードキング"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bagger",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1994–present",
+      "note": "Milwaukee-Eight 114，经典大灯双灯设计，硬边箱，无大整流罩Bagger",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:street-glide",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Street Glide",
+        "zh-CN": "Street Glide 大道滑翔 Bagger",
+        "zh-TW": "Street Glide 大道滑翔 Bagger",
+        "ja": "ストリートグライド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bagger",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2006–present",
+      "note": "Milwaukee-Eight 117，蝙蝠翼整流罩，集成音响，美式Bagger代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:road-glide",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Road Glide",
+        "zh-CN": "Road Glide 公路滑翔 Bagger",
+        "zh-TW": "Road Glide 公路滑翔 Bagger",
+        "ja": "ロードグライド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bagger",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1998–present",
+      "note": "Milwaukee-Eight 117，鲨鱼鼻固定式整流罩，双LED大灯，高速稳定",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:electra-glide-ultra-limited",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Electra Glide Ultra Limited",
+        "zh-CN": "Electra Glide Ultra Limited 至尊大滑翔 顶级旅行车",
+        "zh-TW": "Electra Glide Ultra Limited 至尊大滑翔 頂級旅行車",
+        "ja": "エレクトラグライド ウルトラリミテッド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "Milwaukee-Eight 117，全整流罩+顶箱，BOOM音响，哈雷旗舰旅行车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:tri-glide-ultra",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Tri Glide Ultra",
+        "zh-CN": "Tri Glide Ultra 三轮 顶级旅行车",
+        "zh-TW": "Tri Glide Ultra 三輪 頂級旅行車",
+        "ja": "トライグライド ウルトラ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2009–present",
+      "note": "Milwaukee-Eight 114，正三轮设计，全行李系统，稳定性高",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:pan-america-1250-special",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Pan America 1250 Special",
+        "zh-CN": "Pan America 1250 Special 泛美 探险车",
+        "zh-TW": "Pan America 1250 Special 汎美 探險車",
+        "ja": "パンアメリカ1250スペシャル"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "Revolution Max 1250 V缸，哈雷首款ADV，自适应坐高，公路越野两用",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:bronx",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Bronx / Bronx S",
+        "zh-CN": "Bronx 布朗克斯 街车（取消发布）",
+        "zh-TW": "Bronx 布朗克斯 街車（取消發布）",
+        "ja": "ブロンクス"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2020 (canceled)",
+      "note": "原计划搭载975T发动机街车，项目取消未正式量产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:livewire-one",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "LiveWire One",
+        "zh-CN": "LiveWire One 纯电巡航车",
+        "zh-TW": "LiveWire One 純電巡航車",
+        "ja": "ライブワイヤーワン"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "Harley旗下LiveWire品牌纯电车型，105马力，续航约235km，即时扭矩",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:cvo-street-glide",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "CVO Street Glide",
+        "zh-CN": "CVO Street Glide CVO大道滑翔 定制旗舰Bagger",
+        "zh-TW": "CVO Street Glide CVO大道滑翔 定制旗艦Bagger",
+        "ja": "CVOストリートグライド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bagger",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2004–present",
+      "note": "CVO定制部门，Milwaukee-Eight 121发动机，限量手绘涂装，高端音响",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:cvo-road-glide",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "CVO Road Glide",
+        "zh-CN": "CVO Road Glide CVO公路滑翔 定制旗舰Bagger",
+        "zh-TW": "CVO Road Glide CVO公路滑翔 定制旗艦Bagger",
+        "ja": "CVOロードグライド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bagger",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2004–present",
+      "note": "CVO旗舰鲨鱼鼻Bagger，Milwaukee-Eight 121，限量涂装，Rockford音响",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:breakout-117",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Breakout 117",
+        "zh-CN": "Breakout 117 突破者 巡航车",
+        "zh-TW": "Breakout 117 突破者 巡航車",
+        "ja": "ブレイクアウト117"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "Milwaukee-Eight 117，240mm宽后胎，长轴距Pro Street改装风格",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:low-rider-s",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Low Rider S",
+        "zh-CN": "Low Rider S 低骑手S 巡航车",
+        "zh-TW": "Low Rider S 低騎手S 巡航車",
+        "ja": "ローライダーS"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "Milwaukee-Eight 117，黑色风格运动巡航，低把宽后胎，软尾家族性能版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:low-rider-st",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Low Rider ST",
+        "zh-CN": "Low Rider ST 低骑手ST 运动Bagger",
+        "zh-TW": "Low Rider ST 低騎手ST 運動Bagger",
+        "ja": "ローライダーST"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bagger",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "Milwaukee-Eight 117，带硬边箱与整流罩的运动Bagger，2022年推出",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:fat-bob-114",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Fat Bob 114",
+        "zh-CN": "Fat Bob 114 肥波 巡航车",
+        "zh-TW": "Fat Bob 114 肥波 巡航車",
+        "ja": "ファットボブ114"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "Milwaukee-Eight 114，双LED圆灯，厚胎，软尾系列运动巡航",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:sport-glide",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Sport Glide",
+        "zh-CN": "Sport Glide 运动滑翔 巡航车",
+        "zh-TW": "Sport Glide 運動滑翔 巡航車",
+        "ja": "スポーツグライド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bagger",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "Milwaukee-Eight 107，可拆风挡与边箱，运动与旅行兼顾的软尾车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:pan-america-1250",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Pan America 1250",
+        "zh-CN": "Pan America 1250 泛美 探险车",
+        "zh-TW": "Pan America 1250 汎美 探險車",
+        "ja": "パンアメリカ1250"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "Revolution Max 1250 V缸，哈雷首款ADV标准版，150马力，公路越野两用",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:freewheeler",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Freewheeler",
+        "zh-CN": "Freewheeler 自由者 三轮巡航车",
+        "zh-TW": "Freewheeler 自由者 三輪巡航車",
+        "ja": "フリーホイーラー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "Milwaukee-Eight 114，正三轮巡航，不带顶箱的入门三轮旅行选择",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:v-rod",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "V-Rod",
+        "zh-CN": "V-Rod 威路德 巡航车（停产）",
+        "zh-TW": "V-Rod 威路德 巡航車（停產）",
+        "ja": "V-ロッド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2017",
+      "note": "1250cc水冷V缸Revolution发动机，与保时捷联合开发，2017年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:xr1200",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "XR1200",
+        "zh-CN": "XR1200 运动街车（停产）",
+        "zh-TW": "XR1200 運動街車（停產）",
+        "ja": "XR1200"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2013",
+      "note": "1203cc气冷V缸，XR750赛车灵感，哈雷少见的运动街车，2013年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:knucklehead-el",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "EL Knucklehead",
+        "zh-CN": "EL 指节头 巡航车（停产）",
+        "zh-TW": "EL 指節頭 巡航車（停產）",
+        "ja": "EL ナックルヘッド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1936–1947",
+      "note": "哈雷首款顶置气门V型双缸车型，61立方英寸发动机，因汽缸盖形似指节得名，奠定哈雷大排量V缸王朝",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:knucklehead-fl",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "FL Knucklehead",
+        "zh-CN": "FL 指节头 巡航车（停产）",
+        "zh-TW": "FL 指節頭 巡航車（停產）",
+        "ja": "FL ナックルヘッド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1941–1947",
+      "note": "74立方英寸（1200cc）大排量版指节头，二战前后哈雷旗舰级巡航车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:wla",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "WLA (45)",
+        "zh-CN": "WLA 军用45 巡航车（停产）",
+        "zh-TW": "WLA 軍用45 巡航車（停產）",
+        "ja": "WLA（45）"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1939–1945, 1949–1952",
+      "note": "45立方英寸（740cc）侧阀V缸，二战美军制式军用摩托车，产量逾七万辆，战争年代传奇车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:hydra-glide",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "FL Hydra-Glide",
+        "zh-CN": "FL Hydra-Glide 液压滑翔 旅行车（停产）",
+        "zh-TW": "FL Hydra-Glide 液壓滑翔 旅行車（停產）",
+        "ja": "FL ハイドラグライド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1949–1957",
+      "note": "首款配备液压伸缩前叉的Panhead平头发动机车型，1949年推出，开创哈雷现代旅行车纪元",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:duo-glide",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "FL Duo-Glide",
+        "zh-CN": "FL Duo-Glide 双人滑翔 旅行车（停产）",
+        "zh-TW": "FL Duo-Glide 雙人滑翔 旅行車（停產）",
+        "ja": "FL デュオグライド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1958–1964",
+      "note": "哈雷首款标配后悬挂的大排量车型，双人长途骑乘舒适性大幅提升，搭载Panhead平头发动机",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:ironhead-sportster",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Sportster Ironhead (XL)",
+        "zh-CN": "Sportster Ironhead 铁头 巡航车（停产）",
+        "zh-TW": "Sportster Ironhead 鐵頭 巡航車（停產）",
+        "ja": "スポーツスター アイアンヘッド"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1957–1985",
+      "note": "1957年推出的首代Sportster，OHV顶置气门铸铁缸头，883cc为主，1972年起增加1000cc版本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:electra-glide",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "FLH Electra Glide",
+        "zh-CN": "FLH Electra Glide 电动滑翔 旅行车（停产）",
+        "zh-TW": "FLH Electra Glide 電動滑翔 旅行車（停產）",
+        "ja": "FLH エレクトラグライド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1965–1993",
+      "note": "1965年首款电启动哈雷大排量车，先后搭载平头、铲头与进化发动机，奠定哈雷旅行车标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:super-glide",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "FX Super Glide",
+        "zh-CN": "FX Super Glide 超级滑翔 巡航车（停产）",
+        "zh-TW": "FX Super Glide 超級滑翔 巡航車（停產）",
+        "ja": "FX スーパーグライド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1971–2012",
+      "note": "1971年由威利·G·戴维森设计的首款工厂定制风格车型，开创美式定制巡航车先河",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:xr750",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "XR750",
+        "zh-CN": "XR750 泥地赛车（停产）",
+        "zh-TW": "XR750 泥地賽車（停產）",
+        "ja": "XR750"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1970–1985",
+      "note": "AMA泥地赛道传奇赛车，1970年起统治美国泥地赛数十年，赢得数百场冠军",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:xlcr",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "XLCR Cafe Racer",
+        "zh-CN": "XLCR 咖啡赛车（停产）",
+        "zh-TW": "XLCR 咖啡賽車（停產）",
+        "ja": "XLCR カフェレーサー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cafe-racer",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1977–1978",
+      "note": "哈雷首款也是唯一一款量产咖啡赛车，黑色涂装、蛇形排气，1978年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:tour-glide",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "FLT Tour Glide",
+        "zh-CN": "FLT Tour Glide 旅行滑翔 旅行车（停产）",
+        "zh-TW": "FLT Tour Glide 旅行滑翔 旅行車（停產）",
+        "ja": "FLT ツアーグライド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1980–1996",
+      "note": "1980年推出，首款车架固定式整流罩旅行车，橡胶安装发动机与皮带传动开先河",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:fxr",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "FXR",
+        "zh-CN": "FXR 巡航车（停产）",
+        "zh-TW": "FXR 巡航車（停產）",
+        "ja": "FXR"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1982–1994",
+      "note": "1982年推出的橡胶安装发动机Evo巡航车，操控优异，至今被改装圈奉为经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:flhs",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "FLHS Electra Glide Sport",
+        "zh-CN": "FLHS Electra Glide Sport 运动滑翔 旅行车（停产）",
+        "zh-TW": "FLHS Electra Glide Sport 運動滑翔 旅行車（停產）",
+        "ja": "FLHS エレクトラグライド スポーツ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1987–1993",
+      "note": "去掉整流罩与顶箱的简化版Electra Glide，被视为Road King的直系前身",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:softail",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "FXST Softail",
+        "zh-CN": "FXST Softail 软尾 巡航车（停产）",
+        "zh-TW": "FXST Softail 軟尾 巡航車（停產）",
+        "ja": "FXST ソフテイル"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–2006",
+      "note": "1984年首款软尾车型，隐藏式后减震营造硬尾经典外观，现代软尾家族鼻祖",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:heritage-softail",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "FLSTC Heritage Softail Classic",
+        "zh-CN": "FLSTC Heritage Softail Classic 经典软尾 巡航车（停产）",
+        "zh-TW": "FLSTC Heritage Softail Classic 經典軟尾 巡航車（停產）",
+        "ja": "ヘリテイジソフテイル クラシック"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1986–2020",
+      "note": "1986年推出的复古风格软尾，白边胎、皮质边箱与大挡风玻璃致敬40年代经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:springer-softail",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "FXSTS Springer Softail",
+        "zh-CN": "FXSTS Springer Softail 弹簧软尾 巡航车（停产）",
+        "zh-TW": "FXSTS Springer Softail 彈簧軟尾 巡航車（停產）",
+        "ja": "FXSTS スプリンガーソフテイル"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1988–2006",
+      "note": "软尾家族弹簧前叉版本，复古弹簧前悬挂搭配隐藏式后减震，怀旧外观极具辨识度",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:wide-glide",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "FXWG Dyna Wide Glide",
+        "zh-CN": "FXWG Dyna Wide Glide 宽滑翔 巡航车（停产）",
+        "zh-TW": "FXWG Dyna Wide Glide 寬滑翔 巡航車（停產）",
+        "ja": "ダイナ ワイドグライド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:chopper",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1993–2016",
+      "note": "Dyna家族宽前叉chopper风格巡航车，加长前叉配21寸前轮与前伸脚踏",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:night-train",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "FXSTB Night Train",
+        "zh-CN": "FXSTB Night Train 夜车 巡航车（停产）",
+        "zh-TW": "FXSTB Night Train 夜車 巡航車（停產）",
+        "ja": "FXSTB ナイトトレイン"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bobber",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2009",
+      "note": "暗黑风格软尾Bobber，哑光黑涂装，2009年停产，深受改装圈喜爱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:pan-america-1250-st",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Pan America 1250 ST",
+        "zh-CN": "Pan America 1250 ST 泛美公路版 探险车",
+        "zh-TW": "Pan America 1250 ST 汎美公路版 探險車",
+        "ja": "パンアメリカ1250ST"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025年全新公路取向ADV，Revolution Max 1250 V缸，19寸前轮，低座高，主打Adventure Sport",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:cvo-road-glide-rr",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "CVO Road Glide RR",
+        "zh-CN": "CVO Road Glide RR 赛道级定制Bagger",
+        "zh-TW": "CVO Road Glide RR 賽道級定制Bagger",
+        "ja": "CVOロードグライドRR"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bagger",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025年发布赛道级CVO巡航，131ci Screamin' Eagle发动机，全球限量131台，哈雷最强量产Bagger",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:cvo-road-glide-st",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "CVO Road Glide ST",
+        "zh-CN": "CVO Road Glide ST 定制公路滑翔ST Bagger",
+        "zh-TW": "CVO Road Glide ST 定制公路滑翔ST Bagger",
+        "ja": "CVOロードグライドST"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bagger",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "CVO旗舰鲨鱼鼻Bagger，Milwaukee-Eight VVT 121大排量V缸，运动化低风挡与轻量轮毂",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:street-glide-limited",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Street Glide Limited",
+        "zh-CN": "Street Glide Limited 大道滑翔限量 豪华旅行车",
+        "zh-TW": "Street Glide Limited 大道滑翔限量 豪華旅行車",
+        "ja": "ストリートグライド・リミテッド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026年全新豪华旅行车，1923cc Milwaukee-Eight VVT 117发动机，Grand Tour-Pak尾箱，接替Ultra Limited定位",
+      "verified": "verified"
+    },
+    {
+      "id": "model:harley-davidson:street-glide-3-limited",
+      "brand": "Harley-Davidson",
+      "names": {
+        "en": "Street Glide 3 Limited",
+        "zh-CN": "Street Glide 3 Limited 大道滑翔三轮 旅行车",
+        "zh-TW": "Street Glide 3 Limited 大道滑翔三輪 旅行車",
+        "ja": "ストリートグライド3リミテッド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026年全新正三轮车型，Milwaukee-Eight VVT 117发动机，独立前大灯整流罩，双人长途三轮旅行",
+      "verified": "verified"
+    }
+  ]
+}

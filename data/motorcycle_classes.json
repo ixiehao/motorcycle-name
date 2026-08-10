@@ -1,0 +1,381 @@
+{
+  "displacement_classes": [
+    {
+      "id": "class:disp:50cc",
+      "en": "Moped",
+      "zh-CN": "轻便摩托车(50cc)",
+      "zh-TW": "輕機車(50cc)",
+      "ja": "原付一種",
+      "standard": "Displacement ≤ 50cc",
+      "examples": "Honda Super Cub C50, Yamaha Jog, Suzuki Let's"
+    },
+    {
+      "id": "class:disp:125cc",
+      "en": "125cc Entry Class",
+      "zh-CN": "入门级(125cc)",
+      "zh-TW": "入門級(125cc)",
+      "ja": "125ccクラス",
+      "standard": "50cc < Displacement ≤ 125cc",
+      "examples": "Honda CB125R, Yamaha YZF-R125, Kawasaki Z125"
+    },
+    {
+      "id": "class:disp:250cc",
+      "en": "Lightweight (250cc)",
+      "zh-CN": "轻量级(250cc)",
+      "zh-TW": "輕量級(250cc)",
+      "ja": "250ccクラス",
+      "standard": "125cc < Displacement ≤ 250cc",
+      "examples": "Honda CBR250RR, Yamaha YZF-R25, Kawasaki Ninja 250"
+    },
+    {
+      "id": "class:disp:400cc",
+      "en": "Mid-entry (400cc)",
+      "zh-CN": "中入门(400cc)",
+      "zh-TW": "中入門(400cc)",
+      "ja": "400ccクラス",
+      "standard": "250cc < Displacement ≤ 400cc",
+      "examples": "Honda CB400SF, Kawasaki Z400, Yamaha MT-03"
+    },
+    {
+      "id": "class:disp:600cc",
+      "en": "Middleweight (600cc)",
+      "zh-CN": "中量级(600cc)",
+      "zh-TW": "中量級(600cc)",
+      "ja": "600ccクラス(ミドルクラス)",
+      "standard": "400cc < Displacement ≤ 600cc",
+      "examples": "Honda CBR600RR, Yamaha YZF-R6, Kawasaki ZX-6R"
+    },
+    {
+      "id": "class:disp:750cc",
+      "en": "Liter-class Entry (750cc)",
+      "zh-CN": "准公升级(750-900cc)",
+      "zh-TW": "準公升級(750-900cc)",
+      "ja": "リッタークラス準備級",
+      "standard": "600cc < Displacement < 1000cc",
+      "examples": "Honda CB750, Yamaha MT-09, Kawasaki Z900, Suzuki GSX-S750"
+    },
+    {
+      "id": "class:disp:1000cc",
+      "en": "Liter-class / Superbike",
+      "zh-CN": "公升级(1000cc+)",
+      "zh-TW": "公升級(1000cc+)",
+      "ja": "リッタークラス/スーパーバイク",
+      "standard": "Displacement ≥ 1000cc",
+      "examples": "Honda CBR1000RR-R, Yamaha YZF-R1, Kawasaki ZX-10R, Suzuki GSX-R1000"
+    }
+  ],
+  "eu_license_classes": [
+    {
+      "id": "class:eu:AM",
+      "en": "AM license",
+      "zh-CN": "AM驾照",
+      "zh-TW": "AM駕照",
+      "ja": "AM免許(欧州)",
+      "standard": "Two/three wheels ≤ 50cc or ≤ 4kW, max speed ≤ 45km/h",
+      "note": "Minimum age varies by country (typically 14-16)"
+    },
+    {
+      "id": "class:eu:A1",
+      "en": "A1 license",
+      "zh-CN": "A1驾照",
+      "zh-TW": "A1駕照",
+      "ja": "A1免許(欧州)",
+      "standard": "≤ 125cc, ≤ 11kW, power/weight ≤ 0.1kW/kg",
+      "note": "Minimum age: 16 years old"
+    },
+    {
+      "id": "class:eu:A2",
+      "en": "A2 license",
+      "zh-CN": "A2驾照",
+      "zh-TW": "A2駕照",
+      "ja": "A2免許(欧州)",
+      "standard": "≤ 35kW, power/weight ≤ 0.2kW/kg",
+      "note": "Minimum age: 18 years old; can restrict A-class bikes"
+    },
+    {
+      "id": "class:eu:A",
+      "en": "A license (Unrestricted)",
+      "zh-CN": "A驾照(不限)",
+      "zh-TW": "A駕照(不限)",
+      "ja": "A免許(無制限/欧州)",
+      "standard": "Unrestricted - any power and displacement",
+      "note": "Minimum age: 20 (with 2 years A2) or 24 (direct access)"
+    }
+  ],
+  "jp_categories": [
+    {
+      "id": "class:jp:gentuki1",
+      "en": "Moped Class 1",
+      "zh-CN": "原付一种",
+      "zh-TW": "原付一種",
+      "ja": "原付一種",
+      "standard": "排気量 ≤ 50cc",
+      "note": "最高速度30km/h制限、二人乗り不可、高速道路走行不可"
+    },
+    {
+      "id": "class:jp:gentuki2",
+      "en": "Moped Class 2",
+      "zh-CN": "原付二种",
+      "zh-TW": "原付二種",
+      "ja": "原付二種",
+      "standard": "50cc < 排気量 ≤ 125cc",
+      "note": "黄色ナンバープレート、高速道路走行不可"
+    },
+    {
+      "id": "class:jp:shogai",
+      "en": "Small Motorcycle",
+      "zh-CN": "小型二轮",
+      "zh-TW": "小型二輪",
+      "ja": "小型二輪(軽二輪)",
+      "standard": "125cc < 排気量 ≤ 250cc",
+      "note": "水色ナンバー、車検不要、高速道路可"
+    },
+    {
+      "id": "class:jp:futsu",
+      "en": "Ordinary Motorcycle",
+      "zh-CN": "普通二轮",
+      "zh-TW": "普通二輪",
+      "ja": "普通二輪(中型バイク)",
+      "standard": "250cc < 排気量 ≤ 400cc",
+      "note": "緑ナンバー、車検必要(2年毎)"
+    },
+    {
+      "id": "class:jp:ogata",
+      "en": "Heavy Motorcycle",
+      "zh-CN": "大型二轮",
+      "zh-TW": "大型二輪",
+      "ja": "大型二輪(大型バイク)",
+      "standard": "排気量 > 400cc",
+      "note": "緑ナンバー、車検必要(2年毎)、大型二輪免許必要"
+    }
+  ],
+  "body_styles": [
+    {
+      "id": "body:naked",
+      "en": "Naked / Streetfighter",
+      "zh-CN": "街车",
+      "zh-TW": "NK車/街車",
+      "ja": "ネイキッド(無整流罩)",
+      "examples": "Honda CB1000R, Yamaha MT-09, Kawasaki Z1000, Suzuki GSX-S1000",
+      "note": "无整流罩设计，注重街道实用性和操控"
+    },
+    {
+      "id": "body:sport",
+      "en": "Sport / Supersport",
+      "zh-CN": "跑车(仿赛)",
+      "zh-TW": "跑車(仿賽)",
+      "ja": "スーパースポーツ(フルカウル)",
+      "examples": "Honda CBR1000RR-R, Yamaha YZF-R1, Kawasaki Ninja ZX-10R, Suzuki GSX-R1000",
+      "note": "全整流罩，低趴骑姿，赛道取向"
+    },
+    {
+      "id": "body:sport-touring",
+      "en": "Sport Touring / GT",
+      "zh-CN": "运动旅行",
+      "zh-TW": "運動旅行",
+      "ja": "スポーツツアラー",
+      "examples": "Honda VFR1200X, Yamaha FJR1300, Kawasaki Ninja 1000SX, Suzuki GSX-S1000GT",
+      "note": "运动性能与长途舒适兼顾"
+    },
+    {
+      "id": "body:touring",
+      "en": "Touring",
+      "zh-CN": "旅行车",
+      "zh-TW": "旅行車",
+      "ja": "ツアラー(フルカウル大型)",
+      "examples": "Honda Gold Wing, BMW K 1600 GTL, Yamaha Star Venture, Harley-Davidson Ultra Limited",
+      "note": "全整流罩，大风挡，大容量边箱，豪华舒适装备"
+    },
+    {
+      "id": "body:cruiser",
+      "en": "Cruiser",
+      "zh-CN": "巡航车(太子车)",
+      "zh-TW": "巡航車(太子車)",
+      "ja": "クルーザー",
+      "examples": "Harley-Davidson Street Glide, Honda Rebel, Yamaha XV950, Kawasaki Vulcan S, Suzuki Boulevard",
+      "note": "美式风格，低坐高，脚向前伸的骑姿"
+    },
+    {
+      "id": "body:chopper",
+      "en": "Chopper / Custom",
+      "zh-CN": "改装定制车",
+      "zh-TW": "改裝定制車",
+      "ja": "チョッパー/カスタム",
+      "examples": "Custom-built choppers, Harley-Davidson based customs, Orange County Choppers",
+      "note": "长前叉，高把，个性化定制改装"
+    },
+    {
+      "id": "body:cafe-racer",
+      "en": "Cafe Racer",
+      "zh-CN": "咖啡赛车",
+      "zh-TW": "咖啡賽車",
+      "ja": "カフェレーサー",
+      "examples": "Triumph Thruxton, BMW R nineT Racer, Honda CB1100RS Custom, Yamaha XSR900 Cafe",
+      "note": "复古运动风格，分离把，驼峰座"
+    },
+    {
+      "id": "body:scrambler",
+      "en": "Scrambler",
+      "zh-CN": "攀爬者",
+      "zh-TW": "攀爬者",
+      "ja": "スクランブラー",
+      "examples": "Ducati Scrambler, Triumph Street Scrambler, BMW R nineT Scrambler, Yamaha XSR700 XTribute",
+      "note": "复古越野风格，高排气，块状轮胎"
+    },
+    {
+      "id": "body:bobber",
+      "en": "Bobber",
+      "zh-CN": "鲍勃",
+      "zh-TW": "鮑勃",
+      "ja": "ボバー",
+      "examples": "Triumph Bobber, Harley-Davidson Street Bob, Indian Scout Bobber, Yamaha XV950 Bolt",
+      "note": "极简风格，单座，短尾挡泥板"
+    },
+    {
+      "id": "body:bagger",
+      "en": "Bagger",
+      "zh-CN": "袋式旅行车",
+      "zh-TW": "袋式旅行車",
+      "ja": "バガー",
+      "examples": "Harley-Davidson Road Glide, Indian Chieftain, Honda Gold Wing Bagger, BMW R 18 Transcontinental",
+      "note": "集成硬边箱，美式巡航旅行，大整流罩"
+    },
+    {
+      "id": "body:motocross",
+      "en": "Dirt / Motocross",
+      "zh-CN": "越野摩托(场地)",
+      "zh-TW": "越野摩托(場地)",
+      "ja": "モトクロス(オフロード)",
+      "examples": "Honda CRF450R, Yamaha YZ450F, Kawasaki KX450, Suzuki RM-Z450, KTM 450 SX-F",
+      "note": "场地越野专用，无车灯，不可公路行驶"
+    },
+    {
+      "id": "body:enduro",
+      "en": "Enduro",
+      "zh-CN": "林道耐力赛",
+      "zh-TW": "林道耐力賽",
+      "ja": "エンデューロ(公道可)",
+      "examples": "Honda CRF450L, Yamaha WR450F, Kawasaki KLX450R, KTM 450 EXC-F, Husqvarna FE 450",
+      "note": "耐力越野，可上牌公路行驶，有灯具"
+    },
+    {
+      "id": "body:supermoto",
+      "en": "Supermoto",
+      "zh-CN": "超级摩托滑胎",
+      "zh-TW": "超級摩托滑胎",
+      "ja": "スーパーモト",
+      "examples": "Honda CRF450SM, Yamaha WR250X, Kawasaki D-Tracker X, Suzuki DR-Z400SM, KTM 690 SMC R",
+      "note": "越野车架+公路滑胎，适合柏油滑胎赛"
+    },
+    {
+      "id": "body:adventure",
+      "en": "Adventure / ADV",
+      "zh-CN": "探险车(拉力)",
+      "zh-TW": "探險車(拉力)",
+      "ja": "アドベンチャー",
+      "examples": "BMW R 1250 GS, Africa Twin, Yamaha Tenere 700, KTM 1290 Super Adventure, Suzuki V-Strom",
+      "note": "公路越野两用，大风挡，大容量油箱，长行程悬挂"
+    },
+    {
+      "id": "body:dual-sport",
+      "en": "Dual Sport / Trail",
+      "zh-CN": "两用(公路越野)",
+      "zh-TW": "兩用(公路越野)",
+      "ja": "オフロード併用車",
+      "examples": "Honda XR650L, Yamaha XT250, Kawasaki KLR650, Suzuki DR650, KTM 690 Enduro R",
+      "note": "以越野为主可公路行驶，ADV的轻量化版本"
+    },
+    {
+      "id": "body:scooter",
+      "en": "Scooter",
+      "zh-CN": "踏板车",
+      "zh-TW": "機車(踏板)",
+      "ja": "スクーター",
+      "examples": "Honda PCX, Yamaha NMAX, Suzuki Address, Vespa Primavera, Kymco Like",
+      "note": "无级变速，踏板式地板，小排量为主"
+    },
+    {
+      "id": "body:maxi-scooter",
+      "en": "Maxi Scooter",
+      "zh-CN": "大绵羊(大踏板)",
+      "zh-TW": "大綿羊(大踏板)",
+      "ja": "ビッグスクーター",
+      "examples": "Honda Forza 750, Yamaha TMAX 560, Suzuki Burgman 650, BMW C 650 GT, Kymco AK550",
+      "note": "大排量踏板，400cc+，高性能长途舒适"
+    },
+    {
+      "id": "body:underbone",
+      "en": "Underbone / Cub",
+      "zh-CN": "弯梁",
+      "zh-TW": "彎梁",
+      "ja": "アンダーボーン/カブ",
+      "examples": "Honda Super Cub, Yamaha Spark, Suzuki Smash, Wave series, EX5 Dream",
+      "note": "东南亚主流，弯梁车架，半自动变速"
+    },
+    {
+      "id": "body:mini",
+      "en": "Monkey / Mini Bike",
+      "zh-CN": "迷你车",
+      "zh-TW": "迷你車",
+      "ja": "ミニバイク",
+      "examples": "Honda Monkey 125, Honda Grom/MSX125, Kawasaki Z125 Pro, Yamaha Minarelli, Suzuki VanVan",
+      "note": "小尺寸，娱乐休闲，收藏或代步"
+    },
+    {
+      "id": "body:trike",
+      "en": "Trike / Sidecar",
+      "zh-CN": "三轮/边三轮",
+      "zh-TW": "三輪/邊三輪",
+      "ja": "トライク/サイドカー",
+      "examples": "Can-Am Spyder, Harley-Davidson Freewheeler, Ural Sidecar, BMW R 18 Sidecar, Piaggio MP3",
+      "note": "三轮设计，包括正三轮、倒三轮和边三轮"
+    }
+  ],
+  "powertrain_types": [
+    {
+      "id": "pt:ice",
+      "en": "ICE / Gasoline",
+      "zh-CN": "燃油内燃机",
+      "zh-TW": "燃油內燃機",
+      "ja": "ガソリンエンジン(ICE)",
+      "examples": "All mainstream motorcycles: Honda CB series, Yamaha MT series, Kawasaki Z series, Suzuki GSX series",
+      "note": "传统汽油发动机，四冲程或二冲程"
+    },
+    {
+      "id": "pt:hybrid",
+      "en": "Hybrid",
+      "zh-CN": "混合动力",
+      "zh-TW": "混合動力",
+      "ja": "ハイブリッド",
+      "examples": "Kawasaki Ninja 7 Hybrid, Honda PCX Hybrid, Yamaha Fascino Hybrid",
+      "note": "内燃机+电机辅助，提高燃油效率"
+    },
+    {
+      "id": "pt:bev",
+      "en": "Battery EV",
+      "zh-CN": "纯电动",
+      "zh-TW": "純電動",
+      "ja": "バッテリーEV(BEV)",
+      "examples": "Zero SR/F, Energica Ego, LiveWire One, Lightning Strike, Damon Hypersport",
+      "note": "纯电池驱动，零排放，即时扭矩"
+    },
+    {
+      "id": "pt:fuel-cell",
+      "en": "Fuel Cell",
+      "zh-CN": "燃料电池",
+      "zh-TW": "燃料電池",
+      "ja": "燃料電池車",
+      "examples": "Toyota FC motorcycle concept, Suzuki Burgman Fuel Cell, Honda FC concept",
+      "note": "氢气+氧气发电，排放仅水"
+    },
+    {
+      "id": "pt:h2-ice",
+      "en": "Hydrogen ICE",
+      "zh-CN": "氢内燃机",
+      "zh-TW": "氫內燃機",
+      "ja": "水素エンジン(H2-ICE)",
+      "examples": "Kawasaki H2 HySE prototype, Yamaha Hydrogen SR-F concept, Honda CRF H2 concept",
+      "note": "以氢为燃料的内燃机，近零CO2排放"
+    }
+  ]
+}

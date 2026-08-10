@@ -1,0 +1,106 @@
+{
+  "models": [
+    {
+      "id": "model:yingang:hanluzhe-300",
+      "brand": "Yingang",
+      "names": {
+        "en": "Hanluzhe 300",
+        "zh-CN": "悍路者300 边三轮",
+        "zh-TW": "悍路者300 邊三輪",
+        "ja": "ハンルーザー300"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "银钢悍路者300（GY300），300cc水冷边三轮，带倒挡，军旅复古大边三风格",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yingang:yingang-500",
+      "brand": "Yingang",
+      "names": {
+        "en": "Yingang 500",
+        "zh-CN": "银钢500 边三轮",
+        "zh-TW": "銀鋼500 邊三輪",
+        "ja": "インガン500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "银钢500，国产首款ADV风格大排量边三轮，填补国产大排量挎子市场空白",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yingang:cross-150",
+      "brand": "Yingang",
+      "names": {
+        "en": "Cross 150",
+        "zh-CN": "十字架150 边三轮",
+        "zh-TW": "十字架150 邊三輪",
+        "ja": "クロス150"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "银钢十字架边三轮，2015年推出的\"MINI+挎子\"组合，标志着银钢正式进入边三轮领域",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yingang:jing-150",
+      "brand": "Yingang",
+      "names": {
+        "en": "Jing 150",
+        "zh-CN": "鲸150 迷你边三轮",
+        "zh-TW": "鯨150 迷你邊三輪",
+        "ja": "ジン150"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "银钢鲸150，150cc迷你边三轮，轴传动设计，CVT自动挡版本让新手也能轻松驾驭",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yingang:xunluozhe-150",
+      "brand": "Yingang",
+      "names": {
+        "en": "Xunluozhe 150",
+        "zh-CN": "巡逻者150 边三轮",
+        "zh-TW": "巡邏者150 邊三輪",
+        "ja": "シュンロージャ150"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "银钢巡逻者150，150cc边三轮中资历较老的车型，通勤与休闲兼顾",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yingang:latte-250",
+      "brand": "Yingang",
+      "names": {
+        "en": "Latte 250",
+        "zh-CN": "拿铁250 复古车",
+        "zh-TW": "拿鐵250 復古車",
+        "ja": "ラテ250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "银钢拿铁250，250cc复古车，圆形大灯内融入现代元素，标配双通道ABS，低价高配",
+      "verified": "verified"
+    }
+  ]
+}

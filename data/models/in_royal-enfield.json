@@ -1,0 +1,395 @@
+{
+  "models": [
+    {
+      "id": "model:royal-enfield:classic-350",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Classic 350",
+        "zh-CN": "Classic 350 经典复古车",
+        "zh-TW": "Classic 350 經典復古車",
+        "ja": "クラシック350"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "皇家恩菲尔德最畅销车型，349cc单缸J平台发动机，经典英伦复古外观，全球销量最高的复古车之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:bullet-350",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Bullet 350",
+        "zh-CN": "Bullet 350 子弹 复古车",
+        "zh-TW": "Bullet 350 子彈 復古車",
+        "ja": "バレット350"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1932–present",
+      "note": "历史最悠久的连续量产摩托车，349cc单缸，2023年J平台换代，纯正英式复古血统",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:meteor-350",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Meteor 350",
+        "zh-CN": "Meteor 350 流星 巡航车",
+        "zh-TW": "Meteor 350 流星 巡航車",
+        "ja": "メテオ350"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "入门巡航车，349cc单缸J平台，低坐高，脚前伸骑姿，Tripper导航模块首创",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:super-meteor-650",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Super Meteor 650",
+        "zh-CN": "Super Meteor 650 超级流星 大巡航车",
+        "zh-TW": "Super Meteor 650 超級流星 大巡航車",
+        "ja": "スーパーメテオ650"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "RE旗舰巡航，648cc并列双缸47马力，美式复古巡航风格，USD前叉，LED灯具",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:hunter-350",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Hunter 350",
+        "zh-CN": "Hunter 350 猎人 街车",
+        "zh-TW": "Hunter 350 獵人 街車",
+        "ja": "ハンター350"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "RE城市街车，349cc单缸J平台，17寸合金轮，轻量化车身，东南亚和印度市场热门",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:himalayan-450",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Himalayan 450 / 452",
+        "zh-CN": "Himalayan 450 新喜马拉雅 探险车",
+        "zh-TW": "Himalayan 450 新喜馬拉雅 探險車",
+        "ja": "ヒマラヤ450"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "2023年全新换代，452cc液冷单缸40马力，21/17寸轮，以喜马拉雅山命名的探险车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:himalayan-old",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Himalayan",
+        "zh-CN": "Himalayan 喜马拉雅 老款探险车",
+        "zh-TW": "Himalayan 喜馬拉雅 老款探險車",
+        "ja": "ヒマラヤ(旧型)"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2023",
+      "note": "老款喜马拉雅，411cc油冷单缸LS410发动机，ADV入门性价比之选，已被450取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:interceptor-650",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Interceptor 650",
+        "zh-CN": "Interceptor 650 拦截者 复古双缸街车",
+        "zh-TW": "Interceptor 650 攔截者 復古雙缸街車",
+        "ja": "インターセプター650"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "RE双缸时代开山之作，648cc并列双缸47马力，复古街车造型，性价比极高",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:continental-gt-650",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Continental GT 650",
+        "zh-CN": "Continental GT 650 (GT650) 咖啡赛车",
+        "zh-TW": "Continental GT 650 (GT650) 咖啡賽車",
+        "ja": "コンチネンタルGT650"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cafe-racer",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "Interceptor 650同平台咖啡赛车，分离把，驼峰单座，油箱条纹涂装，现代Cafe Racer代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:shotgun-650",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Shotgun 650",
+        "zh-CN": "Shotgun 650 霰弹650 Bobber巡航车",
+        "zh-TW": "Shotgun 650 霰彈650 Bobber巡航車",
+        "ja": "ショットガン650"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:bobber",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "648cc双缸Bobber风格，前后挡泥板可拆卸，原厂改装件丰富，彰显叛逆风格",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:scram-411",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Scram 411",
+        "zh-CN": "Scram 411 攀爬者",
+        "zh-TW": "Scram 411 攀爬者",
+        "ja": "スクラム411"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "基于Himalayan老款LS410发动机的Scrambler车型，19寸前轮，城市+轻度越野两用",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:guerrilla-450",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Guerrilla 450",
+        "zh-CN": "Guerrilla 450 游击者 街车",
+        "zh-TW": "Guerrilla 450 游擊者 街車",
+        "ja": "ゲリラ450"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "2024年推出的现代复古街车，452cc Sherpa单缸，与Himalayan 450同平台，轻量化街车定位",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:bear-650",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Bear 650",
+        "zh-CN": "Bear 650 熊 攀爬者",
+        "zh-TW": "Bear 650 熊 攀爬者",
+        "ja": "ベア650"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "2024年发布的Scrambler车型，648cc并列双缸47马力，倒置前叉配19寸前轮",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:classic-500",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Classic 500",
+        "zh-CN": "Classic 500 经典 复古车",
+        "zh-TW": "Classic 500 經典 復古車",
+        "ja": "クラシック500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2020",
+      "note": "Classic系列的500cc版本，499cc单缸UCE发动机，2020年因BS6排放法规停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:bullet-500",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Bullet 500",
+        "zh-CN": "Bullet 500 子弹 复古车",
+        "zh-TW": "Bullet 500 子彈 復古車",
+        "ja": "バレット500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2020",
+      "note": "Bullet系列的500cc版本，499cc单缸，2020年与Classic 500一同因排放法规停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:thunderbird-350",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Thunderbird 350",
+        "zh-CN": "Thunderbird 350 雷鸟 巡航车",
+        "zh-TW": "Thunderbird 350 雷鳥 巡航車",
+        "ja": "サンダーバード350"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2020",
+      "note": "RE经典入门巡航车，349cc单缸UCE，长轴距低坐高，2020年停产被Meteor取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:continental-gt-535",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Continental GT 535",
+        "zh-CN": "Continental GT 535 咖啡赛车",
+        "zh-TW": "Continental GT 535 咖啡賽車",
+        "ja": "コンチネンタルGT535"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cafe-racer",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2018",
+      "note": "RE现代咖啡赛车先驱，535cc单缸UCE，2018年停产，为650双缸GT让路",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:standard-350",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Standard 350",
+        "zh-CN": "Standard 350 标准 复古车",
+        "zh-TW": "Standard 350 標準 復古車",
+        "ja": "スタンダード350"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2018",
+      "note": "Bullet车系中的标准版，346cc单缸UCE，配置朴素，2018年退出市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:thunderbird-500",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Thunderbird 500",
+        "zh-CN": "Thunderbird 500 雷鸟 巡航车",
+        "zh-TW": "Thunderbird 500 雷鳥 巡航車",
+        "ja": "サンダーバード500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2020",
+      "note": "Thunderbird家族的500cc版本，499cc单缸，2020年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:scram-440",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Scram 440",
+        "zh-CN": "Scram 440 攀爬者440",
+        "zh-TW": "Scram 440 攀爬者440",
+        "ja": "スクラム440"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025年全新Scrambler，443cc单缸（Himalayan 450同平台），19寸前轮，城市轻度越野两用",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:goan-classic-350",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Goan Classic 350",
+        "zh-CN": "Goan Classic 350 果阿经典 Bobber巡航车",
+        "zh-TW": "Goan Classic 350 果阿經典 Bobber巡航車",
+        "ja": "ゴアンクラシック350"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:bobber",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "2025年全新Bobber风格车型，349cc J平台单缸，灵感源自印度果阿定制机车文化",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:classic-650",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Classic 650",
+        "zh-CN": "Classic 650 经典650 复古车",
+        "zh-TW": "Classic 650 經典650 復古車",
+        "ja": "クラシック650"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025年全新Classic系列650双缸版本，648cc并列双缸47马力，向1950年代经典致敬",
+      "verified": "verified"
+    },
+    {
+      "id": "model:royal-enfield:classic-650-125th-anniversary",
+      "brand": "Royal Enfield",
+      "names": {
+        "en": "Classic 650 125th Anniversary Edition",
+        "zh-CN": "Classic 650 125周年纪念版",
+        "zh-TW": "Classic 650 125週年紀念版",
+        "ja": "クラシック650 125周年記念"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026",
+      "note": "2026年限量纪念版，纪念品牌创立125周年，648cc双缸，黑金复古涂装致敬1950年代",
+      "verified": "verified"
+    }
+  ]
+}

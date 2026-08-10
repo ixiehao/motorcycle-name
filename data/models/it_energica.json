@@ -1,0 +1,72 @@
+{
+  "models": [
+    {
+      "id": "model:energica:ego",
+      "brand": "Energica",
+      "names": {
+        "en": "Ego",
+        "zh-CN": "Ego 纯电仿赛（停产）",
+        "zh-TW": "Ego 純電仿賽（停產）",
+        "ja": "エゴ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2015–2022",
+      "note": "Energica首款量产纯电仿赛，约145马力，意大利高端电动摩托开路之作，曾为MotoE测试基础车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:energica:eva-ribelle",
+      "brand": "Energica",
+      "names": {
+        "en": "Eva Ribelle",
+        "zh-CN": "Eva Ribelle 纯电街车",
+        "zh-TW": "Eva Ribelle 純電街車",
+        "ja": "エヴァ・リベッレ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "约145马力纯电街车，19.6kWh大电池，支持快充，Energica电动街车主力型号",
+      "verified": "verified"
+    },
+    {
+      "id": "model:energica:experia",
+      "brand": "Energica",
+      "names": {
+        "en": "Experia",
+        "zh-CN": "Experia 纯电探险旅行车",
+        "zh-TW": "Experia 純電探險旅行車",
+        "ja": "エスペリア"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "约102马力纯电探险旅行车，续航约420公里，Energica首款长途电动ADV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:energica:eva-esseesse9",
+      "brand": "Energica",
+      "names": {
+        "en": "Eva EsseEsse9",
+        "zh-CN": "Eva EsseEsse9 复古纯电街车（停产）",
+        "zh-TW": "Eva EsseEsse9 復古純電街車（停產）",
+        "ja": "エヴァ・エッセエッセ9"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2017–2020",
+      "note": "约109马力纯电街车，复古风格造型，后被Eva Ribelle取代",
+      "verified": "verified"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "models": [
+    {
+      "id": "model:cagiva:mito-125",
+      "brand": "Cagiva",
+      "names": {
+        "en": "Mito 125",
+        "zh-CN": "Mito 125 二冲程仿赛（停产）",
+        "zh-TW": "Mito 125 二衝程仿賽（停產）",
+        "ja": "ミト125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–2016",
+      "note": "125cc水冷二冲程仿赛，小排量运动车传奇，多代进化一直生产至2016年",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cagiva:v-raptor",
+      "brand": "Cagiva",
+      "names": {
+        "en": "V-Raptor 1000",
+        "zh-CN": "V-Raptor 1000 运动街车（停产）",
+        "zh-TW": "V-Raptor 1000 運動街車（停產）",
+        "ja": "Vラプター1000"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2000–2005",
+      "note": "搭载铃木TL1000同款996cc V型双缸发动机，钢管车架外露，造型张扬的运动街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cagiva:planet-125",
+      "brand": "Cagiva",
+      "names": {
+        "en": "Planet 125",
+        "zh-CN": "Planet 125 二冲程仿赛（停产）",
+        "zh-TW": "Planet 125 二衝程仿賽（停產）",
+        "ja": "プラネット125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1996–2003",
+      "note": "Mito的姊妹车型，125cc水冷二冲程，轻量化铝合金车架的小排量仿赛",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cagiva:river-600",
+      "brand": "Cagiva",
+      "names": {
+        "en": "River 600",
+        "zh-CN": "River 600 街车（停产）",
+        "zh-TW": "River 600 街車（停產）",
+        "ja": "リバー600"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1999–2004",
+      "note": "600cc水冷并列双缸街车，圆润复古造型，Cagiva在千禧年前后的主流街道车型",
+      "verified": "verified"
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "models": [
+    {
+      "id": "model:cfmoto:250nk",
+      "brand": "CFMoto",
+      "names": {
+        "en": "250NK",
+        "zh-CN": "250NK 街车",
+        "zh-TW": "250NK 街車",
+        "ja": "250NK"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "春风入门街车，249cc单缸水冷28马力，国产250街车标杆，操控灵活",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:400nk",
+      "brand": "CFMoto",
+      "names": {
+        "en": "400NK",
+        "zh-CN": "400NK 街车",
+        "zh-TW": "400NK 街車",
+        "ja": "400NK"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "400cc级并列双缸街车，42马力，国产中入门街车代表，性价比突出",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:650nk",
+      "brand": "CFMoto",
+      "names": {
+        "en": "650NK",
+        "zh-CN": "650NK 街车",
+        "zh-TW": "650NK 街車",
+        "ja": "650NK"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2012–present",
+      "note": "春风旗舰街车，649cc并列双缸60马力，川崎ER-6n同平台技术，国产大排量街车先行者",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:800nk",
+      "brand": "CFMoto",
+      "names": {
+        "en": "800NK",
+        "zh-CN": "800NK 街车 (KTM LC8c平台)",
+        "zh-TW": "800NK 街車 (KTM LC8c平台)",
+        "ja": "800NK"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "KTM 790 Duke同款LC8c发动机，799cc并列双缸100马力，国产最强中量级街车之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:250sr",
+      "brand": "CFMoto",
+      "names": {
+        "en": "250SR",
+        "zh-CN": "250SR 仿赛",
+        "zh-TW": "250SR 仿賽",
+        "ja": "250SR"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "250NK同平台仿赛，249cc单缸28马力，国产入门仿赛销量冠军，赛道基因",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:450sr-s",
+      "brand": "CFMoto",
+      "names": {
+        "en": "450SR / 450SR S",
+        "zh-CN": "450SR S 中量级仿赛",
+        "zh-TW": "450SR S 中量級仿賽",
+        "ja": "450SR S"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "450cc并列双缸50马力，270度曲轴，国产中量级仿赛新标杆，电子快排",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:675sr-r",
+      "brand": "CFMoto",
+      "names": {
+        "en": "675SR-R",
+        "zh-CN": "675SR-R 三缸仿赛",
+        "zh-TW": "675SR-R 三缸仿賽",
+        "ja": "675SR-R"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "675cc并列三缸100+马力，Moto3技术，国产首款三缸仿赛，赛道取向",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:650gt",
+      "brand": "CFMoto",
+      "names": {
+        "en": "650GT",
+        "zh-CN": "650GT 运动旅行车",
+        "zh-TW": "650GT 運動旅行車",
+        "ja": "650GT"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "650NK同平台运动旅行，半整流罩，大风挡，原厂边箱，舒适长途骑行",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:650mt",
+      "brand": "CFMoto",
+      "names": {
+        "en": "650MT",
+        "zh-CN": "650MT 探险车",
+        "zh-TW": "650MT 探險車",
+        "ja": "650MT"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "650NK同平台探险车，18/17寸轮，原厂三箱，国产ADV车型先驱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:800mt",
+      "brand": "CFMoto",
+      "names": {
+        "en": "800MT Explore / Sport",
+        "zh-CN": "800MT 探险车 (KTM引擎)",
+        "zh-TW": "800MT 探險車 (KTM引擎)",
+        "ja": "800MT"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "KTM 790 Adventure同款LC8c发动机，799cc双缸95马力，国产旗舰探险车，配置丰富",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:450mt",
+      "brand": "CFMoto",
+      "names": {
+        "en": "450MT",
+        "zh-CN": "450MT 探险车",
+        "zh-TW": "450MT 探險車",
+        "ja": "450MT"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "450SR同平台双缸探险车，21/18寸辐条轮，越野取向，入门ADV新选择",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:xo-baboon",
+      "brand": "CFMoto",
+      "names": {
+        "en": "XO Baboon",
+        "zh-CN": "XO狒狒 迷你车",
+        "zh-TW": "XO狒狒 迷你車",
+        "ja": "XOバブーン"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "126cc单缸迷你车，复古造型，小尺寸，娱乐代步，新手友好车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:papio-125",
+      "brand": "CFMoto",
+      "names": {
+        "en": "Papio 125",
+        "zh-CN": "Papio 狒狒125 迷你街车",
+        "zh-TW": "Papio 狒狒125 迷你街車",
+        "ja": "パピオ125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "经典狒狒迷你车，125cc单缸，12寸小轮，城市娱乐代步，女性骑手友好",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:650tr-g",
+      "brand": "CFMoto",
+      "names": {
+        "en": "650TR-G",
+        "zh-CN": "650TR-G 国宾车 豪华旅行车",
+        "zh-TW": "650TR-G 國賓車 豪華旅行車",
+        "ja": "650TR-G 国賓車"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "中国国宾护卫队指定用车，649cc双缸，全整流罩，电动风挡，豪华舒适大旅行",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:450nk",
+      "brand": "CFMoto",
+      "names": {
+        "en": "450NK",
+        "zh-CN": "450NK 中量级街车",
+        "zh-TW": "450NK 中量級街車",
+        "ja": "450NK"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "450SR同平台街车，450cc并列双缸50马力，270度曲轴，国产中量级街车新标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:300sr",
+      "brand": "CFMoto",
+      "names": {
+        "en": "300SR",
+        "zh-CN": "300SR 入门仿赛",
+        "zh-TW": "300SR 入門仿賽",
+        "ja": "300SR"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "292cc单缸水冷仿赛，SR家族设计语言，单摇臂版本，入门跑车市场热门选择",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:150nk",
+      "brand": "CFMoto",
+      "names": {
+        "en": "150NK",
+        "zh-CN": "150NK 入门街车",
+        "zh-TW": "150NK 入門街車",
+        "ja": "150NK"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "春风入门街车，149cc单缸水冷，轻量化车身，新手与城市通勤的高性价比之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:1250tr-g",
+      "brand": "CFMoto",
+      "names": {
+        "en": "1250TR-G",
+        "zh-CN": "1250TR-G 国宾车 豪华旅行车",
+        "zh-TW": "1250TR-G 國賓車 豪華旅行車",
+        "ja": "1250TR-G"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "春风旗舰豪华旅行车，1279cc V型双缸，KTM 1290技术平台，中国国宾车队主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:700cl-x",
+      "brand": "CFMoto",
+      "names": {
+        "en": "700CL-X",
+        "zh-CN": "700CL-X 复古车",
+        "zh-TW": "700CL-X 復古車",
+        "ja": "700CL-X"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "春风复古系列，693cc并列双缸，X元素家族设计，复古与现代融合的CL-X家族开山之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:450cl-c",
+      "brand": "CFMoto",
+      "names": {
+        "en": "450CL-C",
+        "zh-CN": "450CL-C 复古巡航",
+        "zh-TW": "450CL-C 復古巡航",
+        "ja": "450CL-C"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "450cc并列双缸复古巡航，CL-C家族设计，圆灯圆表，国产中排量巡航颜值担当",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:mt-x",
+      "brand": "CFMoto",
+      "names": {
+        "en": "MT-X",
+        "zh-CN": "MT-X 探险车",
+        "zh-TW": "MT-X 探險車",
+        "ja": "MT-X"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "春风旗舰探险车，799cc并列双缸KTM平台引擎，全新MT-X设计语言，面向全球ADV市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:675nk",
+      "brand": "CFMoto",
+      "names": {
+        "en": "675NK",
+        "zh-CN": "675NK 三缸运动街车",
+        "zh-TW": "675NK 三缸運動街車",
+        "ja": "675NK"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025年春季发布会上市，675cc并列三缸，675SR同平台街车版，国产首款三缸街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:1000mt-x",
+      "brand": "CFMoto",
+      "names": {
+        "en": "1000 MT-X",
+        "zh-CN": "1000 MT-X 公升级探险车",
+        "zh-TW": "1000 MT-X 公升級探險車",
+        "ja": "1000MT-X"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2025米兰车展首发，2026年2月上市，946cc双缸（KTM技术同源），博世六轴IMU电控，国产公升级ADV旗舰",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:450sr-2025",
+      "brand": "CFMoto",
+      "names": {
+        "en": "450SR (2025)",
+        "zh-CN": "450SR 2025款 中量级仿赛",
+        "zh-TW": "450SR 2025款 中量級仿賽",
+        "ja": "450SR（2025）"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025年春季发布会换新上市，450cc并列双缸，增配降价，国产中量级仿赛销量主力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cfmoto:xo-baboon-2025",
+      "brand": "CFMoto",
+      "names": {
+        "en": "XO Baboon (2025)",
+        "zh-CN": "XO狒狒赛车手 2025款 迷你车",
+        "zh-TW": "XO狒狒賽車手 2025款 迷你車",
+        "ja": "XOバブーン（2025）"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025款XO狒狒赛车手，126cc单缸，新增TCS与大包围，座高降至740mm，新手友好",
+      "verified": "verified"
+    }
+  ]
+}

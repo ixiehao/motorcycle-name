@@ -1,0 +1,38 @@
+{
+  "models": [
+    {
+      "id": "model:nsu:250-renmax",
+      "brand": "NSU",
+      "names": {
+        "en": "250 Rennmax",
+        "zh-CN": "250 Rennmax 赛车（停产）",
+        "zh-TW": "250 Rennmax 賽車（停產）",
+        "ja": "250レンマックス"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1953–1956",
+      "note": "NSU 250cc双顶置凸轮轴赛车，曾创造多项250cc世界纪录，是NSU直列四缸赛车的前奏",
+      "verified": "verified"
+    },
+    {
+      "id": "model:nsu:251-osl",
+      "brand": "NSU",
+      "names": {
+        "en": "251 OSL",
+        "zh-CN": "251 OSL 经典摩托车（停产）",
+        "zh-TW": "251 OSL 經典摩托車（停產）",
+        "ja": "251 OSL"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1949–1951",
+      "note": "战后NSU 251cc顶置气门单缸摩托车，为NSU Max系列的先驱车型",
+      "verified": "verified"
+    }
+  ]
+}

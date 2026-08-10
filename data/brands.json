@@ -1,0 +1,992 @@
+[
+  {
+    "id": "brand:jp:honda",
+    "country": "日本",
+    "names": {
+      "en": "Honda",
+      "zh-CN": "本田",
+      "zh-TW": "本田",
+      "ja": "ホンダ"
+    },
+    "note": "1948年由本田宗一郎创立，总部位于日本静冈县滨松市，全球最大的摩托车制造商之一，以可靠耐用著称"
+  },
+  {
+    "id": "brand:jp:yamaha",
+    "country": "日本",
+    "names": {
+      "en": "Yamaha",
+      "zh-CN": "雅马哈",
+      "zh-TW": "山葉",
+      "ja": "ヤマハ"
+    },
+    "note": "1955年成立，雅马哈发动机株式会社旗下摩托车品牌，以高性能运动车型和乐器产业闻名"
+  },
+  {
+    "id": "brand:jp:suzuki",
+    "country": "日本",
+    "names": {
+      "en": "Suzuki",
+      "zh-CN": "铃木",
+      "zh-TW": "鈴木",
+      "ja": "スズキ"
+    },
+    "note": "1909年由铃木道雄创立，总部位于日本静冈县滨松市，在小型车和越野摩托领域具有优势"
+  },
+  {
+    "id": "brand:jp:kawasaki",
+    "country": "日本",
+    "names": {
+      "en": "Kawasaki",
+      "zh-CN": "川崎",
+      "zh-TW": "川崎",
+      "ja": "カワサキ"
+    },
+    "note": "川崎重工业旗下摩托车部门，始于1953年，以高性能大排量摩托和忍者系列闻名于世"
+  },
+  {
+    "id": "brand:us:harley-davidson",
+    "country": "美国",
+    "names": {
+      "en": "Harley-Davidson",
+      "zh-CN": "哈雷戴维森",
+      "zh-TW": "哈雷戴維森",
+      "ja": "ハーレーダビッドソン"
+    },
+    "note": "1903年由William Harley和Davidson三兄弟在密尔沃基创立，美国传奇巡航摩托品牌，V型双缸引擎的代表"
+  },
+  {
+    "id": "brand:us:indian",
+    "country": "美国",
+    "names": {
+      "en": "Indian",
+      "zh-CN": "印第安",
+      "zh-TW": "印第安",
+      "ja": "インディアン"
+    },
+    "note": "1901年创立，美国最古老的摩托车品牌，现为Polaris Industries旗下，以经典巡航车型著称"
+  },
+  {
+    "id": "brand:us:buell",
+    "country": "美国",
+    "names": {
+      "en": "Buell",
+      "zh-CN": "布尔",
+      "zh-TW": "布爾",
+      "ja": "ビューエル"
+    },
+    "note": "1983年由Erik Buell创立，曾为Harley-Davidson旗下运动摩托品牌，以创新底盘设计闻名"
+  },
+  {
+    "id": "brand:it:ducati",
+    "country": "意大利",
+    "names": {
+      "en": "Ducati",
+      "zh-CN": "杜卡迪",
+      "zh-TW": "杜卡迪",
+      "ja": "ドゥカティ"
+    },
+    "note": "1926年创立于意大利博洛尼亚，现为奥迪集团旗下，以L型双缸引擎和赛车血统闻名"
+  },
+  {
+    "id": "brand:it:aprilia",
+    "country": "意大利",
+    "names": {
+      "en": "Aprilia",
+      "zh-CN": "阿普利亚",
+      "zh-TW": "阿普利亞",
+      "ja": "アプリリア"
+    },
+    "note": "1945年创立于意大利威尼斯，Piaggio集团旗下，在越野和WSBK赛事中成绩卓著"
+  },
+  {
+    "id": "brand:it:mv-agusta",
+    "country": "意大利",
+    "names": {
+      "en": "MV Agusta",
+      "zh-CN": "MV阿古斯塔",
+      "zh-TW": "MV阿古斯塔",
+      "ja": "MVアグスタ"
+    },
+    "note": "1945年创立于意大利米兰，被誉为摩托车中的法拉利，以精美工艺和高性能街车著称"
+  },
+  {
+    "id": "brand:it:vespa",
+    "country": "意大利",
+    "names": {
+      "en": "Vespa",
+      "zh-CN": "维斯帕",
+      "zh-TW": "偉士牌",
+      "ja": "ベスパ"
+    },
+    "note": "1946年由Piaggio推出，意大利经典踏板车品牌，复古时尚文化的代表符号"
+  },
+  {
+    "id": "brand:it:piaggio",
+    "country": "意大利",
+    "names": {
+      "en": "Piaggio",
+      "zh-CN": "比亚乔",
+      "zh-TW": "比亞喬",
+      "ja": "ピアジオ"
+    },
+    "note": "1884年创立于意大利热那亚，欧洲最大的摩托车制造商之一，旗下拥有Vespa、Aprilia等品牌"
+  },
+  {
+    "id": "brand:it:moto-guzzi",
+    "country": "意大利",
+    "names": {
+      "en": "Moto Guzzi",
+      "zh-CN": "摩托古兹",
+      "zh-TW": "摩托古茲",
+      "ja": "モトグッツィ"
+    },
+    "note": "1921年创立于意大利曼代洛-德尔拉里奥，以横置V型双缸引擎和旅行车闻名，Piaggio集团旗下"
+  },
+  {
+    "id": "brand:it:benelli",
+    "country": "意大利",
+    "names": {
+      "en": "Benelli",
+      "zh-CN": "贝纳利",
+      "zh-TW": "貝納利",
+      "ja": "ベネリ"
+    },
+    "note": "1911年创立于意大利佩萨罗，欧洲最古老的摩托车品牌之一，2005年被中国钱江摩托收购"
+  },
+  {
+    "id": "brand:it:laverda",
+    "country": "意大利",
+    "names": {
+      "en": "Laverda",
+      "zh-CN": "拉维达",
+      "zh-TW": "拉維達",
+      "ja": "ラベルダ"
+    },
+    "note": "1873年创立，曾以高性能三缸运动车型闻名，现品牌归属于Piaggio集团"
+  },
+  {
+    "id": "brand:de:bmw-motorrad",
+    "country": "德国",
+    "names": {
+      "en": "BMW Motorrad",
+      "zh-CN": "宝马摩托",
+      "zh-TW": "寶馬摩托",
+      "ja": "BMWモトラッド"
+    },
+    "note": "1923年推出首辆摩托R32，宝马集团旗下，以水平对置双缸拳击手发动机和旅行车著称"
+  },
+  {
+    "id": "brand:de:mz",
+    "country": "德国",
+    "names": {
+      "en": "MZ",
+      "zh-CN": "姆兹",
+      "zh-TW": "姆茲",
+      "ja": "MZ"
+    },
+    "note": "前东德摩托车品牌，创立于1906年，以耐用的单缸二冲程发动机闻名，现属德国MZ集团"
+  },
+  {
+    "id": "brand:gb:triumph",
+    "country": "英国",
+    "names": {
+      "en": "Triumph",
+      "zh-CN": "凯旋",
+      "zh-TW": "凱旋",
+      "ja": "トライアンフ"
+    },
+    "note": "1902年创立于英国考文垂，英国最具代表性的摩托车品牌，以复古街车和三缸引擎闻名"
+  },
+  {
+    "id": "brand:gb:norton",
+    "country": "英国",
+    "names": {
+      "en": "Norton",
+      "zh-CN": "诺顿",
+      "zh-TW": "諾頓",
+      "ja": "ノートン"
+    },
+    "note": "1898年创立于英国伯明翰，英国老牌传奇摩托车品牌，以单缸和V型双缸赛车闻名"
+  },
+  {
+    "id": "brand:gb:bsa",
+    "country": "英国",
+    "names": {
+      "en": "BSA",
+      "zh-CN": "BSA",
+      "zh-TW": "BSA",
+      "ja": "BSA"
+    },
+    "note": "Birmingham Small Arms，1903年开始生产摩托，20世纪中期曾是世界最大摩托厂商，现为Mahindra集团旗下"
+  },
+  {
+    "id": "brand:at:ktm",
+    "country": "奥地利",
+    "names": {
+      "en": "KTM",
+      "zh-CN": "KTM",
+      "zh-TW": "KTM",
+      "ja": "KTM"
+    },
+    "note": "1934年创立于奥地利马蒂霍芬，以越野摩托车和橙色涂装著称，在拉力赛和越野领域称霸"
+  },
+  {
+    "id": "brand:at:husqvarna",
+    "country": "奥地利",
+    "names": {
+      "en": "Husqvarna",
+      "zh-CN": "胡思瓦娜",
+      "zh-TW": "胡思瓦娜",
+      "ja": "ハスクバーナ"
+    },
+    "note": "1689年创立于瑞典，现为KTM集团旗下，以越野摩托和复古Svartpilen/Vitpilen系列闻名"
+  },
+  {
+    "id": "brand:at:gasgas",
+    "country": "奥地利",
+    "names": {
+      "en": "Gas Gas",
+      "zh-CN": "Gas Gas",
+      "zh-TW": "Gas Gas",
+      "ja": "GasGas"
+    },
+    "note": "1985年创立于西班牙，2019年被KTM集团收购迁至奥地利，以试验摩托车和越野车型闻名"
+  },
+  {
+    "id": "brand:es:derbi",
+    "country": "西班牙",
+    "names": {
+      "en": "Derbi",
+      "zh-CN": "德比",
+      "zh-TW": "德比",
+      "ja": "デルビ"
+    },
+    "note": "1922年创立于西班牙巴塞罗那，Piaggio集团旗下，以小型跑车和踏板车著称"
+  },
+  {
+    "id": "brand:es:bultaco",
+    "country": "西班牙",
+    "names": {
+      "en": "Bultaco",
+      "zh-CN": "布尔塔科",
+      "zh-TW": "布爾塔科",
+      "ja": "ブルタコ"
+    },
+    "note": "1958年创立于西班牙巴塞罗那，以越野和试验摩托车闻名，品牌现由西班牙企业持有复兴"
+  },
+  {
+    "id": "brand:in:royal-enfield",
+    "country": "印度",
+    "names": {
+      "en": "Royal Enfield",
+      "zh-CN": "皇家恩菲尔德",
+      "zh-TW": "皇家恩菲爾德",
+      "ja": "ロイヤルエンフィールド"
+    },
+    "note": "1901年起源于英国，1955年在印度设立工厂生产，现为Eicher Motors旗下，以复古单缸巡航车闻名"
+  },
+  {
+    "id": "brand:in:bajaj",
+    "country": "印度",
+    "names": {
+      "en": "Bajaj",
+      "zh-CN": "巴贾吉",
+      "zh-TW": "巴賈吉",
+      "ja": "バジャージ"
+    },
+    "note": "1945年创立，印度最大摩托车制造商之一，与KTM有深度合作，旗下Pulsar系列在印度市场大获成功"
+  },
+  {
+    "id": "brand:in:tvs",
+    "country": "印度",
+    "names": {
+      "en": "TVS",
+      "zh-CN": "TVS",
+      "zh-TW": "TVS",
+      "ja": "TVS"
+    },
+    "note": "1978年开始生产摩托，TVS集团旗下，印度第三大摩托厂商，与BMW Motorrad有技术合作"
+  },
+  {
+    "id": "brand:in:hero",
+    "country": "印度",
+    "names": {
+      "en": "Hero",
+      "zh-CN": "英雄",
+      "zh-TW": "英雄",
+      "ja": "ヒーロー"
+    },
+    "note": "1984年与Honda合资成立，现为全球销量最大的摩托车厂商，在印度通勤车市场占主导地位"
+  },
+  {
+    "id": "brand:cn:cfmoto",
+    "country": "中国",
+    "names": {
+      "en": "CFMoto",
+      "zh-CN": "春风",
+      "zh-TW": "春風",
+      "ja": "CFMoto"
+    },
+    "note": "1989年创立于浙江杭州，中国最大的水冷发动机和大排量摩托制造商，与KTM合资在华生产"
+  },
+  {
+    "id": "brand:cn:qjmotor",
+    "country": "中国",
+    "names": {
+      "en": "QJMOTOR",
+      "zh-CN": "钱江",
+      "zh-TW": "錢江",
+      "ja": "QJMOTOR"
+    },
+    "note": "钱江摩托旗下高端品牌，1999年钱江摩托成立于浙江温岭，2005年收购意大利百年品牌Benelli"
+  },
+  {
+    "id": "brand:cn:loncin-voge",
+    "country": "中国",
+    "names": {
+      "en": "Loncin/Voge",
+      "zh-CN": "隆鑫/无极",
+      "zh-TW": "隆鑫/無極",
+      "ja": "ロンシン/ヴォーガ"
+    },
+    "note": "隆鑫通用动力1993年创立于重庆，Voge无极为旗下高端品牌，为宝马摩托代工发动机多年"
+  },
+  {
+    "id": "brand:cn:voge",
+    "country": "中国",
+    "names": {
+      "en": "Voge",
+      "zh-CN": "无极",
+      "zh-TW": "無極",
+      "ja": "ヴォーガ"
+    },
+    "note": "隆鑫通用旗下高端摩托车品牌，Voge无级独立运营，产品线含RR仿赛、DS探险、CU巡航、AC咖啡复古等系列"
+  },
+  {
+    "id": "brand:cn:zongshen",
+    "country": "中国",
+    "names": {
+      "en": "Zongshen",
+      "zh-CN": "宗申",
+      "zh-TW": "宗申",
+      "ja": "ゾンシン"
+    },
+    "note": "1992年创立于重庆，左宗申创立，中国大型摩托车和发动机制造企业，参与MotoE赛事"
+  },
+  {
+    "id": "brand:cn:lifan",
+    "country": "中国",
+    "names": {
+      "en": "Lifan",
+      "zh-CN": "力帆",
+      "zh-TW": "力帆",
+      "ja": "リファン"
+    },
+    "note": "1992年尹明善创立于重庆，以摩托车制造起家，后拓展至汽车领域，是中国民营摩托的先驱"
+  },
+  {
+    "id": "brand:cn:haojue",
+    "country": "中国",
+    "names": {
+      "en": "Haojue",
+      "zh-CN": "豪爵",
+      "zh-TW": "豪爵",
+      "ja": "ホージュ"
+    },
+    "note": "1992年创立于广东江门，与铃木合资成立常州豪爵铃木，中国产销量领先的摩托车品牌"
+  },
+  {
+    "id": "brand:cn:jialing",
+    "country": "中国",
+    "names": {
+      "en": "Jialing",
+      "zh-CN": "嘉陵",
+      "zh-TW": "嘉陵",
+      "ja": "ジャリン"
+    },
+    "note": "前身为1875年成立的江南制造总局龙华分局，1979年生产出中国第一辆民用摩托嘉陵CJ50"
+  },
+  {
+    "id": "brand:cn:dayun",
+    "country": "中国",
+    "names": {
+      "en": "Dayun",
+      "zh-CN": "大运",
+      "zh-TW": "大運",
+      "ja": "ダーユン"
+    },
+    "note": "1987年创立，大运集团旗下，总部位于山西，以摩托车和重型卡车制造为主业"
+  },
+  {
+    "id": "brand:cn:sym",
+    "country": "中国",
+    "names": {
+      "en": "SYM",
+      "zh-CN": "三阳",
+      "zh-TW": "三陽",
+      "ja": "SYM"
+    },
+    "note": "1954年创立于台湾新竹，三阳工业旗下品牌，是台湾最早生产摩托车的企业之一"
+  },
+  {
+    "id": "brand:cn:kymco",
+    "country": "中国",
+    "names": {
+      "en": "KYMCO",
+      "zh-CN": "光阳",
+      "zh-TW": "光陽",
+      "ja": "KYMCO"
+    },
+    "note": "1963年创立于台湾高雄，光阳工业旗下品牌，全球最大的踏板车制造商之一"
+  },
+  {
+    "id": "brand:kr:hyosung",
+    "country": "韩国",
+    "names": {
+      "en": "Hyosung",
+      "zh-CN": "晓星",
+      "zh-TW": "曉星",
+      "ja": "ヒョソン"
+    },
+    "note": "晓星集团旗下，1978年成立，曾与铃木技术合作，韩国主要摩托车制造商之一"
+  },
+  {
+    "id": "brand:kr:daelim",
+    "country": "韩国",
+    "names": {
+      "en": "Daelim",
+      "zh-CN": "大林",
+      "zh-TW": "大林",
+      "ja": "デイリム"
+    },
+    "note": "大林集团旗下，1962年成立，韩国老牌摩托车厂商，以踏板车和小型通勤车为主"
+  },
+  {
+    "id": "brand:fr:peugeot-motocycles",
+    "country": "法国",
+    "names": {
+      "en": "Peugeot Motocycles",
+      "zh-CN": "标致摩托",
+      "zh-TW": "標緻摩托",
+      "ja": "プジョーモトサイクル"
+    },
+    "note": "1898年开始生产摩托车，标致集团旗下，欧洲老牌摩托品牌，2023年被德国Mutares收购"
+  },
+  {
+    "id": "brand:it:bimota",
+    "country": "意大利",
+    "names": {
+      "en": "Bimota",
+      "zh-CN": "比莫塔",
+      "zh-TW": "比莫塔",
+      "ja": "ビモータ"
+    },
+    "note": "1973年创立于意大利里米尼，由Valerio Bianchi、Giuseppe Morri和Massimo Tamburini三人姓氏首字母命名(BI-MO-TA)，以手工打造高端运动摩托著称，常配日系引擎与自家车架，现为Kawasaki参股经营"
+  },
+  {
+    "id": "brand:it:cagiva",
+    "country": "意大利",
+    "names": {
+      "en": "Cagiva",
+      "zh-CN": "卡吉瓦",
+      "zh-TW": "卡吉瓦",
+      "ja": "カジバ"
+    },
+    "note": "1978年创立于意大利瓦雷泽，Castiglioni家族旗下，曾收购Ducati和MV Agusta，以越野与运动摩托闻名，现品牌基本处于休眠状态"
+  },
+  {
+    "id": "brand:it:beta",
+    "country": "意大利",
+    "names": {
+      "en": "Beta",
+      "zh-CN": "贝塔",
+      "zh-TW": "貝塔",
+      "ja": "ベータ"
+    },
+    "note": "1904年创立于意大利佛罗伦萨，以试验摩托(trials)和耐力越野车(enduro)著称，是国际摩托车试验赛和耐力赛的常胜品牌"
+  },
+  {
+    "id": "brand:it:gilera",
+    "country": "意大利",
+    "names": {
+      "en": "Gilera",
+      "zh-CN": "吉列拉",
+      "zh-TW": "吉列拉",
+      "ja": "ジレラ"
+    },
+    "note": "1909年由Giuseppe Gilera创立于意大利阿尔科雷，1969年被Piaggio收购，曾以直列四缸GP赛车闻名，现主要生产踏板车和小型车"
+  },
+  {
+    "id": "brand:it:moto-morini",
+    "country": "意大利",
+    "names": {
+      "en": "Moto Morini",
+      "zh-CN": "摩托莫里尼",
+      "zh-TW": "摩托莫里尼",
+      "ja": "モトモリーニ"
+    },
+    "note": "1937年由Alfonso Morini创立于意大利博洛尼亚，以V型双缸运动摩托和耐力车闻名，品牌几经易手后再度复兴"
+  },
+  {
+    "id": "brand:it:lambretta",
+    "country": "意大利",
+    "names": {
+      "en": "Lambretta",
+      "zh-CN": "兰美达",
+      "zh-TW": "蘭美達",
+      "ja": "ランヴレッタ"
+    },
+    "note": "1947年由Innocenti公司推出于米兰，与Vespa齐名的意大利经典踏板车品牌，复古潮流文化符号，品牌多次转手后复兴"
+  },
+  {
+    "id": "brand:it:energica",
+    "country": "意大利",
+    "names": {
+      "en": "Energica",
+      "zh-CN": "恩纳吉卡",
+      "zh-TW": "恩納吉卡",
+      "ja": "エネルジカ"
+    },
+    "note": "2014年由CRP集团创立于意大利摩德纳，意大利首款高端电动运动摩托，2019至2022年为MotoE世界杯统规赛车供应商，2024年进入破产清算"
+  },
+  {
+    "id": "brand:it:vyrus",
+    "country": "意大利",
+    "names": {
+      "en": "Vyrus",
+      "zh-CN": "维鲁斯",
+      "zh-TW": "維魯斯",
+      "ja": "ヴァイラス"
+    },
+    "note": "2002年创立于意大利里米尼附近，源自Bimota团队分立，以采用轮毂中心转向(hub-center steering)的独特设计闻名"
+  },
+  {
+    "id": "brand:it:swm",
+    "country": "意大利",
+    "names": {
+      "en": "SWM",
+      "zh-CN": "斯威",
+      "zh-TW": "斯威",
+      "ja": "SWM"
+    },
+    "note": "1971年由Piero Sironi和Fausto Vegani创立于意大利米兰(取Speedy Working Motors之意)，以越野摩托著称，1984年破产，2014年被中国鑫源收购后复兴"
+  },
+  {
+    "id": "brand:de:nsu",
+    "country": "德国",
+    "names": {
+      "en": "NSU",
+      "zh-CN": "NSU",
+      "zh-TW": "NSU",
+      "ja": "NSU"
+    },
+    "note": "1873年创立于德国内卡苏尔姆，20世纪50年代曾是世界最大摩托车制造商，以直列四缸赛车闻名，1963年停产摩托并入Auto Union(现奥迪)"
+  },
+  {
+    "id": "brand:de:dkw",
+    "country": "德国",
+    "names": {
+      "en": "DKW",
+      "zh-CN": "DKW",
+      "zh-TW": "DKW",
+      "ja": "DKW"
+    },
+    "note": "1922年起于德国茨肖保生产摩托，二冲程发动机技术的先驱，1932年与奥迪、霍希、漫游者合并为Auto Union汽车联盟，品牌最终消亡"
+  },
+  {
+    "id": "brand:de:munch",
+    "country": "德国",
+    "names": {
+      "en": "Münch",
+      "zh-CN": "明希",
+      "zh-TW": "明希",
+      "ja": "ミュンヒ"
+    },
+    "note": "1966年由Friedel Münch创立于德国，以Mammut(猛犸)系列闻名，搭载NSU汽车发动机的超大排量旅行摩托，被誉为两轮巨兽"
+  },
+  {
+    "id": "brand:de:maico",
+    "country": "德国",
+    "names": {
+      "en": "Maico",
+      "zh-CN": "迈科",
+      "zh-TW": "邁科",
+      "ja": "マイコ"
+    },
+    "note": "1926年创立于德国普法芬霍芬，1970年代以250cc和500cc二冲程越野摩托称霸motocross赛场，后因经营问题破产"
+  },
+  {
+    "id": "brand:gb:ariel",
+    "country": "英国",
+    "names": {
+      "en": "Ariel",
+      "zh-CN": "阿瑞尔",
+      "zh-TW": "阿瑞爾",
+      "ja": "アリエル"
+    },
+    "note": "1902年开始生产摩托于英国伯明翰，以经典的Square Four方四缸引擎闻名，1960年代停产，后以Ariel Motor Company之名复兴生产汽车"
+  },
+  {
+    "id": "brand:gb:ajs",
+    "country": "英国",
+    "names": {
+      "en": "AJS",
+      "zh-CN": "AJS",
+      "zh-TW": "AJS",
+      "ja": "AJS"
+    },
+    "note": "1909年由Stevens兄弟创立于英国伍尔弗汉普顿，英国老牌摩托车厂商，以单缸和V型双缸赛车闻名，品牌经多次转手延续至今"
+  },
+  {
+    "id": "brand:gb:matchless",
+    "country": "英国",
+    "names": {
+      "en": "Matchless",
+      "zh-CN": "麦奇莱斯",
+      "zh-TW": "麥奇萊斯",
+      "ja": "マッチレス"
+    },
+    "note": "1899年由Collier兄弟创立于英国伦敦，英国历史最悠久的摩托车品牌之一，曾与AJS同属Associated Motor Cycles集团，1960年代停产"
+  },
+  {
+    "id": "brand:gb:ccm",
+    "country": "英国",
+    "names": {
+      "en": "CCM",
+      "zh-CN": "CCM",
+      "zh-TW": "CCM",
+      "ja": "CCM"
+    },
+    "note": "1971年由Alan Clews创立于英国博尔顿(Clews Competition Motorcycles)，以高性能越野和街头摩托著称，仍活跃生产"
+  },
+  {
+    "id": "brand:se:husaberg",
+    "country": "瑞典",
+    "names": {
+      "en": "Husaberg",
+      "zh-CN": "胡斯贝格",
+      "zh-TW": "胡斯貝格",
+      "ja": "フサベルグ"
+    },
+    "note": "1988年由前Husqvarna工程师在瑞典创立(Husqvarna被Cagiva收购后出走)，1995年被KTM收购，2014年并入Husqvarna品牌后停用"
+  },
+  {
+    "id": "brand:cz:jawa",
+    "country": "捷克",
+    "names": {
+      "en": "Jawa",
+      "zh-CN": "佳瓦",
+      "zh-TW": "佳瓦",
+      "ja": "ヤワ"
+    },
+    "note": "1929年由František Janeček创立于捷克布拉格(名称取自Janeček与Wanderer)，以耐用二冲程摩托闻名，至今仍在捷克和印度生产"
+  },
+  {
+    "id": "brand:es:rieju",
+    "country": "西班牙",
+    "names": {
+      "en": "Rieju",
+      "zh-CN": "雷玖",
+      "zh-TW": "雷玖",
+      "ja": "リエジュ"
+    },
+    "note": "1934年创立于西班牙费格拉斯，以小型排量越野摩托和耐力车著称，长期采用Minarelli/Yamaha引擎，西班牙老牌摩托厂商"
+  },
+  {
+    "id": "brand:es:montesa",
+    "country": "西班牙",
+    "names": {
+      "en": "Montesa",
+      "zh-CN": "蒙特萨",
+      "zh-TW": "蒙特薩",
+      "ja": "モンテッサ"
+    },
+    "note": "1945年由Pere Permanyer创立于西班牙巴塞罗那(早期Bultó参与，后Bultó另立Bultaco)，1986年被本田收购，现为Honda Montesa专注试验摩托"
+  },
+  {
+    "id": "brand:fr:sherco",
+    "country": "法国",
+    "names": {
+      "en": "Sherco",
+      "zh-CN": "舍尔科",
+      "zh-TW": "舍爾科",
+      "ja": "シェルコ"
+    },
+    "note": "1998年创立于法国尼姆，以试验摩托和耐力越野车闻名，多次夺得世界摩托车试验赛冠军，是trials领域的领军品牌之一"
+  },
+  {
+    "id": "brand:fr:voxan",
+    "country": "法国",
+    "names": {
+      "en": "Voxan",
+      "zh-CN": "沃克桑",
+      "zh-TW": "沃克桑",
+      "ja": "ヴォクサン"
+    },
+    "note": "1995年由Jacques Gardette创立于法国伊苏瓦尔，曾以996cc V型双缸闻名，2009年破产后被摩纳哥Venturi集团收购，转向电动摩托(Wattman打破多项速度纪录)"
+  },
+  {
+    "id": "brand:ca:can-am",
+    "country": "加拿大",
+    "names": {
+      "en": "Can-Am",
+      "zh-CN": "Can-Am",
+      "zh-TW": "Can-Am",
+      "ja": "キャンアム"
+    },
+    "note": "1972年由加拿大庞巴迪(BRP)推出，采用Rotax发动机，1970年代称霸motocross越野赛，现以Spyder和Ryker三轮摩托及全地形车闻名"
+  },
+  {
+    "id": "brand:us:zero",
+    "country": "美国",
+    "names": {
+      "en": "Zero",
+      "zh-CN": "Zero",
+      "zh-TW": "Zero",
+      "ja": "ゼロ"
+    },
+    "note": "2006年由Neal Saiki创立于美国加州斯科茨谷，电动摩托车的先驱品牌，以纯电街车、越野和超级摩托产品线闻名"
+  },
+  {
+    "id": "brand:us:livewire",
+    "country": "美国",
+    "names": {
+      "en": "LiveWire",
+      "zh-CN": "LiveWire",
+      "zh-TW": "LiveWire",
+      "ja": "ライブワイヤー"
+    },
+    "note": "源自Harley-Davidson 2019年独立出的电动摩托业务，2022年通过SPAC上市成为美股首家上市电动摩托公司，主打高性能纯电街车"
+  },
+  {
+    "id": "brand:us:polaris",
+    "country": "美国",
+    "names": {
+      "en": "Polaris",
+      "zh-CN": "北极星",
+      "zh-TW": "北極星",
+      "ja": "ポラリス"
+    },
+    "note": "1954年创立于美国明尼苏达州罗索，北美最大动力运动厂商，旗下拥有Indian摩托和Slingshot三轮车，曾拥有Victory摩托(2017年停产)"
+  },
+  {
+    "id": "brand:at:puch",
+    "country": "奥地利",
+    "names": {
+      "en": "Puch",
+      "zh-CN": "普赫",
+      "zh-TW": "普赫",
+      "ja": "プフ"
+    },
+    "note": "1899年由Johann Puch创立于奥地利格拉茨，后并入Steyr-Daimler-Puch集团，以Puch Maxi轻便摩托和GTS越野车闻名，摩托生产已停产但品牌授权延续"
+  },
+  {
+    "id": "brand:ru:ural",
+    "country": "俄罗斯",
+    "names": {
+      "en": "Ural",
+      "zh-CN": "乌拉尔",
+      "zh-TW": "烏拉爾",
+      "ja": "ウラル"
+    },
+    "note": "1941年于苏联伊尔比特建厂，仿制宝马R71挎斗摩托而成的侧三轮摩托品牌，以坚固耐用和复古侧边车造型闻名，至今仍在生产"
+  },
+  {
+    "id": "brand:cn:niu",
+    "country": "中国",
+    "names": {
+      "en": "Niu",
+      "zh-CN": "小牛",
+      "zh-TW": "小牛",
+      "ja": "ニウ"
+    },
+    "note": "2014年创立于北京，小牛电动旗下智能电动踏板车品牌，以智能互联和锂电技术著称，在中国及海外电动两轮车市场占有重要地位"
+  },
+  {
+    "id": "brand:cn:shineray",
+    "country": "中国",
+    "names": {
+      "en": "Shineray",
+      "zh-CN": "鑫源",
+      "zh-TW": "鑫源",
+      "ja": "シンゲン"
+    },
+    "note": "1997年创立于重庆，重庆鑫源摩托车股份有限公司，中国最早一批复古车与ADV车型的开拓者，2014年收购意大利SWM品牌"
+  },
+  {
+    "id": "brand:cn:zxmoto",
+    "country": "中国",
+    "names": {
+      "en": "ZXMOTO",
+      "zh-CN": "张雪机车",
+      "zh-TW": "張雪機車",
+      "ja": "ZXMOTO"
+    },
+    "note": "2024年4月创立于重庆，创始人张雪（原凯越机车创始人），主打高性能仿赛车型，820RR系列在WSBK赛事中屡获佳绩"
+  },
+  {
+    "id": "brand:cn:kove",
+    "country": "中国",
+    "names": {
+      "en": "KOVE",
+      "zh-CN": "凯越",
+      "zh-TW": "凱越",
+      "ja": "KOVE"
+    },
+    "note": "由张雪创立的国产越野拉力品牌，450Rally曾参加达喀尔拉力赛，以硬核拉力车与中大排量仿赛车型闻名"
+  },
+  {
+    "id": "brand:cn:benda",
+    "country": "中国",
+    "names": {
+      "en": "Benda",
+      "zh-CN": "奔达",
+      "zh-TW": "奔達",
+      "ja": "ベンダ"
+    },
+    "note": "创立于浙江，以复古巡航车见长，代表作金吉拉300、LFC700燎等，在国内掀起小排量巡航热潮"
+  },
+  {
+    "id": "brand:cn:wuyang-honda",
+    "country": "中国",
+    "names": {
+      "en": "Wuyang-Honda",
+      "zh-CN": "五羊-本田",
+      "zh-TW": "五羊-本田",
+      "ja": "ウーヤンホンダ"
+    },
+    "note": "1992年成立于广州，广汽集团与本田合资，本田在中国大陆设立的第一家合资摩托车企业，以190系列与踏板车著称"
+  },
+  {
+    "id": "brand:cn:sundiro-honda",
+    "country": "中国",
+    "names": {
+      "en": "Sundiro-Honda",
+      "zh-CN": "新大洲本田",
+      "zh-TW": "新大洲本田",
+      "ja": "スンダイロホンダ"
+    },
+    "note": "新大洲控股（1988年创立于海南）与本田合资，2001年成立，主要生产190系列跨骑车与裂行等踏板车"
+  },
+  {
+    "id": "brand:cn:qingqi",
+    "country": "中国",
+    "names": {
+      "en": "Qingqi",
+      "zh-CN": "轻骑",
+      "zh-TW": "輕騎",
+      "ja": "チンチー"
+    },
+    "note": "济南轻骑摩托车总厂旗下品牌，1994年与日本铃木合资成立济南轻骑铃木，以铃木技术踏板车和跨骑车著称"
+  },
+  {
+    "id": "brand:cn:jianshe",
+    "country": "中国",
+    "names": {
+      "en": "Jianshe",
+      "zh-CN": "建设",
+      "zh-TW": "建設",
+      "ja": "ジェンシー"
+    },
+    "note": "中国兵器装备集团旗下，1992年与日本雅马哈合资成立重庆建设雅马哈，生产飞致、天剑、巧格等车型"
+  },
+  {
+    "id": "brand:cn:jincheng",
+    "country": "中国",
+    "names": {
+      "en": "Jincheng",
+      "zh-CN": "金城",
+      "zh-TW": "金城",
+      "ja": "ジンチェン"
+    },
+    "note": "1949年成立于南京，前身隶属中国航空工业体系，金城铃木AX100曾是一代经典，现以踏板车与迷你车型为主"
+  },
+  {
+    "id": "brand:cn:dayang",
+    "country": "中国",
+    "names": {
+      "en": "Dayang",
+      "zh-CN": "大阳",
+      "zh-TW": "大陽",
+      "ja": "ダーヤン"
+    },
+    "note": "洛阳北方易初摩托车有限公司旗下品牌，由泰国正大集团与洛阳北方企业集团合资组建，以经典弯梁车和V锐系列ADV踏板闻名"
+  },
+  {
+    "id": "brand:cn:yingang",
+    "country": "中国",
+    "names": {
+      "en": "Yingang",
+      "zh-CN": "银钢",
+      "zh-TW": "銀鋼",
+      "ja": "インガン"
+    },
+    "note": "1997年成立于重庆，重庆银钢科技集团旗下，以边三轮摩托车闻名，是国内边三轮市场的领军品牌"
+  },
+  {
+    "id": "brand:cn:hanway",
+    "country": "中国",
+    "names": {
+      "en": "Hanway",
+      "zh-CN": "汉威",
+      "zh-TW": "漢威",
+      "ja": "ハンウェイ"
+    },
+    "note": "汉威机车，主打英式复古巡航与Bobber风格，代表作B50/YP500，曾发布国内首款中量级软尾Bobber"
+  },
+  {
+    "id": "brand:cn:tayo",
+    "country": "中国",
+    "names": {
+      "en": "Tayo",
+      "zh-CN": "台荣",
+      "zh-TW": "台榮",
+      "ja": "タイロン"
+    },
+    "note": "2001年创立于浙江台州，台州市台荣车业科技旗下，以大排量踏板车见长，代表作探路者300"
+  },
+  {
+    "id": "brand:cn:lk",
+    "country": "中国",
+    "names": {
+      "en": "LK",
+      "zh-CN": "力刻",
+      "zh-TW": "力刻",
+      "ja": "LK"
+    },
+    "note": "浙江金浪科技有限公司旗下摩托车品牌，依托金浪发动机制造经验，主打318系列大踏板与复古踏板"
+  },
+  {
+    "id": "brand:cn:wangjiang",
+    "country": "中国",
+    "names": {
+      "en": "Wangjiang",
+      "zh-CN": "望江",
+      "zh-TW": "望江",
+      "ja": "ワンジアン"
+    },
+    "note": "重庆望江摩托车，曾与铃木合资生产经典望江铃木GN250，现以迷你挎子边三轮等个性车型为主"
+  },
+  {
+    "id": "brand:cn:hengjian",
+    "country": "中国",
+    "names": {
+      "en": "Hengjian",
+      "zh-CN": "恒舰",
+      "zh-TW": "恒艦",
+      "ja": "ホウジエン"
+    },
+    "note": "创立于重庆江津，创始人税宗才，专注越野与拉力车型，代表作大海道500续航里程达1000公里"
+  },
+  {
+    "id": "brand:cz:cz",
+    "country": "捷克",
+    "names": {
+      "en": "CZ",
+      "zh-CN": "CZ",
+      "zh-TW": "CZ",
+      "ja": "CZ"
+    },
+    "note": "Česká zbrojovka（捷克兵工厂）1919年成立于捷克斯特拉科尼采，最初制造兵器，以二冲程越野摩托车闻名，1970-80年代在越野赛场战绩辉煌"
+  }
+]

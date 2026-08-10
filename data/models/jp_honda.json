@@ -1,0 +1,2095 @@
+{
+  "models": [
+    {
+      "id": "model:honda:cb400sf",
+      "brand": "Honda",
+      "names": {
+        "en": "CB400 Super Four",
+        "zh-CN": "CB400 Super Four 街车",
+        "zh-TW": "CB400 Super Four 街車",
+        "ja": "CB400 スーパーフォア"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1992–present",
+      "note": "本田经典400cc四缸街车，日本本土市场长青车型，以VTEC可变气门技术著称",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb650r",
+      "brand": "Honda",
+      "names": {
+        "en": "CB650R",
+        "zh-CN": "CB650R 中量级街车",
+        "zh-TW": "CB650R 中量級街車",
+        "ja": "CB650R"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "Neo Sports Café设计语言，650cc并列四缸，中量级主流街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb1000r-hornet",
+      "brand": "Honda",
+      "names": {
+        "en": "CB1000R",
+        "zh-CN": "CB1000R 大黄蜂 公升级街车",
+        "zh-TW": "CB1000R 大黃蜂 公升級街車",
+        "ja": "CB1000R ホーネット"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "大黄蜂品牌复活，搭载CBR1000RR同款发动机，公升级四缸街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cbr250rr",
+      "brand": "Honda",
+      "names": {
+        "en": "CBR250RR",
+        "zh-CN": "CBR250RR 双缸仿赛",
+        "zh-TW": "CBR250RR 雙缸仿賽",
+        "ja": "CBR250RR"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "250cc并列双缸仿赛，日本/东南亚市场专属，高转速性能取向",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cbr400rr",
+      "brand": "Honda",
+      "names": {
+        "en": "CBR400RR",
+        "zh-CN": "CBR400RR 仿赛（已停产）",
+        "zh-TW": "CBR400RR 仿賽（已停產）",
+        "ja": "CBR400RR"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1986–1994",
+      "note": "Fireblade小弟，经典四缸400cc仿赛，日本泡沫经济时期名车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cbr600rr",
+      "brand": "Honda",
+      "names": {
+        "en": "CBR600RR",
+        "zh-CN": "CBR600RR 中量级仿赛",
+        "zh-TW": "CBR600RR 中量級仿賽",
+        "ja": "CBR600RR"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2003–present",
+      "note": "中量级四缸仿赛标杆，WorldSSP赛事常胜军，赛道取向强烈",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cbr650r",
+      "brand": "Honda",
+      "names": {
+        "en": "CBR650R",
+        "zh-CN": "CBR650R 跑车",
+        "zh-TW": "CBR650R 跑車",
+        "ja": "CBR650R"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "CB650R同平台跑车版，全整流罩，兼顾日常与赛道性能",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cbr1000rr-r-fireblade-sp",
+      "brand": "Honda",
+      "names": {
+        "en": "CBR1000RR-R Fireblade SP",
+        "zh-CN": "CBR1000RR-R 火刃SP 旗舰仿赛",
+        "zh-TW": "CBR1000RR-R 火刃SP 旗艦仿賽",
+        "ja": "CBR1000RR-R ファイヤーブレードSP"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "旗舰公升仿赛，搭载RC213V-S赛用技术，Ohlins悬挂+Brembo卡钳",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:goldwing-gl1800",
+      "brand": "Honda",
+      "names": {
+        "en": "Gold Wing / GL1800",
+        "zh-CN": "金翼 GL1800 顶级旅行巡航",
+        "zh-TW": "金翼 GL1800 頂級旅行巡航",
+        "ja": "ゴールドウイング GL1800"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2001–present",
+      "note": "1800cc水平对置六缸，旗舰旅行车标配气囊、DCT变速箱、CarPlay",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:rebel",
+      "brand": "Honda",
+      "names": {
+        "en": "Rebel 250 / 500 / 1100",
+        "zh-CN": "反叛者 Rebel 巡航车",
+        "zh-TW": "反叛者 Rebel 巡航車",
+        "ja": "レブル250/500/1100"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "入门巡航车系列，提供250/500/1100三种排量，改装潜力大",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:africa-twin-crf1100l",
+      "brand": "Honda",
+      "names": {
+        "en": "CRF1100L Africa Twin",
+        "zh-CN": "CRF1100L 非洲双缸 探险车",
+        "zh-TW": "CRF1100L 非洲雙缸 探險車",
+        "ja": "CRF1100L アフリカツイン"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "硬派ADV代表，1100cc并列双缸，DCT双离合可选，达喀尔血统",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:nc750x",
+      "brand": "Honda",
+      "names": {
+        "en": "NC750X",
+        "zh-CN": "NC750X 跨界探险车",
+        "zh-TW": "NC750X 跨界探險車",
+        "ja": "NC750X"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "实用主义跨界车，油箱位置可储物，DCT双离合，油耗极低",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:super-cub-c125",
+      "brand": "Honda",
+      "names": {
+        "en": "Super Cub C125",
+        "zh-CN": "超级幼兽 C125 弯梁",
+        "zh-TW": "超級幼獸 C125 彎梁",
+        "ja": "スーパーカブ C125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:underbone",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "世界销量第一车型系列，累计超1亿台，经典弯梁设计",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:pcx",
+      "brand": "Honda",
+      "names": {
+        "en": "PCX 125 / 160",
+        "zh-CN": "PCX 踏板车",
+        "zh-TW": "PCX 踏板車",
+        "ja": "PCX125/160"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "全球畅销高端通勤踏板，eSP+发动机，ABS可选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:forza-nss350",
+      "brand": "Honda",
+      "names": {
+        "en": "Forza 350 / NSS350",
+        "zh-CN": "佛沙 Forza 350 大踏板",
+        "zh-TW": "佛沙 Forza 350 大踏板",
+        "ja": "フォルツァ NSS350"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "中高端大踏板，电动风挡，大容量储物箱，兼顾通勤与长途",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:monkey-125",
+      "brand": "Honda",
+      "names": {
+        "en": "Monkey 125",
+        "zh-CN": "猴子 Monkey 125 迷你车",
+        "zh-TW": "猴子 Monkey 125 迷你車",
+        "ja": "モンキー125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "经典迷你车系列复活，复古外观，玩乐属性强",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:grom-msx125",
+      "brand": "Honda",
+      "names": {
+        "en": "Grom / MSX125",
+        "zh-CN": "Grom 迷你街车",
+        "zh-TW": "Grom 迷你街車",
+        "ja": "グロム MSX125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "125cc迷你街车，12寸小轮，改装文化风靡全球",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:vfr800f",
+      "brand": "Honda",
+      "names": {
+        "en": "VFR800F",
+        "zh-CN": "VFR800F V4旅行跑车（停产）",
+        "zh-TW": "VFR800F V4旅行跑車（停產）",
+        "ja": "VFR800F"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1998–2017",
+      "note": "V4发动机传奇，VTEC技术应用，运动旅行经典之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb1100",
+      "brand": "Honda",
+      "names": {
+        "en": "CB1100",
+        "zh-CN": "CB1100 气冷四缸复古街车（停产）",
+        "zh-TW": "CB1100 氣冷四缸復古街車（停產）",
+        "ja": "CB1100"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2022",
+      "note": "气冷并列四缸，致敬经典CB750 Four，复古街车代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:crf250l-crf300l",
+      "brand": "Honda",
+      "names": {
+        "en": "CRF250L / CRF300L",
+        "zh-CN": "CRF250L/300L 林道两用车",
+        "zh-TW": "CRF250L/300L 林道兩用車",
+        "ja": "CRF250L/CRF300L"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2012–present",
+      "note": "入门林道两用车，2021年升级为300cc，通勤越野两不误",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb500f",
+      "brand": "Honda",
+      "names": {
+        "en": "CB500F",
+        "zh-CN": "CB500F 中量级街车",
+        "zh-TW": "CB500F 中量級街車",
+        "ja": "CB500F"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "471cc并列双缸中量级街车，500平台销量主力，亲民好骑适合新手进阶",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb500x",
+      "brand": "Honda",
+      "names": {
+        "en": "CB500X",
+        "zh-CN": "CB500X 探险车",
+        "zh-TW": "CB500X 探險車",
+        "ja": "CB500X"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "CB500同平台ADV，长行程悬挂，2024年升级为NX500，入门探险性价比之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cbr500r",
+      "brand": "Honda",
+      "names": {
+        "en": "CBR500R",
+        "zh-CN": "CBR500R 跑车",
+        "zh-TW": "CBR500R 跑車",
+        "ja": "CBR500R"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "CBR家族入门仿赛，471cc双缸，骑姿舒适兼顾日常，新手跑车首选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cl500",
+      "brand": "Honda",
+      "names": {
+        "en": "CL500",
+        "zh-CN": "CL500 攀爬者",
+        "zh-TW": "CL500 攀爬者",
+        "ja": "CL500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "复古攀爬风格，高排气+钢丝辐条轮，基于500平台，致敬1970年代CL系列",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb300r",
+      "brand": "Honda",
+      "names": {
+        "en": "CB300R",
+        "zh-CN": "CB300R 入门街车",
+        "zh-TW": "CB300R 入門街車",
+        "ja": "CB300R"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "Neo Sports Café风格入门街车，286cc单缸，整备质量仅143kg，轻量化典范",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb750-hornet",
+      "brand": "Honda",
+      "names": {
+        "en": "CB750 Hornet",
+        "zh-CN": "CB750 Hornet 大黄蜂 街车",
+        "zh-TW": "CB750 Hornet 大黃蜂 街車",
+        "ja": "CB750 ホーネット"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "大黄蜂名号复活，755cc并列双缸270度曲轴，中量级运动街车新标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:xl750-transalp",
+      "brand": "Honda",
+      "names": {
+        "en": "XL750 Transalp",
+        "zh-CN": "XL750 Transalp 穿越者 探险车",
+        "zh-TW": "XL750 Transalp 穿越者 探險車",
+        "ja": "XL750 トランザルプ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "传奇Transalp车系复兴，与CB750 Hornet同平台，达喀尔基因，硬派公路ADV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:x-adv",
+      "brand": "Honda",
+      "names": {
+        "en": "X-ADV",
+        "zh-CN": "X-ADV 跨界大踏板",
+        "zh-TW": "X-ADV 跨界大踏板",
+        "ja": "X-ADV"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "踏板车与探险车跨界之作，745cc双缸+DCT双离合，越野风格大绵羊",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:nt1100",
+      "brand": "Honda",
+      "names": {
+        "en": "NT1100",
+        "zh-CN": "NT1100 运动旅行车",
+        "zh-TW": "NT1100 運動旅行車",
+        "ja": "NT1100"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "Africa Twin同平台旅行车，1084cc双缸，大整流罩+边箱，可选DCT双离合",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:gb350",
+      "brand": "Honda",
+      "names": {
+        "en": "GB350",
+        "zh-CN": "GB350 复古单缸街车",
+        "zh-TW": "GB350 復古單缸街車",
+        "ja": "GB350"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "348cc风冷单缸复古车，致敬1960年代GB系列，日本印度市场热销",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:st1300-pan-european",
+      "brand": "Honda",
+      "names": {
+        "en": "ST1300 Pan European",
+        "zh-CN": "ST1300 泛欧 运动旅行（停产）",
+        "zh-TW": "ST1300 泛歐 運動旅行（停產）",
+        "ja": "ST1300 パンヨーロピアン"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2015",
+      "note": "1261cc V4运动旅行车，轴传动+ABS，欧洲高速巡逻与长途旅行的经典用车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:nsr250r",
+      "brand": "Honda",
+      "names": {
+        "en": "NSR250R",
+        "zh-CN": "NSR250R 二冲程仿赛（停产）",
+        "zh-TW": "NSR250R 二衝程仿賽（停產）",
+        "ja": "NSR250R"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1987–1999",
+      "note": "249cc V型双缸二冲程GP复刻仿赛，后期版铝合金车架，两冲程时代的传奇名车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:crf450r",
+      "brand": "Honda",
+      "names": {
+        "en": "CRF450R",
+        "zh-CN": "CRF450R 场地越野",
+        "zh-TW": "CRF450R 場地越野",
+        "ja": "CRF450R"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2002–present",
+      "note": "本田旗舰场地越野车，450cc水冷单缸四冲程，MX组别主力战车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:crf450rx",
+      "brand": "Honda",
+      "names": {
+        "en": "CRF450RX",
+        "zh-CN": "CRF450RX 闭场越野",
+        "zh-TW": "CRF450RX 閉場越野",
+        "ja": "CRF450RX"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "CRF450R越野赛版，18英寸后轮+加大油箱，GNCC等闭场越野赛事专用",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:crf250r",
+      "brand": "Honda",
+      "names": {
+        "en": "CRF250R",
+        "zh-CN": "CRF250R 场地越野",
+        "zh-TW": "CRF250R 場地越野",
+        "ja": "CRF250R"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2004–present",
+      "note": "250cc水冷单缸四冲程场地越野赛车，MX2组别标杆，铝合金车架",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:crf250rx",
+      "brand": "Honda",
+      "names": {
+        "en": "CRF250RX",
+        "zh-CN": "CRF250RX 闭场越野",
+        "zh-TW": "CRF250RX 閉場越野",
+        "ja": "CRF250RX"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "CRF250R闭场越野赛版，18英寸后轮+电启动，耐力赛事利器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:crf300-rally",
+      "brand": "Honda",
+      "names": {
+        "en": "CRF300 Rally",
+        "zh-CN": "CRF300 Rally 拉力版",
+        "zh-TW": "CRF300 Rally 拉力版",
+        "ja": "CRF300ラリー"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "CRF300L拉力版，加大风挡与油箱，达喀尔风格探险两用车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:crf150f",
+      "brand": "Honda",
+      "names": {
+        "en": "CRF150F",
+        "zh-CN": "CRF150F 林道车",
+        "zh-TW": "CRF150F 林道車",
+        "ja": "CRF150F"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2003–present",
+      "note": "149cc气冷单缸入门林道车，低座高+电启动，青少年越野入门首选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:crf110f",
+      "brand": "Honda",
+      "names": {
+        "en": "CRF110F",
+        "zh-CN": "CRF110F 迷你越野",
+        "zh-TW": "CRF110F 迷你越野",
+        "ja": "CRF110F"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "110cc气冷单缸迷你越野车，四速自动离合，儿童练车神器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:crf50f",
+      "brand": "Honda",
+      "names": {
+        "en": "CRF50F",
+        "zh-CN": "CRF50F 迷你越野",
+        "zh-TW": "CRF50F 迷你越野",
+        "ja": "CRF50F"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2004–present",
+      "note": "49cc迷你越野车，CRF家族最小成员，儿童启蒙越野经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:xr650l",
+      "brand": "Honda",
+      "names": {
+        "en": "XR650L",
+        "zh-CN": "XR650L 林道两用车",
+        "zh-TW": "XR650L 林道兩用車",
+        "ja": "XR650L"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1993–present",
+      "note": "644cc气冷单缸长青林道两用车，美规单缸越野老将，皮实耐用",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:xr150l",
+      "brand": "Honda",
+      "names": {
+        "en": "XR150L",
+        "zh-CN": "XR150L 林道两用车",
+        "zh-TW": "XR150L 林道兩用車",
+        "ja": "XR150L"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "149cc气冷单缸入门两用车，拉美与东南亚市场热销，通勤代步利器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:xr500r",
+      "brand": "Honda",
+      "names": {
+        "en": "XR500R",
+        "zh-CN": "XR500R 耐力越野（停产）",
+        "zh-TW": "XR500R 耐力越野（停產）",
+        "ja": "XR500R"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1979–1984",
+      "note": "历史经典单缸耐力越野赛车，1980年代初达喀尔赛事功臣，XR车系传奇开端",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb750-four",
+      "brand": "Honda",
+      "names": {
+        "en": "CB750 Four",
+        "zh-CN": "CB750 Four 革命性四缸街车（停产）",
+        "zh-TW": "CB750 Four 革命性四缸街車（停產）",
+        "ja": "CB750フォア"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1969–1978",
+      "note": "史上首款量产直列四缸摩托车，1969年问世改写摩托史，CB车系鼻祖",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cbx1000",
+      "brand": "Honda",
+      "names": {
+        "en": "CBX1000",
+        "zh-CN": "CBX1000 六缸街车（停产）",
+        "zh-TW": "CBX1000 六缸街車（停產）",
+        "ja": "CBX1000"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1978–1982",
+      "note": "1047cc风冷直列六缸，本田技术巅峰之作，六缸声浪迷倒无数车迷",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb900f",
+      "brand": "Honda",
+      "names": {
+        "en": "CB900F",
+        "zh-CN": "CB900F 运动街车（停产）",
+        "zh-TW": "CB900F 運動街車（停產）",
+        "ja": "CB900F"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1979–1984",
+      "note": "DOHC直列四缸运动街车先驱，Bol d'Or之名传世，为CB1100F铺路",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cx500",
+      "brand": "Honda",
+      "names": {
+        "en": "CX500",
+        "zh-CN": "CX500 V缸街车（停产）",
+        "zh-TW": "CX500 V缸街車（停產）",
+        "ja": "CX500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1978–1983",
+      "note": "500cc水冷V型双缸纵置+轴传动，造型独特，另有涡轮增压版本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:vfr750r-rc30",
+      "brand": "Honda",
+      "names": {
+        "en": "VFR750R RC30",
+        "zh-CN": "VFR750R RC30 仿赛（停产）",
+        "zh-TW": "VFR750R RC30 仿賽（停產）",
+        "ja": "VFR750R (RC30)"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1987–1992",
+      "note": "WGP冠军复刻限量版，V4发动机+铝合金车架，拍卖会常客",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:nr750",
+      "brand": "Honda",
+      "names": {
+        "en": "NR750",
+        "zh-CN": "NR750 椭圆活塞仿赛（停产）",
+        "zh-TW": "NR750 橢圓活塞仿賽（停產）",
+        "ja": "NR750"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1992–1993",
+      "note": "史上首款椭圆活塞量产车，售价曾超10万美元，本田尖端技术结晶",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cbr900rr-fireblade",
+      "brand": "Honda",
+      "names": {
+        "en": "CBR900RR Fireblade",
+        "zh-CN": "CBR900RR 火刃 超级运动车（停产）",
+        "zh-TW": "CBR900RR 火刃 超級運動車（停產）",
+        "ja": "CBR900RR ファイヤーブレード"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1992–1999",
+      "note": "1992年横空出世，893cc挑战公升级，超级运动车轻量化革命，火刃传奇开端",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:gl1100-gold-wing",
+      "brand": "Honda",
+      "names": {
+        "en": "GL1100 Gold Wing",
+        "zh-CN": "GL1100 金翼 旅行车（停产）",
+        "zh-TW": "GL1100 金翼 旅行車（停產）",
+        "ja": "ゴールドウイング GL1100"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1980–1983",
+      "note": "第一代金翼旗舰，1085cc水平对置四缸+轴传动，长途旅行车开创者",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb77-super-hawk",
+      "brand": "Honda",
+      "names": {
+        "en": "CB77 Super Hawk",
+        "zh-CN": "CB77 Super Hawk 双缸街车（停产）",
+        "zh-TW": "CB77 Super Hawk 雙缸街車（停產）",
+        "ja": "CB77 スーパーホーク"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1961–1967",
+      "note": "305cc双缸运动车，1960年代北美最速公路车之一，本田全球传奇开端",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:hawk-gt-nt650",
+      "brand": "Honda",
+      "names": {
+        "en": "Hawk GT / NT650",
+        "zh-CN": "Hawk GT NT650 街车（停产）",
+        "zh-TW": "Hawk GT NT650 街車（停產）",
+        "ja": "ホークGT (NT650)"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1988–1991",
+      "note": "647cc V型双缸+钢管车架，轻量化操控标杆，近代运动街车鼻祖",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:xl600v-transalp",
+      "brand": "Honda",
+      "names": {
+        "en": "XL600V Transalp",
+        "zh-CN": "XL600V Transalp 探险车（停产）",
+        "zh-TW": "XL600V Transalp 探險車（停產）",
+        "ja": "トランザルプ XL600V"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1987–1999",
+      "note": "583cc V型双缸探险车开山之作，达喀尔血统，Transalp车系初代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:dream-d",
+      "brand": "Honda",
+      "names": {
+        "en": "Dream D-Type",
+        "zh-CN": "Dream D型 本田首款量产摩托车",
+        "zh-TW": "Dream D型 本田首款量產摩托車",
+        "ja": "ドリームD型"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1949–1951",
+      "note": "本田第一款完整量产摩托车，98cc二冲程单缸，Dream梦之名的起源",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:super-cub-c100",
+      "brand": "Honda",
+      "names": {
+        "en": "Super Cub C100",
+        "zh-CN": "超级幼兽 C100 初代弯梁",
+        "zh-TW": "超級幼獸 C100 初代彎梁",
+        "ja": "スーパーカブC100"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:underbone",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1958–1967",
+      "note": "1958年问世的第一代Super Cub，49cc弯梁车，半自动离合开启全球销量神话",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb92-benly-super-sport",
+      "brand": "Honda",
+      "names": {
+        "en": "CB92 Benly Super Sport",
+        "zh-CN": "CB92 Benly Super Sport 双缸运动车",
+        "zh-TW": "CB92 Benly Super Sport 雙缸運動車",
+        "ja": "ベンリーCB92スーパースポーツ"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1959–1961",
+      "note": "首款冠以CB之名的小排量双缸运动车，曼岛TT等赛事常用基础车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb72",
+      "brand": "Honda",
+      "names": {
+        "en": "CB72 Super Sport",
+        "zh-CN": "CB72 Super Sport 双缸街车",
+        "zh-TW": "CB72 Super Sport 雙缸街車",
+        "ja": "ドリームCB72スーパースポーツ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1960–1966",
+      "note": "250cc双缸运动车，CB77 Super Hawk的小弟，1960年代北美入门运动标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cl72-scrambler",
+      "brand": "Honda",
+      "names": {
+        "en": "CL72 Scrambler",
+        "zh-CN": "CL72 Scrambler 攀爬者",
+        "zh-TW": "CL72 Scrambler 攀爬者",
+        "ja": "ドリームCL72スクランブラー"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1962–1967",
+      "note": "首款量产的CL系列攀爬车，247cc双缸高排气管设计，1960年代越野风格鼻祖",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:ct90-trail",
+      "brand": "Honda",
+      "names": {
+        "en": "CT90 Trail",
+        "zh-CN": "CT90 Trail 林道弯梁车",
+        "zh-TW": "CT90 Trail 林道彎梁車",
+        "ja": "CT90トレール"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1966–1979",
+      "note": "89cc林道两用弯梁车，双速副变速箱+半自动离合，猎人户外经典用车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb350",
+      "brand": "Honda",
+      "names": {
+        "en": "CB350",
+        "zh-CN": "CB350 双缸街车",
+        "zh-TW": "CB350 雙缸街車",
+        "ja": "CB350"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1973",
+      "note": "325cc风冷双缸街车，北美市场爆款，咖啡馆改装圈经典底子",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:dax-st50",
+      "brand": "Honda",
+      "names": {
+        "en": "Dax ST50",
+        "zh-CN": "Dax ST50 长颈鹿迷你车",
+        "zh-TW": "Dax ST50 長頸鹿迷你車",
+        "ja": "ダックスST50"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1969–1999",
+      "note": "T形车架迷你车，人称长颈鹿/腊肠狗，与Monkey齐名的本田趣味小车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb125s",
+      "brand": "Honda",
+      "names": {
+        "en": "CB125S",
+        "zh-CN": "CB125S 单缸街车",
+        "zh-TW": "CB125S 單缸街車",
+        "ja": "CB125S"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1971–1985",
+      "note": "122cc风冷单缸入门街车，全球普及车型，东南亚拉美市场常青树",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb500-four",
+      "brand": "Honda",
+      "names": {
+        "en": "CB500 Four",
+        "zh-CN": "CB500 Four 四缸街车",
+        "zh-TW": "CB500 Four 四缸街車",
+        "ja": "CB500フォア"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1971–1978",
+      "note": "498cc四缸街车，CB750 Four的小排量普及版，1970年代四缸浪潮成员",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:xl250",
+      "brand": "Honda",
+      "names": {
+        "en": "XL250",
+        "zh-CN": "XL250 耐力两用车",
+        "zh-TW": "XL250 耐力兩用車",
+        "ja": "XL250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1972–1987",
+      "note": "首款现代四冲程耐力越野车，四气门单缸鼻祖，XL车系传奇起点",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cr250m-elsinore",
+      "brand": "Honda",
+      "names": {
+        "en": "CR250M Elsinore",
+        "zh-CN": "CR250M Elsinore 场地越野",
+        "zh-TW": "CR250M Elsinore 場地越野",
+        "ja": "CR250Mエルシノア"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1973–1976",
+      "note": "本田首款二冲程量产越野赛车，Elsinore之名源于加州赛事，开创CR系列",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb550-four",
+      "brand": "Honda",
+      "names": {
+        "en": "CB550 Four",
+        "zh-CN": "CB550 Four 四缸街车",
+        "zh-TW": "CB550 Four 四缸街車",
+        "ja": "CB550フォア"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–1977",
+      "note": "544cc四缸街车，CB500 Four的扩缸后继，1970年代UJM风格代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb400f",
+      "brand": "Honda",
+      "names": {
+        "en": "CB400F",
+        "zh-CN": "CB400F 四缸咖啡馆赛车",
+        "zh-TW": "CB400F 四缸咖啡館賽車",
+        "ja": "CB400フォア"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:cafe-racer",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1975–1977",
+      "note": "408cc四缸+六速变速箱+四合一排气，咖啡馆赛车风格先驱，小排量四缸经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb450",
+      "brand": "Honda",
+      "names": {
+        "en": "CB450",
+        "zh-CN": "CB450 黑色轰炸机 双缸街车",
+        "zh-TW": "CB450 黑色轟炸機 雙缸街車",
+        "ja": "CB450ブラックボンバー"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1965–1974",
+      "note": "世界首款DOHC双缸摩托车，绰号黑色轰炸机，1960年代日系性能代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:gl500-silverwing",
+      "brand": "Honda",
+      "names": {
+        "en": "GL500 Silverwing",
+        "zh-CN": "GL500 Silverwing 银翼 旅行车",
+        "zh-TW": "GL500 Silverwing 銀翼 旅行車",
+        "ja": "GL500シルバーウイング"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1981–1982",
+      "note": "CX500平台旅行版，轴传动+Pro-Link悬挂，金翼的小兄弟",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cx500-turbo",
+      "brand": "Honda",
+      "names": {
+        "en": "CX500 Turbo",
+        "zh-CN": "CX500 Turbo 涡轮增压V缸",
+        "zh-TW": "CX500 Turbo 渦輪增壓V缸",
+        "ja": "CX500ターボ"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1982–1983",
+      "note": "本田首款量产涡轮增压摩托车，也是首款搭载电喷系统的本田机车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:ns250r",
+      "brand": "Honda",
+      "names": {
+        "en": "NS250R",
+        "zh-CN": "NS250R 二冲程仿赛",
+        "zh-TW": "NS250R 二衝程仿賽",
+        "ja": "NS250R"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–1987",
+      "note": "本田二冲程V型双缸250cc仿赛，GP赛车NSR的量产前身，F2组别常胜车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:vfr750f",
+      "brand": "Honda",
+      "names": {
+        "en": "VFR750F",
+        "zh-CN": "VFR750F V4仿赛",
+        "zh-TW": "VFR750F V4仿賽",
+        "ja": "VFR750F"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1986–1997",
+      "note": "748cc V4水冷仿赛，齿轮驱动凸轮轴+铝合金车架，Interceptor之名传世",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cbr600f",
+      "brand": "Honda",
+      "names": {
+        "en": "CBR600F",
+        "zh-CN": "CBR600F 中量级仿赛",
+        "zh-TW": "CBR600F 中量級仿賽",
+        "ja": "CBR600F"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1987–2006",
+      "note": "600cc四缸仿赛常青树，美版称Hurricane，F系列历经四代成为中量级标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb-1",
+      "brand": "Honda",
+      "names": {
+        "en": "CB-1",
+        "zh-CN": "CB-1 四缸街车",
+        "zh-TW": "CB-1 四缸街車",
+        "ja": "CB-1"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1989–1990",
+      "note": "399cc水冷四缸轻量街车，CBR400RR同源发动机，操控灵活的运动街车先驱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:dio",
+      "brand": "Honda",
+      "names": {
+        "en": "Dio",
+        "zh-CN": "Dio 踏板车",
+        "zh-TW": "Dio 踏板車",
+        "ja": "ディオ"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1988–2004",
+      "note": "49cc二冲程小型踏板车，1988年问世，Dio SR/ZX等运动版本风靡日本与东南亚",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:st1100-pan-european",
+      "brand": "Honda",
+      "names": {
+        "en": "ST1100 Pan European",
+        "zh-CN": "ST1100 泛欧 运动旅行",
+        "zh-TW": "ST1100 泛歐 運動旅行",
+        "ja": "ST1100パンヨーロピアン"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–2002",
+      "note": "1085cc V4运动旅行车，轴传动+全整流罩+边箱，欧洲高速公路巡逻经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb1000-hornet-2025",
+      "brand": "Honda",
+      "names": {
+        "en": "CB1000 Hornet / SP",
+        "zh-CN": "CB1000 Hornet 大黄蜂 新世代公升级街车（2025款）",
+        "zh-TW": "CB1000 Hornet 大黃蜂 新世代公升級街車（2025款）",
+        "ja": "CB1000 ホーネット"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "本田2025年全新换代大黄蜂，999cc直列四缸（源自CBR1000RR-R），取代CB1000R，SP版配Ohlins电子悬挂",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb1000f-2026",
+      "brand": "Honda",
+      "names": {
+        "en": "CB1000F / CB1000F SE",
+        "zh-CN": "CB1000F 复古街车（2026款）",
+        "zh-TW": "CB1000F 復古街車（2026款）",
+        "ja": "CB1000F"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "本田2026年全新复古街车，999cc直列四缸，致敬1970年代CB750F经典风格，日本本土工厂编号SC94",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb1000gt-2026",
+      "brand": "Honda",
+      "names": {
+        "en": "CB1000GT",
+        "zh-CN": "CB1000GT 运动旅行车（2026款）",
+        "zh-TW": "CB1000GT 運動旅行車（2026款）",
+        "ja": "CB1000GT"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "本田2026年全新运动旅行旗舰，999cc直列四缸，基于CB1000 Hornet平台，大型整流罩+原厂三箱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:forza-750",
+      "brand": "Honda",
+      "names": {
+        "en": "Forza 750",
+        "zh-CN": "Forza 750 旗舰大踏板（2025/2026款）",
+        "zh-TW": "Forza 750 旗艦大踏板（2025/2026款）",
+        "ja": "フォルツァ750"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "本田旗舰级大踏板，745cc双缸+DCT双离合，与X-ADV同平台，2025款强化科技配置，2026款更新配色",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:dream-cb350-four",
+      "brand": "Honda",
+      "names": {
+        "en": "Dream CB350 Four",
+        "zh-CN": "Dream CB350 Four 四缸街车",
+        "zh-TW": "Dream CB350 Four 四缸街車",
+        "ja": "ドリームCB350フォア"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1972–1973",
+      "note": "传奇350cc四缸车型，CB750 Four的小排量兄弟，首款350cc四缸量产车，稀有名作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb750f-super-sport",
+      "brand": "Honda",
+      "names": {
+        "en": "CB750F Super Sport",
+        "zh-CN": "CB750F Super Sport 运动街车",
+        "zh-TW": "CB750F Super Sport 運動街車",
+        "ja": "CB750F スーパースポーツ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1975–1978",
+      "note": "CB750 Four的运动版本，四合一排气+前碟刹+后碟刹，Super Sport之名始于于此",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb900c",
+      "brand": "Honda",
+      "names": {
+        "en": "CB900C",
+        "zh-CN": "CB900C 轴传动街车",
+        "zh-TW": "CB900C 軸傳動街車",
+        "ja": "CB900C"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1980–1984",
+      "note": "DOHC 902cc四缸+轴传动，CB900F的Custom版本，舒适骑姿+大型油箱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cx650-turbo",
+      "brand": "Honda",
+      "names": {
+        "en": "CX650 Turbo",
+        "zh-CN": "CX650 Turbo 涡轮增压V缸",
+        "zh-TW": "CX650 Turbo 渦輪增壓V缸",
+        "ja": "CX650ターボ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1983–1984",
+      "note": "CX500 Turbo的扩缸升级版，673cc水冷V型双缸涡轮增压，80年代涡轮热潮终章",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cx500-custom",
+      "brand": "Honda",
+      "names": {
+        "en": "CX500 Custom",
+        "zh-CN": "CX500 Custom 定制巡航",
+        "zh-TW": "CX500 Custom 定制巡航",
+        "ja": "CX500カスタム"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1979–1984",
+      "note": "CX500平台的巡航定制版，轴传动+水冷V缸，独特造型成为Cafe Racer改装热门底子",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:vf500f",
+      "brand": "Honda",
+      "names": {
+        "en": "VF500F",
+        "zh-CN": "VF500F V4仿赛",
+        "zh-TW": "VF500F V4仿賽",
+        "ja": "VF500F"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–1985",
+      "note": "491cc V型四缸水冷仿赛，Interceptor家族小排量成员，轻量化V4入门跑车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:vf700f",
+      "brand": "Honda",
+      "names": {
+        "en": "VF700F",
+        "zh-CN": "VF700F V4仿赛",
+        "zh-TW": "VF700F V4仿賽",
+        "ja": "VF700F"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–1986",
+      "note": "698cc V4仿赛，美国市场专属排量，VF系列中量级V4运动车代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:vf1000f",
+      "brand": "Honda",
+      "names": {
+        "en": "VF1000F",
+        "zh-CN": "VF1000F V4超级运动车",
+        "zh-TW": "VF1000F V4超級運動車",
+        "ja": "VF1000F"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–1986",
+      "note": "998cc V4超级运动车，本田首款公升级V4仿赛，Interceptor家族旗舰，1980年代技术巅峰",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:vfr400r-nc30",
+      "brand": "Honda",
+      "names": {
+        "en": "VFR400R (NC30)",
+        "zh-CN": "VFR400R NC30 V4仿赛",
+        "zh-TW": "VFR400R NC30 V4仿賽",
+        "ja": "VFR400R (NC30)"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1987–1993",
+      "note": "399cc V4水冷仿赛，齿轮驱动凸轮轴+铝合金车架，日本400cc黄金年代的巅峰之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cbr1000f",
+      "brand": "Honda",
+      "names": {
+        "en": "CBR1000F",
+        "zh-CN": "CBR1000F 公升级运动旅行",
+        "zh-TW": "CBR1000F 公升級運動旅行",
+        "ja": "CBR1000F"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1987–1999",
+      "note": "998cc四缸运动旅行车，CBR家族的早期旗舰，Hurricane之名在美市场传世",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cbr1100xx",
+      "brand": "Honda",
+      "names": {
+        "en": "CBR1100XX Super Blackbird",
+        "zh-CN": "CBR1100XX 超级黑鸟",
+        "zh-TW": "CBR1100XX 超級黑鳥",
+        "ja": "CBR1100XX スーパーブラックバード"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1996–2007",
+      "note": "1137cc四缸超高速运动旅行车，1996-1999年世界最快量产车（时速287km/h），黑鸟传奇",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cr125",
+      "brand": "Honda",
+      "names": {
+        "en": "CR125",
+        "zh-CN": "CR125 二冲程场地越野",
+        "zh-TW": "CR125 二衝程場地越野",
+        "ja": "CR125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–2007",
+      "note": "经典二冲程125cc场地越野车，CR系列中坚力量，MX2组别常青树，2007年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cr250",
+      "brand": "Honda",
+      "names": {
+        "en": "CR250",
+        "zh-CN": "CR250 二冲程场地越野",
+        "zh-TW": "CR250 二衝程場地越野",
+        "ja": "CR250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1973–2007",
+      "note": "传奇250cc二冲程场地越野车，从CR250M Elsinore演化而来，MX组别常胜军",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cr500",
+      "brand": "Honda",
+      "names": {
+        "en": "CR500",
+        "zh-CN": "CR500 二冲程大单缸",
+        "zh-TW": "CR500 二衝程大單缸",
+        "ja": "CR500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–2001",
+      "note": "491cc二冲程大单缸越野传奇，史上最暴力的MX赛车之一，动力狂野著称",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:xr250",
+      "brand": "Honda",
+      "names": {
+        "en": "XR250",
+        "zh-CN": "XR250 林道耐力车",
+        "zh-TW": "XR250 林道耐力車",
+        "ja": "XR250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1979–2004",
+      "note": "经典四冲程250cc耐力越野车，RFVC四气门单缸，以耐用可靠著称，全球林道爱好者首选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:xr400",
+      "brand": "Honda",
+      "names": {
+        "en": "XR400",
+        "zh-CN": "XR400 林道车",
+        "zh-TW": "XR400 林道車",
+        "ja": "XR400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1996–2004",
+      "note": "397cc四冲程单缸林道车，XR系列中量级经典，动力充沛操控灵活，至今仍是二手市场热门",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:xr600",
+      "brand": "Honda",
+      "names": {
+        "en": "XR600",
+        "zh-CN": "XR600 林道耐力车",
+        "zh-TW": "XR600 林道耐力車",
+        "ja": "XR600"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1985–2000",
+      "note": "591cc四冲程单缸耐力越野车，XR车系公升级前旗舰，达喀尔拉力赛传奇战车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:xr650r",
+      "brand": "Honda",
+      "names": {
+        "en": "XR650R",
+        "zh-CN": "XR650R 竞技耐力车",
+        "zh-TW": "XR650R 競技耐力車",
+        "ja": "XR650R"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2000–2007",
+      "note": "644cc水冷单缸竞技耐力赛车，XR系列最终进化，达喀尔冠军血统，强悍性能至今被追捧",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:xl650v-transalp",
+      "brand": "Honda",
+      "names": {
+        "en": "XL650V Transalp",
+        "zh-CN": "XL650V Transalp 穿越者",
+        "zh-TW": "XL650V Transalp 穿越者",
+        "ja": "XL650V トランザルプ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2000–2006",
+      "note": "647cc V型双缸中量级探险车，Transalp系列第二代，继承达喀尔基因，公路与越野兼顾",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:nt650-deauville",
+      "brand": "Honda",
+      "names": {
+        "en": "NT650 Deauville",
+        "zh-CN": "NT650 Deauville 运动旅行",
+        "zh-TW": "NT650 Deauville 運動旅行",
+        "ja": "NT650 ドービル"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1998–2005",
+      "note": "647cc V型双缸运动旅行车，全整流罩+轴传动，欧洲市场热销的实用型旅行车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:nt700-deauville",
+      "brand": "Honda",
+      "names": {
+        "en": "NT700 Deauville",
+        "zh-CN": "NT700 Deauville 运动旅行",
+        "zh-TW": "NT700 Deauville 運動旅行",
+        "ja": "NT700 ドービル"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2013",
+      "note": "NT650升级版，680cc V型双缸+ABS标配，轴传动+大容量边箱，实用旅行车代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:silverwing-600",
+      "brand": "Honda",
+      "names": {
+        "en": "Silver Wing 600",
+        "zh-CN": "Silver Wing 银翼 600踏板",
+        "zh-TW": "Silver Wing 銀翼 600踏板",
+        "ja": "シルバーウイング600"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2001–2009",
+      "note": "582cc双缸大踏板，FJS600/SW600，与雅马哈TMAX竞争的美式风格大绵羊",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:helix-cn250",
+      "brand": "Honda",
+      "names": {
+        "en": "Helix / CN250",
+        "zh-CN": "Helix CN250 大踏板",
+        "zh-TW": "Helix CN250 大踏板",
+        "ja": "ヘリックス CN250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1986–2007",
+      "note": "造型前卫的250cc大踏板，长轴距+大储物箱+电动风挡，80年代设计至今仍个性十足",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:zoomer-ruckus",
+      "brand": "Honda",
+      "names": {
+        "en": "Ruckus / Zoomer",
+        "zh-CN": "Ruckus/Zoomer 迷你踏板",
+        "zh-TW": "Ruckus/Zoomer 迷你踏板",
+        "ja": "ズーマー"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2015",
+      "note": "49cc裸露钢管车架迷你踏板，越野风格设计，日本称Zoomer，改装文化深厚",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:metropolitan",
+      "brand": "Honda",
+      "names": {
+        "en": "Metropolitan",
+        "zh-CN": "Metropolitan 复古踏板",
+        "zh-TW": "Metropolitan 復古踏板",
+        "ja": "メトロポリタン"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2009",
+      "note": "49cc复古风格踏板车，圆润造型+欧式设计，北美城市通勤时尚代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cub-c70-c90",
+      "brand": "Honda",
+      "names": {
+        "en": "Super Cub C70 / C90",
+        "zh-CN": "超级幼兽 C70/C90 弯梁",
+        "zh-TW": "超級幼獸 C70/C90 彎梁",
+        "ja": "スーパーカブC70/C90"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:underbone",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1967–2000",
+      "note": "Super Cub家族中排量成员，72cc/86cc单缸弯梁，全球通勤代步神器，皮实耐用",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb125-twin",
+      "brand": "Honda",
+      "names": {
+        "en": "CB125 Twin",
+        "zh-CN": "CB125 Twin 双缸街车",
+        "zh-TW": "CB125 Twin 雙缸街車",
+        "ja": "CB125ツイン"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1970–1980",
+      "note": "124cc风冷双缸入门街车，小排量双缸经典，CB家族的小排量双缸代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb200",
+      "brand": "Honda",
+      "names": {
+        "en": "CB200",
+        "zh-CN": "CB200 双缸街车",
+        "zh-TW": "CB200 雙缸街車",
+        "ja": "CB200"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–1978",
+      "note": "198cc风冷双缸入门街车，碟刹前轮+电启动，1970年代入门级运动车代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb360",
+      "brand": "Honda",
+      "names": {
+        "en": "CB360",
+        "zh-CN": "CB360 双缸街车",
+        "zh-TW": "CB360 雙缸街車",
+        "ja": "CB360"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–1976",
+      "note": "356cc风冷双缸街车，CB350的扩缸后继，六速变速箱+电启动，UJM风格代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:vt250-vtr250",
+      "brand": "Honda",
+      "names": {
+        "en": "VT250 / VTR250",
+        "zh-CN": "VT250/VTR250 V型双缸街车",
+        "zh-TW": "VT250/VTR250 V型雙缸街車",
+        "ja": "VT250/VTR250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1982–2008",
+      "note": "250cc V型双缸街车系列，VT250为80年代开创，VTR250持续至2000年代，轻量V缸经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:vtr1000f-superhawk",
+      "brand": "Honda",
+      "names": {
+        "en": "VTR1000F SuperHawk",
+        "zh-CN": "VTR1000F SuperHawk 超级鹰",
+        "zh-TW": "VTR1000F SuperHawk 超級鷹",
+        "ja": "VTR1000F スーパーホーク"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1998–2005",
+      "note": "996cc 90度V型双缸运动街车，轻量化+大扭矩，欧洲市场称SuperHawk，美国称FireStorm",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:rc51-rvt1000r",
+      "brand": "Honda",
+      "names": {
+        "en": "RC51 (RVT1000R)",
+        "zh-CN": "RC51 RVT1000R V型双缸仿赛",
+        "zh-TW": "RC51 RVT1000R V型雙缸仿賽",
+        "ja": "RC51 (RVT1000R)"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2000–2006",
+      "note": "999cc 90度V型双缸仿赛，WSBK冠军复刻车型，铝合金双翼梁车架，本田V缸赛道旗舰",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:ns400r",
+      "brand": "Honda",
+      "names": {
+        "en": "NS400R",
+        "zh-CN": "NS400R V型三缸二冲程仿赛",
+        "zh-TW": "NS400R V型三缸二衝程仿賽",
+        "ja": "NS400R"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1985–1987",
+      "note": "387cc V型三缸二冲程仿赛，NS500 GP赛车的量产复刻版，全球仅存少数V3量产摩托车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:vt500-shadow",
+      "brand": "Honda",
+      "names": {
+        "en": "VT500 Shadow",
+        "zh-CN": "VT500 Shadow 巡航车",
+        "zh-TW": "VT500 Shadow 巡航車",
+        "ja": "VT500 シャドウ"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1983–1986",
+      "note": "491cc V型双缸巡航车，Shadow车系开山之作，轴传动+水冷V缸，美式巡航风格",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:vt600-shadow",
+      "brand": "Honda",
+      "names": {
+        "en": "VT600 Shadow",
+        "zh-CN": "VT600 Shadow 巡航车",
+        "zh-TW": "VT600 Shadow 巡航車",
+        "ja": "VT600 シャドウ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1988–2000",
+      "note": "583cc V型双缸巡航车，Shadow系列中量级经典，轴传动+皮带传动，美式巡航入门标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:vt1100-shadow",
+      "brand": "Honda",
+      "names": {
+        "en": "VT1100 Shadow",
+        "zh-CN": "VT1100 Shadow 巡航车",
+        "zh-TW": "VT1100 Shadow 巡航車",
+        "ja": "VT1100 シャドウ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1985–2007",
+      "note": "1099cc V型双缸公升级巡航车，Shadow系列旗舰，轴传动水冷，与哈雷分庭抗礼的日式巡航",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:gl1000-gold-wing",
+      "brand": "Honda",
+      "names": {
+        "en": "GL1000 Gold Wing",
+        "zh-CN": "GL1000 金翼 旅行车",
+        "zh-TW": "GL1000 金翼 旅行車",
+        "ja": "ゴールドウイング GL1000"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1975–1979",
+      "note": "999cc水平对置四缸，第一代金翼，轴传动+水冷，开创豪华旅行车品类",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:gl1200-gold-wing",
+      "brand": "Honda",
+      "names": {
+        "en": "GL1200 Gold Wing",
+        "zh-CN": "GL1200 金翼 旅行车",
+        "zh-TW": "GL1200 金翼 旅行車",
+        "ja": "ゴールドウイング GL1200"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–1987",
+      "note": "1182cc水平对置四缸，第三代金翼，首次引入燃油喷射+全液晶仪表，豪华旅行车再进化",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:gl1500-gold-wing",
+      "brand": "Honda",
+      "names": {
+        "en": "GL1500 Gold Wing",
+        "zh-CN": "GL1500 金翼 旅行车",
+        "zh-TW": "GL1500 金翼 旅行車",
+        "ja": "ゴールドウイング GL1500"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1988–2000",
+      "note": "1520cc水平对置六缸，金翼首款六缸车型，豪华舒适度登峰造极，12年长生命周期",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb1300sf",
+      "brand": "Honda",
+      "names": {
+        "en": "CB1300 Super Four",
+        "zh-CN": "CB1300 Super Four 公升级街车",
+        "zh-TW": "CB1300 Super Four 公升級街車",
+        "ja": "CB1300 スーパーフォア"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1998–2020",
+      "note": "1284cc气冷四缸公升级街车，CB家族旗舰，日本本土大型二轮市场经典常青树",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:cb400ss",
+      "brand": "Honda",
+      "names": {
+        "en": "CB400SS",
+        "zh-CN": "CB400SS 单缸复古街车",
+        "zh-TW": "CB400SS 單缸復古街車",
+        "ja": "CB400SS"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2000–2008",
+      "note": "397cc风冷单缸复古街车，简约设计+电启动，日本驾校常备车型，单缸爱好者经典之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:ftr223",
+      "brand": "Honda",
+      "names": {
+        "en": "FTR223",
+        "zh-CN": "FTR223 单缸复古街车",
+        "zh-TW": "FTR223 單缸復古街車",
+        "ja": "FTR223"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2000–2008",
+      "note": "223cc风冷单缸复古街车，FTR250的后继车型，Flat Track风格设计，日本本土人气单缸",
+      "verified": "verified"
+    }
+  ]
+}

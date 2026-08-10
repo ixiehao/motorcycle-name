@@ -1,0 +1,106 @@
+{
+  "models": [
+    {
+      "id": "model:jincheng:ax100",
+      "brand": "Jincheng",
+      "names": {
+        "en": "AX100",
+        "zh-CN": "AX100 跨骑",
+        "zh-TW": "AX100 跨騎",
+        "ja": "AX100"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1985–2005",
+      "note": "金城铃木AX100，100cc二冲程经典跨骑车，1985年金城与铃木签约合资生产，一代人的集体回忆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jincheng:shengjiachong-200",
+      "brand": "Jincheng",
+      "names": {
+        "en": "Tiramisu 200",
+        "zh-CN": "圣甲虫200 大踏板",
+        "zh-TW": "聖甲蟲200 大踏板",
+        "ja": "ティラミス200"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "金城圣甲虫200（提拉米苏JC200T），200cc大踏板，原为金城代工的阿普利亚车型，极速超130km/h",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jincheng:caomeng-200",
+      "brand": "Jincheng",
+      "names": {
+        "en": "Caomeng 200",
+        "zh-CN": "草蜢200 运动踏板",
+        "zh-TW": "草蜢200 運動踏板",
+        "ja": "カオモン200"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "金城草蜢200，200cc运动风格大踏板，造型犀利，金城踏板阵营中的高性价比之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jincheng:k-cross-200",
+      "brand": "Jincheng",
+      "names": {
+        "en": "K-CROSS 200",
+        "zh-CN": "K-CROSS 200 探险车",
+        "zh-TW": "K-CROSS 200 探險車",
+        "ja": "K-CROSS 200"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "金城K-CROSS 200，200cc单缸休旅ADV，国内ADV市场兴起初期的\"元老\"车型之一，标配ABS",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jincheng:wukong-110",
+      "brand": "Jincheng",
+      "names": {
+        "en": "Wukong 110",
+        "zh-CN": "悟空110 复古迷你",
+        "zh-TW": "悟空110 復古迷你",
+        "ja": "ウーコン110"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "金城悟空110，110cc复古迷你车，圆灯圆表呆萌造型，还推出过摩旅版与边三轮版本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jincheng:jintong-70",
+      "brand": "Jincheng",
+      "names": {
+        "en": "Jintong JC70",
+        "zh-CN": "金童JC70 迷你车",
+        "zh-TW": "金童JC70 迷你車",
+        "ja": "ジントンJC70"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "金城金童JC70，70cc迷你车型，致敬本田Monkey的复古小猴子造型，玩乐属性强",
+      "verified": "verified"
+    }
+  ]
+}

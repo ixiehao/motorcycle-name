@@ -1,0 +1,2129 @@
+{
+  "models": [
+    {
+      "id": "model:kawasaki:z250-z400",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z250 / Z300 / Z400",
+        "zh-CN": "Z250/400 小排量街车",
+        "zh-TW": "Z250/400 小排量街車",
+        "ja": "Z250/Z400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "川崎小排量双缸街车，Z家族设计语言，2019年升级399cc Z400",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z650",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z650",
+        "zh-CN": "Z650 中量级街车",
+        "zh-TW": "Z650 中量級街車",
+        "ja": "Z650"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "649cc并列双缸，Z系列中流砥柱，2020年大改款电子油门+TFT仪表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z900",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z900",
+        "zh-CN": "Z900 四缸街车",
+        "zh-TW": "Z900 四缸街車",
+        "ja": "Z900"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "948cc直列四缸，Z系列四缸主力，性价比公升以下最强音",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z-h2",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z H2",
+        "zh-CN": "Z H2 机械增压街车",
+        "zh-TW": "Z H2 機械增壓街車",
+        "ja": "Z H2"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "全球量产唯一机械增压街车，998cc增压200ps，Z系列旗舰",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:ninja-250-400",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Ninja 250 / 300 / 400",
+        "zh-CN": "Ninja 小忍者 小排量跑车",
+        "zh-TW": "Ninja 小忍者 小排量跑車",
+        "ja": "ニンジャ250/300/400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2008–present",
+      "note": "入门仿赛霸主，2018年升级Ninja400，赛事表现优异，销售冠军",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:ninja-650",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Ninja 650",
+        "zh-CN": "Ninja 650 中量跑车",
+        "zh-TW": "Ninja 650 中量跑車",
+        "ja": "ニンジャ650"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "Z650同平台双缸跑车，全整流罩，舒适骑姿兼顾运动与旅行",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:zx-6r-636",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "ZX-6R (636)",
+        "zh-CN": "ZX-6R 636 中量级仿赛",
+        "zh-TW": "ZX-6R 636 中量級仿賽",
+        "ja": "ZX-6R 636"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2002–present",
+      "note": "636cc特立独行中量级四缸仿赛，比同级排量略大，赛道/街道两相宜",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:zx-10r-zx-10rr",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "ZX-10R / ZX-10RR",
+        "zh-CN": "ZX-10R/RR 旗舰仿赛",
+        "zh-TW": "ZX-10R/RR 旗艦仿賽",
+        "ja": "ZX-10R/ZX-10RR"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "WSBK五冠王，公升级四缸仿赛，RR限量版配Marchesini锻造轮+赛道套件",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:ninja-h2-h2r",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Ninja H2 / H2R",
+        "zh-CN": "Ninja H2/H2R 机械增压超跑",
+        "zh-TW": "Ninja H2/H2R 機械增壓超跑",
+        "ja": "ニンジャH2/H2R"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "量产首台机械增压摩托，H2街道版231ps，H2R赛道版310ps，碳纤维外壳",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:ninja-1000sx",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Ninja 1000SX",
+        "zh-CN": "Ninja 1000SX 运动旅行",
+        "zh-TW": "Ninja 1000SX 運動旅行",
+        "ja": "ニンジャ1000SX"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "公升级四缸运动旅行，电子巡航+快排+加热把手，长途神器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:versys",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Versys 650 / 1000",
+        "zh-CN": "Versys 探险多功能",
+        "zh-TW": "Versys 探險多功能",
+        "ja": "バーシス650/1000"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2007–present",
+      "note": "多功能探险车，双缸/四缸双平台，17寸公路取向，城市+长途皆宜",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:vulcan",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Vulcan S / Vulcan 900 / 1700",
+        "zh-CN": "Vulcan 火神 巡航车",
+        "zh-TW": "Vulcan 火神 巡航車",
+        "ja": "バルカン S/900/1700"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "美式巡航系列，Vulcan S 650cc并列双缸（EN650），900/1700 V缸大巡航",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:w800",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "W800",
+        "zh-CN": "W800 复古并列双缸",
+        "zh-TW": "W800 復古並列雙缸",
+        "ja": "W800"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "W系列气冷并列双缸复古，773cc，致敬1960年代W1/W3，Street/Cafe双版本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:klr650",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KLR650",
+        "zh-CN": "KLR650 大单缸探险",
+        "zh-TW": "KLR650 大單缸探險",
+        "ja": "KLR650"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1987–present",
+      "note": "652cc大单缸两用车，结构简单耐造，停产3年后2022年复活，配ABS+EFI",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:klx",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KLX230 / KLX300 / KLX650",
+        "zh-CN": "KLX 林道越野系列",
+        "zh-TW": "KLX 林道越野系列",
+        "ja": "KLX230/KLX300/KLX650"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "林道两用车系列，KLX230入门/ KLX300进阶 / KLX650经典大单缸",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:concours-14-gtr1400",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Concours 14 / 1400GTR",
+        "zh-CN": "Concours 14 长途巡航（停产）",
+        "zh-TW": "Concours 14 長途巡航（停產）",
+        "ja": "GTR1400 コンコース14"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2022",
+      "note": "ZZR1400同款四缸运动旅行，轴传动+可变气门，旗舰长途车15年未大改",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z900rs",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z900RS",
+        "zh-CN": "Z900RS 复古四缸街车",
+        "zh-TW": "Z900RS 復古四缸街車",
+        "ja": "Z900RS"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "致敬1972年Z1的复古街车，948cc四缸，Cafe版配猪头罩，经典与现代结合",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:zrx1100-zrx1200",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "ZRX1100 / ZRX1200",
+        "zh-CN": "ZRX 大ZRX 复古街车（停产）",
+        "zh-TW": "ZRX 大ZRX 復古街車（停產）",
+        "ja": "ZRX1100/ZRX1200"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2016",
+      "note": "ZRX1100/1200复古风格四缸街车，气冷发动机，肌肉线条经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:eliminator-450",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Eliminator 450",
+        "zh-CN": "Eliminator 450 巡航车",
+        "zh-TW": "Eliminator 450 巡航車",
+        "ja": "エリミネーター450"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "451cc并列双缸入门巡航，低座高，Eliminator名号复活之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:ninja-zx-4rr",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Ninja ZX-4RR",
+        "zh-CN": "Ninja ZX-4RR 四缸仿赛",
+        "zh-TW": "Ninja ZX-4RR 四缸仿賽",
+        "ja": "ニンジャZX-4RR"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "399cc直列四缸高转仿赛，转速可达15000rpm，400cc四缸复活之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:ninja-zx-25r",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Ninja ZX-25R",
+        "zh-CN": "Ninja ZX-25R 四缸250仿赛",
+        "zh-TW": "Ninja ZX-25R 四缸250仿賽",
+        "ja": "ニンジャZX-25R"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "249cc直列四缸高转小排量仿赛，转速可达17000rpm，亚洲市场专属",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:ninja-zx-14r",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Ninja ZX-14R / ZZR1400",
+        "zh-CN": "Ninja ZX-14R 超高速旗舰（停产）",
+        "zh-TW": "Ninja ZX-14R 超高速旗艦（停產）",
+        "ja": "ニンジャZX-14R/ZZR1400"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2023",
+      "note": "1441cc四缸超高速旗舰，曾是最快量产摩托之一，极速超300km/h",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:h2-sx-se",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "H2 SX SE",
+        "zh-CN": "H2 SX SE 机械增压旅行",
+        "zh-TW": "H2 SX SE 機械增壓旅行",
+        "ja": "H2 SX SE"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "998cc机械增压四缸运动旅行车，增压强动力，长途运动兼得",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:versys-x-300",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Versys-X 300",
+        "zh-CN": "Versys-X 300 入门探险",
+        "zh-TW": "Versys-X 300 入門探險",
+        "ja": "バーシスX300"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "296cc并列双缸入门ADV，配边箱支架，低扭平顺，新手长途利器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:kx450",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KX450",
+        "zh-CN": "KX450 场地越野",
+        "zh-TW": "KX450 場地越野",
+        "ja": "KX450"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2006–present",
+      "note": "449cc四冲程场地越野赛车，液压离合+电启动，MXGP冠军血统",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z125-pro",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z125 Pro",
+        "zh-CN": "Z125 Pro 迷你街车",
+        "zh-TW": "Z125 Pro 迷你街車",
+        "ja": "Z125 PRO"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "125cc迷你街车，与Grom同级竞争，12寸小轮，改装玩乐属性强",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:ninja-500",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Ninja 500",
+        "zh-CN": "Ninja 500 入门跑车",
+        "zh-TW": "Ninja 500 入門跑車",
+        "ja": "ニンジャ500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "Ninja 400换代升级，451cc并列双缸，TFT仪表，入门跑车新标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z500",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z500",
+        "zh-CN": "Z500 入门街车",
+        "zh-TW": "Z500 入門街車",
+        "ja": "Z500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "Ninja 500同平台街车版，451cc双缸，Z家族设计语言，新手友好",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:er-6n",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "ER-6n",
+        "zh-CN": "ER-6n 中量级街车（停产）",
+        "zh-TW": "ER-6n 中量級街車（停產）",
+        "ja": "ER-6n"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2016",
+      "note": "649cc并列双缸街车，Z650前身，畅销十年的中量级性价比之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:estrella-250",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Estrella 250",
+        "zh-CN": "Estrella 250 复古街车（停产）",
+        "zh-TW": "Estrella 250 復古街車（停產）",
+        "ja": "エストレヤ250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1992–2008",
+      "note": "249cc风冷单缸复古街车，日本本土长销16年，被称W800小兄弟",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:kx250",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KX250",
+        "zh-CN": "KX250 二冲程场地越野（停产）",
+        "zh-TW": "KX250 二衝程場地越野（停產）",
+        "ja": "KX250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1973–2007",
+      "note": "经典250cc二冲程场地越野赛车，KX系列中量级，07年后转四冲程KX250F",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:kx125",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KX125",
+        "zh-CN": "KX125 二冲程场地越野（停产）",
+        "zh-TW": "KX125 二衝程場地越野（停產）",
+        "ja": "KX125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–2008",
+      "note": "经典125cc二冲程场地越野赛车，轻量化之作，2008年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:kx85",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KX85",
+        "zh-CN": "KX85 青少年场地越野",
+        "zh-TW": "KX85 青少年場地越野",
+        "ja": "KX85"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2001–present",
+      "note": "84cc二冲程青少年场地越野赛车，川崎越野青训代表车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:kx65",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KX65",
+        "zh-CN": "KX65 儿童场地越野",
+        "zh-TW": "KX65 兒童場地越野",
+        "ja": "KX65"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2000–present",
+      "note": "64cc二冲程儿童场地越野入门车，幼童越野启蒙经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:kx250f",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KX250F",
+        "zh-CN": "KX250F 四冲程场地越野（停产）",
+        "zh-TW": "KX250F 四衝程場地越野（停產）",
+        "ja": "KX250F"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004–2018",
+      "note": "250cc四冲程场地越野赛车，2004年取代二冲KX250，2019年并回四冲KX250",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:klx450r",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KLX450R",
+        "zh-CN": "KLX450R 耐力越野（停产）",
+        "zh-TW": "KLX450R 耐力越野（停產）",
+        "ja": "KLX450R"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2013",
+      "note": "449cc水冷单缸耐力越野车，KX450F同平台林道化调校",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:klx250",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KLX250",
+        "zh-CN": "KLX250 林道两用车",
+        "zh-TW": "KLX250 林道兩用車",
+        "ja": "KLX250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1993–present",
+      "note": "249cc水冷单缸林道两用车，1993年诞生至今长销，探险入门经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:klx300r",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KLX300R",
+        "zh-CN": "KLX300R 耐力越野（停产）",
+        "zh-TW": "KLX300R 耐力越野（停產）",
+        "ja": "KLX300R"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2018",
+      "note": "292cc单缸耐力越野车，KLX系列中排量，青少年越野热门",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:klx140",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KLX140",
+        "zh-CN": "KLX140 青少年林道越野",
+        "zh-TW": "KLX140 青少年林道越野",
+        "ja": "KLX140"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2006–present",
+      "note": "144cc单缸青少年林道越野车，低座高易操控",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:klx110",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KLX110",
+        "zh-CN": "KLX110 儿童迷你越野",
+        "zh-TW": "KLX110 兒童迷你越野",
+        "ja": "KLX110"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2002–present",
+      "note": "111cc儿童迷你越野车，自动离合，亲子越野玩乐趣味车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:klx65",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KLX65",
+        "zh-CN": "KLX65 儿童迷你越野",
+        "zh-TW": "KLX65 兒童迷你越野",
+        "ja": "KLX65"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2001–present",
+      "note": "64cc儿童迷你越野车，入门启蒙，结构简单耐用",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:kx450x",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KX450X",
+        "zh-CN": "KX450X 耐力越野",
+        "zh-TW": "KX450X 耐力越野",
+        "ja": "KX450X"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "449cc四冲程越野赛车，KX450场地版越野化，加大油箱强化林道设定",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:klx230r",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KLX230R",
+        "zh-CN": "KLX230R 林道越野",
+        "zh-TW": "KLX230R 林道越野",
+        "ja": "KLX230R"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "232cc风冷单缸林道越野车，KLX230场地版，入门越野可靠之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z1",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z1 900",
+        "zh-CN": "Z1 900 传奇四缸街车（停产）",
+        "zh-TW": "Z1 900 傳奇四缸街車（停產）",
+        "ja": "Z1"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1972–1976",
+      "note": "903cc风冷四缸，1972年问世震惊世界，日系四缸街车始祖，传奇Z系列起点",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:gpz900r",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "GPZ900R (Ninja 900)",
+        "zh-CN": "GPZ900R 忍者开山之作（停产）",
+        "zh-TW": "GPZ900R 忍者開山之作（停產）",
+        "ja": "GPZ900R"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–2003",
+      "note": "908cc水冷四缸，Ninja名号开山之作，首款水冷四气门量产仿赛，电影《壮志凌云》座驾",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:gpz1100",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "GPZ1100",
+        "zh-CN": "GPZ1100 旗舰街车（停产）",
+        "zh-TW": "GPZ1100 旗艦街車（停產）",
+        "ja": "GPZ1100"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1981–1985",
+      "note": "1089cc风冷四缸旗舰街车，80年代川崎性能王，空冷四缸巅峰",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:zx-10-1988",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "ZX-10",
+        "zh-CN": "ZX-10 公升仿赛（停产）",
+        "zh-TW": "ZX-10 公升仿賽（停產）",
+        "ja": "ZX-10"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1988–1990",
+      "note": "997cc水冷四缸仿赛，ZX-10名号初代，公升级性能利器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:zzr1100",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "ZZR1100",
+        "zh-CN": "ZZR1100 高速旗舰（停产）",
+        "zh-TW": "ZZR1100 高速旗艦（停產）",
+        "ja": "ZZR1100"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–2001",
+      "note": "1052cc水冷四缸，90年代初最快量产车，极速超300km/h先驱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:h1-500",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "H1 500 Mach III",
+        "zh-CN": "H1 500 二冲程三缸（停产）",
+        "zh-TW": "H1 500 二衝程三缸（停產）",
+        "ja": "H1 マッハIII"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1969–1972",
+      "note": "499cc二冲程三缸，1969年问世极速超200km/h，震惊全球的暴力机器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:h2-750",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "H2 750 Mach IV",
+        "zh-CN": "H2 750 二冲程三缸（停产）",
+        "zh-TW": "H2 750 二衝程三缸（停產）",
+        "ja": "H2 マッハIV"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1972–1975",
+      "note": "748cc二冲程三缸，H1升级版，750组二冲王者，绰号墓碑",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:w1",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "W1",
+        "zh-CN": "W1 复古并列双缸（停产）",
+        "zh-TW": "W1 復古並列雙缸（停產）",
+        "ja": "W1"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1966–1975",
+      "note": "624cc风冷并列双缸，1966年问世致敬英国车，川崎复古W系列鼻祖",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:w650",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "W650",
+        "zh-CN": "W650 复古街车（停产）",
+        "zh-TW": "W650 復古街車（停產）",
+        "ja": "W650"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1999–2007",
+      "note": "675cc风冷并列双缸复古街车，W800前身，2000年代咖啡复古风潮代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:a1-a7",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "A1 250 / A7 350 (Samurai / Avenger)",
+        "zh-CN": "A1/A7 二冲程双缸街车（停产）",
+        "zh-TW": "A1/A7 二衝程雙缸街車（停產）",
+        "ja": "A1 250/A7 350"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1966–1971",
+      "note": "1966年问世的二冲程并列双缸，A1 250以极致加速征服欧美市场，A7 350为其加大排量版，川崎运动车鼻祖",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z1000-z1r",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z1000 / Z1-R",
+        "zh-CN": "Z1000/Z1-R 公升级四缸街车（停产）",
+        "zh-TW": "Z1000/Z1-R 公升級四缸街車（停產）",
+        "ja": "Z1000/Z1-R"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1977–1981",
+      "note": "Z1后继，1015cc风冷四缸，1978年推出带小整流罩的Z1-R运动版，川崎公升级街车经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z650-1976",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z650 (Z650A)",
+        "zh-CN": "Z650 风冷四缸街车（停产）",
+        "zh-TW": "Z650 風冷四缸街車（停產）",
+        "ja": "Z650"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1976–1983",
+      "note": "652cc风冷四缸街车，1976年问世，Z系列中排量始祖，轻快灵活的畅销经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z750-1977",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z750 (Z750A)",
+        "zh-CN": "Z750 风冷四缸街车（停产）",
+        "zh-TW": "Z750 風冷四缸街車（停產）",
+        "ja": "Z750"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1977–1981",
+      "note": "738cc风冷四缸街车，1977年推出，Z系列750级别奠基之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z400-z500",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z400 / Z500",
+        "zh-CN": "Z400/Z500 风冷四缸街车（停产）",
+        "zh-TW": "Z400/Z500 風冷四缸街車（停產）",
+        "ja": "Z400/Z500"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1979–1983",
+      "note": "398cc/498cc风冷四缸街车，1979年推出，Z系列中小排量代表，四缸小型化的启蒙之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:gpz550",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "GPz550",
+        "zh-CN": "GPz550 运动街车（停产）",
+        "zh-TW": "GPz550 運動街車（停產）",
+        "ja": "GPz550"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1981–1985",
+      "note": "553cc风冷四缸运动街车，1981年推出，GPz名号代表，80年代性能街车标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:gpz750-turbo",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "GPz750 / GPz750 Turbo",
+        "zh-CN": "GPz750/涡轮版 运动街车（停产）",
+        "zh-TW": "GPz750/渦輪版 運動街車（停產）",
+        "ja": "GPz750 / GPz750ターボ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1983–1985",
+      "note": "738cc风冷四缸，1983年推出，同年发布GPz750 Turbo——日本首款量产涡轮增压摩托车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:gpz400r-gpx400r",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "GPZ400R / GPX400R",
+        "zh-CN": "GPZ400R/GPX400R 四缸仿赛（停产）",
+        "zh-TW": "GPZ400R/GPX400R 四缸仿賽（停產）",
+        "ja": "GPZ400R/GPX400R"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–1990",
+      "note": "398cc水冷四缸仿赛，1984年GPZ400R问世，1987年换代GPX400R，80年代日本400cc仿赛大战主力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:zxr400",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "ZXR400",
+        "zh-CN": "ZXR400 四缸仿赛（停产）",
+        "zh-TW": "ZXR400 四缸仿賽（停產）",
+        "ja": "ZXR400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1989–1998",
+      "note": "398cc水冷四缸仿赛，1989年问世，圆形双灯+管状进气道，400cc赛车复刻巅峰之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:zx-7-zxr750",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "ZXR750 / Ninja ZX-7",
+        "zh-CN": "ZXR750/ZX-7 四缸仿赛（停产）",
+        "zh-TW": "ZXR750/ZX-7 四缸仿賽（停產）",
+        "ja": "ZXR750"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1988–2003",
+      "note": "748cc水冷四缸仿赛，1988年ZXR750首发，北美市场称Ninja ZX-7，1996年进化ZX-7R延续至2003年",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:zx-9r",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Ninja ZX-9R",
+        "zh-CN": "ZX-9R 公升仿赛（停产）",
+        "zh-TW": "ZX-9R 公升仿賽（停產）",
+        "ja": "ニンジャZX-9R"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1994–2003",
+      "note": "899cc水冷四缸仿赛，1994年推出，2003年停产前长期担任川崎当家超跑",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:zx-12r",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Ninja ZX-12R",
+        "zh-CN": "ZX-12R 超高速旗舰（停产）",
+        "zh-TW": "ZX-12R 超高速旗艦（停產）",
+        "ja": "ニンジャZX-12R"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2000–2006",
+      "note": "1199cc水冷四缸旗舰，2000年推出，单体车架，极速直逼300km/h，与铃木隼争锋的巅峰之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:zzr600",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "ZZR600",
+        "zh-CN": "ZZR600 运动旅行（停产）",
+        "zh-TW": "ZZR600 運動旅行（停產）",
+        "ja": "ZZ-R600"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–2008",
+      "note": "599cc水冷四缸运动旅行车，1990年推出，ZZ-R家族中量级，长寿热销近20年",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:zephyr",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Zephyr 400 / 550 / 750 / 1100",
+        "zh-CN": "Zephyr 西风 复古街车（停产）",
+        "zh-TW": "Zephyr 西風 復古街車（停產）",
+        "ja": "ゼファー400/550/750/1100"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1989–2005",
+      "note": "1989年Zephyr 400率先问世，掀起日本复古街车热潮，风冷四缸血统，ZRX前身，Zephyr 400延续至2005年",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:s1-s2-s3",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "S1 250 / S2 350 / S3 400 (Mach II)",
+        "zh-CN": "S1/S2/S3 二冲程三缸街车（停产）",
+        "zh-TW": "S1/S2/S3 二衝程三缸街車（停產）",
+        "ja": "S1 250/S2 350/S3 400"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1971–1976",
+      "note": "1971年起推出的二冲程三缸，Mach系列小排量版，暴力加速延续H1/H2传奇",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:kh250-kh400",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KH250 / KH400",
+        "zh-CN": "KH250/KH400 二冲程三缸街车（停产）",
+        "zh-TW": "KH250/KH400 二衝程三缸街車（停產）",
+        "ja": "KH250/KH400"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1976–1982",
+      "note": "1976年推出的二冲程三缸街车，S系列后继，机油自动混合润滑，末代二冲经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:ke100-ke175",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KE100 / KE125 / KE175",
+        "zh-CN": "KE100/125/175 二冲程林道（停产）",
+        "zh-TW": "KE100/125/175 二衝程林道（停產）",
+        "ja": "KE100/KE125/KE175"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1997",
+      "note": "1968年起的长销二冲程单缸林道系列，结构简单耐用，KE100延续至1990年代后期，KE125/175于1980年代中期停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:kdx200-kdx220r",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KDX200 / KDX220R",
+        "zh-CN": "KDX200/220R 二冲程耐力越野（停产）",
+        "zh-TW": "KDX200/220R 二衝程耐力越野（停產）",
+        "ja": "KDX200/KDX220R"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1983–2006",
+      "note": "二冲程单缸耐力越野，KDX200自1983年起长销二十余年，KDX220R于1995年加入，林道越野传奇",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:kmx125-kmx200",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KMX125 / KMX200",
+        "zh-CN": "KMX125/200 二冲程耐力越野（停产）",
+        "zh-TW": "KMX125/200 二衝程耐力越野（停產）",
+        "ja": "KMX125/KMX200"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1986–1998",
+      "note": "二冲程单缸耐力越野，1986年KMX125问世，1991年KMX200加入，川崎80-90年代二冲林道主力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:kr250-kr1",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KR250 / KR-1 / KR-1S",
+        "zh-CN": "KR250/KR-1 二冲程仿赛（停产）",
+        "zh-TW": "KR250/KR-1 二衝程仿賽（停產）",
+        "ja": "KR250 / KR-1 / KR-1S"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–1990",
+      "note": "249cc水冷二冲程双缸仿赛，1984年KR250问世，1988年KR-1以90°V型双缸赛车复刻登场，KR-1S为终极版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:kle500",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KLE500",
+        "zh-CN": "KLE500 中量级探险（停产）",
+        "zh-TW": "KLE500 中量級探險（停產）",
+        "ja": "KLE500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1991–2007",
+      "note": "498cc并列双缸冒险车，1991年推出，前21寸轮+长行程悬挂，川崎中量级ADV先驱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:klr600",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KLR600",
+        "zh-CN": "KLR600 大单缸两用车（停产）",
+        "zh-TW": "KLR600 大單缸兩用車（停產）",
+        "ja": "KLR600"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–1987",
+      "note": "564cc单缸两用车，1984年推出，KLR650直接前身，皮实耐用的林道经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:d-tracker-250",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "D-Tracker 250",
+        "zh-CN": "D-Tracker 250 滑胎越野（停产）",
+        "zh-TW": "D-Tracker 250 滑胎越野（停產）",
+        "ja": "Dトラッカー250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:supermoto",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2009",
+      "note": "KLX250同平台超级摩托，17寸公路轮+倒立前叉，日本本土特供的滑胎风格玩乐车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:vulcan-750-800",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Vulcan 750 / 800",
+        "zh-CN": "Vulcan 火神 750/800 巡航（停产）",
+        "zh-TW": "Vulcan 火神 750/800 巡航（停產）",
+        "ja": "バルカン750/800"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1986–2006",
+      "note": "美式巡航，VN750于1986年推出轴传动V缸，VN800于1995年加入，川崎巡航车中坚力量",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:vulcan-1500-1600-2000",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Vulcan 1500 / 1600 / 2000",
+        "zh-CN": "Vulcan 火神 1500/1600/2000 大巡航（停产）",
+        "zh-TW": "Vulcan 火神 1500/1600/2000 大巡航（停產）",
+        "ja": "バルカン1500/1600/2000"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1987–2010",
+      "note": "V缸大巡航，VN1500于1987年推出，2002年VN1600接棒，2003年旗舰VN2000以2053cc登场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:250tr",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "250TR",
+        "zh-CN": "250TR 复古越野（停产）",
+        "zh-TW": "250TR 復古越野（停產）",
+        "ja": "250TR"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2013",
+      "note": "Estrella同平台风冷单缸250，2002年推出的Scrambler风格复古越野，日本本土小众车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:ninja-1100sx",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Ninja 1100SX / SE",
+        "zh-CN": "Ninja 1100SX 运动旅行（2025款）",
+        "zh-TW": "Ninja 1100SX 運動旅行（2025款）",
+        "ja": "ニンジャ1100SX"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "川崎2025年全新运动旅行车，1099cc直列四缸，取代Ninja 1000SX，2026款更新配色",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:versys-1100",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Versys 1100 / SE",
+        "zh-CN": "Versys 1100 探险车（2025款）",
+        "zh-TW": "Versys 1100 探險車（2025款）",
+        "ja": "バーシス1100"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "川崎2025年全新公升级ADV，1099cc直列四缸，取代Versys 1000，SE版配电子控制悬挂",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z1100",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z1100 / Z1100 SE",
+        "zh-CN": "Z1100 公升级街车（2026款）",
+        "zh-TW": "Z1100 公升級街車（2026款）",
+        "ja": "Z1100"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "川崎2026年全新公升级街车，1099cc直列四缸，基于Ninja 1100SX平台，2025年9月发布",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:w230",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "W230",
+        "zh-CN": "W230 轻量复古街车（2025款）",
+        "zh-TW": "W230 輕量復古街車（2025款）",
+        "ja": "W230"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "川崎2025年全新轻量级复古车，233cc风冷单缸，致敬1965年W1，与KLX230同平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:meguro-s1",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Meguro S1",
+        "zh-CN": "Meguro S1 目黑 复古街车（2025款）",
+        "zh-TW": "Meguro S1 目黑 復古街車（2025款）",
+        "ja": "メグロS1"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "川崎2025年目黑品牌复兴之作，233cc风冷单缸，比W230更精致的轻量复古车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:ninja-7-hybrid",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Ninja 7 Hybrid",
+        "zh-CN": "Ninja 7 Hybrid 混合动力仿赛（2024/2025款）",
+        "zh-TW": "Ninja 7 Hybrid 混合動力仿賽（2024/2025款）",
+        "ja": "ニンジャ7 ハイブリッド"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:hybrid",
+      "status": "current",
+      "years": "2024–present",
+      "note": "川崎首款高性能混合动力摩托车，451cc并列双缸+48V电机，2025年登陆美国市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z7-hybrid",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z7 Hybrid",
+        "zh-CN": "Z7 Hybrid 混合动力街车（2024/2025款）",
+        "zh-TW": "Z7 Hybrid 混合動力街車（2024/2025款）",
+        "ja": "Z7ハイブリッド"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:hybrid",
+      "status": "current",
+      "years": "2024–present",
+      "note": "Ninja 7 Hybrid街车版，451cc双缸+48V电机，e-Boost电子增压功能",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z2-750rs",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z2 (750RS)",
+        "zh-CN": "Z2 750RS 风冷四缸街车（停产）",
+        "zh-TW": "Z2 750RS 風冷四缸街車（停產）",
+        "ja": "Z2 (750RS)"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1973–1975",
+      "note": "日本本土专属Z系列，738cc风冷四缸，Z1的日本国内版，因法规限制排量降至750cc，日版Z系列传奇之始",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z1000-mkii",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z1000 MkII",
+        "zh-CN": "Z1000 MkII 公升级四缸街车（停产）",
+        "zh-TW": "Z1000 MkII 公升級四缸街車（停產）",
+        "ja": "Z1000 MkII"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1977–1979",
+      "note": "Z1000的改进版，1015cc风冷四缸，强化曲轴和变速箱，Z1/Z1000系列的终极进化",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z1000r-eddie-lawson",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z1000R (Eddie Lawson Replica)",
+        "zh-CN": "Z1000R Eddie Lawson纪念版（停产）",
+        "zh-TW": "Z1000R Eddie Lawson紀念版（停產）",
+        "ja": "Z1000R エディ・ローソンレプリカ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–1986",
+      "note": "Eddie Lawson冠军纪念版，998cc风冷四缸，蓝色车身+荧光绿拉花，双圆灯设计，极具收藏价值",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z1100-1981",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z1100",
+        "zh-CN": "Z1100 风冷四缸街车（停产）",
+        "zh-TW": "Z1100 風冷四缸街車（停產）",
+        "ja": "Z1100"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1981–1984",
+      "note": "1089cc风冷四缸，Z系列最大排量风冷车型，SE版配双前碟刹+铸轮，Z1/Z1000血统的排量巅峰",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z1100gp",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z1100GP",
+        "zh-CN": "Z1100GP 运动街车（停产）",
+        "zh-TW": "Z1100GP 運動街車（停產）",
+        "ja": "Z1100GP"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1983–1985",
+      "note": "Z1100的运动版，1089cc风冷四缸，配小风挡和更运动化的悬挂，GPz系列的先驱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:gpz250",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "GPZ250",
+        "zh-CN": "GPZ250 入门跑车（停产）",
+        "zh-TW": "GPZ250 入門跑車（停產）",
+        "ja": "GPZ250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1983–1985",
+      "note": "248cc水冷四缸入门仿赛，GPZ家族最小排量，高转四缸引擎，轻量化车身",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:gpz305",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "GPZ305",
+        "zh-CN": "GPZ305 运动街车（停产）",
+        "zh-TW": "GPZ305 運動街車（停產）",
+        "ja": "GPZ305"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1983–1987",
+      "note": "306cc风冷双缸运动街车，GPZ系中排量入门，欧洲市场热门，配皮带传动后期版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:gpz500s-ex500",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "GPZ500S / EX500",
+        "zh-CN": "GPZ500S/EX500 中量跑车（停产）",
+        "zh-TW": "GPZ500S/EX500 中量跑車（停產）",
+        "ja": "GPZ500S"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1987–1994",
+      "note": "498cc水冷并列双缸中量跑车，北美称EX500，Ninja 500前身，畅销近十年，入门运动车的经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:gpz600r",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "GPZ600R",
+        "zh-CN": "GPZ600R 中量仿赛（停产）",
+        "zh-TW": "GPZ600R 中量仿賽（停產）",
+        "ja": "GPZ600R"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1985–1990",
+      "note": "592cc水冷四缸中量仿赛，GPZ家族中量级，Ninja 600R前身，全整流罩运动设计",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:gpz750r",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "GPZ750R",
+        "zh-CN": "GPZ750R 四缸仿赛（停产）",
+        "zh-TW": "GPZ750R 四缸仿賽（停產）",
+        "ja": "GPZ750R"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1987–1990",
+      "note": "738cc水冷四缸仿赛，限量生产，GPZ家族750cc运动旗舰，配全整流罩和铝框",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:gpz1000rx",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "GPZ1000RX",
+        "zh-CN": "GPZ1000RX 公升仿赛（停产）",
+        "zh-TW": "GPZ1000RX 公升仿賽（停產）",
+        "ja": "GPZ1000RX"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1985–1987",
+      "note": "997cc水冷四缸公升级仿赛，GPZ家族旗舰，铝制双翼梁车架，Ninja ZX-10的直接前身",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:zx-14",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Ninja ZX-14",
+        "zh-CN": "Ninja ZX-14 超高速旗舰（停产）",
+        "zh-TW": "Ninja ZX-14 超高速旗艦（停產）",
+        "ja": "ニンジャZX-14"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2011",
+      "note": "1352cc水冷四缸超高速旗舰，接替ZX-12R，2006年推出，2012年升级为ZX-14R（1441cc）",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:zzr250",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "ZZR250",
+        "zh-CN": "ZZR250 运动旅行（停产）",
+        "zh-TW": "ZZR250 運動旅行（停產）",
+        "ja": "ZZ-R250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1988–1997",
+      "note": "248cc水冷四缸运动旅行车，ZZR家族最小排量，高转速四缸引擎，日本/澳洲市场专属",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:zzr400",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "ZZR400",
+        "zh-CN": "ZZR400 运动旅行（停产）",
+        "zh-TW": "ZZR400 運動旅行（停產）",
+        "ja": "ZZ-R400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–2005",
+      "note": "398cc水冷四缸运动旅行车，ZZR400于1990年推出，日本本土400cc市场长销经典，四缸高转声浪迷人",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:zzr1200",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "ZZR1200",
+        "zh-CN": "ZZR1200 高速运动旅行（停产）",
+        "zh-TW": "ZZR1200 高速運動旅行（停產）",
+        "ja": "ZZ-R1200"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2006",
+      "note": "1164cc水冷四缸高速运动旅行车，ZZR1100后继，轴传动+铝制车架，极速超280km/h",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:kz1000",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KZ1000",
+        "zh-CN": "KZ1000 风冷四缸街车（停产）",
+        "zh-TW": "KZ1000 風冷四缸街車（停產）",
+        "ja": "KZ1000"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1977–1983",
+      "note": "Z1000的北美市场名，1015cc风冷四缸，含KZ1000 Police警用版和KZ1000E舒适版，北美Z系列销售主力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:w2",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "W2 (650SS)",
+        "zh-CN": "W2 650SS 并列双缸街车（停产）",
+        "zh-TW": "W2 650SS 並列雙缸街車（停產）",
+        "ja": "W2 (650SS)"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1971",
+      "note": "W1的升级版，624cc风冷并列双缸，电启动标配，W系列从英国车模仿到自主进化的关键一步",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:en450",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "EN450",
+        "zh-CN": "EN450 巡航车（停产）",
+        "zh-TW": "EN450 巡航車（停產）",
+        "ja": "EN450"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1985–1990",
+      "note": "454cc并列双缸入门巡航车，Vulcan系列前身，低座高美式风格，川崎巡航车初代之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:en500",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "EN500",
+        "zh-CN": "EN500 巡航车（停产）",
+        "zh-TW": "EN500 巡航車（停產）",
+        "ja": "EN500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–1999",
+      "note": "498cc并列双缸巡航车，EN450的后继升级，Vulcan 500名号在北美销售，中量级巡航代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:vulcan-1700",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Vulcan 1700",
+        "zh-CN": "Vulcan 1700 大巡航（停产）",
+        "zh-TW": "Vulcan 1700 大巡航（停產）",
+        "ja": "バルカン1700"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2016",
+      "note": "1700cc V型双缸大巡航，含经典/旅行/定制版，VN2000后继，川崎末代V缸大排量巡航",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:vulcan-drifter-800",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Vulcan Drifter 800",
+        "zh-CN": "Vulcan Drifter 800 复古巡航（停产）",
+        "zh-TW": "Vulcan Drifter 800 復古巡航（停產）",
+        "ja": "バルカンドリフター800"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1999–2001",
+      "note": "805cc V型双缸复古巡航，致敬1940年代Indian Scout风格，全车镀铬+复古大灯，情怀之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:vulcan-drifter-1500",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Vulcan Drifter 1500",
+        "zh-CN": "Vulcan Drifter 1500 大复古巡航（停产）",
+        "zh-TW": "Vulcan Drifter 1500 大復古巡航（停產）",
+        "ja": "バルカンドリフター1500"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1999–2003",
+      "note": "1470cc V型双缸大排量复古巡航，Drifter 800的大哥级，Indian Scout复古风格，美式巡航复古潮流代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:vulcan-mean-streak",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Vulcan Mean Streak",
+        "zh-CN": "Vulcan Mean Streak 运动巡航（停产）",
+        "zh-TW": "Vulcan Mean Streak 運動巡航（停產）",
+        "ja": "バルカンミーンストリーク"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2008",
+      "note": "Vulcan 1500/1600为基础的运动巡航车，V缸大排量+运动化悬挂/刹车/轮胎，美式性能巡航先驱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:kx500",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KX500",
+        "zh-CN": "KX500 大单缸二冲程场地越野（停产）",
+        "zh-TW": "KX500 大單缸二衝程場地越野（停產）",
+        "ja": "KX500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1983–2004",
+      "note": "499cc二冲程单缸赛车，有史以来最强大的量产场地越野车之一，粗犷暴力，至今仍是越野迷心中的传奇",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:kx100",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KX100",
+        "zh-CN": "KX100 青少年场地越野",
+        "zh-TW": "KX100 青少年場地越野",
+        "ja": "KX100"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1994–present",
+      "note": "99cc二冲程青少年场地越野，KX85的升级版，大轮圈+更强动力，青少年越野进阶首选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:kx450f",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KX450F",
+        "zh-CN": "KX450F 四冲程场地越野（停产）",
+        "zh-TW": "KX450F 四衝程場地越野（停產）",
+        "ja": "KX450F"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2017",
+      "note": "449cc四冲程场地越野赛车，KX450的F命名初代，2019年去F简化为KX450，川崎四冲越野旗舰",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:kdx250",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KDX250",
+        "zh-CN": "KDX250 二冲程耐力越野（停产）",
+        "zh-TW": "KDX250 二衝程耐力越野（停產）",
+        "ja": "KDX250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1980–1995",
+      "note": "249cc二冲程单缸耐力越野，KDX系列中排量主力，长销十五年，林道越野一代经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:ke250",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KE250",
+        "zh-CN": "KE250 二冲程林道越野（停产）",
+        "zh-TW": "KE250 二衝程林道越野（停產）",
+        "ja": "KE250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1978–1983",
+      "note": "246cc二冲程单缸林道越野，KE系列最大排量，大单缸充沛扭矩，入门林道穿越利器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:ar50-ar80",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "AR50 / AR80",
+        "zh-CN": "AR50/AR80 二冲程小跑车（停产）",
+        "zh-TW": "AR50/AR80 二衝程小跑車（停產）",
+        "ja": "AR50/AR80"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1982–1990",
+      "note": "49cc/79cc二冲程单缸迷你运动车，全整流罩小跑车设计，欧洲/日本青少年入门首选，轻量有趣",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:kl250",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KL250",
+        "zh-CN": "KL250 单缸两用车（停产）",
+        "zh-TW": "KL250 單缸兩用車（停產）",
+        "ja": "KL250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1980–1998",
+      "note": "249cc风冷/水冷单缸两用车，KL系列鼻祖，1980年推出，KLR250/SUPER SHERPA的前身",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:super-sherpa",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Super Sherpa (KL250)",
+        "zh-CN": "Super Sherpa KL250 林道两用车（停产）",
+        "zh-TW": "Super Sherpa KL250 林道兩用車（停產）",
+        "ja": "スーパーシェルパ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2004",
+      "note": "249cc风冷单缸林道两用车，低座高+窄车身，操控轻巧，山区探险/乡村通勤的可靠伙伴",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:klr250",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KLR250",
+        "zh-CN": "KLR250 小单缸两用车（停产）",
+        "zh-TW": "KLR250 小單缸兩用車（停產）",
+        "ja": "KLR250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–2005",
+      "note": "249cc水冷单缸两用车，KLR650的小兄弟，轻量灵活，自1984年长销二十余年，入门探险经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:zrx400",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "ZRX400",
+        "zh-CN": "ZRX400 复古四缸街车（停产）",
+        "zh-TW": "ZRX400 復古四缸街車（停產）",
+        "ja": "ZRX400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1993–2008",
+      "note": "399cc水冷四缸复古街车，ZRX家族日本本土400cc版本，Zephyr后继，大ZRX的缩小版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:estrella-350",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Estrella 350",
+        "zh-CN": "Estrella 350 复古街车（停产）",
+        "zh-TW": "Estrella 350 復古街車（停產）",
+        "ja": "エストレヤ350"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1996–1999",
+      "note": "348cc风冷单缸复古街车，Estrella 250的大排量版，仅在日本市场销售，生产周期较短",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:klx125",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "KLX125",
+        "zh-CN": "KLX125 林道越野（停产）",
+        "zh-TW": "KLX125 林道越野（停產）",
+        "ja": "KLX125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2000–2008",
+      "note": "124cc风冷单缸林道越野，KLX入门级，轻量车架+长行程悬挂，青少年林道启蒙车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:er-5",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "ER-5",
+        "zh-CN": "ER-5 中量级街车（停产）",
+        "zh-TW": "ER-5 中量級街車（停產）",
+        "ja": "ER-5"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1989–2006",
+      "note": "498cc水冷并列双缸街车，欧洲市场热销，圆灯复古造型，ER-6n的前身，长销17年",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:er-6f",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "ER-6f",
+        "zh-CN": "ER-6f 中量运动旅行（停产）",
+        "zh-TW": "ER-6f 中量運動旅行（停產）",
+        "ja": "ER-6f"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2016",
+      "note": "ER-6n的带整流罩版，649cc并列双缸，Ninja 650的前身，欧洲中量级运动旅行畅销车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z300",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z300",
+        "zh-CN": "Z300 小排量街车（停产）",
+        "zh-TW": "Z300 小排量街車（停產）",
+        "ja": "Z300"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2018",
+      "note": "296cc并列双缸小排量街车，Ninja 300同平台，Z250的排量升级版，Z家族入门级",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z800",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z800",
+        "zh-CN": "Z800 中量级四缸街车（停产）",
+        "zh-TW": "Z800 中量級四缸街車（停產）",
+        "ja": "Z800"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2017",
+      "note": "806cc水冷四缸街车，Z750的后继者，Z900的前身，凶悍的Z家族设计语言开山之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kawasaki:z1000-2003",
+      "brand": "Kawasaki",
+      "names": {
+        "en": "Z1000 (2003–2020)",
+        "zh-CN": "Z1000 现代四缸街车（停产）",
+        "zh-TW": "Z1000 現代四缸街車（停產）",
+        "ja": "Z1000"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2020",
+      "note": "953cc水冷四缸现代街车，2003年以Z1000之名复活，2014年大改款激进设计，2020年Z900接替，Z家族现代旗舰",
+      "verified": "verified"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "models": [
+    {
+      "id": "model:lambretta:v-special-125",
+      "brand": "Lambretta",
+      "names": {
+        "en": "V-Special 125",
+        "zh-CN": "V-Special 125 复古踏板车",
+        "zh-TW": "V-Special 125 復古踏板車",
+        "ja": "Vスペシャル125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "Lambretta品牌复兴后的首款车型，125cc复古踏板，保留经典镀铬与金属面板造型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lambretta:x300",
+      "brand": "Lambretta",
+      "names": {
+        "en": "X300",
+        "zh-CN": "X300 复古大踏板",
+        "zh-TW": "X300 復古大踏板",
+        "ja": "X300"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "276cc单缸踏板车，在印度与意大利同步生产，将经典Lambretta线条与现代动力结合",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lambretta:g325",
+      "brand": "Lambretta",
+      "names": {
+        "en": "G325",
+        "zh-CN": "G325 高端复古踏板车",
+        "zh-TW": "G325 高端復古踏板車",
+        "ja": "G325"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "325cc水冷单缸旗舰踏板，复古设计与现代配置结合，Lambretta复兴系列的高端型号",
+      "verified": "verified"
+    }
+  ]
+}

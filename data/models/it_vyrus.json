@@ -1,0 +1,38 @@
+{
+  "models": [
+    {
+      "id": "model:vyrus:987-c3-4v",
+      "brand": "Vyrus",
+      "names": {
+        "en": "987 C3 4V",
+        "zh-CN": "987 C3 4V 轮毂转向仿赛",
+        "zh-TW": "987 C3 4V 輪轂轉向仿賽",
+        "ja": "987 C3 4V"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "搭载杜卡迪1198/1299发动机，轮毂中心转向设计的定制级手工仿赛，限量生产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:vyrus:986-m2",
+      "brand": "Vyrus",
+      "names": {
+        "en": "986 M2",
+        "zh-CN": "986 M2 轮毂转向仿赛（停产）",
+        "zh-TW": "986 M2 輪轂轉向仿賽（停產）",
+        "ja": "986 M2"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2014",
+      "note": "搭载杜卡迪1098发动机，Vyrus早期轮毂中心转向量产车型，奠定品牌独特技术路线",
+      "verified": "verified"
+    }
+  ]
+}

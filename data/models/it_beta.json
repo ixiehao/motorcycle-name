@@ -1,0 +1,72 @@
+{
+  "models": [
+    {
+      "id": "model:beta:rr-300",
+      "brand": "Beta",
+      "names": {
+        "en": "RR 300",
+        "zh-CN": "RR 300 耐力越野车",
+        "zh-TW": "RR 300 耐力越野車",
+        "ja": "RR300"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "293cc二冲程耐力越野车，Beta RR系列主力型号，多次斩获世界耐力锦标赛冠军",
+      "verified": "verified"
+    },
+    {
+      "id": "model:beta:evo-300",
+      "brand": "Beta",
+      "names": {
+        "en": "EVO 300",
+        "zh-CN": "EVO 300 试验摩托",
+        "zh-TW": "EVO 300 試驗摩托",
+        "ja": "EVO300"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2011–present",
+      "note": "298cc二冲程试验摩托车(trials)，世界试验锦标赛常胜车型，以轻盈操控著称",
+      "verified": "verified"
+    },
+    {
+      "id": "model:beta:xtrainer-300",
+      "brand": "Beta",
+      "names": {
+        "en": "Xtrainer 300",
+        "zh-CN": "Xtrainer 300 林道越野车",
+        "zh-TW": "Xtrainer 300 林道越野車",
+        "ja": "エクストレーナー300"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "293cc二冲程林道车，比RR更亲民易控，坐高低、动力平顺，面向休闲越野玩家",
+      "verified": "verified"
+    },
+    {
+      "id": "model:beta:alp-4.0",
+      "brand": "Beta",
+      "names": {
+        "en": "Alp 4.0",
+        "zh-CN": "Alp 4.0 多功能越野车",
+        "zh-TW": "Alp 4.0 多功能越野車",
+        "ja": "アルプ4.0"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "349cc四冲程单缸多功能越野车，复古造型，公路与轻越野兼顾，致敬经典Alp系列",
+      "verified": "verified"
+    }
+  ]
+}

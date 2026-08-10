@@ -1,0 +1,344 @@
+{
+  "models": [
+    {
+      "id": "model:cz:cz-500",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ 500",
+        "zh-CN": "CZ 500 战前并列双缸旅行车",
+        "zh-TW": "CZ 500 戰前並列雙缸旅行車",
+        "ja": "CZ 500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1938–1941",
+      "note": "捷克兵工厂CZ战前旗舰车型，约494cc风冷并列双缸，1938–1941年生产，可搭配边车，为捷克斯洛伐克战前最大排量摩托车之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cz:cz-350-tourist",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ 350 Tourist",
+        "zh-CN": "CZ 350 战前单缸旅行车",
+        "zh-TW": "CZ 350 戰前單缸旅行車",
+        "ja": "CZ 350 ツーリスト"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1938–1939",
+      "note": "战前CZ 350cc二冲程单缸旅行车，75×78mm缸径行程，底盘沿用250 Tourist，车重与振动较大，产量有限",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cz:cz-250-sport",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ 250 Sport",
+        "zh-CN": "CZ 250 战前运动街车",
+        "zh-TW": "CZ 250 戰前運動街車",
+        "ja": "CZ 250 スポーツ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1937–1946",
+      "note": "战前CZ 250cc二冲程单缸运动街车，较250 Tourist减重约20公斤，双排气管，极速约100km/h",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cz:cz-175-special",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ 175 Special",
+        "zh-CN": "CZ 175 战前经典街车",
+        "zh-TW": "CZ 175 戰前經典街車",
+        "ja": "CZ 175 スペシャル"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1937–1939",
+      "note": "战前CZ 175cc二冲程单缸街车的高配版本，基于1935年推出的175平台发展而来，镀铬装饰丰富",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cz:cz-125",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ 125",
+        "zh-CN": "CZ 125 二冲程单缸街车",
+        "zh-TW": "CZ 125 二衝程單缸街車",
+        "ja": "CZ 125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1946–1953",
+      "note": "战后早期CZ 125cc二冲程单缸街车，涵盖A、B、T、C多个型号，123cc风冷发动机，以轻便耐用著称",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cz:cz-150",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ 150",
+        "zh-CN": "CZ 150 二冲程单缸街车",
+        "zh-TW": "CZ 150 二衝程單缸街車",
+        "ja": "CZ 150"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1950–1953",
+      "note": "在125基础上加大缸径的150cc二冲程单缸街车，功率约4.6kW，为战后捷克轻型摩托车经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cz:cezeta",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ Čezeta",
+        "zh-CN": "CZ 501/502 经典踏板车",
+        "zh-TW": "CZ 501/502 經典踏板車",
+        "ja": "CZ チェゼタ"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1957–1963",
+      "note": "CZ Strakonice出品的传奇踏板车（501/502型），搭载175cc二冲程风冷发动机，被称作东欧的维斯帕，畅销东欧、越南与古巴",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cz:cz-125-453",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ 125 Type 453",
+        "zh-CN": "CZ 125（453型）二冲程单缸街车",
+        "zh-TW": "CZ 125（453型）二衝程單缸街車",
+        "ja": "CZ 125 タイプ453"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1961–1969",
+      "note": "1960年代CZ 125cc二冲程单缸街车（453型及473 Sport型），源自国家系列，圆形钢管车架，主要供应东欧市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cz:cz-175-450",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ 175 Type 450",
+        "zh-CN": "CZ 175（450型）二冲程单缸街车",
+        "zh-TW": "CZ 175（450型）二衝程單缸街車",
+        "ja": "CZ 175 タイプ450"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1959–1968",
+      "note": "1960年代CZ 175cc二冲程单缸街车（450型及470 Sport型），基于国家系列改进，单排气管，功率约10马力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cz:cz-250-455",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ 250 Type 455",
+        "zh-CN": "CZ 250（455型）二冲程单缸街车",
+        "zh-TW": "CZ 250（455型）二衝程單缸街車",
+        "ja": "CZ 250 タイプ455"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1961–1965",
+      "note": "1960年代CZ 250cc二冲程单缸街车（455型及475 Sport型），246cc发动机，比同排量Jawa更轻快，极速约115km/h",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cz:cz-175-477",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ 175 Type 477",
+        "zh-CN": "CZ 175（477型）二冲程单缸街车",
+        "zh-TW": "CZ 175（477型）二衝程單缸街車",
+        "ja": "CZ 175 タイプ477"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1977",
+      "note": "1960年代末推出的CZ 175cc二冲程单缸街车（477型），外观趋近日系风格，1976年单年产量超过一万五千辆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cz:cz-250-471",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ 250 Type 471",
+        "zh-CN": "CZ 250（471型）二冲程双缸街车",
+        "zh-TW": "CZ 250（471型）二衝程雙缸街車",
+        "ja": "CZ 250 タイプ471"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–1978",
+      "note": "1970年代CZ 250cc二冲程并列双缸街车（471型），搭载Jawa双缸发动机，功率约17马力，英国市场另有Custom改装版本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cz:cz-350-472",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ 350 Type 472",
+        "zh-CN": "CZ 350（472型）二冲程双缸街车",
+        "zh-TW": "CZ 350（472型）二衝程雙缸街車",
+        "ja": "CZ 350 タイプ472"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1976–1993",
+      "note": "CZ最经典的二冲程双缸街车（472型），343cc风冷并列双缸，主要出口苏联及东欧市场，生产周期长达17年",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cz:cz-250-motocross",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ 250 Motocross",
+        "zh-CN": "CZ 250 场地越野",
+        "zh-TW": "CZ 250 場地越野",
+        "ja": "CZ 250 モトクロス"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1964–1977",
+      "note": "CZ经典二冲程越野赛车（968/980型），246cc单缸，1960年代Joël Robert等车手驾驶CZ多次夺得250cc世界越野锦标赛冠军",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cz:cz-400-motocross",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ 400 Motocross",
+        "zh-CN": "CZ 400 场地越野",
+        "zh-TW": "CZ 400 場地越野",
+        "ja": "CZ 400 モトクロス"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–1983",
+      "note": "CZ大排量二冲程越野赛车，实际排量380cc（981/514型）以400名义出口，动力强劲，为1970年代欧洲越野主力车型之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cz:cz-125-motocross",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ 125 Motocross",
+        "zh-CN": "CZ 125 场地越野",
+        "zh-TW": "CZ 125 場地越野",
+        "ja": "CZ 125 モトクロス"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–1982",
+      "note": "CZ 125cc二冲程单缸越野赛车（984/511型），风冷发动机，为青少年及新手组别的主力战车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cz:cz-250-enduro",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ 250 Enduro",
+        "zh-CN": "CZ 250 耐力越野",
+        "zh-TW": "CZ 250 耐力越野",
+        "ja": "CZ 250 エンデューロ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1972–1977",
+      "note": "CZ 250cc二冲程耐力越野车（980.7型），由场地越野赛车加装灯具改装而来，在国际六日赛（ISDT）等耐力赛事中屡获佳绩",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cz:cz-400-enduro",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ 400 Enduro",
+        "zh-CN": "CZ 400 耐力越野",
+        "zh-TW": "CZ 400 耐力越野",
+        "ja": "CZ 400 エンデューロ"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–1979",
+      "note": "CZ 380cc二冲程耐力越野车，在981型场地越野赛车基础上加装灯具与民用装备，主要出口欧美市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cz:cz-175-trail",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ 175 Trail",
+        "zh-CN": "CZ 175 林道越野",
+        "zh-TW": "CZ 175 林道越野",
+        "ja": "CZ 175 トレール"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1971–1977",
+      "note": "CZ 175cc二冲程林道/耐力越野车（482型），约15马力，配备21英寸前轮，主要出口西欧与北美市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cz:cz-250-motocross-520",
+      "brand": "CZ",
+      "names": {
+        "en": "CZ 250 Motocross Type 520",
+        "zh-CN": "CZ 250 场地越野（520型）",
+        "zh-TW": "CZ 250 場地越野（520型）",
+        "ja": "CZ 250 モトクロス タイプ520"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1988–1989",
+      "note": "1980年代末CZ最后的250cc二冲程越野赛车（520型），为经典CZ越野车系的谢幕之作",
+      "verified": "verified"
+    }
+  ]
+}

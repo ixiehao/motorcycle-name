@@ -1,0 +1,106 @@
+{
+  "models": [
+    {
+      "id": "model:tayo:tanluzhe-300",
+      "brand": "Tayo",
+      "names": {
+        "en": "Tanluzhe TR300T",
+        "zh-CN": "探路者TR300T 大踏板",
+        "zh-TW": "探路者TR300T 大踏板",
+        "ja": "タンルーザーTR300T"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "台荣探路者TR300T，300cc大踏板，最大功率19kW，国内首款300cc大踏板，主打高性价比",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tayo:rong-250",
+      "brand": "Tayo",
+      "names": {
+        "en": "Rong 250",
+        "zh-CN": "荣250 大踏板",
+        "zh-TW": "榮250 大踏板",
+        "ja": "ロン250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "台荣荣250（XSUV-250），250cc大踏板，2024年5月上市，以高性价比成为台荣翻身的畅销车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tayo:rong-150",
+      "brand": "Tayo",
+      "names": {
+        "en": "Rong 150",
+        "zh-CN": "荣150 踏板车",
+        "zh-TW": "榮150 踏板車",
+        "ja": "ロン150"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "台荣荣150，150cc踏板车，ABS+TCS+投屏仪表配置丰富，聘请国外设计团队打造外观",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tayo:yao-150gs",
+      "brand": "Tayo",
+      "names": {
+        "en": "Yao 150GS",
+        "zh-CN": "耀150GS 踏板车",
+        "zh-TW": "耀150GS 踏板車",
+        "ja": "ヤオ150GS"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "台荣耀150GS，150cc硬核风格踏板，2025年3月发布，主打跨界运动造型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tayo:kaituozhe-400",
+      "brand": "Tayo",
+      "names": {
+        "en": "Kaituozhe 400",
+        "zh-CN": "开拓者400 大踏板",
+        "zh-TW": "開拓者400 大踏板",
+        "ja": "カイトゥージャ400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "台荣开拓者400，400cc大排量踏板，台荣冲击中量级踏板市场的旗舰车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tayo:d03-xadv",
+      "brand": "Tayo",
+      "names": {
+        "en": "D03 XADV",
+        "zh-CN": "D03 XADV 跨界踏板",
+        "zh-TW": "D03 XADV 跨界踏板",
+        "ja": "D03 XADV"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "台荣D03 XADV，150cc ADV风格跨界踏板，长行程悬挂加越野风格造型",
+      "verified": "verified"
+    }
+  ]
+}

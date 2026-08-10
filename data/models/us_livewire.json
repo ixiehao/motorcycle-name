@@ -1,0 +1,55 @@
+{
+  "models": [
+    {
+      "id": "model:livewire:one",
+      "brand": "LiveWire",
+      "names": {
+        "en": "LiveWire One",
+        "zh-CN": "LiveWire One 电动街车",
+        "zh-TW": "LiveWire One 電動街車",
+        "ja": "ライブワイヤーワン"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "源自哈雷电动实验车型，约100马力纯电街车，续航约235公里，15.4kWh电池",
+      "verified": "verified"
+    },
+    {
+      "id": "model:livewire:del-mar",
+      "brand": "LiveWire",
+      "names": {
+        "en": "Del Mar",
+        "zh-CN": "Del Mar 电动街车",
+        "zh-TW": "Del Mar 電動街車",
+        "ja": "デルマー"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "约84马力纯电街车，Arrow中置电机平台首款车型，轻量运动化设计",
+      "verified": "verified"
+    },
+    {
+      "id": "model:livewire:s2-mulholland",
+      "brand": "LiveWire",
+      "names": {
+        "en": "S2 Mulholland",
+        "zh-CN": "S2 Mulholland 电动街车",
+        "zh-TW": "S2 Mulholland 電動街車",
+        "ja": "S2ムルホランド"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "约84马力纯电街车，Del Mar同平台衍生，命名致敬洛杉矶Mulholland公路，轻量化车身",
+      "verified": "verified"
+    }
+  ]
+}

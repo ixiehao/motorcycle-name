@@ -1,0 +1,55 @@
+{
+  "models": [
+    {
+      "id": "model:rieju:mr300",
+      "brand": "Rieju",
+      "names": {
+        "en": "MR300",
+        "zh-CN": "MR300 耐力越野车",
+        "zh-TW": "MR300 耐力越野車",
+        "ja": "MR300"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "300cc二冲程耐力越野车，Rieju重返专业enduro市场的主力车型，面向竞技与林道用户",
+      "verified": "verified"
+    },
+    {
+      "id": "model:rieju:tango-125",
+      "brand": "Rieju",
+      "names": {
+        "en": "Tango 125",
+        "zh-CN": "Tango 125 都市街车",
+        "zh-TW": "Tango 125 都市街車",
+        "ja": "タンゴ125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "125cc单缸都市街车，搭载雅马哈/Yamaha系发动机，现代简约造型，面向欧洲A1驾照骑士",
+      "verified": "verified"
+    },
+    {
+      "id": "model:rieju:marathon-300",
+      "brand": "Rieju",
+      "names": {
+        "en": "Marathon 300",
+        "zh-CN": "Marathon 300 试验摩托",
+        "zh-TW": "Marathon 300 試驗摩托",
+        "ja": "マラソン300"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "300cc二冲程试验摩托车(trials)，延续Rieju马拉松系列传统，竞技试验赛场常客",
+      "verified": "verified"
+    }
+  ]
+}

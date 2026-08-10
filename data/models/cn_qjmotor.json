@@ -1,0 +1,429 @@
+{
+  "models": [
+    {
+      "id": "model:qjmotor:srk600",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "SRK 600 (Sai 600)",
+        "zh-CN": "赛600 四缸仿赛",
+        "zh-TW": "賽600 四缸仿賽",
+        "ja": "SRK 600"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "钱江QJMOTOR旗舰四缸仿赛，600cc并列四缸水冷，国产四缸跑车代表，声浪浑厚",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:sai450",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "SRK 450 (Sai 450)",
+        "zh-CN": "赛450 中量级仿赛",
+        "zh-TW": "賽450 中量級仿賽",
+        "ja": "SRK 450"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "QJMOTOR赛系列中量级仿赛，450cc并列双缸，270度曲轴，赛事化外观，主打运动性能",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:sai550",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "SRK 550 (Sai 550)",
+        "zh-CN": "赛550 运动仿赛",
+        "zh-TW": "賽550 運動仿賽",
+        "ja": "SRK 550"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "QJMOTOR赛系列550cc并列双缸仿赛，高转动力充沛，配置倒置前叉与径向卡钳",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:zhui600",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "SRK 600 Street (Zhui 600)",
+        "zh-CN": "追600 四缸街车",
+        "zh-TW": "追600 四缸街車",
+        "ja": "SRK 600 Street"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "QJMOTOR追系列四缸街车，600cc并列四缸，贝纳利TNT600同平台，国产四缸街车元老",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:zhui350",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "SRK 350 (Zhui 350)",
+        "zh-CN": "追350 运动街车",
+        "zh-TW": "追350 運動街車",
+        "ja": "SRK 350"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "QJMOTOR追系列353cc并列双缸街车，高颜值外观，配置丰富，国产中量级街车热门款",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:shan300s",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "SRV 300 (Shan 300S)",
+        "zh-CN": "闪300S 巡航车",
+        "zh-TW": "閃300S 巡航車",
+        "ja": "SRV 300"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "QJMOTOR闪系列296cc V型双缸巡航，美式Bobber风格，小排量巡航销量冠军",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:shan350",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "SRV 350 (Shan 350)",
+        "zh-CN": "闪350 复古巡航",
+        "zh-TW": "閃350 復古巡航",
+        "ja": "SRV 350"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "QJMOTOR闪系列343cc V型双缸巡航，圆灯圆表复古造型，皮带传动高配版可选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:shan600",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "SRV 600 (Shan 600)",
+        "zh-CN": "闪600 巡航车",
+        "zh-TW": "閃600 巡航車",
+        "ja": "SRV 600"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "QJMOTOR闪系列561cc V型双缸巡航，肌肉感外观，轴传动，国产中大排量巡航新贵",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:xiao600",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "SVT 600 (Xiao 600)",
+        "zh-CN": "骁600 探险车",
+        "zh-TW": "驍600 探險車",
+        "ja": "SVT 600"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "QJMOTOR骁系列554cc并列双缸ADV，原厂三箱，长行程悬挂，面向长途摩旅市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:xiao750",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "SVT 750 (Xiao 750)",
+        "zh-CN": "骁750 探险车",
+        "zh-TW": "驍750 探險車",
+        "ja": "SVT 750"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "QJMOTOR骁系列749cc并列双缸ADV，贝纳利752S同平台，国产中排量ADV主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:hong150",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "Hong 150",
+        "zh-CN": "鸿150 水冷踏板",
+        "zh-TW": "鴻150 水冷踏板",
+        "ja": "Hong 150"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "QJMOTOR鸿系列149cc单缸水冷踏板，ADV跨界造型，TCS+ABS，城市通勤新选择",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:hong125",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "Hong 125",
+        "zh-CN": "鸿125 通勤踏板",
+        "zh-TW": "鴻125 通勤踏板",
+        "ja": "Hong 125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "QJMOTOR鸿系列125cc通勤踏板，LED灯光，智能无钥匙启动，主打年轻化代步市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:yi550",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "Yi 550",
+        "zh-CN": "逸550 复古攀爬",
+        "zh-TW": "逸550 復古攀爬",
+        "ja": "Yi 550"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "QJMOTOR逸系列550cc并列双缸复古车，圆灯圆表咖啡风格，高位排气攀爬元素，复古爱好者之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:yi250",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "Yi 250",
+        "zh-CN": "壹250 复古街车",
+        "zh-TW": "壹250 復古街車",
+        "ja": "Yi 250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "QJMOTOR壹系列250cc单缸复古车，复古圆形大灯与镀铬元素，入门复古街车高性价比选择",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:zhui921",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "SRK 921 (Zhui 921)",
+        "zh-CN": "追921 准公升级街车",
+        "zh-TW": "追921 準公升級街車",
+        "ja": "ツイ921"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "QJMOTOR 2025年9月中国摩博会上市的准公升级四缸街车，921cc并列四缸，最大功率95kW，配双向快排，追系列旗舰车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:sai550es",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "SRK 550 (Sai 550 ES)",
+        "zh-CN": "赛550ES 仿赛（2026款）",
+        "zh-TW": "賽550ES 仿賽（2026款）",
+        "ja": "サイ550ES"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "QJMOTOR 2026款中量级仿赛，549cc并列双缸，升级电子油门、双向快排与定速巡航，售价24999元",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:hong250adv",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "Hong 250 ADV",
+        "zh-CN": "鸿250ADV 跨界踏板（2025款）",
+        "zh-TW": "鴻250ADV 跨界踏板（2025款）",
+        "ja": "ホン250ADV"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "QJMOTOR 2025款跨界踏板，250cc水冷单缸，机甲风格外观，全地形胎加TCS，售价15999元",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:hong250adv-x",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "Hong 250 ADV-X",
+        "zh-CN": "鸿250ADV-X 硬核跨界踏板（2025款）",
+        "zh-TW": "鴻250ADV-X 硬核跨界踏板（2025款）",
+        "ja": "ホン250ADV-X"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "QJMOTOR 2025款硬核跨界踏板，250cc水冷，越野配置更强，售价19999元，活动到手价18999元",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:sai450amt",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "SRK 450 AMT (Sai 450 AMT)",
+        "zh-CN": "赛450 AMT 自动挡仿赛（2025款）",
+        "zh-TW": "賽450 AMT 自動擋仿賽（2025款）",
+        "ja": "サイ450AMT"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "QJMOTOR 2025年春季发布会推出的自动挡仿赛，450cc并列双缸，搭载AMT自动变速箱，新手友好",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:shan250amt",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "SRV 250 (Shan 250 AMT)",
+        "zh-CN": "闪250 AMT 自动挡巡航（2025款）",
+        "zh-TW": "閃250 AMT 自動擋巡航（2025款）",
+        "ja": "シャン250AMT"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "QJMOTOR 2025款入门巡航，250cc单缸，国内250cc级首款6速AMT自动挡巡航车，售价19999元",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:shan250lv",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "SRV 250 LV (Shan 250 LV)",
+        "zh-CN": "闪250LV 复古巡航（2026款）",
+        "zh-TW": "閃250LV 復古巡航（2026款）",
+        "ja": "シャン250LV"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "QJMOTOR 2026款复古巡航，250cc，轻量化长轴距设计，复古圆灯造型，售价17999元",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:shan600v4",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "SRV 600 V4 (Shan 600 V4)",
+        "zh-CN": "闪600V4 运动巡航（2025款）",
+        "zh-TW": "閃600V4 運動巡航（2025款）",
+        "ja": "シャン600V4"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "QJMOTOR 2025年发布的V4运动巡航，561cc 90度V型四缸，AMT版售价32999元，2026款升级Marzocchi减震售价29999元",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:sai600-2026",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "Sai 600 (2026)",
+        "zh-CN": "赛600 四缸仿赛（2026款）",
+        "zh-TW": "賽600 四缸仿賽（2026款）",
+        "ja": "サイ600"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "QJMOTOR 2026款四缸仿赛，680cc RS级发动机约101匹，电子油门、双向快排、三种骑行模式，售价28999元起",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:shan900",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "SRV 900 V (Shan 900)",
+        "zh-CN": "闪900 V4巡航",
+        "zh-TW": "閃900 V4巡航",
+        "ja": "シャン900"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "QJMOTOR 899cc V型四缸巡航，2025年米兰车展亮相，2026年正式上市，皮带传动，对标进口大贸巡航",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qjmotor:sai250mini-2026",
+      "brand": "QJMOTOR",
+      "names": {
+        "en": "Sai 250 Mini (2026)",
+        "zh-CN": "赛250mini 入门仿赛（2026款）",
+        "zh-TW": "賽250mini 入門仿賽（2026款）",
+        "ja": "サイ250mini"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "QJMOTOR 2026款入门级仿赛，250cc，焕色设计针对新手与小个子摩友，售价15999元",
+      "verified": "verified"
+    }
+  ]
+}

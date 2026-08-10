@@ -1,0 +1,888 @@
+{
+  "models": [
+    {
+      "id": "model:triumph:street-triple-765-rs",
+      "brand": "Triumph",
+      "names": {
+        "en": "Street Triple 765 RS",
+        "zh-CN": "Street Triple 765 RS 青蛙王子 街车",
+        "zh-TW": "Street Triple 765 RS 青蛙王子 街車",
+        "ja": "ストリートトリプル765 RS"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "中量级街车标杆，765cc三缸，Moto2发动机技术，绰号青蛙王子，以操控闻名",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:speed-triple-1200-rr",
+      "brand": "Triumph",
+      "names": {
+        "en": "Speed Triple 1200 RR",
+        "zh-CN": "Speed Triple 1200 RR 速度三倍 旗舰街车",
+        "zh-TW": "Speed Triple 1200 RR 速度三倍 旗艦街車",
+        "ja": "スピードトリプル1200 RR"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "凯旋公升级街车旗舰，1160cc三缸180马力，Öhlins悬挂+Brembo卡钳，半整流罩设计",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:trident-660",
+      "brand": "Triumph",
+      "names": {
+        "en": "Trident 660",
+        "zh-CN": "Trident 660 三叉戟 入门街车",
+        "zh-TW": "Trident 660 三叉戟 入門街車",
+        "ja": "トライデント660"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "凯旋入门街车，660cc三缸80马力，复古运动造型，性价比高",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:tiger-sport-660",
+      "brand": "Triumph",
+      "names": {
+        "en": "Tiger Sport 660",
+        "zh-CN": "Tiger Sport 660 虎运动660 运动探险车",
+        "zh-TW": "Tiger Sport 660 虎運動660 運動探險車",
+        "ja": "タイガースポーツ660"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "Trident 660同平台运动探险车，17寸轮，公路取向，大风挡",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:tiger-900-rally-pro",
+      "brand": "Triumph",
+      "names": {
+        "en": "Tiger 900 Rally Pro",
+        "zh-CN": "Tiger 900 Rally Pro 虎900 越野探险车",
+        "zh-TW": "Tiger 900 Rally Pro 虎900 越野探險車",
+        "ja": "タイガー900 ラリープロ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "Tiger 900系列越野版，888cc三缸，21/18寸辐条轮，全地形轮胎",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:tiger-1200-rally-explorer",
+      "brand": "Triumph",
+      "names": {
+        "en": "Tiger 1200 Rally Explorer",
+        "zh-CN": "Tiger 1200 Rally Explorer 虎1200 大探险车",
+        "zh-TW": "Tiger 1200 Rally Explorer 虎1200 大探險車",
+        "ja": "タイガー1200 ラリーエクスプローラー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "凯旋大探险旗舰，1160cc三缸150马力，21/18寸轮，30升油箱，TFT仪表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:daytona-660",
+      "brand": "Triumph",
+      "names": {
+        "en": "Daytona 660",
+        "zh-CN": "Daytona 660 戴通纳 中量级仿赛",
+        "zh-TW": "Daytona 660 戴通納 中量級仿賽",
+        "ja": "デイトナ660"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "戴通纳系列复活，660cc三缸95马力，Trident同平台，全整流罩仿赛",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:bonneville-t120",
+      "brand": "Triumph",
+      "names": {
+        "en": "Bonneville T120",
+        "zh-CN": "Bonneville T120 博纳维尔 经典复古街车",
+        "zh-TW": "Bonneville T120 博納維爾 經典復古街車",
+        "ja": "ボンネビルT120"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "凯旋经典复古标杆，1200cc并列双缸，盐滩赛车命名，英伦风格",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:thruxton-rs",
+      "brand": "Triumph",
+      "names": {
+        "en": "Thruxton RS",
+        "zh-CN": "Thruxton RS 瑟斯顿 咖啡赛车",
+        "zh-TW": "Thruxton RS 瑟斯頓 咖啡賽車",
+        "ja": "スラクストンRS"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cafe-racer",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "现代咖啡赛车代表，1200cc双缸105马力，分离把，驼峰座，赛道纪念命名",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:scrambler-1200-xe",
+      "brand": "Triumph",
+      "names": {
+        "en": "Scrambler 1200 XE",
+        "zh-CN": "Scrambler 1200 XE 攀爬1200",
+        "zh-TW": "Scrambler 1200 XE 攀爬1200",
+        "ja": "スクランブラー1200 XE"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "高性能攀爬车，1200cc双缸，21/17寸轮，高排气，真正具备越野能力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:speed-twin-1200",
+      "brand": "Triumph",
+      "names": {
+        "en": "Speed Twin 1200",
+        "zh-CN": "Speed Twin 1200 速度双缸 复古街车",
+        "zh-TW": "Speed Twin 1200 速度雙缸 復古街車",
+        "ja": "スピードツイン1200"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "复古街车，1200cc双缸100马力，Thruxton同平台，更舒适的骑姿",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:rocket-3-r",
+      "brand": "Triumph",
+      "names": {
+        "en": "Rocket 3 R",
+        "zh-CN": "Rocket 3 R 火箭3 大排量巡航车",
+        "zh-TW": "Rocket 3 R 火箭3 大排量巡航車",
+        "ja": "ロケット3 R"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "量产最大排量摩托车，2458cc直列三缸167马力221Nm扭矩，肌肉巡航",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:bobber",
+      "brand": "Triumph",
+      "names": {
+        "en": "Bobber",
+        "zh-CN": "Bobber 鲍勃 巡航车",
+        "zh-TW": "Bobber 鮑勃 巡航車",
+        "ja": "ボバー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bobber",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "英伦Bobber风格，1200cc高功率双缸，单座硬尾外观，极简设计",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:speed-triple-1200-rs",
+      "brand": "Triumph",
+      "names": {
+        "en": "Speed Triple 1200 RS",
+        "zh-CN": "Speed Triple 1200 RS 速度三倍 旗舰街车",
+        "zh-TW": "Speed Triple 1200 RS 速度三倍 旗艦街車",
+        "ja": "スピードトリプル1200 RS"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "1160cc三缸180马力，Speed Triple旗舰RS版，Öhlins悬挂，街车性能标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:bonneville-t100",
+      "brand": "Triumph",
+      "names": {
+        "en": "Bonneville T100",
+        "zh-CN": "Bonneville T100 博纳维尔 经典复古街车",
+        "zh-TW": "Bonneville T100 博納維爾 經典復古街車",
+        "ja": "ボンネビルT100"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "900cc并列双缸，经典博纳维尔，双仪表圆灯，英伦复古入门代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:bonneville-speedmaster",
+      "brand": "Triumph",
+      "names": {
+        "en": "Bonneville Speedmaster",
+        "zh-CN": "Bonneville Speedmaster 博纳维尔 巡航车",
+        "zh-TW": "Bonneville Speedmaster 博納維爾 巡航車",
+        "ja": "ボンネビルスピードマスター"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "1200cc并列双缸，低座巡航造型，复古镀铬细节，英伦巡航车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:scrambler-900",
+      "brand": "Triumph",
+      "names": {
+        "en": "Scrambler 900",
+        "zh-CN": "Scrambler 900 攀爬900 复古攀爬车",
+        "zh-TW": "Scrambler 900 攀爬900 復古攀爬車",
+        "ja": "スクランブラー900"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "900cc并列双缸，高排气与辐条轮，复古攀爬风格，英伦街头越野",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:tiger-900-gt-pro",
+      "brand": "Triumph",
+      "names": {
+        "en": "Tiger 900 GT Pro",
+        "zh-CN": "Tiger 900 GT Pro 虎900 公路探险车",
+        "zh-TW": "Tiger 900 GT Pro 虎900 公路探險車",
+        "ja": "タイガー900 GTプロ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "888cc三缸，公路取向探险车，19寸铸造前轮，电子悬挂可选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:tiger-1200-gt-explorer",
+      "brand": "Triumph",
+      "names": {
+        "en": "Tiger 1200 GT Explorer",
+        "zh-CN": "Tiger 1200 GT Explorer 虎1200 大探险车",
+        "zh-TW": "Tiger 1200 GT Explorer 虎1200 大探險車",
+        "ja": "タイガー1200 GTエクスプローラー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "1160cc三缸，30L大油箱长途版，GT公路探险旗舰，150马力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:rocket-3-gt",
+      "brand": "Triumph",
+      "names": {
+        "en": "Rocket 3 GT",
+        "zh-CN": "Rocket 3 GT 火箭3 旅行巡航车",
+        "zh-TW": "Rocket 3 GT 火箭3 旅行巡航車",
+        "ja": "ロケット3 GT"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "2458cc直列三缸，量产最大排量摩托车，GT版带乘客靠背与舒适脚踏",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:speed-400",
+      "brand": "Triumph",
+      "names": {
+        "en": "Speed 400",
+        "zh-CN": "Speed 400 速度400 入门复古街车",
+        "zh-TW": "Speed 400 速度400 入門復古街車",
+        "ja": "スピード400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "398cc单缸，2024年全新入门复古街车，与印度Bajaj合作开发",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:scrambler-400-x",
+      "brand": "Triumph",
+      "names": {
+        "en": "Scrambler 400 X",
+        "zh-CN": "Scrambler 400 X 攀爬400 入门攀爬车",
+        "zh-TW": "Scrambler 400 X 攀爬400 入門攀爬車",
+        "ja": "スクランブラー400 X"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "398cc单缸，Speed 400攀爬版，加长悬挂，辐条轮，入门攀爬车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:speed-twin-5t",
+      "brand": "Triumph",
+      "names": {
+        "en": "Speed Twin 5T",
+        "zh-CN": "Speed Twin 5T 速度双缸 经典街车",
+        "zh-TW": "Speed Twin 5T 速度雙缸 經典街車",
+        "ja": "スピードツイン5T"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1937–1966",
+      "note": "1937年爱德华·特纳设计的498cc并列双缸，开现代摩托车双缸引擎先河，被誉为现代摩托车之父的经典之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:tiger-100",
+      "brand": "Triumph",
+      "names": {
+        "en": "Tiger 100",
+        "zh-CN": "Tiger 100 老虎100 经典运动街车",
+        "zh-TW": "Tiger 100 老虎100 經典運動街車",
+        "ja": "タイガー100"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1938–1973",
+      "note": "500cc运动版双缸，Tiger系列鼻祖，以时速100英里命名，赛场成绩辉煌",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:thunderbird-6t",
+      "brand": "Triumph",
+      "names": {
+        "en": "Thunderbird 6T",
+        "zh-CN": "Thunderbird 6T 雷鸟 经典街车",
+        "zh-TW": "Thunderbird 6T 雷鳥 經典街車",
+        "ja": "サンダーバード6T"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1949–1966",
+      "note": "凯旋首款650cc并列双缸，电影《飞车党》中马龙·白兰度的座驾，在美国家喻户晓",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:tr5-trophy",
+      "brand": "Triumph",
+      "names": {
+        "en": "TR5 Trophy",
+        "zh-CN": "TR5 Trophy 越野竞技车",
+        "zh-TW": "TR5 Trophy 越野競技車",
+        "ja": "TR5 トロフィー"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1949–1958",
+      "note": "500cc竞赛双缸，曾四夺国际六日耐力赛(ISDT)冠军，Trophy奖杯系列由此得名",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:tiger-cub",
+      "brand": "Triumph",
+      "names": {
+        "en": "Tiger Cub",
+        "zh-CN": "Tiger Cub 老虎幼崽 轻量单缸车",
+        "zh-TW": "Tiger Cub 老虎幼崽 輕量單缸車",
+        "ja": "タイガーカブ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1954–1968",
+      "note": "200cc单缸轻量车，由Terrier发展而来，销量巨大，至今保有量可观，入门车经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:tiger-110",
+      "brand": "Triumph",
+      "names": {
+        "en": "Tiger 110",
+        "zh-CN": "Tiger 110 老虎110 经典运动街车",
+        "zh-TW": "Tiger 110 老虎110 經典運動街車",
+        "ja": "タイガー110"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1953–1961",
+      "note": "649cc运动双缸，凯旋当时最快的量产车，1956年改装车在盐湖城创时速214英里纪录，Bonneville由此命名",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:tr6-trophy",
+      "brand": "Triumph",
+      "names": {
+        "en": "TR6 Trophy",
+        "zh-CN": "TR6 Trophy 沙漠雪橇 双缸车",
+        "zh-TW": "TR6 Trophy 沙漠雪橇 雙缸車",
+        "ja": "TR6 トロフィー"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1956–1968",
+      "note": "650cc单化油器双缸，在美国西部越野赛事中赢得'沙漠雪橇'美名",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:bonneville-t120-650",
+      "brand": "Triumph",
+      "names": {
+        "en": "Bonneville T120",
+        "zh-CN": "Bonneville T120 博纳维尔 经典双缸街车",
+        "zh-TW": "Bonneville T120 博納維爾 經典雙缸街車",
+        "ja": "ボンネビルT120"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1959–1975",
+      "note": "凯旋最传奇的650cc双缸，为纪念盐湖城创纪录而命名，曾是007邦德座驾，1969年马恩岛TT大赛首破百英里均速",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:daytona-t100r",
+      "brand": "Triumph",
+      "names": {
+        "en": "Daytona T100R",
+        "zh-CN": "Daytona T100R 戴通纳500 运动街车",
+        "zh-TW": "Daytona T100R 戴通納500 運動街車",
+        "ja": "デイトナT100R"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1966–1974",
+      "note": "500cc公路版赛车，为对抗本田Black Bomber而生，实测时速可超110英里",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:rocket-3-a75",
+      "brand": "Triumph",
+      "names": {
+        "en": "Rocket 3",
+        "zh-CN": "Rocket 3 火箭3 三缸街车",
+        "zh-TW": "Rocket 3 火箭3 三缸街車",
+        "ja": "ロケット3"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1975",
+      "note": "1968年推出的740cc三缸，与BSA Rocket 3共享平台，开启凯旋三缸时代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:trident-t150",
+      "brand": "Triumph",
+      "names": {
+        "en": "Trident T150",
+        "zh-CN": "Trident T150 三叉戟 三缸街车",
+        "zh-TW": "Trident T150 三叉戟 三缸街車",
+        "ja": "トライデントT150"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1969–1975",
+      "note": "750cc三缸，与BSA Rocket 3共享发动机，英国三缸鼻祖，后期T150V为5速版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:bonneville-t140",
+      "brand": "Triumph",
+      "names": {
+        "en": "Bonneville T140",
+        "zh-CN": "Bonneville T140 博纳维尔750 经典街车",
+        "zh-TW": "Bonneville T140 博納維爾750 經典街車",
+        "ja": "ボンネビルT140"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1973–1983",
+      "note": "750cc博纳维尔继任者，Meriden工厂时代的最后经典，工厂关闭后停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:trident-t160",
+      "brand": "Triumph",
+      "names": {
+        "en": "Trident T160",
+        "zh-CN": "Trident T160 三叉戟 三缸街车",
+        "zh-TW": "Trident T160 三叉戟 三缸街車",
+        "ja": "トライデントT160"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1975–1978",
+      "note": "Trident改进版，5速变速箱加电启动，Meriden时代三缸的绝唱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:trophy-900",
+      "brand": "Triumph",
+      "names": {
+        "en": "Trophy 900",
+        "zh-CN": "Trophy 900 奖杯900 运动旅行车",
+        "zh-TW": "Trophy 900 獎盃900 運動旅行車",
+        "ja": "トロフィー900"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–2002",
+      "note": "1990年代复兴后的首款运动旅行车，885cc三缸，1995年换装大整流罩与边箱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:trophy-1200",
+      "brand": "Triumph",
+      "names": {
+        "en": "Trophy 1200",
+        "zh-CN": "Trophy 1200 奖杯1200 运动旅行车",
+        "zh-TW": "Trophy 1200 獎盃1200 運動旅行車",
+        "ja": "トロフィー1200"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–2004",
+      "note": "1180cc四缸运动旅行旗舰，初期141马力，Hinckley复兴时代的旗舰车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:trident-900",
+      "brand": "Triumph",
+      "names": {
+        "en": "Trident 900",
+        "zh-CN": "Trident 900 三叉戟900 街车",
+        "zh-TW": "Trident 900 三叉戟900 街車",
+        "ja": "トライデント900"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1991–1998",
+      "note": "885cc三缸街车，Hinckley复兴模块化平台，钢管车架裸车造型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:daytona-900",
+      "brand": "Triumph",
+      "names": {
+        "en": "Daytona 900",
+        "zh-CN": "Daytona 900 戴通纳900 运动跑车",
+        "zh-TW": "Daytona 900 戴通納900 運動跑車",
+        "ja": "デイトナ900"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1992–1997",
+      "note": "885cc三缸运动车，早期Hinckley跑车，高速长途巡航稳健扎实",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:tiger-885",
+      "brand": "Triumph",
+      "names": {
+        "en": "Tiger 885",
+        "zh-CN": "Tiger 885 老虎885 双运动车",
+        "zh-TW": "Tiger 885 老虎885 雙運動車",
+        "ja": "タイガー885"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1993–1998",
+      "note": "1993年推出的沙漠赛车风格探险车，复兴时代Tiger系列的开端",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:speed-triple-900",
+      "brand": "Triumph",
+      "names": {
+        "en": "Speed Triple 900",
+        "zh-CN": "Speed Triple 900 速度三倍 初代街车",
+        "zh-TW": "Speed Triple 900 速度三倍 初代街車",
+        "ja": "スピードトリプル900"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1994–1997",
+      "note": "1994年初代'街霸'，拆掉整流罩的Daytona 900，单圆灯设计，开创streetfighter风潮",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:thunderbird-900",
+      "brand": "Triumph",
+      "names": {
+        "en": "Thunderbird 900",
+        "zh-CN": "Thunderbird 900 雷鸟900 复古巡航车",
+        "zh-TW": "Thunderbird 900 雷鳥900 復古巡航車",
+        "ja": "サンダーバード900"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1995–2004",
+      "note": "885cc三缸复古风格车，致敬1950年代经典Thunderbird，18寸前轮",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:adventurer-900",
+      "brand": "Triumph",
+      "names": {
+        "en": "Adventurer 900",
+        "zh-CN": "Adventurer 900 冒险者900 巡航车",
+        "zh-TW": "Adventurer 900 冒險者900 巡航車",
+        "ja": "アドベンチャラー900"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1996–2001",
+      "note": "凯旋首次尝试巡航车，基于Thunderbird，19寸宽前轮，复古巡航造型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:legend-tt",
+      "brand": "Triumph",
+      "names": {
+        "en": "Legend TT",
+        "zh-CN": "Legend TT 传奇TT 巡航车",
+        "zh-TW": "Legend TT 傳奇TT 巡航車",
+        "ja": "レジェンドTT"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1998–2000",
+      "note": "885cc三缸复古巡航车，致敬凯旋辉煌赛事历史，短周期限量生产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:daytona-955i",
+      "brand": "Triumph",
+      "names": {
+        "en": "Daytona 955i",
+        "zh-CN": "Daytona 955i 戴通纳955 运动跑车",
+        "zh-TW": "Daytona 955i 戴通納955 運動跑車",
+        "ja": "デイトナ955i"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1999–2006",
+      "note": "由T595改名而来，955cc三缸，铝合金车架与单摇臂，Hinckley新世代首款真跑车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:sprint-st",
+      "brand": "Triumph",
+      "names": {
+        "en": "Sprint ST",
+        "zh-CN": "Sprint ST 冲刺ST 运动旅行车",
+        "zh-TW": "Sprint ST 衝刺ST 運動旅行車",
+        "ja": "スプリントST"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1999–2010",
+      "note": "955cc三缸运动旅行车，全整流罩，长途运动旅行标杆，2005年起升级为1050cc",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:tiger-sport-800",
+      "brand": "Triumph",
+      "names": {
+        "en": "Tiger Sport 800",
+        "zh-CN": "Tiger Sport 800 虎运动800 运动探险车",
+        "zh-TW": "Tiger Sport 800 虎運動800 運動探險車",
+        "ja": "タイガースポーツ800"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025年全新车型，798cc三缸，17寸公路轮，公路运动旅行取向",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:speed-triple-1200-rs-2025",
+      "brand": "Triumph",
+      "names": {
+        "en": "Speed Triple 1200 RS (2025)",
+        "zh-CN": "Speed Triple 1200 RS 旗舰街车（2025款）",
+        "zh-TW": "Speed Triple 1200 RS 旗艦街車（2025款）",
+        "ja": "スピードトリプル1200 RS（2025）"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "1160cc三缸，2025款动力与电控全面升级，约180马力旗舰街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:speed-triple-1200-rx",
+      "brand": "Triumph",
+      "names": {
+        "en": "Speed Triple 1200 RX",
+        "zh-CN": "Speed Triple 1200 RX 旗舰街车限量版",
+        "zh-TW": "Speed Triple 1200 RX 旗艦街車限量版",
+        "ja": "スピードトリプル1200 RX"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026款全新，1160cc三缸约183马力，199kg轻量化，全球限量1200台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:speed-twin-1200-cafe-racer",
+      "brand": "Triumph",
+      "names": {
+        "en": "Speed Twin 1200 Cafe Racer Edition",
+        "zh-CN": "Speed Twin 1200 Cafe Racer 咖啡赛车限量版",
+        "zh-TW": "Speed Twin 1200 Cafe Racer 咖啡賽車限量版",
+        "ja": "スピードツイン1200 カフェレーサーエディション"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cafe-racer",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026款全新，1200cc并列双缸咖啡赛车风格限量版，全球限量800台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:tiger-900-alpine-desert",
+      "brand": "Triumph",
+      "names": {
+        "en": "Tiger 900 Alpine / Desert Edition",
+        "zh-CN": "Tiger 900 Alpine/Desert 特别版 探险车",
+        "zh-TW": "Tiger 900 Alpine/Desert 特別版 探險車",
+        "ja": "タイガー900 アルパイン/デザートエディション"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026款全新特别版，888cc三缸，Alpine公路取向/Desert越野取向两种规格",
+      "verified": "verified"
+    },
+    {
+      "id": "model:triumph:tiger-1200-alpine-desert",
+      "brand": "Triumph",
+      "names": {
+        "en": "Tiger 1200 Alpine / Desert Edition",
+        "zh-CN": "Tiger 1200 Alpine/Desert 特别版 大探险车",
+        "zh-TW": "Tiger 1200 Alpine/Desert 特別版 大探險車",
+        "ja": "タイガー1200 アルパイン/デザートエディション"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026款全新特别版，1160cc三缸约150马力，Alpine/Desert两种涂装风格",
+      "verified": "verified"
+    }
+  ]
+}

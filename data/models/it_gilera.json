@@ -1,0 +1,55 @@
+{
+  "models": [
+    {
+      "id": "model:gilera:runner-125",
+      "brand": "Gilera",
+      "names": {
+        "en": "Runner 125",
+        "zh-CN": "Runner 125 运动踏板车（停产）",
+        "zh-TW": "Runner 125 運動踏板車（停產）",
+        "ja": "ランナー125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2015",
+      "note": "Piaggio集团出品的高性能运动踏板，水冷125cc引擎，曾为125踏板车性能标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:gilera:nexus-500",
+      "brand": "Gilera",
+      "names": {
+        "en": "Nexus 500",
+        "zh-CN": "Nexus 500 大绵羊（停产）",
+        "zh-TW": "Nexus 500 大綿羊（停產）",
+        "ja": "ネクサス500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2011",
+      "note": "460cc水冷大绵羊，曾由Gilera、Aprilia、Piaggio三个品牌共同推出，运动性能出众",
+      "verified": "verified"
+    },
+    {
+      "id": "model:gilera:gp-800",
+      "brand": "Gilera",
+      "names": {
+        "en": "GP 800",
+        "zh-CN": "GP 800 双缸大绵羊（停产）",
+        "zh-TW": "GP 800 雙缸大綿羊（停產）",
+        "ja": "GP800"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2011",
+      "note": "搭载839cc V型双缸发动机的大绵羊，与Aprilia同平台，曾是大排量踏板车巅峰之作",
+      "verified": "verified"
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "models": [
+    {
+      "id": "model:bsa:sloper",
+      "brand": "BSA",
+      "names": {
+        "en": "Sloper",
+        "zh-CN": "Sloper 斜置引擎单缸街车",
+        "zh-TW": "Sloper 斜置引擎單缸街車",
+        "ja": "スローパー"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1927–1935",
+      "note": "1920年代末BSA经典单缸系列，斜置气缸设计降低重心并改善散热，曾畅销欧洲各国",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:blue-star",
+      "brand": "BSA",
+      "names": {
+        "en": "Blue Star",
+        "zh-CN": "Blue Star 蓝星 单缸运动车",
+        "zh-TW": "Blue Star 藍星 單缸運動車",
+        "ja": "ブルースター"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1932–1936",
+      "note": "1930年代BSA运动单缸系列，提供250/350/500cc多款排量，以可靠与操控著称，500cc版为当时BSA销量第五的车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:empire-star",
+      "brand": "BSA",
+      "names": {
+        "en": "Empire Star",
+        "zh-CN": "Empire Star 帝国之星 单缸运动车",
+        "zh-TW": "Empire Star 帝國之星 單缸運動車",
+        "ja": "エンパイアスター"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1937–1940",
+      "note": "Blue Star升级版运动单缸，由Val Page设计的全新发动机，1938年直接衍生出传奇的Gold Star",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:m20",
+      "brand": "BSA",
+      "names": {
+        "en": "M20",
+        "zh-CN": "M20 二战军用摩托车",
+        "zh-TW": "M20 二戰軍用摩托車",
+        "ja": "M20"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1937–1955",
+      "note": "二战英国陆军主力军用摩托，496cc侧置气门单缸，产量约12.6万辆，以坚固皮实著称的军车传奇",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:b31",
+      "brand": "BSA",
+      "names": {
+        "en": "B31",
+        "zh-CN": "B31 350cc 单缸街车",
+        "zh-TW": "B31 350cc 單缸街車",
+        "ja": "B31"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1945–1959",
+      "note": "战后BSA主力350cc单缸街车，可靠耐用，广泛用于英国家庭代步和公务摩的",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:gold-star-b32",
+      "brand": "BSA",
+      "names": {
+        "en": "Gold Star B32",
+        "zh-CN": "Gold Star B32 金牌之星 350cc 单缸运动车",
+        "zh-TW": "Gold Star B32 金牌之星 350cc 單缸運動車",
+        "ja": "ゴールドスターB32"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1946–1957",
+      "note": "350cc版金牌之星，战后Gold Star系列的开端，以高转性能和出色操控著称",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:b33",
+      "brand": "BSA",
+      "names": {
+        "en": "B33",
+        "zh-CN": "B33 500cc 单缸街车",
+        "zh-TW": "B33 500cc 單缸街車",
+        "ja": "B33"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1947–1960",
+      "note": "战后BSA 500cc单缸主力街车，广泛用于民间与公务用途，皮实耐操",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:gold-star-dbd34",
+      "brand": "BSA",
+      "names": {
+        "en": "Gold Star DBD34",
+        "zh-CN": "Gold Star DBD34 金牌之星 500cc 单缸运动车",
+        "zh-TW": "Gold Star DBD34 金牌之星 500cc 單缸運動車",
+        "ja": "ゴールドスターDBD34"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1956–1963",
+      "note": "BSA最传奇的500cc单缸运动车，俱乐部赛无敌手，绰号金牌之星，如今是收藏市场的顶级英伦经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:c15",
+      "brand": "BSA",
+      "names": {
+        "en": "C15",
+        "zh-CN": "C15 250cc 单缸街车",
+        "zh-TW": "C15 250cc 單缸街車",
+        "ja": "C15"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1958–1967",
+      "note": "BSA首款一体化(unit)结构单缸，250cc量大质优，衍生出Starfire、B44、B50等后续系列",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:bantam-d1",
+      "brand": "BSA",
+      "names": {
+        "en": "Bantam D1",
+        "zh-CN": "Bantam D1 班塔姆 125cc 二冲程轻量车",
+        "zh-TW": "Bantam D1 班塔姆 125cc 二衝程輕量車",
+        "ja": "バンタムD1"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1948–1953",
+      "note": "BSA战后首款二冲程轻量车，设计源自战后获得的德国DKW RT125技术，125cc销量巨大，是Bantam传奇的开端",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:bantam-d7-super",
+      "brand": "BSA",
+      "names": {
+        "en": "Bantam D7 Super",
+        "zh-CN": "Bantam D7 Super 班塔姆 175cc 二冲程轻量车",
+        "zh-TW": "Bantam D7 Super 班塔姆 175cc 二衝程輕量車",
+        "ja": "バンタムD7スーパー"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1959–1966",
+      "note": "Bantam系列175cc升级款，实用省油，是1960年代英国年轻人入门的首选轻量车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:dandy",
+      "brand": "BSA",
+      "names": {
+        "en": "Dandy",
+        "zh-CN": "Dandy 丹迪 70cc 轻便踏板摩托",
+        "zh-TW": "Dandy 丹迪 70cc 輕便踏板摩托",
+        "ja": "ダンディ"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1956–1962",
+      "note": "70cc二冲程轻便踏板摩托，1956年推出，主打城市短途代步，造型俏皮可爱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:b25-starfire",
+      "brand": "BSA",
+      "names": {
+        "en": "B25 Starfire",
+        "zh-CN": "B25 Starfire 星火 250cc 单缸运动车",
+        "zh-TW": "B25 Starfire 星火 250cc 單缸運動車",
+        "ja": "B25 スターファイアー"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1970",
+      "note": "C15平台衍生的高性能250cc单缸，油冷钢管车架，是BSA末期运动小排量的代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:b44-victor",
+      "brand": "BSA",
+      "names": {
+        "en": "B44 Victor",
+        "zh-CN": "B44 Victor 胜利者 441cc 越野耐力车",
+        "zh-TW": "B44 Victor 勝利者 441cc 越野耐力車",
+        "ja": "B44 ビクター"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1965–1970",
+      "note": "441cc越野单缸，采用Reynolds 531钢管车架，在国际六日耐力赛等赛事屡获佳绩，BSA越野功臣",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:b50-gold-star",
+      "brand": "BSA",
+      "names": {
+        "en": "B50 Gold Star",
+        "zh-CN": "B50 Gold Star 金牌之星 500cc 单缸车",
+        "zh-TW": "B50 Gold Star 金牌之星 500cc 單缸車",
+        "ja": "B50 ゴールドスター"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1971–1973",
+      "note": "BSA最后一款大排量一体化结构单缸，499cc街滑越野两用，1972年公司破产后由残余零件继续生产至1973年",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:a7",
+      "brand": "BSA",
+      "names": {
+        "en": "A7",
+        "zh-CN": "A7 500cc 并列双缸街车",
+        "zh-TW": "A7 500cc 並列雙缸街車",
+        "ja": "A7"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1947–1962",
+      "note": "BSA首款并列双缸车型，1947年推出，开启了BSA战后双缸时代，后续衍生出Star Twin与Shooting Star运动版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:a10-golden-flash",
+      "brand": "BSA",
+      "names": {
+        "en": "A10 Golden Flash",
+        "zh-CN": "A10 Golden Flash 金色闪光 650cc 并列双缸",
+        "zh-TW": "A10 Golden Flash 金色閃光 650cc 並列雙缸",
+        "ja": "A10 ゴールデンフラッシュ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1950–1962",
+      "note": "BSA首款650cc并列双缸，1950年代英伦双缸代表作，畅销全球，是BSA黄金时代的象征之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:a10-road-rocket",
+      "brand": "BSA",
+      "names": {
+        "en": "A10 Road Rocket",
+        "zh-CN": "A10 Road Rocket 公路火箭 650cc 运动双缸",
+        "zh-TW": "A10 Road Rocket 公路火箭 650cc 運動雙缸",
+        "ja": "A10 ロードロケット"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1954–1957",
+      "note": "Golden Flash高性能版，高压缩比发动机，是当时英国最快的量产摩托之一，A10系列性能开山之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:a10-rocket-gold-star",
+      "brand": "BSA",
+      "names": {
+        "en": "Rocket Gold Star",
+        "zh-CN": "Rocket Gold Star 火箭金牌之星 650cc 运动双缸",
+        "zh-TW": "Rocket Gold Star 火箭金牌之星 650cc 運動雙缸",
+        "ja": "ロケットゴールドスター"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1962–1963",
+      "note": "Super Rocket双缸引擎装入Gold Star车架的特制运动版，仅生产两年即停产，美国市场称Gold Star Twin，收藏级珍品",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:a50-royal-star",
+      "brand": "BSA",
+      "names": {
+        "en": "A50 Royal Star",
+        "zh-CN": "A50 Royal Star 皇家之星 500cc 并列双缸",
+        "zh-TW": "A50 Royal Star 皇家之星 500cc 並列雙缸",
+        "ja": "A50 ロイヤルスター"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1962–1970",
+      "note": "500cc一体化结构并列双缸，A65的小排量兄弟车型，1960年代BSA中量级市场主力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:a65-rocket",
+      "brand": "BSA",
+      "names": {
+        "en": "A65 Rocket",
+        "zh-CN": "A65 Rocket 火箭 650cc 并列双缸",
+        "zh-TW": "A65 Rocket 火箭 650cc 並列雙缸",
+        "ja": "A65 ロケット"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1964–1965",
+      "note": "A65一体化结构双缸的运动版，高压缩比发动机与独立大灯、运动挡泥板，A65系列性能先驱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:a65-lightning",
+      "brand": "BSA",
+      "names": {
+        "en": "A65 Lightning",
+        "zh-CN": "A65 Lightning 闪电 650cc 并列双缸",
+        "zh-TW": "A65 Lightning 閃電 650cc 並列雙缸",
+        "ja": "A65 ライトニング"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1964–1972",
+      "note": "A65双化油器运动版，1960年代BSA最具代表性的运动双缸，美国市场称Lightning Rocket",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:a65-thunderbolt",
+      "brand": "BSA",
+      "names": {
+        "en": "A65 Thunderbolt",
+        "zh-CN": "A65 Thunderbolt 雷霆 650cc 并列双缸",
+        "zh-TW": "A65 Thunderbolt 雷霆 650cc 並列雙缸",
+        "ja": "A65 サンダーボルト"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1966–1972",
+      "note": "A65单化油器街道版，均衡可靠的中庸之作，1971年起采用油冷车架，是BSA末期的常青双缸",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:a65-spitfire",
+      "brand": "BSA",
+      "names": {
+        "en": "A65 Spitfire",
+        "zh-CN": "A65 Spitfire 喷火 650cc 运动双缸",
+        "zh-TW": "A65 Spitfire 噴火 650cc 運動雙缸",
+        "ja": "A65 スピットファイア"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1966–1968",
+      "note": "A65高性能限量版，推出Mark II/III/IV三代，以赛车级发动机调校著称，俱乐部赛场常客",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:a75-rocket-3",
+      "brand": "BSA",
+      "names": {
+        "en": "A75 Rocket 3",
+        "zh-CN": "A75 Rocket 3 火箭三缸 750cc 街车",
+        "zh-TW": "A75 Rocket 3 火箭三缸 750cc 街車",
+        "ja": "A75 ロケット3"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1969–1972",
+      "note": "BSA首款三缸摩托，1969年与凯旋Trident同平台推出，740cc三缸曾是最强量产车之一，1972年随公司破产停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bsa:gold-star-650",
+      "brand": "BSA",
+      "names": {
+        "en": "Gold Star 650",
+        "zh-CN": "Gold Star 650 金牌之星 复古单缸街车",
+        "zh-TW": "Gold Star 650 金牌之星 復古單缸街車",
+        "ja": "ゴールドスター650"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "Mahindra收购BSA品牌后的复兴之作，652cc水冷单缸复古车，2021年发布，致敬传奇Gold Star之名",
+      "verified": "verified"
+    }
+  ]
+}

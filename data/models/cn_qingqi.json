@@ -1,0 +1,106 @@
+{
+  "models": [
+    {
+      "id": "model:qingqi:uy125",
+      "brand": "Qingqi",
+      "names": {
+        "en": "UY125",
+        "zh-CN": "UY125 踏板车",
+        "zh-TW": "UY125 踏板車",
+        "ja": "UY125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "济南轻骑铃木UY125，搭载铃木超级芯发动机，国内万元级踏板销量冠军车型之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qingqi:uu125",
+      "brand": "Qingqi",
+      "names": {
+        "en": "UU125",
+        "zh-CN": "优友UU125 踏板车",
+        "zh-TW": "優友UU125 踏板車",
+        "ja": "UU125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "济南轻骑铃木优友UU125，铃木超级芯发动机，皮实省油，外卖骑手群体的口碑神车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qingqi:ue125",
+      "brand": "Qingqi",
+      "names": {
+        "en": "UE125",
+        "zh-CN": "优驿UE125 踏板车",
+        "zh-TW": "優驛UE125 踏板車",
+        "ja": "UE125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "济南轻骑铃木优驿UE125T，搭载铃木超级芯发动机，UU和UY之后的又一力作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qingqi:us125",
+      "brand": "Qingqi",
+      "names": {
+        "en": "US125",
+        "zh-CN": "US125 复古踏板",
+        "zh-TW": "US125 復古踏板",
+        "ja": "US125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "济南轻骑铃木US125，125cc复古风格踏板，颜值出众配色多样，铃木超级芯动力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qingqi:gixxer-155",
+      "brand": "Qingqi",
+      "names": {
+        "en": "Gixxer 155",
+        "zh-CN": "极客飒Gixxer 155 街车",
+        "zh-TW": "極客颯Gixxer 155 街車",
+        "ja": "ジクサー155"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "济南轻骑铃木极客飒Gixxer 155，155cc单缸全球同步车型，提供NK街车与SF仿赛版本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qingqi:gs125",
+      "brand": "Qingqi",
+      "names": {
+        "en": "GS125",
+        "zh-CN": "铃木王GS125 跨骑",
+        "zh-TW": "鈴木王GS125 跨騎",
+        "ja": "GS125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1985–present",
+      "note": "济南轻骑铃木生产经典铃木王GS125，中国摩托车普及时代的神车，皮实耐用的一代经典",
+      "verified": "verified"
+    }
+  ]
+}

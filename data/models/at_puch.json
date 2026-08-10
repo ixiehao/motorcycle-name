@@ -1,0 +1,38 @@
+{
+  "models": [
+    {
+      "id": "model:puch:maxi",
+      "brand": "Puch",
+      "names": {
+        "en": "Maxi",
+        "zh-CN": "Maxi 轻便摩托（停产）",
+        "zh-TW": "Maxi 輕便摩托（停產）",
+        "ja": "マキシ"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1987",
+      "note": "50cc轻便摩托，奥地利国民通勤神器，全球销量超百万，Puch最具代表性的车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:puch:250-sgs",
+      "brand": "Puch",
+      "names": {
+        "en": "250 SGS",
+        "zh-CN": "250 SGS 双缸摩托车（停产）",
+        "zh-TW": "250 SGS 雙缸摩托車（停產）",
+        "ja": "250SGS"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1953–1970",
+      "note": "247cc二冲程并列双缸摩托车，奥地利制造的经典通勤与旅行车型",
+      "verified": "verified"
+    }
+  ]
+}

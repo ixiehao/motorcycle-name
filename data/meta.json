@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0.0",
+  "database_version": "1.0.0",
+  "updated": "2026-08-10",
+  "title": "多语言摩托车车名资料库 Multilingual Motorcycle Name Database",
+  "repository": "",
+  "languages": ["en", "zh-CN", "zh-TW", "ja"],
+  "license": "CC BY-SA 4.0",
+  "coverage": {
+    "motorcycle_classes": 41,
+    "glossary_categories": 10,
+    "glossary_terms": 116,
+    "brands": 90,
+    "models": 1585,
+    "cross_market_aliases": 77
+  },
+  "sources": [
+    "日本《道路运输车辆法》(二轮车规格)",
+    "欧盟摩托车分类指令(2002/24/EC)",
+    "各国摩托车品牌官网与总代理资料",
+    "维基百科(中/英/日)",
+    "两岸三地译名对比资料"
+  ],
+  "verified_rule": "verified=已核实;pending=待复核(见 pending_verification)",
+  "data_structure": {
+    "source_of_truth": "data/ 目录下的拆分文件是唯一数据源",
+    "build": "运行 scripts/build.py 将 data/ 合并为 dist/motorcycle-names-database.json 与 dist/motorcycle-names-database.md",
+    "validate": "运行 scripts/validate.py 检查数据完整性"
+  }
+}

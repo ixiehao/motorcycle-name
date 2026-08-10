@@ -1,0 +1,225 @@
+{
+  "models": [
+    {
+      "id": "model:kove:450rally",
+      "brand": "KOVE",
+      "names": {
+        "en": "450Rally",
+        "zh-CN": "450Rally 拉力车",
+        "zh-TW": "450Rally 拉力車",
+        "ja": "450Rally"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "凯越450Rally硬派拉力车，449cc大单缸水冷，参照达喀尔拉力赛标准设计，竞技版曾参加达喀尔，整备质量仅155kg",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kove:450rr",
+      "brand": "KOVE",
+      "names": {
+        "en": "450RR",
+        "zh-CN": "450RR 四缸仿赛",
+        "zh-TW": "450RR 四缸仿賽",
+        "ja": "450RR"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "凯越首款四缸跑车，443cc直列四缸水冷，2023年5月发布，被誉为国产四缸中小排量性价比之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kove:321rr",
+      "brand": "KOVE",
+      "names": {
+        "en": "321RR",
+        "zh-CN": "321RR 仿赛",
+        "zh-TW": "321RR 仿賽",
+        "ja": "321RR"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "凯越321RR双缸仿赛，322cc并列双缸水冷，单摇臂设计，被称为双缸仿赛小钢炮",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kove:321r",
+      "brand": "KOVE",
+      "names": {
+        "en": "321R",
+        "zh-CN": "321R 街车",
+        "zh-TW": "321R 街車",
+        "ja": "321R"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "凯越Cobra 321R运动街车，322cc双缸单摇臂，2021年3月发售，整备质量仅153kg",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kove:500x",
+      "brand": "KOVE",
+      "names": {
+        "en": "500X",
+        "zh-CN": "500X 探险车",
+        "zh-TW": "500X 探險車",
+        "ja": "500X"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "凯越500X双缸ADV，鸟嘴造型加单摇臂设计，曾以高性价比成为500cc级别热门拉力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kove:525x",
+      "brand": "KOVE",
+      "names": {
+        "en": "525X",
+        "zh-CN": "525X 探险车",
+        "zh-TW": "525X 探險車",
+        "ja": "525X"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "凯越525X，500X的升级换代车型，动力与配置全面升级，接棒500X成为凯越中量级ADV主力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kove:625x",
+      "brand": "KOVE",
+      "names": {
+        "en": "625X",
+        "zh-CN": "625X 探险车",
+        "zh-TW": "625X 探險車",
+        "ja": "625X"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "凯越625X，同级少有的搭载电子减震的ADV，动力更强劲，面向进阶拉力用户",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kove:500f",
+      "brand": "KOVE",
+      "names": {
+        "en": "500F",
+        "zh-CN": "500F 复古车",
+        "zh-TW": "500F 復古車",
+        "ja": "500F"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "凯越500F复古车，直列双缸水冷，圆灯复古造型，凯越公路车型的代表作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kove:800x",
+      "brand": "KOVE",
+      "names": {
+        "en": "800X 2026",
+        "zh-CN": "800X 探险车（2026款）",
+        "zh-TW": "800X 探險車（2026款）",
+        "ja": "800X 2026"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "凯越799cc双缸硬派ADV，2026款大改款于2026年8月上市，硬汉版42800元，整车大幅轻量化并补齐电控短板",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kove:450rr-manii",
+      "brand": "KOVE",
+      "names": {
+        "en": "450RR Man II",
+        "zh-CN": "450RR 曼岛II 仿赛（2026款）",
+        "zh-TW": "450RR 曼島II 仿賽（2026款）",
+        "ja": "450RR Man II"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "凯越第三代450RR，2026年3月发布，售价25777元起，发动机结构大幅改进，另有BSB赛事纪念版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kove:650rr",
+      "brand": "KOVE",
+      "names": {
+        "en": "650RR",
+        "zh-CN": "650RR 四缸仿赛",
+        "zh-TW": "650RR 四缸仿賽",
+        "ja": "650RR"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "凯越首款中排量四缸仿赛，645cc直列四缸水冷，2025重庆摩博会发布，2026年年中上市，最大功率92kW",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kove:450rally-ex",
+      "brand": "KOVE",
+      "names": {
+        "en": "450Rally EX",
+        "zh-CN": "450Rally EX 厂队版拉力车",
+        "zh-TW": "450Rally EX 廠隊版拉力車",
+        "ja": "450Rally EX"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "凯越2025年发布的450 Rally EX厂队版拉力车，34升大油箱、最大马力65匹，2025款上市售价9.38万元，是征战达喀尔赛事的同款战车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kove:625v-lancer",
+      "brand": "KOVE",
+      "names": {
+        "en": "625V Lancer",
+        "zh-CN": "625V 枪骑兵 巡航车",
+        "zh-TW": "625V 槍騎兵 巡航車",
+        "ja": "625V ランサー"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "凯越首款巡航车，2025年5月上市，售价24980元，578cc双缸发动机，双油箱共20升、续航可达500公里",
+      "verified": "verified"
+    }
+  ]
+}

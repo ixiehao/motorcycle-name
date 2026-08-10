@@ -1,0 +1,208 @@
+{
+  "models": [
+    {
+      "id": "model:niu:nqi",
+      "brand": "Niu",
+      "names": {
+        "en": "NQi",
+        "zh-CN": "NQi 智能电动踏板",
+        "zh-TW": "NQi 智能電動踏板",
+        "ja": "NQi"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2015–present",
+      "note": "小牛电动首款智能锂电踏板车，N1/NQi系列，APP互联，开创国内智能电动两轮车品类",
+      "verified": "verified"
+    },
+    {
+      "id": "model:niu:nqi-gts",
+      "brand": "Niu",
+      "names": {
+        "en": "NQi GTS",
+        "zh-CN": "NQi GTS 高性能电摩",
+        "zh-TW": "NQi GTS 高性能電摩",
+        "ja": "NQi GTS"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2018–present",
+      "note": "NQi系列高性能版本，双电池设计，动力更强，配置日间行车灯与智能仪表，主打续航与性能",
+      "verified": "verified"
+    },
+    {
+      "id": "model:niu:mqi",
+      "brand": "Niu",
+      "names": {
+        "en": "MQi",
+        "zh-CN": "MQi 智能电动踏板",
+        "zh-TW": "MQi 智能電動踏板",
+        "ja": "MQi"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2016–present",
+      "note": "小牛M系列电动踏板，一体化车身设计，获德国红点设计奖，中置电池布局经典之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:niu:mqi-plus",
+      "brand": "Niu",
+      "names": {
+        "en": "MQi+",
+        "zh-CN": "MQi+ 智能电动踏板",
+        "zh-TW": "MQi+ 智能電動踏板",
+        "ja": "MQi+"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "MQi升级版，更大容量电池与更强电机，智能中控大屏，城市中高端电动通勤代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:niu:uqi",
+      "brand": "Niu",
+      "names": {
+        "en": "UQi",
+        "zh-CN": "UQi 轻量电动踏板",
+        "zh-TW": "UQi 輕量電動踏板",
+        "ja": "UQi"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2019–present",
+      "note": "小牛U系列轻量化电动踏板，车身小巧灵活，可提取电池，深受都市通勤与女性用户欢迎",
+      "verified": "verified"
+    },
+    {
+      "id": "model:niu:sqi",
+      "brand": "Niu",
+      "names": {
+        "en": "SQi",
+        "zh-CN": "SQi 跨界电动踏板",
+        "zh-TW": "SQi 跨界電動踏板",
+        "ja": "SQi"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "小牛SQi跨界电动踏板，镁合金一体成型车架，机甲风格设计，定位高端个性出行",
+      "verified": "verified"
+    },
+    {
+      "id": "model:niu:nx",
+      "brand": "Niu",
+      "names": {
+        "en": "NX",
+        "zh-CN": "NX 高性能电摩",
+        "zh-TW": "NX 高性能電摩",
+        "ja": "NX"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "小牛旗舰高性能电动摩托车，动力对标125cc燃油踏板，三电系统全面升级，可上摩托车牌照",
+      "verified": "verified"
+    },
+    {
+      "id": "model:niu:mqi-s",
+      "brand": "Niu",
+      "names": {
+        "en": "MQi S",
+        "zh-CN": "MQi S 智能电动踏板",
+        "zh-TW": "MQi S 智能電動踏板",
+        "ja": "MQi S"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2019–present",
+      "note": "MQi系列S版本，主打安全配置升级，LED大灯与刹车系统优化，城市通勤热销款",
+      "verified": "verified"
+    },
+    {
+      "id": "model:niu:nx-windspeed",
+      "brand": "Niu",
+      "names": {
+        "en": "NX Wind Speed",
+        "zh-CN": "NX风速 电动摩托车",
+        "zh-TW": "NX風速 電動摩托車",
+        "ja": "NXウインドスピード"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "小牛2025年1月上市的NX系列电动摩托车，3000W电机极速约80km/h，4.3英寸TFT全彩屏，支持导航与魔术轮旋钮控制",
+      "verified": "verified"
+    },
+    {
+      "id": "model:niu:nxt-sport",
+      "brand": "Niu",
+      "names": {
+        "en": "NXT Sport",
+        "zh-CN": "NXT Sport 智能电动踏板",
+        "zh-TW": "NXT Sport 智能電動踏板",
+        "ja": "NXTスポーツ"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "小牛2025款NXT系列新国标电动踏板，2025年3月发布售价4799元起，延续NXT智能交互与模块化电池设计",
+      "verified": "verified"
+    },
+    {
+      "id": "model:niu:nx-2026",
+      "brand": "Niu",
+      "names": {
+        "en": "NX 2026",
+        "zh-CN": "NX 2026 高性能电摩",
+        "zh-TW": "NX 2026 高性能電摩",
+        "ja": "NX 2026"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2026–present",
+      "note": "小牛NX 2026系列（Citi/Sport/马拉松版），主打真满把真续航、百公里不掉速，首次落地灵犀AIOS智能系统，万元级配置下放",
+      "verified": "verified"
+    },
+    {
+      "id": "model:niu:nqix-1000",
+      "brand": "Niu",
+      "names": {
+        "en": "NQiX 1000",
+        "zh-CN": "NQiX 1000 旗舰电摩",
+        "zh-TW": "NQiX 1000 旗艦電摩",
+        "ja": "NQiX 1000"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2026–present",
+      "note": "小牛2026款欧版旗舰电动踏板，2025年EICMA米兰车展发布，峰值功率15.5kW，面向欧洲市场的高规格电摩",
+      "verified": "verified"
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "models": [
+    {
+      "id": "model:sym:jet-sl-125",
+      "brand": "SYM",
+      "names": {
+        "en": "Jet SL 125",
+        "zh-CN": "Jet SL 125 运动踏板",
+        "zh-TW": "Jet SL 125 運動踏板",
+        "ja": "ジェットSL 125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "三阳Jet系列运动踏板，125cc单缸水冷，激进外观设计，台湾市场热门小踏板",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sym:jet-x-150",
+      "brand": "SYM",
+      "names": {
+        "en": "Jet X 150",
+        "zh-CN": "Jet X 150 跨界运动踏板",
+        "zh-TW": "Jet X 150 跨界運動踏板",
+        "ja": "ジェットX 150"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "Jet系列跨界版，150cc单缸，SUV风格外观，高离地间隙，城市多功能踏板",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sym:drg-bt-158",
+      "brand": "SYM",
+      "names": {
+        "en": "DRG BT 158",
+        "zh-CN": "DRG BT 158 运动踏板",
+        "zh-TW": "DRG BT 158 運動踏板",
+        "ja": "DRG BT 158"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "三阳旗舰运动踏板，158cc单缸水冷Z.R.G引擎，龙骨车架，同级运动标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sym:krn-bt-125",
+      "brand": "SYM",
+      "names": {
+        "en": "KRN BT 125",
+        "zh-CN": "KRN BT 125 麒麟 跨界踏板",
+        "zh-TW": "KRN BT 125 麒麟 跨界踏板",
+        "ja": "KRN BT 125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "跨界探险风格踏板，125cc单缸，中文名麒麟，12寸轮+高避震，轻度非铺装路",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sym:fnx-bt-125",
+      "brand": "SYM",
+      "names": {
+        "en": "FNX BT 125",
+        "zh-CN": "FNX BT 125 火凤凰 踏板车",
+        "zh-TW": "FNX BT 125 火鳳凰 踏板車",
+        "ja": "FNX BT 125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "凤凰涅盘设计语言，125cc单缸水冷，ABS+TCS，三阳主力通勤踏板",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sym:maxsym-tl-508",
+      "brand": "SYM",
+      "names": {
+        "en": "MaxSym TL 508",
+        "zh-CN": "MaxSym TL 508 大绵羊旗舰踏板",
+        "zh-TW": "MaxSym TL 508 大綿羊旗艦踏板",
+        "ja": "マックスシムTL 508"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "三阳旗舰大绵羊，508cc并列双缸45马力，铝合金双翼梁车架，长途舒适豪华",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sym:husky-125-adv",
+      "brand": "SYM",
+      "names": {
+        "en": "Husky 125 ADV",
+        "zh-CN": "Husky 125 ADV 哈士奇 跨界探险踏板",
+        "zh-TW": "Husky 125 ADV 哈士奇 跨界探險踏板",
+        "ja": "ハスキー125 ADV"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "以哈士奇命名的跨界探险踏板，150cc单缸水冷，13寸轮，ADV外观设计",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kymco:racing-s-150",
+      "brand": "KYMCO",
+      "names": {
+        "en": "Racing S 150",
+        "zh-CN": "Racing S 150 弯道情人 运动踏板",
+        "zh-TW": "Racing S 150 彎道情人 運動踏板",
+        "ja": "レーシングS 150"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "光阳经典运动踏板Racing系列进化，150cc单缸，中文名弯道情人，运动性能强",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kymco:g6-150",
+      "brand": "KYMCO",
+      "names": {
+        "en": "G6 150",
+        "zh-CN": "G6 150 运动踏板",
+        "zh-TW": "G6 150 運動踏板",
+        "ja": "G6 150"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "光阳G系列运动踏板，150cc单缸V.V.C.S可变气门，台湾市场长青车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kymco:like-150",
+      "brand": "KYMCO",
+      "names": {
+        "en": "Like 150",
+        "zh-CN": "Like 150 复古踏板车",
+        "zh-TW": "Like 150 復古踏板車",
+        "ja": "Like 150"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "光阳复古踏板代表，欧式复古外观，150cc单缸，全车LED，城市时尚通勤",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kymco:ak-550-premium",
+      "brand": "KYMCO",
+      "names": {
+        "en": "AK 550 Premium / Super Touring",
+        "zh-CN": "AK 550 旗舰大绵羊踏板",
+        "zh-TW": "AK 550 旗艦大綿羊踏板",
+        "ja": "AK 550 プレミアム"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "光阳旗舰大绵羊，550cc并列双缸53马力，铝合金车架，电子节气门，与TMAX同级对手",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kymco:cv3",
+      "brand": "KYMCO",
+      "names": {
+        "en": "CV3",
+        "zh-CN": "CV3 倒三轮大绵羊",
+        "zh-TW": "CV3 倒三輪大綿羊",
+        "ja": "CV3"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "550cc倒三轮踏板，AK550同平台引擎，双前轮独立悬挂，稳定性高，安全舒适",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kymco:xciting-s-400",
+      "brand": "KYMCO",
+      "names": {
+        "en": "Xciting S 400",
+        "zh-CN": "Xciting S 400 赛艇 大踏板",
+        "zh-TW": "Xciting S 400 賽艇 大踏板",
+        "ja": "エキサイティングS 400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "光阳赛艇系列大踏板，400cc单缸水冷，中文名赛艇，大陆市场热门中型大绵羊",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kymco:downtown-350i",
+      "brand": "KYMCO",
+      "names": {
+        "en": "Downtown 350i",
+        "zh-CN": "Downtown 350i 市区大踏板",
+        "zh-TW": "Downtown 350i 市區大踏板",
+        "ja": "ダウンタウン350i"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "320cc级城市大踏板，欧洲市场设计，舒适通勤，大容量置物空间，ABS标配",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sym:adxtg-400",
+      "brand": "SYM",
+      "names": {
+        "en": "ADXTG 400",
+        "zh-CN": "ADXTG 400 跨界越野踏板",
+        "zh-TW": "ADXTG 400 跨界越野踏板",
+        "ja": "ADXTG 400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "三阳2025年上市的ADV跨界踏板，399cc单缸，中置发动机与链条传动，主打轻度越野能力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sym:jet-sl-150",
+      "brand": "SYM",
+      "names": {
+        "en": "Jet SL 150 (2026)",
+        "zh-CN": "Jet SL 150 运动踏板（2026款）",
+        "zh-TW": "Jet SL 150 運動踏板（2026款）",
+        "ja": "ジェットSL 150（2026年型）"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "厦杏三阳2026年1月发布，150cc运动踏板售价12980元，标配德国大陆双通道ABS与TCS",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sym:formica-150",
+      "brand": "SYM",
+      "names": {
+        "en": "Formica 150 (4MICA)",
+        "zh-CN": "Formica 150 蚂蚁 跨界踏板",
+        "zh-TW": "Formica 150 螞蟻 跨界踏板",
+        "ja": "フォーミカ150（4MICA）"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "三阳4MICA蚂蚁系列150cc版本，2026年1月大陆上市售价12980元，水冷发动机配TCS，多功能载货平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sym:mmbcu-158",
+      "brand": "SYM",
+      "names": {
+        "en": "MMBCU 158 (2025)",
+        "zh-CN": "MMBCU 158 曼巴 运动踏板（2025款）",
+        "zh-TW": "MMBCU 158 曼巴 運動踏板（2025款）",
+        "ja": "MMBCU 158（2025年型）"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "三阳曼巴MMBCU 158中期改款，2025年1月台湾发布，外观配置与性能细节优化，台湾踏板销量榜常青车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sym:ttlbt-lingui",
+      "brand": "SYM",
+      "names": {
+        "en": "TTLBT Lingui",
+        "zh-CN": "灵龟TTLBT 豪华休旅双缸踏板",
+        "zh-TW": "靈龜TTLBT 豪華休旅雙缸踏板",
+        "ja": "TTLBT リンクイ"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "三阳70周年压轴之作灵龟TTLBT，基于MaxSym TL 508平台的双缸豪华休旅踏板，2025年2月台湾上市，仿生龟甲造型配电动风挡",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kymco:rts-r-165",
+      "brand": "KYMCO",
+      "names": {
+        "en": "RTS R 165",
+        "zh-CN": "RTS R 165 运动踏板",
+        "zh-TW": "RTS R 165 運動踏板",
+        "ja": "RTS R 165"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "光阳新世代运动踏板，165cc水冷引擎带ISG油电辅助技术，2024年米兰车展亮相、2025年台湾上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kymco:ak-550-2025",
+      "brand": "KYMCO",
+      "names": {
+        "en": "AK 550 Premium (2025)",
+        "zh-CN": "AK 550 旗舰大绵羊（2025款）",
+        "zh-TW": "AK 550 旗艦大綿羊（2025款）",
+        "ja": "AK 550 プレミアム（2025年型）"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025款AK 550 Premium，外观与电控系统升级，进一步强化旗舰豪华大绵羊定位",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kymco:dink-g150",
+      "brand": "KYMCO",
+      "names": {
+        "en": "Dink G150",
+        "zh-CN": "Dink G150 跨界ADV踏板",
+        "zh-TW": "Dink G150 跨界ADV踏板",
+        "ja": "ディンクG150"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "常州光阳2026年1月上市的全新ADV跨界踏板，150cc动力，定位年轻人的第一辆ADV，售价13980元",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kymco:kf125",
+      "brand": "KYMCO",
+      "names": {
+        "en": "KF 125",
+        "zh-CN": "KF125 踏板车",
+        "zh-TW": "KF125 踏板車",
+        "ja": "KF125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "光阳2026款KF125，悦行版9580元/智行版10980元，双通道ABS加TCS，主打同级安全配置",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kymco:kr150",
+      "brand": "KYMCO",
+      "names": {
+        "en": "KR 150",
+        "zh-CN": "KR150 复古踏板",
+        "zh-TW": "KR150 復古踏板",
+        "ja": "KR150"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "光阳2026年5月上市的全新150cc复古踏板，东方美学设计，定位150级复古踏板价值标杆",
+      "verified": "verified"
+    }
+  ]
+}

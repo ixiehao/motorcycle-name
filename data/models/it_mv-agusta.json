@@ -1,0 +1,446 @@
+{
+  "models": [
+    {
+      "id": "model:mv-agusta:f3-800",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "F3 800",
+        "zh-CN": "F3 800 中量级仿赛",
+        "zh-TW": "F3 800 中量級仿賽",
+        "ja": "F3 800"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "798cc并列三缸，MV经典中量级仿赛，反向曲轴设计，2013年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:f4",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "F4 / F4 RR",
+        "zh-CN": "F4/F4 RR 旗舰仿赛（停产）",
+        "zh-TW": "F4/F4 RR 旗艦仿賽（停產）",
+        "ja": "F4/F4RR"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2018",
+      "note": "998cc直列四缸，MV旗舰仿赛，含F4 RR与限量F4 RC，2018年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:brutale-1000",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "Brutale 1000 RR",
+        "zh-CN": "Brutale 1000 RR 公升级运动街车",
+        "zh-TW": "Brutale 1000 RR 公升級運動街車",
+        "ja": "ブルターレ1000RR"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "998cc直列四缸，208马力，带气动翼设计的高性能运动街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:dragster-800",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "Dragster 800 RR",
+        "zh-CN": "Dragster 800 RR 中量级运动街车",
+        "zh-TW": "Dragster 800 RR 中量級運動街車",
+        "ja": "ドラッグスター800RR"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "798cc三缸，后轮无挡泥板设计，前卫造型，MV暗黑风格街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:turismo-veloce",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "Turismo Veloce 800",
+        "zh-CN": "Turismo Veloce 800 运动旅行车",
+        "zh-TW": "Turismo Veloce 800 運動旅行車",
+        "ja": "トゥリズモ・ヴェローチェ800"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "798cc三缸，MV首款运动旅行车，配边箱与风挡，长途舒适",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:superveloce-800",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "Superveloce 800",
+        "zh-CN": "Superveloce 800 复古仿赛",
+        "zh-TW": "Superveloce 800 復古仿賽",
+        "ja": "スーパーヴェローチェ800"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "798cc三缸，F3为基的复古仿赛，圆灯驼峰座复古赛车造型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:mv-98",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "MV 98",
+        "zh-CN": "MV 98 首款量产轻骑",
+        "zh-TW": "MV 98 首款量產輕騎",
+        "ja": "MV 98"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1946–1949",
+      "note": "98cc二冲程单缸，MV Agusta首款量产车型，1945年原型亮相、1946年量产，含Turismo与Economica版本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:250-turismo",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "250 Turismo",
+        "zh-CN": "250 Turismo 单缸旅行车",
+        "zh-TW": "250 Turismo 單缸旅行車",
+        "ja": "250 ツーリズモ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1947–1951",
+      "note": "250cc单缸四冲程，11马力极速110km/h，MV首款250车型，三年仅生产约100台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:125-tel",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "125 TEL",
+        "zh-CN": "125 TEL 轻型摩托",
+        "zh-TW": "125 TEL 輕型摩托",
+        "ja": "125 TEL"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1949–1954",
+      "note": "123.5cc单缸轻型摩托，1950年代初期畅销的入门车型，为MV品牌奠定市场基础",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:175-css",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "175 CS / CSS",
+        "zh-CN": "175 CS/CSS 复古运动车（飞碟）",
+        "zh-TW": "175 CS/CSS 復古運動車（飛碟）",
+        "ja": "175 CS/CSS ディスコ・ヴォランテ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1953–1959",
+      "note": "175cc单缸四冲程顶置凸轮，MV首款量产四冲程车型，流线油箱获昵称'飞碟(Disco Volante)'，CSS为竞技版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:125-turismo-rapido",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "125 Turismo Rapido",
+        "zh-CN": "125 Turismo Rapido 快速旅行车",
+        "zh-TW": "125 Turismo Rapido 快速旅行車",
+        "ja": "125 ツーリズモ・ラピド"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1954–1958",
+      "note": "125cc四冲程单缸，含Turismo Rapido与Rapido Sport两版本，1950年代中期畅销车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:250-raid",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "250 Raid",
+        "zh-CN": "250 Raid 单缸长途旅行车",
+        "zh-TW": "250 Raid 單缸長途旅行車",
+        "ja": "250 レイド"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1956–1962",
+      "note": "250cc单缸OHV四冲程，主打欧洲长途旅行，后扩展300cc版本，市场反响平平",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:125-centomila",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "125 Centomila",
+        "zh-CN": "125 Centomila 可靠型轻骑",
+        "zh-TW": "125 Centomila 可靠型輕騎",
+        "ja": "125 チェントミラ"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1959–1963",
+      "note": "以可靠性著称的125cc通勤车型，广告承诺10万公里无故障，因此得名'Centomila(十万)'",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:600-quattro",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "600",
+        "zh-CN": "600 首款量产四缸旅行车",
+        "zh-TW": "600 首款量產四缸旅行車",
+        "ja": "600 フォア"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1965–1967",
+      "note": "592cc横置直列四缸，世界首款量产横置四缸摩托车，轴传动，1965年米兰车展首发",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:350-b",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "350 B",
+        "zh-CN": "350B 并列双缸运动车",
+        "zh-TW": "350B 並列雙缸運動車",
+        "ja": "350B ビチリンドリカ"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1970–1974",
+      "note": "349cc并列双缸四冲程，MV中排量双缸时代的代表作，含Sport与Scrambler版本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:750-sport",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "750 Sport",
+        "zh-CN": "750 Sport 经典四缸跑车",
+        "zh-TW": "750 Sport 經典四缸跑車",
+        "ja": "750 スポルト"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1972–1974",
+      "note": "743cc直列四缸DOHC，MV传奇公路四缸鼻祖，曾入选纽约古根海姆'摩托车艺术'展览",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:350-ipotesi",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "350 Ipotesi",
+        "zh-CN": "350 Ipotesi 先锋设计运动车",
+        "zh-TW": "350 Ipotesi 先鋒設計運動車",
+        "ja": "350 イポテージ"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1975–1977",
+      "note": "Giugiaro操刀设计，方角直线造型颠覆当时圆润潮流，铸铝轮毂配三碟刹，仅产1991台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:750-sport-america",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "750 Sport America",
+        "zh-CN": "750 Sport America 美版四缸跑车",
+        "zh-TW": "750 Sport America 美版四缸跑車",
+        "ja": "750 スポルト・アメリカ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1975–1977",
+      "note": "790cc四缸，由美国经销商推动升级，75马力极速210km/h，仅产约540台，奢华咖啡赛车风格",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:125-sport-se",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "125 Sport SE",
+        "zh-CN": "125 Sport SE 运动轻骑",
+        "zh-TW": "125 Sport SE 運動輕騎",
+        "ja": "125 スポルトSE"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1975–1980",
+      "note": "末代单缸运动车型，方角设计，配前碟刹与电子点火，1977年MV停止在自家工厂生产摩托车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:850-ss-monza",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "850 SS Monza",
+        "zh-CN": "850 SS Monza 限量四缸跑车",
+        "zh-TW": "850 SS Monza 限量四缸跑車",
+        "ja": "850SS モンツァ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1977–1978",
+      "note": "837cc四缸，750 Sport America系列最终版，90马力，仅制造27台，收藏级珍品",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:f4-750-serie-oro",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "F4 750 Serie Oro",
+        "zh-CN": "F4 750 Serie Oro 限量超跑",
+        "zh-TW": "F4 750 Serie Oro 限量超跑",
+        "ja": "F4 750 セリエ・オロ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1999–2002",
+      "note": "Tamburini设计，749.5cc四缸126马力，限量300台，碳纤维车身镁合金部件，曾在古根海姆博物馆展出",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:f4-750-s",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "F4 750 S",
+        "zh-CN": "F4 750 S 超级跑车",
+        "zh-TW": "F4 750 S 超級跑車",
+        "ja": "F4 750S"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2000–2004",
+      "note": "径向气门四缸，MV复兴后的首款量产超跑，2004年被F4 1000取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:brutale-750-s",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "Brutale 750 S",
+        "zh-CN": "Brutale 750 S 运动街车",
+        "zh-TW": "Brutale 750 S 運動街車",
+        "ja": "ブルターレ 750S"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2006",
+      "note": "F4为基础的749.5cc四缸运动街车，Brutale系列开山之作，标志性四出排气，开启MV街车新篇章",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:f4-tamburini",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "F4 Tamburini",
+        "zh-CN": "F4 Tamburini 大师限量超跑",
+        "zh-TW": "F4 Tamburini 大師限量超跑",
+        "ja": "F4 タンブリーニ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2006",
+      "note": "998cc四缸，为致敬传奇设计师Massimo Tamburini打造的限量版F4，仅产300台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:f4-1000",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "F4 1000",
+        "zh-CN": "F4 1000 超级跑车",
+        "zh-TW": "F4 1000 超級跑車",
+        "ja": "F4 1000"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2010",
+      "note": "998cc四缸，F4 750扩缸升级的公升级超跑，含S与R版本，MV进入公升时代的标志",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mv-agusta:brutale-910",
+      "brand": "MV Agusta",
+      "names": {
+        "en": "Brutale 910",
+        "zh-CN": "Brutale 910 运动街车",
+        "zh-TW": "Brutale 910 運動街車",
+        "ja": "ブルターレ 910"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2008",
+      "note": "910cc四缸运动街车，Brutale系列第二代，兼具暴力性能与艺术美感",
+      "verified": "verified"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "models": [
+    {
+      "id": "model:can-am:spyder-rt",
+      "brand": "Can-Am",
+      "names": {
+        "en": "Spyder RT",
+        "zh-CN": "Spyder RT 豪华旅行三轮车",
+        "zh-TW": "Spyder RT 豪華旅行三輪車",
+        "ja": "スパイダーRT"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "1330cc三缸倒三轮旅行车，豪华风挡与超大储物空间，BRP旗下长途旅行三轮旗舰",
+      "verified": "verified"
+    },
+    {
+      "id": "model:can-am:spyder-f3",
+      "brand": "Can-Am",
+      "names": {
+        "en": "Spyder F3",
+        "zh-CN": "Spyder F3 运动三轮车",
+        "zh-TW": "Spyder F3 運動三輪車",
+        "ja": "スパイダーF3"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "1330cc三缸倒三轮，运动化骑姿与操控，Can-Am Spyder系列中最具驾驶乐趣的版本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:can-am:ryker-900",
+      "brand": "Can-Am",
+      "names": {
+        "en": "Ryker 900",
+        "zh-CN": "Ryker 900 入门三轮车",
+        "zh-TW": "Ryker 900 入門三輪車",
+        "ja": "ライカー900"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "900cc并列双缸倒三轮，主打年轻化与亲民价格，Can-Am三轮家族入门之选",
+      "verified": "verified"
+    }
+  ]
+}

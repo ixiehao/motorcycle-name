@@ -1,0 +1,776 @@
+[
+  {
+    "id": "cm:suzuki:skywave-burgman",
+    "main": "Burgman",
+    "aliases": {
+      "日本": "スカイウェイブ (Skywave)",
+      "欧洲": "Burgman",
+      "北美": "Burgman",
+      "中国大陆": "汉堡人"
+    },
+    "note": "铃木大型踏板车，日本本土名 Skywave，海外市场称 Burgman（中文圈俗称汉堡人）"
+  },
+  {
+    "id": "cm:suzuki:gsx1300r-hayabusa",
+    "main": "GSX1300R Hayabusa",
+    "aliases": {
+      "日本": "隼 (ハヤブサ)",
+      "北美": "Hayabusa",
+      "欧洲": "Hayabusa"
+    },
+    "note": "铃木旗舰运动摩托，日本称隼（猎鹰），海外用 Hayabusa 英文名"
+  },
+  {
+    "id": "cm:yamaha:fz-mt",
+    "main": "MT-07/MT-09",
+    "aliases": {
+      "北美": "FZ-07 / FZ-09 (2015-2017)",
+      "欧洲": "MT-07 / MT-09",
+      "中国大陆": "MT-07 / MT-09"
+    },
+    "note": "雅马哈中量级街车，北美市场曾以 FZ 系列命名，2017 年后全球统一为 MT 系列"
+  },
+  {
+    "id": "cm:yamaha:virago-dragstar",
+    "main": "Virago / DragStar",
+    "aliases": {
+      "日本": "ドラッグスター (DragStar)",
+      "北美": "Virago",
+      "欧洲": "DragStar"
+    },
+    "note": "雅马哈 V 型双缸巡航车系，日本与欧洲称 DragStar，北美市场长期用 Virago 之名"
+  },
+  {
+    "id": "cm:yamaha:star-vstar",
+    "main": "XV950 / Bolt",
+    "aliases": {
+      "北美": "Star Bolt / V-Star",
+      "欧洲": "XV950 / Bolt",
+      "日本": "ボルト (Bolt)"
+    },
+    "note": "雅马哈北美 Star 品牌下的车型与全球市场 XV 系列同名异称"
+  },
+  {
+    "id": "cm:honda:cmx-rebel",
+    "main": "CMX500 Rebel",
+    "aliases": {
+      "日本": "レブル (Rebel)",
+      "北美": "Rebel 500",
+      "欧洲": "CMX500 Rebel",
+      "中国大陆": "CMX500 Rebel"
+    },
+    "note": "本田入门巡航车，全球统一 Rebel 之名，日本以片假名标注"
+  },
+  {
+    "id": "cm:honda:gold-wing",
+    "main": "GL1800 Gold Wing",
+    "aliases": {
+      "日本": "ゴールドウイング (Gold Wing)",
+      "北美": "Gold Wing",
+      "欧洲": "Gold Wing",
+      "中国大陆": "金翼"
+    },
+    "note": "本田旗舰旅行车，中国大陆俗称金翼，海外称 Gold Wing"
+  },
+  {
+    "id": "cm:honda:super-cub",
+    "main": "Super Cub",
+    "aliases": {
+      "日本": "スーパーカブ",
+      "东南亚": "Super Cub / Cub",
+      "中国大陆": "幼兽"
+    },
+    "note": "本田全球累计销量破亿的弯梁车，中国大陆引进后称幼兽"
+  },
+  {
+    "id": "cm:honda:cb400sf",
+    "main": "CB400 Super Four",
+    "aliases": {
+      "日本": "CB400スーパーフォア",
+      "中国大陆": "CB400 超级四缸"
+    },
+    "note": "本田日本本土长青四缸街车，仅限日本市场销售，海外以平行进口流通"
+  },
+  {
+    "id": "cm:kawasaki:gpz-ninja",
+    "main": "GPZ900R Ninja",
+    "aliases": {
+      "日本": "GPZ900R ニンジャ",
+      "北美": "Ninja 900",
+      "欧洲": "GPZ900R"
+    },
+    "note": "川崎忍者鼻祖，北美市场称 Ninja 900，日本与欧洲用 GPZ900R"
+  },
+  {
+    "id": "cm:kawasaki:vn-vulcan",
+    "main": "Vulcan (VN)",
+    "aliases": {
+      "日本": "バルカン (VN)",
+      "北美": "Vulcan",
+      "欧洲": "Vulcan"
+    },
+    "note": "川崎巡航车系，北美以 Vulcan 命名，日本市场用 VN 型号名"
+  },
+  {
+    "id": "cm:kawasaki:versys",
+    "main": "Versys",
+    "aliases": {
+      "日本": "バーシス (Versys)",
+      "欧洲": "Versys",
+      "北美": "Versys"
+    },
+    "note": "川崎多功能探险车，全球命名统一，仅日语标注差异"
+  },
+  {
+    "id": "cm:bmw:r1200gs-r1250gs",
+    "main": "R 1250 GS",
+    "aliases": {
+      "中国大陆": "水鸟",
+      "北美": "R 1250 GS",
+      "欧洲": "R 1250 GS"
+    },
+    "note": "宝马旗舰探险车，中国大陆车友因水平对置双缸（拳击手）发动机和越野性能戏称水鸟"
+  },
+  {
+    "id": "cm:bmw:k1600",
+    "main": "K 1600 GTL",
+    "aliases": {
+      "中国大陆": "大GT",
+      "欧洲": "K 1600 GTL",
+      "北美": "K 1600 GTL"
+    },
+    "note": "宝马六缸旗舰旅行车，大陆车友俗称大GT"
+  },
+  {
+    "id": "cm:ducati:monster",
+    "main": "Monster",
+    "aliases": {
+      "日本": "モンスター",
+      "中国大陆": "怪兽",
+      "欧洲": "Monster"
+    },
+    "note": "杜卡迪经典裸把街车系列，中文圈称怪兽"
+  },
+  {
+    "id": "cm:triumph:bonneville",
+    "main": "Bonneville",
+    "aliases": {
+      "中国大陆": "邦尼维尔",
+      "欧洲": "Bonneville",
+      "日本": "ボンネビル"
+    },
+    "note": "凯旋经典复古车系，命名自美国盐湖城邦纳维尔盐滩"
+  },
+  {
+    "id": "cm:harley:heritage-softail",
+    "main": "Heritage Softail",
+    "aliases": {
+      "中国大陆": "继承者",
+      "北美": "Heritage Classic",
+      "欧洲": "Heritage Classic"
+    },
+    "note": "哈雷软尾系列经典车型，中文圈称继承者"
+  },
+  {
+    "id": "cm:harley:sportster",
+    "main": "Sportster",
+    "aliases": {
+      "中国大陆": "运动者",
+      "北美": "Sportster",
+      "日本": "スポーツスター"
+    },
+    "note": "哈雷历史最悠久的车系，中文圈称运动者"
+  },
+  {
+    "id": "cm:ktm:duke",
+    "main": "Duke",
+    "aliases": {
+      "中国大陆": "公爵",
+      "欧洲": "Duke",
+      "日本": "デューク"
+    },
+    "note": "KTM 街车系列，中文圈称公爵"
+  },
+  {
+    "id": "cm:ktm:adventure",
+    "main": "Adventure",
+    "aliases": {
+      "中国大陆": "探险家",
+      "欧洲": "Adventure",
+      "北美": "Adventure"
+    },
+    "note": "KTM 探险车系列，中文圈称探险家"
+  },
+  {
+    "id": "cm:royal-enfield:bullet",
+    "main": "Bullet",
+    "aliases": {
+      "印度": "बुलेट (Bullet)",
+      "中国大陆": "子弹头",
+      "英国": "Bullet"
+    },
+    "note": "皇家恩菲尔德最具历史车型，印度本土销量常青树"
+  },
+  {
+    "id": "cm:honda:cbr650r-cb650r",
+    "main": "CB650R / CBR650R",
+    "aliases": {
+      "北美": "CB650R / CBR650R",
+      "欧洲": "CB650R / CBR650R",
+      "中国大陆": "CB650R / CBR650R"
+    },
+    "note": "本田中量级四缸平台，街车版与跑车版全球同平台销售"
+  },
+  {
+    "id": "cm:suzuki:v-strom",
+    "main": "V-Strom (DL)",
+    "aliases": {
+      "日本": "Vストローム (DL)",
+      "欧洲": "V-Strom",
+      "北美": "V-Strom",
+      "中国大陆": "维斯托姆"
+    },
+    "note": "铃木探险车系，全球统一 V-Strom 名，中文圈常音译为维斯托姆"
+  },
+  {
+    "id": "cm:yamaha:tmax",
+    "main": "TMAX",
+    "aliases": {
+      "日本": "ティーマックス",
+      "欧洲": "TMAX",
+      "中国大陆": "踢妈克斯"
+    },
+    "note": "雅马哈旗舰运动踏板车，中文圈戏称踢妈克斯"
+  },
+  {
+    "id": "cm:honda:pcx",
+    "main": "PCX",
+    "aliases": {
+      "日本": "PCX",
+      "东南亚": "PCX",
+      "中国大陆": "PCX"
+    },
+    "note": "本田畅销中型踏板，全球命名统一，中国大陆为五羊-本田/新大洲本田合资生产"
+  },
+  {
+    "id": "cm:vespa:primavera",
+    "main": "Primavera",
+    "aliases": {
+      "日本": "プリマヴェーラ",
+      "中国大陆": "春天",
+      "意大利": "Primavera"
+    },
+    "note": "Vespa 经典小型踏板，Primavera 意大利语意为春天"
+  },
+  {
+    "id": "cm:vespa:sprint",
+    "main": "Sprint",
+    "aliases": {
+      "日本": "スプリント",
+      "中国大陆": "冲刺",
+      "意大利": "Sprint"
+    },
+    "note": "Vespa 运动踏板，Sprint 意为冲刺"
+  },
+  {
+    "id": "cm:aprilia:rsv4",
+    "main": "RSV4",
+    "aliases": {
+      "日本": "RSV4",
+      "欧洲": "RSV4",
+      "北美": "RSV4"
+    },
+    "note": "阿普利亚旗舰超级跑车，全球统一命名"
+  },
+  {
+    "id": "cm:qjmotor:benelli-tnt",
+    "main": "Benelli TNT (QJMOTOR 同平台)",
+    "aliases": {
+      "中国大陆": "钱江 TNT 系列",
+      "欧洲": "Benelli TNT",
+      "东南亚": "Benelli"
+    },
+    "note": "钱江收购贝纳利后，同一平台车型在中国大陆挂 QJMOTOR 品牌，海外挂 Benelli 品牌"
+  },
+  {
+    "id": "cm:cfmoto:450sr",
+    "main": "CFMoto 450SR",
+    "aliases": {
+      "中国大陆": "春风 450SR",
+      "欧洲": "CFMoto 450SR",
+      "北美": "CFMoto 450SR"
+    },
+    "note": "春风中量级仿赛，全球统一 SR 系列命名，大陆称春风，海外用 CFMoto"
+  },
+  {
+    "id": "cm:haojue:gsx250r",
+    "main": "Suzuki GSX250R (Haojue 合资)",
+    "aliases": {
+      "中国大陆": "豪爵铃木 GSX250R",
+      "海外": "Suzuki GSX250R"
+    },
+    "note": "豪爵与铃木合资生产，中国大陆称豪爵铃木，海外市场挂铃木标"
+  },
+  {
+    "id": "cm:yamaha:r15",
+    "main": "YZF-R15",
+    "aliases": {
+      "印度": "YZF-R15 V4",
+      "东南亚": "YZF-R15",
+      "中国大陆": "R15"
+    },
+    "note": "雅马哈小排量仿赛，印度/东南亚市场主力车型"
+  },
+  {
+    "id": "cm:honda:cbr150r",
+    "main": "CBR150R",
+    "aliases": {
+      "东南亚": "CBR150R",
+      "拉美": "CBR150R",
+      "日本": "CBR150R"
+    },
+    "note": "本田150cc仿赛，主打东南亚与拉美市场"
+  },
+  {
+    "id": "cm:kawasaki:klx",
+    "main": "KLX",
+    "aliases": {
+      "东南亚": "KLX",
+      "北美": "KLX",
+      "日本": "KLX"
+    },
+    "note": "川崎林道越野车系，全球统一命名"
+  },
+  {
+    "id": "cm:suzuki:address",
+    "main": "Address",
+    "aliases": {
+      "日本": "アドレス",
+      "东南亚": "Address",
+      "中国大陆": "时代"
+    },
+    "note": "铃木通勤踏板，日本称 Address，中国大陆合资厂称时代"
+  },
+  {
+    "id": "cm:yamaha:jog",
+    "main": "Jog",
+    "aliases": {
+      "日本": "ジョグ",
+      "中国大陆": "巧格",
+      "东南亚": "Jog"
+    },
+    "note": "雅马哈经典小踏板，中国大陆合资生产称巧格"
+  },
+  {
+    "id": "cm:yamaha:cygnus",
+    "main": "Cygnus (劲战)",
+    "aliases": {
+      "台湾": "勁戰",
+      "日本": "シグナス (Cygnus)",
+      "东南亚": "Cygnus"
+    },
+    "note": "雅马哈125cc运动踏板，台湾市场称劲战，日本与东南亚用 Cygnus"
+  },
+  {
+    "id": "cm:kymco:like",
+    "main": "Like",
+    "aliases": {
+      "台湾": "Like",
+      "欧洲": "Like",
+      "中国大陆": "丽可"
+    },
+    "note": "光阳复古踏板，中国大陆常音译为丽可"
+  },
+  {
+    "id": "cm:sym:jet",
+    "main": "Jet",
+    "aliases": {
+      "台湾": "JET",
+      "欧洲": "Jet",
+      "中国大陆": "捷特"
+    },
+    "note": "三阳运动踏板系列，台湾市场称 JET"
+  },
+  {
+    "id": "cm:piaggio:mp3",
+    "main": "MP3",
+    "aliases": {
+      "欧洲": "MP3",
+      "日本": "MP3",
+      "中国大陆": "MP3 倒三轮"
+    },
+    "note": "比亚乔倒三轮踏板，全球统一命名"
+  },
+  {
+    "id": "cm:indian:scout",
+    "main": "Scout",
+    "aliases": {
+      "北美": "Scout",
+      "欧洲": "Scout",
+      "中国大陆": "侦察兵"
+    },
+    "note": "印第安经典车系，中文圈称侦察兵"
+  },
+  {
+    "id": "cm:indian:chief",
+    "main": "Chief",
+    "aliases": {
+      "北美": "Chief",
+      "欧洲": "Chief",
+      "中国大陆": "首领"
+    },
+    "note": "印第安旗舰巡航车系，Chief 意为首领"
+  },
+  {
+    "id": "cm:moto-guzzi:v7",
+    "main": "V7",
+    "aliases": {
+      "欧洲": "V7",
+      "日本": "V7",
+      "中国大陆": "V7"
+    },
+    "note": "摩托古兹经典横置V缸街车，全球统一命名"
+  },
+  {
+    "id": "cm:honda:forza",
+    "main": "Forza",
+    "aliases": {
+      "日本": "フォルツァ",
+      "欧洲": "Forza",
+      "中国大陆": "佛沙"
+    },
+    "note": "本田中量级踏板，中国大陆引进后称佛沙"
+  },
+  {
+    "id": "cm:honda:xadv",
+    "main": "X-ADV",
+    "aliases": {
+      "日本": "X-ADV",
+      "欧洲": "X-ADV",
+      "中国大陆": "X-ADV"
+    },
+    "note": "本田跨界探险踏板，全球统一命名"
+  },
+  {
+    "id": "cm:yamaha:nmax",
+    "main": "NMAX",
+    "aliases": {
+      "东南亚": "NMAX",
+      "欧洲": "NMAX",
+      "中国大陆": "NMAX"
+    },
+    "note": "雅马哈运动通勤踏板，东南亚市场销量主力"
+  },
+  {
+    "id": "cm:suzuki:dr",
+    "main": "DR (DualSport)",
+    "aliases": {
+      "北美": "DR650",
+      "欧洲": "DR650",
+      "日本": "DR650"
+    },
+    "note": "铃木经典双运动车系，全球统一 DR 命名"
+  },
+  {
+    "id": "cm:kawasaki:z900rs",
+    "main": "Z900RS",
+    "aliases": {
+      "日本": "Z900RS ゼファー",
+      "欧洲": "Z900RS",
+      "北美": "Z900RS"
+    },
+    "note": "川崎复古街车，致敬 Z1 经典造型，日本市场与 Zephyr 系列一脉相承"
+  },
+  {
+    "id": "cm:bmw:s1000rr",
+    "main": "S 1000 RR",
+    "aliases": {
+      "日本": "S1000RR",
+      "欧洲": "S 1000 RR",
+      "中国大陆": "S 1000 RR"
+    },
+    "note": "宝马公升级超级跑车，全球统一命名"
+  },
+  {
+    "id": "cm:kawasaki:eliminator-400-450",
+    "main": "Eliminator 400/450",
+    "aliases": {
+      "日本": "エリミネーター 400 (Eliminator 400)",
+      "北美": "Eliminator 450",
+      "欧洲": "Eliminator 450",
+      "中国大陆": "Eliminator 450"
+    },
+    "note": "川崎现代复古巡航，日本本土用 399cc 的 Eliminator 400，北美等市场用 Z400 扩缸的 451cc Eliminator 450"
+  },
+  {
+    "id": "cm:suzuki:gixxer",
+    "main": "Gixxer 155",
+    "aliases": {
+      "印度": "Gixxer 155",
+      "东南亚": "Gixxer 155",
+      "中国大陆": "极客飒 GIXXER 155"
+    },
+    "note": "铃木155cc单缸入门车，印度首发，街车版称 Gixxer、仿赛版称 Gixxer SF，中国大陆济南铃木合资生产称极客飒"
+  },
+  {
+    "id": "cm:honda:wave-supra",
+    "main": "Wave 系列",
+    "aliases": {
+      "泰国": "Wave",
+      "马来西亚": "Wave",
+      "中国大陆": "威武"
+    },
+    "note": "本田东南亚市场弯梁车主力，各市场命名 Wave 系列，中国大陆合资厂称威武"
+  },
+  {
+    "id": "cm:honda:varadero",
+    "main": "VTR1000 Varadero",
+    "aliases": {
+      "欧洲": "Varadero",
+      "日本": "バラデロ (Varadero)",
+      "北美": "Varadero"
+    },
+    "note": "本田大排量探险车，全球统一 Varadero 命名，源自西班牙地名"
+  },
+  {
+    "id": "cm:honda:ct125-hunter-cub",
+    "main": "CT125 Hunter Cub",
+    "aliases": {
+      "日本": "ハンターカブ (Hunter Cub)",
+      "欧洲": "CT125 Hunter Cub",
+      "中国大陆": "猎人幼兽"
+    },
+    "note": "本田经典 Trail 越野弯梁复兴车型，日本称猎人幼兽"
+  },
+  {
+    "id": "cm:honda:cub-trail",
+    "main": "C50/C90 Trail",
+    "aliases": {
+      "日本": "カブ (Cub)",
+      "东南亚": "Cub / Wave",
+      "中国大陆": "幼兽"
+    },
+    "note": "本田 Cub 系列弯梁车，各市场称谓差异大"
+  },
+  {
+    "id": "cm:yamaha:mt15",
+    "main": "MT-15",
+    "aliases": {
+      "印度": "MT-15",
+      "东南亚": "MT-15",
+      "欧洲": "MT-125"
+    },
+    "note": "雅马哈小排量街车，亚洲市场用 155cc MT-15，欧洲市场用 125cc MT-125"
+  },
+  {
+    "id": "cm:yamaha:aerox",
+    "main": "Aerox 155",
+    "aliases": {
+      "东南亚": "Aerox 155",
+      "欧洲": "NMAX 155",
+      "中国大陆": "Aerox 155"
+    },
+    "note": "雅马哈运动踏板，东南亚市场 Aerox 与 NMAX 同平台，欧洲部分地区以 NMAX 155 销售"
+  },
+  {
+    "id": "cm:yamaha:fino",
+    "main": "Fino",
+    "aliases": {
+      "泰国": "Fino",
+      "印度尼西亚": "Fino",
+      "台湾": "Vinoora"
+    },
+    "note": "雅马哈复古小踏板，东南亚称 Fino，台湾市场以 Vinoora 之名销售"
+  },
+  {
+    "id": "cm:suzuki:burgman-street",
+    "main": "Burgman Street",
+    "aliases": {
+      "印度": "Burgman Street EX",
+      "东南亚": "Burgman Street EX",
+      "中国大陆": "汉堡人 Street"
+    },
+    "note": "铃木125cc豪华通勤踏板，印度首发，与 Burgman 400/650 大踏板同名不同平台"
+  },
+  {
+    "id": "cm:suzuki:raider",
+    "main": "Raider 150",
+    "aliases": {
+      "印度尼西亚": "Raider 150",
+      "菲律宾": "Raider 150",
+      "马来西亚": "Raider 150"
+    },
+    "note": "铃木东南亚运动弯梁/街车，150cc单缸，菲律宾赛车文化标志车型"
+  },
+  {
+    "id": "cm:suzuki:lets",
+    "main": "Let's 系列",
+    "aliases": {
+      "日本": "レッツ (Let's)",
+      "东南亚": "Let's / Next",
+      "欧洲": "Let's"
+    },
+    "note": "铃木50cc小踏板，日本与东南亚市场以 Let's 系列命名"
+  },
+  {
+    "id": "cm:honda:benly",
+    "main": "Benly 系列",
+    "aliases": {
+      "日本": "ベンリー (Benly)",
+      "东南亚": "Benly",
+      "中国大陆": "本利"
+    },
+    "note": "本田经典通勤弯梁/摩托车系列，名称源自本田宗一郎昵称"
+  },
+  {
+    "id": "cm:kawasaki:ksr",
+    "main": "KSR",
+    "aliases": {
+      "日本": "KSR",
+      "欧洲": "KSR",
+      "北美": "KSR"
+    },
+    "note": "川崎迷你越野街车，全球统一 KSR 命名，与 D-Tracker 同平台"
+  },
+  {
+    "id": "cm:honda:cb350-hness",
+    "main": "H'ness CB350 / GB350",
+    "aliases": {
+      "印度": "H'ness CB350 / CB350RS",
+      "日本": "GB350 / GB350S",
+      "欧洲": "CB350",
+      "中国大陆": "GB350"
+    },
+    "note": "本田350cc复古单缸，同一平台在不同市场命名不同：印度称 H'ness CB350/CB350RS，日本与中国大陆称 GB350/GB350S"
+  },
+  {
+    "id": "cm:suzuki:gsx-s125",
+    "main": "GSX-S125",
+    "aliases": {
+      "欧洲": "GSX-S125",
+      "日本": "GSX-S125",
+      "北美": "GSX-R125"
+    },
+    "note": "铃木125cc入门车，欧洲街车版 GSX-S125、仿赛版 GSX-R125，北美仅引进 GSX-R125"
+  },
+  {
+    "id": "cm:yamaha:yzf-r125",
+    "main": "YZF-R125",
+    "aliases": {
+      "欧洲": "YZF-R125",
+      "日本": "YZF-R125",
+      "北美": "YZF-R15 (导入)"
+    },
+    "note": "雅马哈125cc入门仿赛，欧洲与日本主力，北美市场以印度产 YZF-R15 作为替代入门车型"
+  },
+  {
+    "id": "cm:honda:rebel-300",
+    "main": "Rebel 300",
+    "aliases": {
+      "北美": "Rebel 300",
+      "欧洲": "CMX300",
+      "日本": "レブル 300"
+    },
+    "note": "本田小排量巡航，北美称 Rebel 300，欧洲以 CMX300 型号名销售"
+  },
+  {
+    "id": "cm:kawasaki:w800",
+    "main": "W800",
+    "aliases": {
+      "日本": "W800",
+      "欧洲": "W800 Street / W800 Cafe",
+      "中国大陆": "W800"
+    },
+    "note": "川崎复古街车，欧洲市场有 Street 与 Cafe 细分版本，日本市场以 W800 统称"
+  },
+  {
+    "id": "cm:yamaha:xv950",
+    "main": "XV950",
+    "aliases": {
+      "北美": "Bolt",
+      "欧洲": "XV950",
+      "日本": "ボルト (Bolt)"
+    },
+    "note": "雅马哈中量级巡航，北美与日本称 Bolt，欧洲市场用 XV950 型号名"
+  },
+  {
+    "id": "cm:suzuki:gsx250",
+    "main": "GSX250R",
+    "aliases": {
+      "日本": "GSX250R",
+      "欧洲": "GSX250R",
+      "中国大陆": "豪爵铃木 GSX250R"
+    },
+    "note": "铃木入门仿赛，中国大陆为豪爵铃木合资生产，海外挂铃木标"
+  },
+  {
+    "id": "cm:honda:dio",
+    "main": "Dio",
+    "aliases": {
+      "日本": "ディオ (Dio)",
+      "东南亚": "Dio",
+      "印度": "Activa (同级)"
+    },
+    "note": "本田经典50cc/110cc踏板，日本与东南亚称 Dio，印度市场以 Activa 为同级主力"
+  },
+  {
+    "id": "cm:honda:activa",
+    "main": "Activa",
+    "aliases": {
+      "印度": "Activa",
+      "东南亚": "Activa",
+      "日本": "(无对应)"
+    },
+    "note": "本田印度市场销量冠军踏板，印度特供车型，日本本土无对应车型"
+  },
+  {
+    "id": "cm:yamaha:lexi",
+    "main": "Lexi 125",
+    "aliases": {
+      "泰国": "Lexi 125",
+      "马来西亚": "Lexi 125",
+      "欧洲": "Lexi 125"
+    },
+    "note": "雅马哈通勤踏板，主打东南亚与欧洲市场"
+  },
+  {
+    "id": "cm:honda:supra-gtr",
+    "main": "Supra GTR 150",
+    "aliases": {
+      "印度尼西亚": "Supra GTR 150",
+      "马来西亚": "Supra GTR 150",
+      "泰国": "Supra GTR 150"
+    },
+    "note": "本田印尼市场运动弯梁，150cc水冷，与 Wave 系列区分的高性能版本"
+  },
+  {
+    "id": "cm:royal-enfield:classic-350",
+    "main": "Classic 350",
+    "aliases": {
+      "印度": "क्लासिक 350 (Classic 350)",
+      "欧洲": "Classic 350",
+      "北美": "Classic 350"
+    },
+    "note": "皇家恩菲尔德销量主力复古单缸，全球统一命名"
+  },
+  {
+    "id": "cm:ktm:390-duke",
+    "main": "390 Duke",
+    "aliases": {
+      "印度": "390 Duke",
+      "欧洲": "390 Duke",
+      "北美": "390 Duke"
+    },
+    "note": "KTM 中量级街车，印度生产供应全球，命名统一"
+  },
+  {
+    "id": "cm:bmw:g310",
+    "main": "G 310 R",
+    "aliases": {
+      "印度": "G 310 R",
+      "欧洲": "G 310 R",
+      "北美": "G 310 R"
+    },
+    "note": "宝马入门街车，印度 TVS 代工生产供应全球，命名统一"
+  }
+]

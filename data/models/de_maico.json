@@ -1,0 +1,38 @@
+{
+  "models": [
+    {
+      "id": "model:maico:mc-250",
+      "brand": "Maico",
+      "names": {
+        "en": "MC 250",
+        "zh-CN": "MC 250 越野摩托（停产）",
+        "zh-TW": "MC 250 越野摩托（停產）",
+        "ja": "MC250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1966–1983",
+      "note": "250cc二冲程越野赛车，1970年代Maico在motocross赛场的主战力，多次问鼎世界冠军",
+      "verified": "verified"
+    },
+    {
+      "id": "model:maico:mc-500",
+      "brand": "Maico",
+      "names": {
+        "en": "MC 500",
+        "zh-CN": "MC 500 越野摩托（停产）",
+        "zh-TW": "MC 500 越野摩托（停產）",
+        "ja": "MC500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1970–1980",
+      "note": "499cc二冲程大排量越野赛车，动力狂暴，1970年代motocross 500cc组别的统治者",
+      "verified": "verified"
+    }
+  ]
+}

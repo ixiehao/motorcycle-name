@@ -1,0 +1,38 @@
+{
+  "models": [
+    {
+      "id": "model:dkw:rt-125",
+      "brand": "DKW",
+      "names": {
+        "en": "RT 125",
+        "zh-CN": "RT 125 二冲程经典车（停产）",
+        "zh-TW": "RT 125 二衝程經典車（停產）",
+        "ja": "RT125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1939–1955",
+      "note": "123cc二冲程单缸摩托车，二战前后全球产量最大的摩托车之一，战后被多国仿制生产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dkw:nz-350",
+      "brand": "DKW",
+      "names": {
+        "en": "NZ 350",
+        "zh-CN": "NZ 350 二冲程双缸车（停产）",
+        "zh-TW": "NZ 350 二衝程雙缸車（停產）",
+        "ja": "NZ350"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1938–1954",
+      "note": "346cc二冲程并列双缸摩托车，DKW战前战后最具代表性的中型车，战后恢复生产多年",
+      "verified": "verified"
+    }
+  ]
+}

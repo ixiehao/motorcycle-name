@@ -1,0 +1,1024 @@
+{
+  "models": [
+    {
+      "id": "model:bmw:g-310-r",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "G 310 R",
+        "zh-CN": "G 310 R 入门街车",
+        "zh-TW": "G 310 R 入門街車",
+        "ja": "G310R"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "313cc单缸倒缸，宝马入门街车，印度TVS生产，全球销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw:g-310-gs",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "G 310 GS",
+        "zh-CN": "G 310 GS 小排量探险车",
+        "zh-TW": "G 310 GS 小排量探險車",
+        "ja": "G310GS"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "G310R同平台ADV，鸟嘴设计，入门探险，轻量化易操控",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw:f-900-r",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "F 900 R",
+        "zh-CN": "F 900 R 双缸街车",
+        "zh-TW": "F 900 R 雙缸街車",
+        "ja": "F900R"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "895cc并列双缸，Adaptive Headlight自适应大灯，运动街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw:f-900-xr",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "F 900 XR",
+        "zh-CN": "F 900 XR 跨界运动探险车",
+        "zh-TW": "F 900 XR 跨界運動探險車",
+        "ja": "F900XR"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "F900R同平台，半整流罩，运动旅行跨界，S1000XR的小弟",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw:f-750-gs",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "F 750 GS",
+        "zh-CN": "F 750 GS 中量级探险车",
+        "zh-TW": "F 750 GS 中量級探險車",
+        "ja": "F750GS"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "853cc并列双缸，低坐高版本，公路取向ADV，电子悬挂可选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw:f-850-gs",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "F 850 GS",
+        "zh-CN": "F 850 GS 中量级探险车",
+        "zh-TW": "F 850 GS 中量級探險車",
+        "ja": "F850GS"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "853cc并列双缸，21寸前轮，越野能力更强，F系列GS标准版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw:f-850-gs-adventure",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "F 850 GS Adventure",
+        "zh-CN": "F 850 GS Adventure 大油箱探险车",
+        "zh-TW": "F 850 GS Adventure 大油箱探險車",
+        "ja": "F850GSアドベンチャー"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "F850GS长途版，23L大油箱+护杠，越野强化，长途穿越利器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw:s-1000-r",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "S 1000 R",
+        "zh-CN": "S 1000 R 公升级运动街车",
+        "zh-TW": "S 1000 R 公升級運動街車",
+        "ja": "S1000R"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "999cc并列四缸，ShiftCam技术，S1000RR街车版，165马力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw:s-1000-rr",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "S 1000 RR",
+        "zh-CN": "S 1000 RR 旗舰仿赛",
+        "zh-TW": "S 1000 RR 旗艦仿賽",
+        "ja": "S1000RR"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "999cc四缸ShiftCam，210马力，WSBK赛车技术下放，超级跑车标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw:m-1000-r",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "M 1000 R",
+        "zh-CN": "M 1000 R M系列高性能街车",
+        "zh-TW": "M 1000 R M系列高性能街車",
+        "ja": "M1000R"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "M系列街车，S1000RR引擎，210马力，碳纤维件，高规格刹车悬挂",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw:m-1000-rr",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "M 1000 RR",
+        "zh-CN": "M 1000 RR M系列旗舰仿赛",
+        "zh-TW": "M 1000 RR M系列旗艦仿賽",
+        "ja": "M1000RR"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "宝马首台M车型摩托车，212马力，碳纤维气动翼，WSBK赛用规格",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw:r-1250-r",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 1250 R",
+        "zh-CN": "R 1250 R 拳击手街车",
+        "zh-TW": "R 1250 R 拳擊手街車",
+        "ja": "R1250R"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "1254cc水平对置双缸ShiftCam，拳击手发动机经典传承，Roadster街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw:r-1250-rt",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 1250 RT",
+        "zh-CN": "R 1250 RT 豪华运动旅行车",
+        "zh-TW": "R 1250 RT 豪華運動旅行車",
+        "ja": "R1250RT"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "1254cc拳击手ShiftCam，全整流罩豪华旅行，主动巡航ACC，可选雷达",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw:r-1250-gs",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 1250 GS",
+        "zh-CN": "R 1250 GS 水鸟 探险旗舰",
+        "zh-TW": "R 1250 GS 水鳥 探險旗艦",
+        "ja": "R1250GS"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "1254cc水平对置双缸ShiftCam，ADV销量王，公路越野全能，宝马灵魂车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw:r-1250-gs-adventure",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 1250 GS Adventure",
+        "zh-CN": "R 1250 GS Adventure 水鸟ADV 大油箱探险旗舰",
+        "zh-TW": "R 1250 GS Adventure 水鳥ADV 大油箱探險旗艦",
+        "ja": "R1250GSアドベンチャー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "R1250GS长途版，30L大油箱+护杠，越野强化，环球摩旅首选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw:r-ninet",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R nineT / R nineT Pure / Urban G/S",
+        "zh-CN": "R nineT 拿铁 复古街车系列",
+        "zh-TW": "R nineT 拿鐵 復古街車系列",
+        "ja": "RナインT"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "1170cc气冷油冷拳击手，模块化车架，Pure/Pure/Urban G/S多款复古衍生",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw:k-1600-gt",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "K 1600 GT / K 1600 GTL",
+        "zh-CN": "K 1600 GT/GTL 六缸豪华旅行车",
+        "zh-TW": "K 1600 GT/GTL 六缸豪華旅行車",
+        "ja": "K1600GT/GTL"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2011–present",
+      "note": "1649cc直列六缸，160马力，顶级豪华旅行，GTL为顶箱长途版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw:c-400-x",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "C 400 X / C 400 GT",
+        "zh-CN": "C 400 X/GT 大踏板",
+        "zh-TW": "C 400 X/GT 大踏板",
+        "ja": "C400X/C400GT"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "350cc单缸，C400X运动型/C400GT旅行型，Flex Case可变储物",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw:ce-04",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "CE 04",
+        "zh-CN": "CE 04 纯电踏板车",
+        "zh-TW": "CE 04 純電踏板車",
+        "ja": "CE04"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "42马力纯电踏板，续航约130km，未来主义设计，宝马电动化先锋",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-1300-gs",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 1300 GS",
+        "zh-CN": "R 1300 GS 新水鸟 探险旗舰",
+        "zh-TW": "R 1300 GS 新水鳥 探險旗艦",
+        "ja": "R1300GS"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "1300cc水平对置双缸，2024年接替R 1250 GS成为新一代探险旗舰，减重约12kg，电控全面升级",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-18",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 18",
+        "zh-CN": "R 18 大拳击手 巡航车",
+        "zh-TW": "R 18 大拳擊手 巡航車",
+        "ja": "R18"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "1802cc超大水平对置双缸，复古巡航风格，致敬1936年宝马R5设计，宝马现代巡航代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-18-classic",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 18 Classic",
+        "zh-CN": "R 18 Classic 复古豪华巡航车",
+        "zh-TW": "R 18 Classic 復古豪華巡航車",
+        "ja": "R18クラシック"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "R 18长途版，加装大风挡与皮革边箱，复古豪华巡航",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:s-1000-xr",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "S 1000 XR",
+        "zh-CN": "S 1000 XR 跨界运动探险车",
+        "zh-TW": "S 1000 XR 跨界運動探險車",
+        "ja": "S1000XR"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "999cc并列四缸，S1000RR同款动力，运动旅行跨界，长途运动两相宜",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:f-900-gs",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "F 900 GS",
+        "zh-CN": "F 900 GS 中量级探险车",
+        "zh-TW": "F 900 GS 中量級探險車",
+        "ja": "F900GS"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "895cc并列双缸，2024年换代F 850 GS，轻量化车架，越野能力提升的中量级ADV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:k-1600-b",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "K 1600 B",
+        "zh-CN": "K 1600 B 六缸Bagger",
+        "zh-TW": "K 1600 B 六缸Bagger",
+        "ja": "K1600B"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bagger",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "1649cc直列六缸Bagger，深色风格低坐姿，K 1600系列袋式旅行版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:g-310-rr",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "G 310 RR",
+        "zh-CN": "G 310 RR 小排量仿赛",
+        "zh-TW": "G 310 RR 小排量仿賽",
+        "ja": "G310RR"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "313cc单缸倒缸，TVS制造，宝马首款入门仿赛，年轻车手入门首选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-12-ninet",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 12 nineT",
+        "zh-CN": "R 12 nineT 复古街车",
+        "zh-TW": "R 12 nineT 復古街車",
+        "ja": "R12ナインT"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "1170cc水平对置双缸，2024年全新复古街车，模块化车架，R nineT系列进化版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:c-650-gt",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "C 650 GT",
+        "zh-CN": "C 650 GT 豪华大踏板（停产）",
+        "zh-TW": "C 650 GT 豪華大踏板（停產）",
+        "ja": "C650GT"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2019",
+      "note": "647cc并列双缸大踏板，电动风挡电加热手把，豪华舒适，2019年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-32",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 32",
+        "zh-CN": "R 32 拳击手街车",
+        "zh-TW": "R 32 拳擊手街車",
+        "ja": "R32"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1923–1926",
+      "note": "1923年推出的宝马第一辆摩托车，开创水平对置拳击手发动机与轴传动的百年传统",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-37",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 37",
+        "zh-CN": "R 37 顶置气门赛车版",
+        "zh-TW": "R 37 頂置氣門賽車版",
+        "ja": "R37"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1924–1926",
+      "note": "R32的顶置气门赛车版，开启宝马赛车之路，1920年代横扫德国500cc级赛事",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-52",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 52",
+        "zh-CN": "R 52 拳击手街车",
+        "zh-TW": "R 52 拳擊手街車",
+        "ja": "R52"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1928–1929",
+      "note": "500cc侧置气门拳击手街车，1920年代末宝马主力车型，轴传动传统的中坚之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-5",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 5",
+        "zh-CN": "R 5 顶置气门街车",
+        "zh-TW": "R 5 頂置氣門街車",
+        "ja": "R5"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1936–1937",
+      "note": "顶置气门500cc拳击手，首款配备液压阻尼伸缩前叉的宝马，设计美学影响后世多代车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-17",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 17",
+        "zh-CN": "R 17 大排量运动街车",
+        "zh-TW": "R 17 大排量運動街車",
+        "ja": "R17"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1935–1937",
+      "note": "战前736cc顶置气门大排量运动旗舰，与侧置气门R12同代，速度与操控俱佳",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-66",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 66",
+        "zh-CN": "R 66 拳击手街车",
+        "zh-TW": "R 66 拳擊手街車",
+        "ja": "R66"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1938–1941",
+      "note": "战前600cc顶置气门拳击手，与R51、R61、R71同代，豪华运动取向的战前经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-24",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 24",
+        "zh-CN": "R 24 单缸街车",
+        "zh-TW": "R 24 單缸街車",
+        "ja": "R24"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1948–1950",
+      "note": "二战后的第一款宝马摩托车，247cc单缸，1948年推出，让宝马摩托浴火重生",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-25-3",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 25/3",
+        "zh-CN": "R 25/3 单缸街车",
+        "zh-TW": "R 25/3 單缸街車",
+        "ja": "R25/3"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1953–1956",
+      "note": "250cc单缸第三代，配全伸缩前叉，1950年代宝马经典单缸街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-51-3",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 51/3",
+        "zh-CN": "R 51/3 拳击手街车",
+        "zh-TW": "R 51/3 拳擊手街車",
+        "ja": "R51/3"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1951–1955",
+      "note": "战后500cc侧置气门拳击手，采用全伸缩前叉，1950年代宝马的招牌车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-67",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 67",
+        "zh-CN": "R 67 拳击手街车",
+        "zh-TW": "R 67 拳擊手街車",
+        "ja": "R67"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1951–1954",
+      "note": "战后600cc侧置气门拳击手，与R51/3同代，扭矩充沛的经典双缸",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-68",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 68",
+        "zh-CN": "R 68 运动街车",
+        "zh-TW": "R 68 運動街車",
+        "ja": "R68"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1952–1954",
+      "note": "600cc顶置气门运动版，时速可达160km/h，1950年代初全球最快的量产摩托车之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-69-s",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 69 S",
+        "zh-CN": "R 69 S 运动街车",
+        "zh-TW": "R 69 S 運動街車",
+        "ja": "R69S"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1960–1969",
+      "note": "600cc运动拳击手，1960年代宝马速度标杆，如今是收藏市场的高价经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-90-s",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 90 S",
+        "zh-CN": "R 90 S 全整流罩跑车",
+        "zh-TW": "R 90 S 全整流罩跑車",
+        "ja": "R90S"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1973–1976",
+      "note": "1973年推出的首款全整流罩量产跑车，898cc拳击手，Darmah红涂装成经典符号",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-90-6",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 90/6",
+        "zh-CN": "R 90/6 运动街车",
+        "zh-TW": "R 90/6 運動街車",
+        "ja": "R90/6"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–1976",
+      "note": "/6系列旗舰街车，与R90S同款898cc发动机，电启动为选配，1970年代运动街车代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-100-rs",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 100 RS",
+        "zh-CN": "R 100 RS 运动旅行车",
+        "zh-TW": "R 100 RS 運動旅行車",
+        "ja": "R100RS"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1976–1984",
+      "note": "首款标配整车架固定全整流罩的量产车型，980cc拳击手，开创现代运动旅行车类别",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-100-rt",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 100 RT",
+        "zh-CN": "R 100 RT 豪华旅行车",
+        "zh-TW": "R 100 RT 豪華旅行車",
+        "ja": "R100RT"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1978–1996",
+      "note": "980cc拳击手豪华旅行版，全整流罩大风挡，长途舒适性标杆，气冷R系列寿星",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-80-g-s",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 80 G/S",
+        "zh-CN": "R 80 G/S 探险车鼻祖",
+        "zh-TW": "R 80 G/S 探險車鼻祖",
+        "ja": "R80G/S"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1980–1987",
+      "note": "1980年推出的GS探险系列鼻祖，798cc拳击手，开创ADV细分市场，达喀尔赛场扬名",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-100-gs",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 100 GS",
+        "zh-CN": "R 100 GS 探险车",
+        "zh-TW": "R 100 GS 探險車",
+        "ja": "R100GS"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1987–1996",
+      "note": "GS系列扩至980cc，1990年升级Paralever后悬挂，双用途探险车的经典之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:k-100",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "K 100",
+        "zh-CN": "K 100 直列四缸街车",
+        "zh-TW": "K 100 直列四缸街車",
+        "ja": "K100"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1983–1992",
+      "note": "1983年推出的宝马首款直列四缸车型，987cc纵置水冷，绰号Flying Brick，K系列开端",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:k-75",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "K 75",
+        "zh-CN": "K 75 直列三缸街车",
+        "zh-TW": "K 75 直列三缸街車",
+        "ja": "K75"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1985–1995",
+      "note": "宝马唯一的直列三缸车型，740cc水冷，带平衡轴运转平顺，K系列中最均衡的车款",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:k-1100-lt",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "K 1100 LT",
+        "zh-CN": "K 1100 LT 豪华旅行车",
+        "zh-TW": "K 1100 LT 豪華旅行車",
+        "ja": "K1100LT"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1993–1999",
+      "note": "1093cc直列四缸豪华旅行旗舰，电动风挡、音响等豪华装备，K100LT的后继者",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-1100-gs",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 1100 GS",
+        "zh-CN": "R 1100 GS 探险车",
+        "zh-TW": "R 1100 GS 探險車",
+        "ja": "R1100GS"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1994–1999",
+      "note": "现代GS时代开端，1085cc油冷拳击手，Telelever前悬挂，确立GS车系全球地位",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-1200-c",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 1200 C",
+        "zh-CN": "R 1200 C 巡航车",
+        "zh-TW": "R 1200 C 巡航車",
+        "ja": "R1200C"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2004",
+      "note": "宝马首款现代巡航车，1170cc拳击手，007电影《明日帝国》中的邦德座驾",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-1200-gs",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 1200 GS",
+        "zh-CN": "R 1200 GS 探险车（初代）",
+        "zh-TW": "R 1200 GS 探險車（初代）",
+        "ja": "R1200GS"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004–2012",
+      "note": "GS系列首款1170cc油冷拳击手，大幅减重并登顶全球ADV销量王，2012年被水冷版取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r1300gs-2026",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 1300 GS 2026",
+        "zh-CN": "R 1300 GS 探险车（2026款）",
+        "zh-TW": "R 1300 GS 探險車（2026款）",
+        "ja": "R 1300 GS"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "宝马2026款旗舰探险车更新，1300cc水平对置双缸，2025年7月发布2026版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-1300-gs-adventure",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 1300 GS Adventure",
+        "zh-CN": "R 1300 GS Adventure 大油箱探险旗舰",
+        "zh-TW": "R 1300 GS Adventure 大油箱探險旗艦",
+        "ja": "R 1300 GSアドベンチャー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "1300cc新一代GS长途版，30L大油箱，可选ASA自动离合器，2025年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:f-800-gs",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "F 800 GS",
+        "zh-CN": "F 800 GS 中量级探险车",
+        "zh-TW": "F 800 GS 中量級探險車",
+        "ja": "F800GS"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "895cc并列双缸，2024年接替F 750 GS的中量级ADV，2026款更新电控与配色",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:f-900-gs-adventure",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "F 900 GS Adventure",
+        "zh-CN": "F 900 GS Adventure 中量级大油箱探险车",
+        "zh-TW": "F 900 GS Adventure 中量級大油箱探險車",
+        "ja": "F900GSアドベンチャー"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "895cc并列双缸，F 900 GS长途版，24L大油箱+护杠，2026款更新",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:m-1000-xr",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "M 1000 XR",
+        "zh-CN": "M 1000 XR M系列高性能运动旅行车",
+        "zh-TW": "M 1000 XR M系列高性能運動旅行車",
+        "ja": "M1000XR"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "999cc四缸ShiftCam，约201马力M系列运动旅行旗舰，2026款更新",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:f-450-gs",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "F 450 GS",
+        "zh-CN": "F 450 GS 中排量探险车",
+        "zh-TW": "F 450 GS 中排量探險車",
+        "ja": "F450GS"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2025年11月发布的全新双缸中排量探险车，可选离心式离合器，宝马两缸入门GS",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:r-12",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "R 12",
+        "zh-CN": "R 12 复古巡航车",
+        "zh-TW": "R 12 復古巡航車",
+        "ja": "R12"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "1170cc水平对置双缸，2024年全新复古巡航车，与R 12 nineT同平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bmw-motorrad:ce-02",
+      "brand": "BMW Motorrad",
+      "names": {
+        "en": "CE 02",
+        "zh-CN": "CE 02 都市电动摩托",
+        "zh-TW": "CE 02 都市電動摩托",
+        "ja": "CE02"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "11kW纯电都市通勤摩托，eParkourer定位，最高时速95km，续航约90km，2024年上市",
+      "verified": "verified"
+    }
+  ]
+}

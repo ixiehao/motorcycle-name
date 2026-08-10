@@ -1,0 +1,225 @@
+{
+  "models": [
+    {
+      "id": "model:voge:rr660s",
+      "brand": "Voge",
+      "names": {
+        "en": "RR660S",
+        "zh-CN": "RR660S 仿赛",
+        "zh-TW": "RR660S 仿賽",
+        "ja": "RR660S"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "无极旗舰仿赛，660cc三缸水冷发动机，国产首批量产三缸跑车之一，2024年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:voge:rr500s",
+      "brand": "Voge",
+      "names": {
+        "en": "RR500S",
+        "zh-CN": "RR500S 仿赛",
+        "zh-TW": "RR500S 仿賽",
+        "ja": "RR500S"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025年上市的中排量四缸仿赛，475cc直列四缸，标配TCS牵引力控制，主打高性价比跑山性能",
+      "verified": "verified"
+    },
+    {
+      "id": "model:voge:ds900x",
+      "brand": "Voge",
+      "names": {
+        "en": "DS900X",
+        "zh-CN": "DS900X 探险车",
+        "zh-TW": "DS900X 探險車",
+        "ja": "DS900X"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "无极旗舰ADV，895cc并列双缸，源自宝马F900同源动力平台，2024年上市，2025年推出改款",
+      "verified": "verified"
+    },
+    {
+      "id": "model:voge:ds800x",
+      "brand": "Voge",
+      "names": {
+        "en": "DS800X",
+        "zh-CN": "DS800X 探险车",
+        "zh-TW": "DS800X 探險車",
+        "ja": "DS800X"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "798cc并列双缸ADV，2025重庆摩博会亮相，海外市场称DS800 Rally，2026年在国内发布",
+      "verified": "verified"
+    },
+    {
+      "id": "model:voge:ds500x",
+      "brand": "Voge",
+      "names": {
+        "en": "DS500X",
+        "zh-CN": "DS500X 探险车",
+        "zh-TW": "DS500X 探險車",
+        "ja": "DS500X"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026年1月上市的中排量ADV，525cc双缸（KE525），延续DSX系列高性价比路线",
+      "verified": "verified"
+    },
+    {
+      "id": "model:voge:ds525x",
+      "brand": "Voge",
+      "names": {
+        "en": "DS525X",
+        "zh-CN": "DS525X 探险车",
+        "zh-TW": "DS525X 探險車",
+        "ja": "DS525X"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "中量级ADV主力车型，525cc并列双缸，2023年上市，2025款升级为公路征途版与旷野穿越版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:voge:lx500",
+      "brand": "Voge",
+      "names": {
+        "en": "LX500",
+        "zh-CN": "LX500 街车",
+        "zh-TW": "LX500 街車",
+        "ja": "LX500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026年推出的中排量街车（公告型号LX500-7C），471cc并列双缸KE500，标配KYB减震与ABS+TCS",
+      "verified": "verified"
+    },
+    {
+      "id": "model:voge:cu525",
+      "brand": "Voge",
+      "names": {
+        "en": "CU525",
+        "zh-CN": "CU525 巡航车",
+        "zh-TW": "CU525 巡航車",
+        "ja": "CU525"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "无极首款巡航车，525cc并列双缸，2023年上市，2025款升级为都市版与旅行版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:voge:cu250",
+      "brand": "Voge",
+      "names": {
+        "en": "CU250",
+        "zh-CN": "CU250 巡航车",
+        "zh-TW": "CU250 巡航車",
+        "ja": "CU250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "无极首款V型双缸巡航，250cc水冷，2024年上市，2026年推出第二代并新增AMT自动挡版本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:voge:sr150gt",
+      "brand": "Voge",
+      "names": {
+        "en": "SR150GT",
+        "zh-CN": "SR150GT 踏板车",
+        "zh-TW": "SR150GT 踏板車",
+        "ja": "SR150GT"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "150cc水冷踏板，2022年西安摩博会发布，标配ABS+TCS，主打高性价比城市通勤",
+      "verified": "verified"
+    },
+    {
+      "id": "model:voge:ac525",
+      "brand": "Voge",
+      "names": {
+        "en": "AC525",
+        "zh-CN": "AC525 咖啡复古",
+        "zh-TW": "AC525 咖啡復古",
+        "ja": "AC525"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cafe-racer",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "中排量咖啡复古街车，525cc并列双缸，2022年上市，为500AC的后继车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:voge:ac300",
+      "brand": "Voge",
+      "names": {
+        "en": "AC300",
+        "zh-CN": "AC300 咖啡复古",
+        "zh-TW": "AC300 咖啡復古",
+        "ja": "AC300"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:cafe-racer",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "300cc单缸咖啡复古（AC300 Café），2023年上市，与玩乐复古Q250同期发布",
+      "verified": "verified"
+    },
+    {
+      "id": "model:voge:650ds",
+      "brand": "Voge",
+      "names": {
+        "en": "650DS",
+        "zh-CN": "650DS 探险车",
+        "zh-TW": "650DS 探險車",
+        "ja": "650DS"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2019–2022",
+      "note": "无极早期大排量探险车型，652cc单缸水冷，2019年上市，已逐步被DS500X/DS525X等DS系列取代",
+      "verified": "verified"
+    }
+  ]
+}

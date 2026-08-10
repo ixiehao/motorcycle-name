@@ -1,0 +1,55 @@
+{
+  "models": [
+    {
+      "id": "model:hyosung:gv650",
+      "brand": "Hyosung",
+      "names": {
+        "en": "GV650",
+        "zh-CN": "GV650 巡航车（停产）",
+        "zh-TW": "GV650 巡航車（停產）",
+        "ja": "GV650"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2021",
+      "note": "647cc V型双缸巡航车，韩国品牌主力巡航车型，以高性价比著称，2021年后停止生产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hyosung:gt650r",
+      "brand": "Hyosung",
+      "names": {
+        "en": "GT650R",
+        "zh-CN": "GT650R 运动跑车（停产）",
+        "zh-TW": "GT650R 運動跑車（停產）",
+        "ja": "GT650R"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2018",
+      "note": "647cc V型双缸仿赛，Hyosung性能车代表，曾在Supersport赛事崭露头角",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hyosung:aquila-250",
+      "brand": "Hyosung",
+      "names": {
+        "en": "Aquila 250",
+        "zh-CN": "Aquila 250 入门巡航车（停产）",
+        "zh-TW": "Aquila 250 入門巡航車（停產）",
+        "ja": "アクィラ250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1991–2005",
+      "note": "249cc V型双缸入门巡航车，早期与铃木技术合作产物，为Hyosung奠定巡航车口碑",
+      "verified": "verified"
+    }
+  ]
+}

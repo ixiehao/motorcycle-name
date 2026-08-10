@@ -1,0 +1,939 @@
+{
+  "models": [
+    {
+      "id": "model:ktm:390-duke",
+      "brand": "KTM",
+      "names": {
+        "en": "390 Duke",
+        "zh-CN": "390 Duke 街车",
+        "zh-TW": "390 Duke 街車",
+        "ja": "390 デューク"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "KTM入门级街车，373cc单缸，WP悬挂，以轻量化和操控性著称",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:200-duke",
+      "brand": "KTM",
+      "names": {
+        "en": "200 Duke",
+        "zh-CN": "200 Duke 街车",
+        "zh-TW": "200 Duke 街車",
+        "ja": "200 デューク"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2012–present",
+      "note": "Duke系列入门款，199.5cc单缸，适合新手和城市通勤",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:125-duke",
+      "brand": "KTM",
+      "names": {
+        "en": "125 Duke",
+        "zh-CN": "125 Duke 街车",
+        "zh-TW": "125 Duke 街車",
+        "ja": "125 デューク"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2011–present",
+      "note": "125cc级入门街车，欧洲A1驾照适用，124.7cc单缸水冷",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:890-duke-r",
+      "brand": "KTM",
+      "names": {
+        "en": "890 Duke R",
+        "zh-CN": "890 Duke R 中量级街车",
+        "zh-TW": "890 Duke R 中量級街車",
+        "ja": "890 デュークR"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "中量级街车旗舰，889cc并列双缸LC8c，121马力，Brembo卡钳",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:990-duke",
+      "brand": "KTM",
+      "names": {
+        "en": "990 Duke",
+        "zh-CN": "990 Duke 街车",
+        "zh-TW": "990 Duke 街車",
+        "ja": "990 デューク"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "2024年新款，947cc并列双缸，电子快排，公升级以下最强街车之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:1290-super-duke-r-evo",
+      "brand": "KTM",
+      "names": {
+        "en": "1290 Super Duke R Evo",
+        "zh-CN": "1290 Super Duke R Evo 超级公爵 旗舰街车",
+        "zh-TW": "1290 Super Duke R Evo 超級公爵 旗艦街車",
+        "ja": "1290 スーパーデュークR エボ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "KTM街车旗舰，1301cc V型双缸LC8，180马力，WP Semi-Active悬挂，绰号野兽",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:rc390",
+      "brand": "KTM",
+      "names": {
+        "en": "RC 390",
+        "zh-CN": "RC 390 仿赛",
+        "zh-TW": "RC 390 仿賽",
+        "ja": "RC390"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "KTM入门级仿赛，373cc单缸，Moto3赛车技术下放，赛道取向",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:390-adventure",
+      "brand": "KTM",
+      "names": {
+        "en": "390 Adventure",
+        "zh-CN": "390 Adventure (ADV) 小排量探险车",
+        "zh-TW": "390 Adventure (ADV) 小排量探險車",
+        "ja": "390 アドベンチャー"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "入门级探险车，373cc单缸，21寸前轮，公路越野两用",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:890-adventure-r",
+      "brand": "KTM",
+      "names": {
+        "en": "890 Adventure R",
+        "zh-CN": "890 Adventure R 中量级探险车",
+        "zh-TW": "890 Adventure R 中量級探險車",
+        "ja": "890 アドベンチャーR"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "中量级探险车，889cc并列双缸，21/18寸轮组，越野能力强大",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:1290-super-adventure-s",
+      "brand": "KTM",
+      "names": {
+        "en": "1290 Super Adventure S",
+        "zh-CN": "1290 Super Adventure S 超级探险车",
+        "zh-TW": "1290 Super Adventure S 超級探險車",
+        "ja": "1290 スーパーアドベンチャーS"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "KTM探险旗舰，1301cc V型双缸LC8，160马力，雷达自适应巡航",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:450-sx-f",
+      "brand": "KTM",
+      "names": {
+        "en": "450 SX-F",
+        "zh-CN": "450 SX-F 场地越野赛车",
+        "zh-TW": "450 SX-F 場地越野賽車",
+        "ja": "450 SX-F モトクロス"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2007–present",
+      "note": "场地越野旗舰，450cc单缸四冲程，MXGP赛事常胜军，不可上牌",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:450-exc-f",
+      "brand": "KTM",
+      "names": {
+        "en": "450 EXC-F",
+        "zh-CN": "450 EXC-F 林道耐力越野车",
+        "zh-TW": "450 EXC-F 林道耐力越野車",
+        "ja": "450 EXC-F エンデューロ"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2008–present",
+      "note": "林道耐力越野，450cc单缸，可上牌公路行驶，有灯具",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:690-enduro-r",
+      "brand": "KTM",
+      "names": {
+        "en": "690 Enduro R",
+        "zh-CN": "690 Enduro R 大单缸两用车",
+        "zh-TW": "690 Enduro R 大單缸兩用車",
+        "ja": "690 エンデューロR"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2009–present",
+      "note": "大单缸两用越野车，693cc单缸LC4，21/18寸轮，可上牌",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:690-smc-r",
+      "brand": "KTM",
+      "names": {
+        "en": "690 SMC R",
+        "zh-CN": "690 SMC R 单缸滑胎车",
+        "zh-TW": "690 SMC R 單缸滑胎車",
+        "ja": "690 SMC R スーパーモト"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:supermoto",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "Supermoto滑胎车，693cc单缸LC4，17寸公路胎，APTC滑动离合",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:790-duke",
+      "brand": "KTM",
+      "names": {
+        "en": "790 Duke",
+        "zh-CN": "790 Duke 街车",
+        "zh-TW": "790 Duke 街車",
+        "ja": "790 デューク"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "中量级街车，799cc并列双缸LC8c，2023年换代回归，105马力，轻量化车身",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:1390-super-duke-r",
+      "brand": "KTM",
+      "names": {
+        "en": "1390 Super Duke R",
+        "zh-CN": "1390 Super Duke R 超级公爵 旗舰街车",
+        "zh-TW": "1390 Super Duke R 超級公爵 旗艦街車",
+        "ja": "1390 スーパーデュークR"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "2024年发布的全新街车旗舰，1350cc V型双缸LC8，190马力，取代1290成为野兽之王",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:rc125",
+      "brand": "KTM",
+      "names": {
+        "en": "RC 125",
+        "zh-CN": "RC 125 仿赛",
+        "zh-TW": "RC 125 仿賽",
+        "ja": "RC125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "入门级仿赛，124.7cc单缸，欧洲A1驾照适用，Moto3风格外观",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:rc200",
+      "brand": "KTM",
+      "names": {
+        "en": "RC 200",
+        "zh-CN": "RC 200 仿赛",
+        "zh-TW": "RC 200 仿賽",
+        "ja": "RC200"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "印度市场入门仿赛，199.5cc单缸，与200 Duke同动力平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:890-adventure",
+      "brand": "KTM",
+      "names": {
+        "en": "890 Adventure",
+        "zh-CN": "890 Adventure (ADV) 中量级探险车",
+        "zh-TW": "890 Adventure (ADV) 中量級探險車",
+        "ja": "890 アドベンチャー"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "中量级探险车标准版，889cc并列双缸LC8c，105马力，公路与轻度越野兼顾",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:890-smt",
+      "brand": "KTM",
+      "names": {
+        "en": "890 SMT",
+        "zh-CN": "890 SMT 滑胎旅行车",
+        "zh-TW": "890 SMT 滑胎旅行車",
+        "ja": "890 SMT スーパーモト"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:supermoto",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "Supermoto风格旅行车，889cc并列双缸，17寸公路轮，兼顾山道劈弯与长途",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:990-adventure",
+      "brand": "KTM",
+      "names": {
+        "en": "990 Adventure",
+        "zh-CN": "990 Adventure (ADV) 探险车",
+        "zh-TW": "990 Adventure (ADV) 探險車",
+        "ja": "990 アドベンチャー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "2024年全新探险车，947cc并列双缸，与990 Duke同平台，主打轻量化中大型ADV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:350-exc-f",
+      "brand": "KTM",
+      "names": {
+        "en": "350 EXC-F",
+        "zh-CN": "350 EXC-F 林道耐力越野车",
+        "zh-TW": "350 EXC-F 林道耐力越野車",
+        "ja": "350 EXC-F エンデューロ"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2012–present",
+      "note": "林道耐力越野，350cc单缸四冲程，可上牌，动力与重量的黄金平衡",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:300-exc",
+      "brand": "KTM",
+      "names": {
+        "en": "300 EXC",
+        "zh-CN": "300 EXC 二冲程耐力越野车",
+        "zh-TW": "300 EXC 二衝程耐力越野車",
+        "ja": "300 EXC エンデューロ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2006–present",
+      "note": "二冲程耐力越野经典，293cc单缸，轻量化高功率，林道利器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:250-exc-f",
+      "brand": "KTM",
+      "names": {
+        "en": "250 EXC-F",
+        "zh-CN": "250 EXC-F 林道耐力越野车",
+        "zh-TW": "250 EXC-F 林道耐力越野車",
+        "ja": "250 EXC-F エンデューロ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2004–present",
+      "note": "250cc四冲程林道耐力车，轻巧灵活，新手与资深车手皆宜",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:250-sx-f",
+      "brand": "KTM",
+      "names": {
+        "en": "250 SX-F",
+        "zh-CN": "250 SX-F 场地越野赛车",
+        "zh-TW": "250 SX-F 場地越野賽車",
+        "ja": "250 SX-F モトクロス"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2004–present",
+      "note": "250cc场地越野赛车，单缸四冲程，MX2级别赛事主力，不可上牌",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:390-enduro-r",
+      "brand": "KTM",
+      "names": {
+        "en": "390 Enduro R",
+        "zh-CN": "390 Enduro R 大单缸两用车",
+        "zh-TW": "390 Enduro R 大單缸兩用車",
+        "ja": "390 エンデューロR"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:dual-sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "2024年印度市场新车型，399cc单缸，21寸前轮，可上牌探险两用车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:350-sx-f",
+      "brand": "KTM",
+      "names": {
+        "en": "350 SX-F",
+        "zh-CN": "350 SX-F 场地越野赛车",
+        "zh-TW": "350 SX-F 場地越野賽車",
+        "ja": "350 SX-F モトクロス"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2011–present",
+      "note": "350cc四冲程场地越野，SX-F系列创新排量，兼顾450的功率与250的操控，MXGP热门战车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:250-sx",
+      "brand": "KTM",
+      "names": {
+        "en": "250 SX",
+        "zh-CN": "250 SX 二冲程场地越野",
+        "zh-TW": "250 SX 二衝程場地越野",
+        "ja": "250 SX モトクロス"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1998–present",
+      "note": "二冲程场地越野经典，249cc单缸，轻量高转爆发力强，越野赛场常青树",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:150-sx",
+      "brand": "KTM",
+      "names": {
+        "en": "150 SX",
+        "zh-CN": "150 SX 二冲程场地越野",
+        "zh-TW": "150 SX 二衝程場地越野",
+        "ja": "150 SX モトクロス"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2008–present",
+      "note": "144cc二冲程场地越野，介于125与250之间的黄金排量，轻量化林道与场地利器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:125-sx",
+      "brand": "KTM",
+      "names": {
+        "en": "125 SX",
+        "zh-CN": "125 SX 二冲程场地越野",
+        "zh-TW": "125 SX 二衝程場地越野",
+        "ja": "125 SX モトクロス"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1992–present",
+      "note": "125cc二冲程场地越野入门战车，轻巧灵活，无数越野车手的启蒙车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:85-sx",
+      "brand": "KTM",
+      "names": {
+        "en": "85 SX",
+        "zh-CN": "85 SX 青少年场地越野",
+        "zh-TW": "85 SX 青少年場地越野",
+        "ja": "85 SX モトクロス"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1997–present",
+      "note": "84.9cc二冲程青少年越野车，青少年锦标赛主力车型，越野车手的摇篮",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:65-sx",
+      "brand": "KTM",
+      "names": {
+        "en": "65 SX",
+        "zh-CN": "65 SX 儿童场地越野",
+        "zh-TW": "65 SX 兒童場地越野",
+        "ja": "65 SX モトクロス"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1997–present",
+      "note": "64cc二冲程儿童越野车，为低龄车手设计，配备动力限制套件，安全可靠",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:50-sx",
+      "brand": "KTM",
+      "names": {
+        "en": "50 SX",
+        "zh-CN": "50 SX 儿童迷你场地越野",
+        "zh-TW": "50 SX 兒童迷你場地越野",
+        "ja": "50 SX モトクロス"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1997–present",
+      "note": "49cc二冲程儿童入门越野车，自动挡设计，KTM越野系列的启蒙车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:500-exc-f",
+      "brand": "KTM",
+      "names": {
+        "en": "500 EXC-F",
+        "zh-CN": "500 EXC-F 林道耐力越野车",
+        "zh-TW": "500 EXC-F 林道耐力越野車",
+        "ja": "500 EXC-F エンデューロ"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2012–present",
+      "note": "510cc单缸林道耐力旗舰，EXC系列最大排量，低扭充沛，长途林道利器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:250-exc",
+      "brand": "KTM",
+      "names": {
+        "en": "250 EXC",
+        "zh-CN": "250 EXC 二冲程耐力越野车",
+        "zh-TW": "250 EXC 二衝程耐力越野車",
+        "ja": "250 EXC エンデューロ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1992–present",
+      "note": "二冲程耐力越野经典，249cc单缸，轻量化车身，林道赛事常胜车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:150-xc-w",
+      "brand": "KTM",
+      "names": {
+        "en": "150 XC-W",
+        "zh-CN": "150 XC-W 越野竞技耐力车",
+        "zh-TW": "150 XC-W 越野競技耐力車",
+        "ja": "150 XC-W エンデューロ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "144cc二冲程宽齿比越野竞技车，XC-W系列最小排量，轻巧灵活，适合严苛林道",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:450-xc-f",
+      "brand": "KTM",
+      "names": {
+        "en": "450 XC-F",
+        "zh-CN": "450 XC-F 越野竞技赛车",
+        "zh-TW": "450 XC-F 越野競技賽車",
+        "ja": "450 XC-F クロスカントリー"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2008–present",
+      "note": "450cc四冲程越野竞技赛车，XC系列四冲程旗舰，专为越野竞技调校",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:250-xc-f",
+      "brand": "KTM",
+      "names": {
+        "en": "250 XC-F",
+        "zh-CN": "250 XC-F 越野竞技赛车",
+        "zh-TW": "250 XC-F 越野競技賽車",
+        "ja": "250 XC-F クロスカントリー"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2006–present",
+      "note": "250cc四冲程越野竞技赛车，介于场地与耐力之间的跨界定位，竞赛利器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:300-xc-w",
+      "brand": "KTM",
+      "names": {
+        "en": "300 XC-W",
+        "zh-CN": "300 XC-W 二冲程越野竞技车",
+        "zh-TW": "300 XC-W 二衝程越野競技車",
+        "ja": "300 XC-W クロスカントリー"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2001–present",
+      "note": "293cc二冲程宽齿比越野竞技车，XC-W系列标杆，扭矩平顺且操控极强",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:250-xc",
+      "brand": "KTM",
+      "names": {
+        "en": "250 XC",
+        "zh-CN": "250 XC 二冲程越野竞技车",
+        "zh-TW": "250 XC 二衝程越野競技車",
+        "ja": "250 XC クロスカントリー"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2001–present",
+      "note": "249cc二冲程越野竞技车，介于SX与XC-W之间的设定，平衡性与爆发力兼备",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:1290-super-adventure-r",
+      "brand": "KTM",
+      "names": {
+        "en": "1290 Super Adventure R",
+        "zh-CN": "1290 Super Adventure R 超级探险车",
+        "zh-TW": "1290 Super Adventure R 超級探險車",
+        "ja": "1290 スーパーアドベンチャーR"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "1301cc V型双缸探险旗舰R版，越野取向，WP长行程悬挂，公路与野地兼修",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:1390-super-adventure",
+      "brand": "KTM",
+      "names": {
+        "en": "1390 Super Adventure",
+        "zh-CN": "1390 Super Adventure 超级探险车",
+        "zh-TW": "1390 Super Adventure 超級探險車",
+        "ja": "1390 スーパーアドベンチャー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "1350cc V型双缸探险旗舰，2024年全新换代，雷达巡航与顶级电控加持",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:250-adventure",
+      "brand": "KTM",
+      "names": {
+        "en": "250 Adventure",
+        "zh-CN": "250 Adventure (ADV) 小排量探险车",
+        "zh-TW": "250 Adventure (ADV) 小排量探險車",
+        "ja": "250 アドベンチャー"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "入门级探险车，248.8cc单缸，轻量化设计，适合新手长途与轻度越野",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:640-duke",
+      "brand": "KTM",
+      "names": {
+        "en": "640 Duke",
+        "zh-CN": "640 Duke 大单缸街车",
+        "zh-TW": "640 Duke 大單缸街車",
+        "ja": "640 デューク"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1998–2008",
+      "note": "LC4大单缸街车经典，625cc单缸，Duke系列成名之作，橙黑配色深入人心",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:950-adventure",
+      "brand": "KTM",
+      "names": {
+        "en": "950 Adventure",
+        "zh-CN": "950 Adventure (ADV) 探险车",
+        "zh-TW": "950 Adventure (ADV) 探險車",
+        "ja": "950 アドベンチャー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2007",
+      "note": "KTM首款LC8 V型双缸探险车，942cc，达喀尔赛事历练，开创KTM探险车传奇",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:990-super-duke",
+      "brand": "KTM",
+      "names": {
+        "en": "990 Super Duke",
+        "zh-CN": "990 Super Duke 超级公爵",
+        "zh-TW": "990 Super Duke 超級公爵",
+        "ja": "990 スーパーデューク"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2013",
+      "note": "999cc V型双缸街车鼻祖，绰号野兽(The Beast)，开创超级街车时代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:1190-adventure",
+      "brand": "KTM",
+      "names": {
+        "en": "1190 Adventure",
+        "zh-CN": "1190 Adventure (ADV) 探险车",
+        "zh-TW": "1190 Adventure (ADV) 探險車",
+        "ja": "1190 アドベンチャー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2016",
+      "note": "1195cc V型双缸探险车，达喀尔冠军血统，KTM现代探险车的性能里程碑",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:lc4-620",
+      "brand": "KTM",
+      "names": {
+        "en": "LC4 620",
+        "zh-CN": "LC4 620 大单缸耐力越野",
+        "zh-TW": "LC4 620 大單缸耐力越野",
+        "ja": "LC4 620 エンデューロ"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1992–1996",
+      "note": "LC4发动机开山之作，609cc单缸水冷，奠定KTM大单缸越野技术路线",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:lc4-400",
+      "brand": "KTM",
+      "names": {
+        "en": "LC4 400",
+        "zh-CN": "LC4 400 单缸耐力越野",
+        "zh-TW": "LC4 400 單缸耐力越野",
+        "ja": "LC4 400 エンデューロ"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1993–1997",
+      "note": "398cc单缸水冷LC4发动机，小排量大单缸，当年欧洲越野市场主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:duke-620",
+      "brand": "KTM",
+      "names": {
+        "en": "Duke 620",
+        "zh-CN": "Duke 620 大单缸街车",
+        "zh-TW": "Duke 620 大單缸街車",
+        "ja": "Duke 620 デューク"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1994–1998",
+      "note": "Duke系列开山之作，609cc单缸LC4，开创欧洲大单缸街车潮流",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:990-rc-r",
+      "brand": "KTM",
+      "names": {
+        "en": "990 RC R",
+        "zh-CN": "990 RC R 旗舰仿赛",
+        "zh-TW": "990 RC R 旗艦仿賽",
+        "ja": "990 RC R"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026款全新旗舰仿赛，947cc LC8c并列双缸约135马力，接替停产的RC8",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:990-duke-r",
+      "brand": "KTM",
+      "names": {
+        "en": "990 Duke R",
+        "zh-CN": "990 Duke R 中量级运动街车",
+        "zh-TW": "990 Duke R 中量級運動街車",
+        "ja": "990 デュークR"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026款全新，947cc并列双缸，动力与悬挂全面强化，WP悬挂+Brembo卡钳",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:790-adventure",
+      "brand": "KTM",
+      "names": {
+        "en": "790 Adventure",
+        "zh-CN": "790 Adventure (ADV) 中量级探险车",
+        "zh-TW": "790 Adventure (ADV) 中量級探險車",
+        "ja": "790 アドベンチャー"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026款全新，799cc并列双缸约95马力，200mm减震行程，790级ADV回归",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:1390-super-adventure-s-evo",
+      "brand": "KTM",
+      "names": {
+        "en": "1390 Super Adventure S Evo",
+        "zh-CN": "1390 Super Adventure S Evo 旗舰探险车",
+        "zh-TW": "1390 Super Adventure S Evo 旗艦探險車",
+        "ja": "1390 スーパーアドベンチャーS エボ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "1350cc V型双缸，2025款全新旗舰ADV，AMT自动变速箱+雷达+半主动悬挂",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ktm:1390-super-duke-gt",
+      "brand": "KTM",
+      "names": {
+        "en": "1390 Super Duke GT",
+        "zh-CN": "1390 Super Duke GT 旗舰运动旅行车",
+        "zh-TW": "1390 Super Duke GT 旗艦運動旅行車",
+        "ja": "1390 スーパーデュークGT"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:sport-touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "1350cc V型双缸，2025款全新运动旅行旗舰，基于1390 Super Duke R Evo开发",
+      "verified": "verified"
+    }
+  ]
+}

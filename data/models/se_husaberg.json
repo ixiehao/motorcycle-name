@@ -1,0 +1,38 @@
+{
+  "models": [
+    {
+      "id": "model:husaberg:fe-501",
+      "brand": "Husaberg",
+      "names": {
+        "en": "FE 501",
+        "zh-CN": "FE 501 耐力越野车（停产）",
+        "zh-TW": "FE 501 耐力越野車（停產）",
+        "ja": "FE501"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2014",
+      "note": "477cc四冲程单缸耐力越野车，KTM旗下高性能enduro，2014年并入Husqvarna品牌后停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:husaberg:fe-450",
+      "brand": "Husaberg",
+      "names": {
+        "en": "FE 450",
+        "zh-CN": "FE 450 耐力越野车（停产）",
+        "zh-TW": "FE 450 耐力越野車（停產）",
+        "ja": "FE450"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2014",
+      "note": "449cc四冲程单缸耐力越野车，曾在世界耐力锦标赛夺得多项冠军，品牌末期主力车型",
+      "verified": "verified"
+    }
+  ]
+}

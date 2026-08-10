@@ -1,0 +1,548 @@
+{
+  "models": [
+    {
+      "id": "model:benelli:trk-502",
+      "brand": "Benelli",
+      "names": {
+        "en": "TRK 502",
+        "zh-CN": "TRK 502 探险车",
+        "zh-TW": "TRK 502 探險車",
+        "ja": "TRK502"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "500cc并列双缸，Benelli最畅销探险车，配边箱，中国钱江生产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:trk-702",
+      "brand": "Benelli",
+      "names": {
+        "en": "TRK 702",
+        "zh-CN": "TRK 702 探险车",
+        "zh-TW": "TRK 702 探險車",
+        "ja": "TRK702"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "698cc并列双缸，TRK系列大排量版，2022年上市，长途探险",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:leoncino-500",
+      "brand": "Benelli",
+      "names": {
+        "en": "Leoncino 500",
+        "zh-CN": "Leoncino 500 幼狮500 复古攀爬车",
+        "zh-TW": "Leoncino 500 幼獅500 復古攀爬車",
+        "ja": "レオンチーノ500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "500cc双缸，幼狮复古攀爬，2017年上市，意式复古与现代结合",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:leoncino-800",
+      "brand": "Benelli",
+      "names": {
+        "en": "Leoncino 800",
+        "zh-CN": "Leoncino 800 幼狮800 复古攀爬车",
+        "zh-TW": "Leoncino 800 幼獅800 復古攀爬車",
+        "ja": "レオンチーノ800"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "754cc双缸，幼狮800复古攀爬，2021年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:imperiale-400",
+      "brand": "Benelli",
+      "names": {
+        "en": "Imperiale 400",
+        "zh-CN": "Imperiale 400 帝国400 复古单缸车",
+        "zh-TW": "Imperiale 400 帝國400 復古單缸車",
+        "ja": "インペリアーレ400"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "374cc单缸，帝国400复古经典单缸车，致敬1950年代Imperiale",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:tornado-302",
+      "brand": "Benelli",
+      "names": {
+        "en": "Tornado 302",
+        "zh-CN": "Tornado 302 龙卷风302 仿赛",
+        "zh-TW": "Tornado 302 龍捲風302 仿賽",
+        "ja": "トルネード302"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "300cc双缸仿赛，龙卷风系列，入门跑车，中国制造",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:tnt-600",
+      "brand": "Benelli",
+      "names": {
+        "en": "TNT 600",
+        "zh-CN": "TNT 600 四缸街车",
+        "zh-TW": "TNT 600 四缸街車",
+        "ja": "TNT600"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "600cc直列四缸街车，Benelli经典四缸血统，意式运动街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:752s",
+      "brand": "Benelli",
+      "names": {
+        "en": "752S",
+        "zh-CN": "752S 运动街车",
+        "zh-TW": "752S 運動街車",
+        "ja": "752S"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "754cc双缸运动街车，2020年上市，Benelli双缸街车新作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:175-gran-sport-monza",
+      "brand": "Benelli",
+      "names": {
+        "en": "175 Gran Sport Monza",
+        "zh-CN": "175 Gran Sport Monza 战前单缸运动车",
+        "zh-TW": "175 Gran Sport Monza 戰前單缸運動車",
+        "ja": "175 グラン・スポルト・モンツァ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1931–1936",
+      "note": "1931年推出的175cc单缸运动车，Tonino Benelli曾驾驶其夺得意大利冠军，贝纳利战前最成功的竞赛车之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:250-bialbero-sport",
+      "brand": "Benelli",
+      "names": {
+        "en": "250 Bialbero Sport",
+        "zh-CN": "250 Bialbero Sport 双凸轮轴单缸赛车",
+        "zh-TW": "250 Bialbero Sport 雙凸輪軸單缸賽車",
+        "ja": "250 ビアルベロ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1935–1940",
+      "note": "双顶置凸轮轴(DOHC)单缸赛车，1939年曼岛TT 250cc组冠军战车，贝纳利战前最著名的竞赛车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:500-turismo",
+      "brand": "Benelli",
+      "names": {
+        "en": "500 Turismo",
+        "zh-CN": "500 Turismo 战前单缸旅行车",
+        "zh-TW": "500 Turismo 戰前單缸旅行車",
+        "ja": "500 ツーリズモ"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1933–1940",
+      "note": "493cc单缸四冲程旅行车，战前贝纳利主力大排量车型，坚固耐用的经典之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:250-4c-compressor",
+      "brand": "Benelli",
+      "names": {
+        "en": "250 4C Compressor",
+        "zh-CN": "250 4C Compressor 四缸机械增压赛车",
+        "zh-TW": "250 4C Compressor 四缸機械增壓賽車",
+        "ja": "250 4C コンプレッサー"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1939–1942",
+      "note": "250cc四缸机械增压赛车，二战爆发未能参赛，全球仅存一辆，战后规则禁止增压使其成为绝版珍品",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:letizia-125",
+      "brand": "Benelli",
+      "names": {
+        "en": "Letizia 125",
+        "zh-CN": "Letizia 125 二冲程轻便摩托车",
+        "zh-TW": "Letizia 125 二衝程輕便摩托車",
+        "ja": "レティツィア125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1950–1960",
+      "note": "战后复兴之作，1950年以98cc二冲程起步，后以125cc为主，约生产4.5万辆，是Leoncino幼狮系列的前身",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:leoncino-125",
+      "brand": "Benelli",
+      "names": {
+        "en": "Leoncino 125",
+        "zh-CN": "Leoncino 125 幼狮125 复古轻骑",
+        "zh-TW": "Leoncino 125 幼獅125 復古輕騎",
+        "ja": "レオンチーノ125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1951–1966",
+      "note": "1950年代最著名的\"小狮子\"，二冲程单缸轻骑，在Milan-Taranto等赛事屡获佳绩，现代Leoncino复古设计的灵感来源",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:250-barracuda",
+      "brand": "Benelli",
+      "names": {
+        "en": "250 Barracuda",
+        "zh-CN": "250 Barracuda 单缸街车",
+        "zh-TW": "250 Barracuda 單缸街車",
+        "ja": "250 バラクーダ"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1967–1970",
+      "note": "245cc水平单缸四冲程，1960年代末面向美国市场出口的轻量街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:mojave-360",
+      "brand": "Benelli",
+      "names": {
+        "en": "Mojave 360",
+        "zh-CN": "Mojave 360 美国市场单缸街车",
+        "zh-TW": "Mojave 360 美國市場單缸街車",
+        "ja": "モハベ360"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1967–1969",
+      "note": "美国市场专属单缸四冲程街车，260/360cc两种排量，沿用Tornado车架平台，亦有Scrambler改装版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:250-sport-special",
+      "brand": "Benelli",
+      "names": {
+        "en": "250 Sport Special",
+        "zh-CN": "250 Sport Special 单缸运动街车",
+        "zh-TW": "250 Sport Special 單缸運動街車",
+        "ja": "250 スポーツスペシャル"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1973",
+      "note": "245cc单缸四冲程运动街车，1960年代末意大利市场的经典250车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:125-sport-special",
+      "brand": "Benelli",
+      "names": {
+        "en": "125 Sport Special",
+        "zh-CN": "125 Sport Special 单缸运动轻骑",
+        "zh-TW": "125 Sport Special 單缸運動輕騎",
+        "ja": "125 スポーツスペシャル"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1973",
+      "note": "123cc单缸四冲程运动轻骑，与250 Sport Special同期的主力入门车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:tornado-650",
+      "brand": "Benelli",
+      "names": {
+        "en": "Tornado 650",
+        "zh-CN": "Tornado 650 龙卷风650 双缸街车",
+        "zh-TW": "Tornado 650 龍捲風650 雙缸街車",
+        "ja": "トルネード650"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1971–1975",
+      "note": "642cc并列双缸大排量街车，美国市场由Steve McQueen形象代言，以可靠和高性能著称",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:250-2c",
+      "brand": "Benelli",
+      "names": {
+        "en": "250 2C",
+        "zh-CN": "250 2C 二冲程并列双缸街车",
+        "zh-TW": "250 2C 二衝程並列雙缸街車",
+        "ja": "250 2C"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1973–1988",
+      "note": "231cc二冲程并列双缸街车，1970至80年代意大利畅销的轻型运动车，生产长达15年的长寿车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:500-quattro",
+      "brand": "Benelli",
+      "names": {
+        "en": "500 Quattro",
+        "zh-CN": "500 Quattro 四缸街车",
+        "zh-TW": "500 Quattro 四缸街車",
+        "ja": "500 クアトロ"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–1979",
+      "note": "500cc直列四缸街车，动力单元以本田CB500 Four为蓝本，是750 Sei六缸发动机的研发基础",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:750-sei",
+      "brand": "Benelli",
+      "names": {
+        "en": "750 Sei",
+        "zh-CN": "750 Sei 直列六缸街车",
+        "zh-TW": "750 Sei 直列六缸街車",
+        "ja": "750 セイ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–1978",
+      "note": "747cc直列六缸，世界首款量产直列六缸摩托车，贝纳利的工程杰作，稀有的收藏名车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:125-2c",
+      "brand": "Benelli",
+      "names": {
+        "en": "125 2C",
+        "zh-CN": "125 2C 二冲程并列双缸轻骑",
+        "zh-TW": "125 2C 二衝程並列雙缸輕騎",
+        "ja": "125 2C"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1979–1983",
+      "note": "125cc二冲程并列双缸轻骑，250 2C的小排量版，1980年代初流行的入门运动车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:254",
+      "brand": "Benelli",
+      "names": {
+        "en": "254",
+        "zh-CN": "254 Quattro 四缸街车",
+        "zh-TW": "254 Quattro 四缸街車",
+        "ja": "254"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1977–1984",
+      "note": "231cc直列四缸街车，又称254 Quattro，1977年投产，意大利紧凑型四缸车的经典之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:654",
+      "brand": "Benelli",
+      "names": {
+        "en": "654",
+        "zh-CN": "654 四缸街车",
+        "zh-TW": "654 四缸街車",
+        "ja": "654"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1981–1985",
+      "note": "600cc直列四缸街车，分T与Sport版，De Tomaso时代末期的四缸主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:304",
+      "brand": "Benelli",
+      "names": {
+        "en": "304",
+        "zh-CN": "304 四缸街车",
+        "zh-TW": "304 四缸街車",
+        "ja": "304"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1983–1993",
+      "note": "231cc直列四缸街车，1980至90年代初生产的长寿四缸车，意大利市场的常青树",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:900-sei",
+      "brand": "Benelli",
+      "names": {
+        "en": "900 Sei",
+        "zh-CN": "900 Sei 直列六缸街车",
+        "zh-TW": "900 Sei 直列六缸街車",
+        "ja": "900 セイ"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1985–1992",
+      "note": "906cc直列六缸，750 Sei的扩缸继承者，1980年代最独特的量产六缸街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:k2",
+      "brand": "Benelli",
+      "names": {
+        "en": "K2",
+        "zh-CN": "K2 小型踏板车",
+        "zh-TW": "K2 小型踏板車",
+        "ja": "K2"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2003",
+      "note": "50/100cc小型踏板车，Merloni复兴时期推出的入门代步车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:velvet",
+      "brand": "Benelli",
+      "names": {
+        "en": "Velvet",
+        "zh-CN": "Velvet 中排量踏板车",
+        "zh-TW": "Velvet 中排量踏板車",
+        "ja": "ベルベット"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2012",
+      "note": "125/150/250/400cc中排量踏板车，Merloni时代主打车型，一直生产至2012年",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:adiva",
+      "brand": "Benelli",
+      "names": {
+        "en": "Adiva",
+        "zh-CN": "Adiva 带顶篷踏板车",
+        "zh-TW": "Adiva 帶頂篷踏板車",
+        "ja": "アディーヴァ"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2005",
+      "note": "125/150cc踏板车，全球首款配备可折叠顶篷的踏板车，后被多家厂商效仿",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:tornado-tre-900",
+      "brand": "Benelli",
+      "names": {
+        "en": "Tornado Tre 900",
+        "zh-CN": "Tornado Tre 900 三缸仿赛",
+        "zh-TW": "Tornado Tre 900 三缸仿賽",
+        "ja": "トルネード・トレ900"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2006",
+      "note": "898cc三缸仿赛，尾部双风扇强制散热设计独特，Merloni时代的旗舰跑车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:benelli:tre-1130-k",
+      "brand": "Benelli",
+      "names": {
+        "en": "Tre 1130 K",
+        "zh-CN": "Tre 1130 K 三缸街车",
+        "zh-TW": "Tre 1130 K 三缸街車",
+        "ja": "トレ1130K"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2017",
+      "note": "1130cc三缸运动街车，TNT系列偏拉力风格的变体，2006至2017年生产",
+      "verified": "verified"
+    }
+  ]
+}

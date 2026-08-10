@@ -1,0 +1,106 @@
+{
+  "models": [
+    {
+      "id": "model:hengjian:dahaidiao-500",
+      "brand": "Hengjian",
+      "names": {
+        "en": "Dahaidiao 500",
+        "zh-CN": "大海道500 拉力车",
+        "zh-TW": "大海道500 拉力車",
+        "ja": "ダーハイダオ500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "恒舰大海道500拉力车，前后油箱共40升，续航达1000公里，被称为国产\"本田非双\"",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hengjian:rally-500x",
+      "brand": "Hengjian",
+      "names": {
+        "en": "Rally 500X",
+        "zh-CN": "拉力500X 探险车",
+        "zh-TW": "拉力500X 探險車",
+        "ja": "ラリー500X"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "恒舰拉力500X，500cc双缸拉力车型，恒舰大排量拉力产品线的代表作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hengjian:leopard-518",
+      "brand": "Hengjian",
+      "names": {
+        "en": "Leopard 518",
+        "zh-CN": "美洲豹518 探险车",
+        "zh-TW": "美洲豹518 探險車",
+        "ja": "レオパード518"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "恒舰美洲豹518，518cc探险车，铬钼钢管车架，20升大油箱，整备质量仅178kg，极速170km/h",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hengjian:s5",
+      "brand": "Hengjian",
+      "names": {
+        "en": "S5",
+        "zh-CN": "S5 越野车",
+        "zh-TW": "S5 越野車",
+        "ja": "S5"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "恒舰S5，可上牌的越野车型，博世电喷系统，恒舰越野系列中的公路合规之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hengjian:nc250",
+      "brand": "Hengjian",
+      "names": {
+        "en": "NC250",
+        "zh-CN": "NC250 越野车",
+        "zh-TW": "NC250 越野車",
+        "ja": "NC250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "恒舰NC250越野车，搭载NC250发动机，恒舰越野产品线的主力入门车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hengjian:nc450",
+      "brand": "Hengjian",
+      "names": {
+        "en": "NC450",
+        "zh-CN": "NC450 越野车",
+        "zh-TW": "NC450 越野車",
+        "ja": "NC450"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:motocross",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "恒舰NC450越野车，450cc级发动机，面向专业场地与林道越野用户",
+      "verified": "verified"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "models": [
+    {
+      "id": "model:zongshen:rx3",
+      "brand": "Zongshen",
+      "names": {
+        "en": "RX3",
+        "zh-CN": "RX3 探险车",
+        "zh-TW": "RX3 探險車",
+        "ja": "RX3"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "赛科龙RX系列开山之作，250cc单缸水冷，中国摩旅文化的重要车型，曾完成环球骑行",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zongshen:rx4",
+      "brand": "Zongshen",
+      "names": {
+        "en": "RX4",
+        "zh-CN": "RX4 探险车",
+        "zh-TW": "RX4 探險車",
+        "ja": "RX4"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "赛科龙RX4探险车，450cc单缸水冷，鸟嘴设计加辐条轮，长途摩旅专业定位",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zongshen:rx401",
+      "brand": "Zongshen",
+      "names": {
+        "en": "RX401",
+        "zh-CN": "RX401 探险车",
+        "zh-TW": "RX401 探險車",
+        "ja": "RX401"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "赛科龙RX401探险车，401cc并列双缸，升级款RX3S，动力平顺，摩旅市场主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zongshen:rx600",
+      "brand": "Zongshen",
+      "names": {
+        "en": "RX600",
+        "zh-CN": "RX600 探险车",
+        "zh-TW": "RX600 探險車",
+        "ja": "RX600"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "赛科龙RX600探险车，550cc并列双缸，大油箱长续航，国产中排量ADV高性价比之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zongshen:rz3",
+      "brand": "Zongshen",
+      "names": {
+        "en": "RZ3",
+        "zh-CN": "RZ3 运动街车",
+        "zh-TW": "RZ3 運動街車",
+        "ja": "RZ3"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "赛科龙RZ3运动街车，250cc单缸水冷，欧系运动外观，定位年轻运动用户",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zongshen:re3",
+      "brand": "Zongshen",
+      "names": {
+        "en": "RE3",
+        "zh-CN": "RE3 复古车",
+        "zh-TW": "RE3 復古車",
+        "ja": "RE3"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "赛科龙RE3复古车，401cc并列双缸，圆灯圆表，英伦复古风格，国产复古车人气车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zongshen:rt3",
+      "brand": "Zongshen",
+      "names": {
+        "en": "RT3",
+        "zh-CN": "RT3 大绵羊踏板",
+        "zh-TW": "RT3 大綿羊踏板",
+        "ja": "RT3"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "赛科龙RT3大绵羊，247cc单缸水冷，大座桶大风挡，长途舒适，国产250大踏板热销款",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zongshen:250x",
+      "brand": "Zongshen",
+      "names": {
+        "en": "250X",
+        "zh-CN": "250X 林道越野车",
+        "zh-TW": "250X 林道越野車",
+        "ja": "250X"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "赛科龙250X林道越野车，250cc单缸，长行程悬挂加高离地间隙，入门非铺装路面利器",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zongshen:ra600",
+      "brand": "Zongshen",
+      "names": {
+        "en": "RA600",
+        "zh-CN": "RA600 复古巡航车",
+        "zh-TW": "RA600 復古巡航車",
+        "ja": "RA600"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "宗申赛科龙首款中大排复古巡航车，2025年3月上市，550cc异步双缸水冷，提供Bobber版与摩登版，售价2.4万元左右",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zongshen:ra1000",
+      "brand": "Zongshen",
+      "names": {
+        "en": "RA1000",
+        "zh-CN": "RA1000 公升级巡航车",
+        "zh-TW": "RA1000 公升級巡航車",
+        "ja": "RA1000"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "宗申赛科龙国产首台公升级运动巡航车，2025中国摩博会亮相，996cc V型双缸水冷，最大功率78.5kW约106马力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zongshen:ra2",
+      "brand": "Zongshen",
+      "names": {
+        "en": "RA2",
+        "zh-CN": "RA2 巡航太子车",
+        "zh-TW": "RA2 巡航太子車",
+        "ja": "RA2"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "宗申赛科龙2025款RA2美式复古巡航太子车，249cc单缸风冷，售价11988元起，入门巡航高性价比之选",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zongshen:rc250",
+      "brand": "Zongshen",
+      "names": {
+        "en": "RC250",
+        "zh-CN": "RC250 仿赛摩托车",
+        "zh-TW": "RC250 仿賽摩托車",
+        "ja": "RC250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "宗申赛科龙2025款RC250单摇臂版入门级仿赛，250cc单缸水冷，标配TCS与电子快排，售价15988元",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zongshen:rt2",
+      "brand": "Zongshen",
+      "names": {
+        "en": "RT2",
+        "zh-CN": "RT2 运动大踏板",
+        "zh-TW": "RT2 運動大踏板",
+        "ja": "RT2"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "宗申赛科龙2025款RT2运动踏板，250cc水冷，都市版与智享版售价15988元和17588元，车重减轻并加入智能功能",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zongshen:rt250",
+      "brand": "Zongshen",
+      "names": {
+        "en": "RT250",
+        "zh-CN": "RT250 大踏板",
+        "zh-TW": "RT250 大踏板",
+        "ja": "RT250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:maxi-scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "宗申赛科龙2026款RT250运动踏板，250cc水冷发动机，售价14999元起，另有智境版配备毫米波雷达，主打科技平权",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zongshen:rt250e",
+      "brand": "Zongshen",
+      "names": {
+        "en": "RT250E",
+        "zh-CN": "RT250E 复古踏板",
+        "zh-TW": "RT250E 復古踏板",
+        "ja": "RT250E"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "宗申赛科龙2026款RT250E复古踏板，定位复古旅行家，250cc水冷，平踏板设计兼顾实用性，售价14999元起",
+      "verified": "verified"
+    },
+    {
+      "id": "model:zongshen:rt150s",
+      "brand": "Zongshen",
+      "names": {
+        "en": "RT150S",
+        "zh-CN": "RT150S 平踏板",
+        "zh-TW": "RT150S 平踏板",
+        "ja": "RT150S"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "宗申赛科龙2026款RT150S平踏板，150cc水冷四气门，标配ABS与TCS，兼顾运动性能与都市通勤，售价10999元起",
+      "verified": "verified"
+    }
+  ]
+}

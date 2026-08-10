@@ -1,0 +1,378 @@
+{
+  "models": [
+    {
+      "id": "model:ariel:square-four",
+      "brand": "Ariel",
+      "names": {
+        "en": "Square Four",
+        "zh-CN": "Square Four 方四缸经典车（停产）",
+        "zh-TW": "Square Four 方四缸經典車（停產）",
+        "ja": "スクエアフォー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1931–1958",
+      "note": "独特的方四缸(并列双曲轴四缸)布局，有500/600/1000cc版本，Ariel最具标志性的车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:red-hunter",
+      "brand": "Ariel",
+      "names": {
+        "en": "Red Hunter",
+        "zh-CN": "Red Hunter 红猎人 单缸车（停产）",
+        "zh-TW": "Red Hunter 紅獵人 單缸車（停產）",
+        "ja": "レッドハンター"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1932–1959",
+      "note": "Ariel经典单缸车系列，提供250/350/500cc多种排量，红色涂装之名深入人心的英国老车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:black-ariel",
+      "brand": "Ariel",
+      "names": {
+        "en": "Black Ariel",
+        "zh-CN": "Black Ariel 单缸街车",
+        "zh-TW": "Black Ariel 單缸街車",
+        "ja": "ブラックアリエル"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1926–1930",
+      "note": "Val Page 1926年设计的全新单缸发动机系列，黑色涂装配马形车标而得名，奠定了此后30年Ariel四冲程单缸车的基础",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:square-four-500",
+      "brand": "Ariel",
+      "names": {
+        "en": "Square Four 500",
+        "zh-CN": "Square Four 500 方四缸街车",
+        "zh-TW": "Square Four 500 方四缸街車",
+        "ja": "スクエアフォー 500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1931–1936",
+      "note": "Edward Turner设计的方四缸布局，1931年推出的初代500cc版本，是Square Four传奇的开端",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:square-four-600",
+      "brand": "Ariel",
+      "names": {
+        "en": "Square Four 600",
+        "zh-CN": "Square Four 600 方四缸街车",
+        "zh-TW": "Square Four 600 方四缸街車",
+        "ja": "スクエアフォー 600"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1936–1937",
+      "note": "500cc版中期扩缸至600cc的过渡版本，为1937年995cc的4G改款铺路",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:square-four-1000",
+      "brand": "Ariel",
+      "names": {
+        "en": "Square Four 1000",
+        "zh-CN": "Square Four 1000 方四缸街车",
+        "zh-TW": "Square Four 1000 方四缸街車",
+        "ja": "スクエアフォー 1000"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1937–1958",
+      "note": "1937年重新设计为995cc顶置气门方四缸(代号4G)，1949年换装铝合金缸体，是当时英国最快的街车之一，Ariel的旗舰车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:ng-250",
+      "brand": "Ariel",
+      "names": {
+        "en": "NG 250",
+        "zh-CN": "NG 250 单缸街车",
+        "zh-TW": "NG 250 單缸街車",
+        "ja": "NG 250"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1932–1959",
+      "note": "Red Hunter家族中的250cc版本，也是军用W/NG车型的民用基础型号，轻巧可靠",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:vb-500",
+      "brand": "Ariel",
+      "names": {
+        "en": "VB 500",
+        "zh-CN": "VB 500 侧阀单缸街车",
+        "zh-TW": "VB 500 側閥單缸街車",
+        "ja": "VB 500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1933–1959",
+      "note": "500cc侧置气门(side-valve)版Red Hunter，结构简单皮实耐用，广泛用于民用与公务用途",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:vh-500",
+      "brand": "Ariel",
+      "names": {
+        "en": "VH 500",
+        "zh-CN": "VH 500 顶阀单缸街车",
+        "zh-TW": "VH 500 頂閥單缸街車",
+        "ja": "VH 500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1933–1959",
+      "note": "500cc顶置气门(OHV)版Red Hunter，是Red Hunter系列的性能旗舰，1950年代起换装铝合金缸盖",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:wng-350",
+      "brand": "Ariel",
+      "names": {
+        "en": "W/NG 350",
+        "zh-CN": "W/NG 350 军用摩托车",
+        "zh-TW": "W/NG 350 軍用摩托車",
+        "ja": "W/NG 350"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1939–1945",
+      "note": "二战期间为英国陆军生产的军用摩托，基于民用NG 350开发，抬高离地间隙以适应战区路况",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:kg-500",
+      "brand": "Ariel",
+      "names": {
+        "en": "KG 500",
+        "zh-CN": "KG 500 平行双缸街车",
+        "zh-TW": "KG 500 平行雙缸街車",
+        "ja": "KG 500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1948–1953",
+      "note": "1948年推出的500cc平行双缸，低调校的入门版本，与KH共用同一款发动机",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:kh-500",
+      "brand": "Ariel",
+      "names": {
+        "en": "KH 500",
+        "zh-CN": "KH 500 平行双缸街车",
+        "zh-TW": "KH 500 平行雙缸街車",
+        "ja": "KH 500"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1948–1958",
+      "note": "500cc平行双缸的高调校版本，后期被命名为Fieldmaster，与KG组成Ariel战后的双缸产品线",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:kha",
+      "brand": "Ariel",
+      "names": {
+        "en": "KHA",
+        "zh-CN": "KHA 500 运动双缸街车",
+        "zh-TW": "KHA 500 運動雙缸街車",
+        "ja": "KHA"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1954–1958",
+      "note": "1954年推出的KH高性能版，配铝合金缸盖，功率与极速都更胜一筹",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:fh-huntmaster",
+      "brand": "Ariel",
+      "names": {
+        "en": "FH Huntmaster",
+        "zh-CN": "FH Huntmaster 650 平行双缸街车",
+        "zh-TW": "FH Huntmaster 650 平行雙缸街車",
+        "ja": "FH ハントマスター"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1954–1959",
+      "note": "650cc平行双缸，采用BSA A10发动机贴牌生产并命名为Huntmaster，可靠且可达100英里/小时，深受边三轮爱好者欢迎",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:trials-ht5",
+      "brand": "Ariel",
+      "names": {
+        "en": "Trials HT5",
+        "zh-CN": "Trials HT5 500 障碍攀爬赛车",
+        "zh-TW": "Trials HT5 500 障礙攀爬賽車",
+        "ja": "トライアル HT5"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1954–1958",
+      "note": "1950年代专为trials障碍攀爬赛打造的500cc竞技车型，与HS共用车架技术，是当时欧洲赛场的主力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:scrambles-hs",
+      "brand": "Ariel",
+      "names": {
+        "en": "Scrambles HS",
+        "zh-CN": "Scrambles HS 500 泥地越野赛车",
+        "zh-TW": "Scrambles HS 500 泥地越野賽車",
+        "ja": "スクランブル HS"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1954–1958",
+      "note": "1954年推出的500cc scrambles泥地赛竞技车型，497cc单缸、铝合金缸盖、摆动臂车架，亮红色油箱辨识度极高",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:leader",
+      "brand": "Ariel",
+      "names": {
+        "en": "Leader",
+        "zh-CN": "Leader 全封闭二冲程机车",
+        "zh-TW": "Leader 全封閉二衝程機車",
+        "ja": "リーダー"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1958–1965",
+      "note": "1958年推出的250cc二冲程双缸全封闭摩托车，整体式车壳配挡风玻璃，兼具踏板车的舒适与摩托车的性能，获1959年度摩托车大奖",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:arrow",
+      "brand": "Ariel",
+      "names": {
+        "en": "Arrow",
+        "zh-CN": "Arrow 二冲程街车",
+        "zh-TW": "Arrow 二衝程街車",
+        "ja": "アロー"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1959–1967",
+      "note": "Leader的简化开放版，1959年推出，保留封闭链条盒与深挡泥板，价格更亲民，1965年后由BSA续产至1967年",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:golden-arrow",
+      "brand": "Ariel",
+      "names": {
+        "en": "Golden Arrow",
+        "zh-CN": "Golden Arrow 二冲程运动车",
+        "zh-TW": "Golden Arrow 二衝程運動車",
+        "ja": "ゴールデンアロー"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1961–1963",
+      "note": "1961年推出的Arrow运动版，调校更强，是Ariel对抗当时涌入的日本小排量车而打造的性能版本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:arrow-200",
+      "brand": "Ariel",
+      "names": {
+        "en": "Arrow 200",
+        "zh-CN": "Arrow 200 二冲程街车",
+        "zh-TW": "Arrow 200 二衝程街車",
+        "ja": "アロー 200"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1964–1967",
+      "note": "1964年推出的200cc缩缸版Arrow，为享受更低英国保险费率而设，是Ariel品牌最后一款摩托车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:pixie",
+      "brand": "Ariel",
+      "names": {
+        "en": "Pixie",
+        "zh-CN": "Pixie 50 轻便摩托车",
+        "zh-TW": "Pixie 50 輕便摩托車",
+        "ja": "ピクシー"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:mini",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1963–1965",
+      "note": "1963年开始生产的50cc轻便摩托车，是Ariel品牌末期的小排量入门车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ariel:ariel-3",
+      "brand": "Ariel",
+      "names": {
+        "en": "Ariel 3",
+        "zh-CN": "Ariel 3 倾斜三轮车",
+        "zh-TW": "Ariel 3 傾斜三輪車",
+        "ja": "アリエル 3"
+      },
+      "segment": "class:disp:50cc",
+      "body_style": "body:trike",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1970",
+      "note": "1970年BSA以Ariel之名推出的49cc自动挡可倾斜三轮车，过弯时车体可倾斜保持三轮着地，设计后来授权给本田发展为Gyro系列",
+      "verified": "verified"
+    }
+  ]
+}

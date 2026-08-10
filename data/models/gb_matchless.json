@@ -1,0 +1,378 @@
+{
+  "models": [
+    {
+      "id": "model:matchless:g80",
+      "brand": "Matchless",
+      "names": {
+        "en": "G80",
+        "zh-CN": "G80 单缸摩托车（停产）",
+        "zh-TW": "G80 單缸摩托車（停產）",
+        "ja": "G80"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1946–1966",
+      "note": "498cc单缸摩托车，战后Matchless最具代表性的公路车型，曾为英国警察广泛使用",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:g50",
+      "brand": "Matchless",
+      "names": {
+        "en": "G50",
+        "zh-CN": "G50 单缸赛车（停产）",
+        "zh-TW": "G50 單缸賽車（停產）",
+        "ja": "G50"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1958–1965",
+      "note": "496cc顶置凸轮轴单缸赛车，英国经典赛车之一，在曼岛TT等赛事中战绩辉煌",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:model-7",
+      "brand": "Matchless",
+      "names": {
+        "en": "Model 7",
+        "zh-CN": "Model 7 V型双缸旅行车（停产）",
+        "zh-TW": "Model 7 V型雙缸旅行車（停產）",
+        "ja": "モデル7"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1912",
+      "note": "770cc JAP V型双缸旅行车，配双皮带与轮毂变速，一战前Matchless定位边车牵引的豪华车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:model-x",
+      "brand": "Matchless",
+      "names": {
+        "en": "Model X",
+        "zh-CN": "Model X 公升级V型双缸（停产）",
+        "zh-TW": "Model X 公升級V型雙缸（停產）",
+        "ja": "モデルX"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1929–1940",
+      "note": "990cc侧置气门V型双缸，1937年改版为Sports Tourist运动旅行款，可配重型边车，Brough Superior亦采购其发动机",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:silver-arrow",
+      "brand": "Matchless",
+      "names": {
+        "en": "Silver Arrow",
+        "zh-CN": "Silver Arrow 银箭 V型双缸（停产）",
+        "zh-TW": "Silver Arrow 銀箭 V型雙缸（停產）",
+        "ja": "シルバーアロー"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1929–1933",
+      "note": "397cc小夹角18°侧置气门V型双缸，一体式缸头设计，1929年推出的前卫车型，但市场表现不佳",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:silver-hawk",
+      "brand": "Matchless",
+      "names": {
+        "en": "Silver Hawk",
+        "zh-CN": "Silver Hawk 银鹰 V型四缸（停产）",
+        "zh-TW": "Silver Hawk 銀鷹 V型四缸（停產）",
+        "ja": "シルバーホーク"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1931–1935",
+      "note": "592cc顶置凸轮轴V型四缸旗舰豪华车，1930年奥林匹亚车展亮相，与Ariel Square Four齐名的英国四缸名机，仅生产约500辆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:g3",
+      "brand": "Matchless",
+      "names": {
+        "en": "G3",
+        "zh-CN": "G3 单缸摩托车（停产）",
+        "zh-TW": "G3 單缸摩托車（停產）",
+        "ja": "G3"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1935–1940",
+      "note": "349cc单缸摩托车，战前Matchless主力，衍生出二战军用G3L并奠定战后单缸系列基础",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:g3l",
+      "brand": "Matchless",
+      "names": {
+        "en": "G3L",
+        "zh-CN": "G3L 单缸军用摩托",
+        "zh-TW": "G3L 單缸軍用摩托",
+        "ja": "G3L"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1941–1955",
+      "note": "二战盟军主力军用摩托，349cc单缸，首创Teledraulic油压伸缩前叉，战后转民用并服役至1950年代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:g3ls",
+      "brand": "Matchless",
+      "names": {
+        "en": "G3LS",
+        "zh-CN": "G3LS 单缸摩托车（停产）",
+        "zh-TW": "G3LS 單缸摩托車（停產）",
+        "ja": "G3LS"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1948–1958",
+      "note": "G3L的民用弹簧车架版，350cc单缸，与AJS Model 16MS同平台，战后Matchless主力350公路车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:g80s",
+      "brand": "Matchless",
+      "names": {
+        "en": "G80S",
+        "zh-CN": "G80S 单缸摩托车（停产）",
+        "zh-TW": "G80S 單缸摩托車（停產）",
+        "ja": "G80S"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1949–1966",
+      "note": "G80的弹簧车架公路版，497cc单缸，与AJS Model 18S同平台，英国警方与公务用车的常选车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:g80cs",
+      "brand": "Matchless",
+      "names": {
+        "en": "G80CS",
+        "zh-CN": "G80CS 单缸攀爬越野（停产）",
+        "zh-TW": "G80CS 單缸攀爬越野（停產）",
+        "ja": "G80CS"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1951–1966",
+      "note": "496cc单缸竞赛攀爬车，G80的Competition Scrambler版，1950-60年代英国越野赛事主力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:g85cs",
+      "brand": "Matchless",
+      "names": {
+        "en": "G85CS",
+        "zh-CN": "G85CS 单缸越野赛车（停产）",
+        "zh-TW": "G85CS 單缸越野賽車（停產）",
+        "ja": "G85CS"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1961–1968",
+      "note": "496cc顶置凸轮轴单缸越野赛车，1966年调校后最大功率41马力，Norton P11曾沿用其车架",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:g2",
+      "brand": "Matchless",
+      "names": {
+        "en": "G2",
+        "zh-CN": "G2 轻量单缸摩托车（停产）",
+        "zh-TW": "G2 輕量單缸摩托車（停產）",
+        "ja": "G2"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1958–1966",
+      "note": "248cc轻量单缸公路车，与AJS Model 14同平台，1958年加入AMC轻量级系列的入门车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:g2cs",
+      "brand": "Matchless",
+      "names": {
+        "en": "G2CS",
+        "zh-CN": "G2CS 轻量单缸攀爬（停产）",
+        "zh-TW": "G2CS 輕量單缸攀爬（停產）",
+        "ja": "G2CS"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1959–1966",
+      "note": "G2的竞赛攀爬版，248cc单缸，与AJS Model 14CS同平台，AMC轻量级越野车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:g5",
+      "brand": "Matchless",
+      "names": {
+        "en": "G5",
+        "zh-CN": "G5 轻量单缸摩托车（停产）",
+        "zh-TW": "G5 輕量單缸摩托車（停產）",
+        "ja": "G5"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1960–1966",
+      "note": "348cc轻量单缸公路车，与AJS Model 8同平台，1960年加入AMC轻量级系列的350车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:g9",
+      "brand": "Matchless",
+      "names": {
+        "en": "G9",
+        "zh-CN": "G9 双缸摩托车（停产）",
+        "zh-TW": "G9 雙缸摩托車（停產）",
+        "ja": "G9"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1949–1959",
+      "note": "498cc并列双缸公路车（Super Clubman），1949年推出的AMC首款立式双缸，与AJS Model 20同平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:g11",
+      "brand": "Matchless",
+      "names": {
+        "en": "G11",
+        "zh-CN": "G11 双缸摩托车（停产）",
+        "zh-TW": "G11 雙缸摩托車（停產）",
+        "ja": "G11"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1956–1959",
+      "note": "593cc并列双缸公路车，G9的扩大排量版，与AJS Model 30同平台，AMC中期主力双缸",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:g12",
+      "brand": "Matchless",
+      "names": {
+        "en": "G12",
+        "zh-CN": "G12 双缸摩托车（停产）",
+        "zh-TW": "G12 雙缸摩托車（停產）",
+        "ja": "G12"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1958–1966",
+      "note": "646cc并列双缸公路车，为美国市场开发，1959年改款De Luxe，与AJS Model 31同平台的最后一批Matchless双缸",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:g12csr",
+      "brand": "Matchless",
+      "names": {
+        "en": "G12CSR",
+        "zh-CN": "G12CSR 双缸运动街车（停产）",
+        "zh-TW": "G12CSR 雙缸運動街車（停產）",
+        "ja": "G12CSR"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cafe-racer",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1959–1966",
+      "note": "G12的高性能版（Competition Sprung Roadster），646cc双缸配双化油器，1960年代初英国咖啡赛车文化代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:g15",
+      "brand": "Matchless",
+      "names": {
+        "en": "G15",
+        "zh-CN": "G15 双缸摩托车（停产）",
+        "zh-TW": "G15 雙缸摩托車（停產）",
+        "ja": "G15"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1963–1969",
+      "note": "745cc并列双缸，搭载Norton Atlas发动机，G15系列以Matchless/AJS/Norton三种品牌销售，AMC末期旗舰",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:g15cs",
+      "brand": "Matchless",
+      "names": {
+        "en": "G15CS",
+        "zh-CN": "G15CS 双缸攀爬越野（停产）",
+        "zh-TW": "G15CS 雙缸攀爬越野（停產）",
+        "ja": "G15CS"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1963–1969",
+      "note": "G15系列的街道攀爬版，745cc Norton Atlas发动机，面向美国市场的street scrambler",
+      "verified": "verified"
+    },
+    {
+      "id": "model:matchless:g45",
+      "brand": "Matchless",
+      "names": {
+        "en": "G45",
+        "zh-CN": "G45 双缸赛车（停产）",
+        "zh-TW": "G45 雙缸賽車（停產）",
+        "ja": "G45"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1952–1954",
+      "note": "498cc顶置气门并列双缸厂队赛车，基于G9发动机与AJS 7R车架，1952年曼岛大奖赛夺冠后小批量生产",
+      "verified": "verified"
+    }
+  ]
+}

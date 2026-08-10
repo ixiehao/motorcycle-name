@@ -1,0 +1,174 @@
+{
+  "models": [
+    {
+      "id": "model:wuyang-honda:cb190r",
+      "brand": "Wuyang-Honda",
+      "names": {
+        "en": "CB190R",
+        "zh-CN": "暴锋眼CB190R 街车",
+        "zh-TW": "暴鋒眼CB190R 街車",
+        "ja": "CB190R"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "五羊-本田暴锋眼CB190R，184cc单缸水冷运动街车，本田190平台代表作，合资入门运动街车标杆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuyang-honda:cb190x",
+      "brand": "Wuyang-Honda",
+      "names": {
+        "en": "CB190X",
+        "zh-CN": "猛鸷CB190X 探险车",
+        "zh-TW": "猛鷙CB190X 探險車",
+        "ja": "CB190X"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:adventure",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "五羊-本田猛鸷CB190X，184cc单缸休旅探险车，摩旅市场热门入门拉力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuyang-honda:cb190ss",
+      "brand": "Wuyang-Honda",
+      "names": {
+        "en": "CB190SS",
+        "zh-CN": "鸷道CB190SS 复古车",
+        "zh-TW": "鷙道CB190SS 復古車",
+        "ja": "CB190SS"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:scrambler",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "五羊-本田鸷道CB190SS，184cc单缸复古风格街车，圆灯圆表，国产合资复古入门热门车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuyang-honda:phantom-150",
+      "brand": "Wuyang-Honda",
+      "names": {
+        "en": "Phantom 150",
+        "zh-CN": "幻影150 街车",
+        "zh-TW": "幻影150 街車",
+        "ja": "ファントム150"
+      },
+      "segment": "class:disp:250cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2011–present",
+      "note": "五羊-本田幻影150，150cc单缸运动街车，一代经典合资运动车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuyang-honda:cg125",
+      "brand": "Wuyang-Honda",
+      "names": {
+        "en": "CG125",
+        "zh-CN": "CG125 经典跨骑",
+        "zh-TW": "CG125 經典跨騎",
+        "ja": "CG125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1992–present",
+      "note": "五羊-本田CG125，125cc单缸经典通路车，中国摩托车史上最经典的车型之一，皮实耐用",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuyang-honda:ncr125",
+      "brand": "Wuyang-Honda",
+      "names": {
+        "en": "NCR125",
+        "zh-CN": "NCR125 踏板车",
+        "zh-TW": "NCR125 踏板車",
+        "ja": "NCR125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "五羊-本田NCR125，125cc通勤踏板车，搭载本田ESP发动机，城市代步主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuyang-honda:lead125",
+      "brand": "Wuyang-Honda",
+      "names": {
+        "en": "LEAD125",
+        "zh-CN": "LEAD125 踏板车",
+        "zh-TW": "LEAD125 踏板車",
+        "ja": "LEAD125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "五羊-本田LEAD125，本田全球畅销的125cc平踏板，国产化后保留ESP水冷发动机与无钥匙启动",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuyang-honda:pcx-2025",
+      "brand": "Wuyang-Honda",
+      "names": {
+        "en": "PCX 160 (2025)",
+        "zh-CN": "PCX 160 踏板车（2025款）",
+        "zh-TW": "PCX 160 踏板車（2025款）",
+        "ja": "PCX 160（2025年型）"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "五羊-本田2025款PCX，第五代本田PCX国产版，全LED加TFT全彩仪表，KYB气囊后减震，售价19990元起",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuyang-honda:nwt150",
+      "brand": "Wuyang-Honda",
+      "names": {
+        "en": "NWT 150",
+        "zh-CN": "NWT150 平踏板",
+        "zh-TW": "NWT150 平踏板",
+        "ja": "NWT150"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "五羊-本田150cc平踏板，2025年上市售价14980元起，高配版搭载毫米波雷达，2026年8月推出改款",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuyang-honda:nwt125",
+      "brand": "Wuyang-Honda",
+      "names": {
+        "en": "NWT 125",
+        "zh-CN": "NWT125 平踏板",
+        "zh-TW": "NWT125 平踏板",
+        "ja": "NWT125"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "五羊-本田2026年8月发布的全新125cc平踏板，碟刹版8680元起、ABS版9880元，主打高性价比通勤",
+      "verified": "verified"
+    }
+  ]
+}

@@ -1,0 +1,735 @@
+{
+  "models": [
+    {
+      "id": "model:indian:scout-bobber",
+      "brand": "Indian",
+      "names": {
+        "en": "Scout Bobber",
+        "zh-CN": "Scout Bobber 侦察兵Bobber 巡航车",
+        "zh-TW": "Scout Bobber 偵察兵Bobber 巡航車",
+        "ja": "スカウトボバー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bobber",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "1133cc V缸水冷，Bobber风格，单座，短挡泥板，印第安入门巡航",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:scout-rogue",
+      "brand": "Indian",
+      "names": {
+        "en": "Scout Rogue",
+        "zh-CN": "Scout Rogue 侦察兵Rogue 巡航车",
+        "zh-TW": "Scout Rogue 偵察兵Rogue 巡航車",
+        "ja": "スカウトローグ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "Scout改装版，迷你整流罩，黑色风格，更低手把，运动化巡航",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:chief-dark-horse",
+      "brand": "Indian",
+      "names": {
+        "en": "Chief Dark Horse",
+        "zh-CN": "Chief Dark Horse 酋长黑马 巡航车",
+        "zh-TW": "Chief Dark Horse 酋長黑馬 巡航車",
+        "ja": "チーフダークホース"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "Thunderstroke 116 V缸，钢管车架，经典Chief复古外观，暗黑涂装",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:chief-bobber-dark-horse",
+      "brand": "Indian",
+      "names": {
+        "en": "Chief Bobber Dark Horse",
+        "zh-CN": "Chief Bobber Dark Horse 酋长Bobber黑马 巡航车",
+        "zh-TW": "Chief Bobber Dark Horse 酋長Bobber黑馬 巡航車",
+        "ja": "チーフボバーダークホース"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bobber",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "Chief系列Bobber化，Thunderstroke 116，单座，短尾，极简改装风格",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:super-chief-limited",
+      "brand": "Indian",
+      "names": {
+        "en": "Super Chief Limited",
+        "zh-CN": "Super Chief Limited 超级酋长 旅行巡航车",
+        "zh-TW": "Super Chief Limited 超級酋長 旅行巡航車",
+        "ja": "スーパーチーフリミテッド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "Thunderstroke 116，大风挡+皮革边箱，镀铬件，长途舒适巡航",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:springfield",
+      "brand": "Indian",
+      "names": {
+        "en": "Springfield",
+        "zh-CN": "Springfield 斯普林菲尔德 巡航车",
+        "zh-TW": "Springfield 斯普林菲爾德 巡航車",
+        "ja": "スプリングフィールド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "Thunderstroke 111/116，可拆卸风挡+硬边箱，经典美式巡航，复古大灯",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:roadmaster",
+      "brand": "Indian",
+      "names": {
+        "en": "Roadmaster",
+        "zh-CN": "Roadmaster 公路大师 顶级旅行车",
+        "zh-TW": "Roadmaster 公路大師 頂級旅行車",
+        "ja": "ロードマスター"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "Thunderstroke 116，全整流罩+顶箱+边箱，PowerBand音响，印第安旗舰旅行",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:chieftain-limited",
+      "brand": "Indian",
+      "names": {
+        "en": "Chieftain Limited",
+        "zh-CN": "Chieftain Limited 酋长限量 袋式Bagger",
+        "zh-TW": "Chieftain Limited 酋長限量 袋式Bagger",
+        "ja": "チーフテンリミテッド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bagger",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "Thunderstroke 116，整流罩硬边箱，印第安Bagger代表，Ride Command系统",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:pursuit-limited",
+      "brand": "Indian",
+      "names": {
+        "en": "Pursuit Limited",
+        "zh-CN": "Pursuit Limited 追击 顶级Bagger旅行车",
+        "zh-TW": "Pursuit Limited 追擊 頂級Bagger旅行車",
+        "ja": "パースーツリミテッド"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "Challenger平台顶级旅行，108ci Liquid Cooled V缸，全行李+顶箱，豪华装备",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:pursuit-dark-horse",
+      "brand": "Indian",
+      "names": {
+        "en": "Pursuit Dark Horse",
+        "zh-CN": "Pursuit Dark Horse 追击黑马 顶级Bagger旅行车",
+        "zh-TW": "Pursuit Dark Horse 追擊黑馬 頂級Bagger旅行車",
+        "ja": "パースーツダークホース"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "Pursuit暗黑涂装版，黑铬饰面，V型水冷108ci，顶级豪华旅行",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:ftr-1200-s",
+      "brand": "Indian",
+      "names": {
+        "en": "FTR 1200 S",
+        "zh-CN": "FTR 1200 S 运动街车",
+        "zh-TW": "FTR 1200 S 運動街車",
+        "ja": "FTR1200S"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "1203cc V缸水冷，Flat Track泥地赛血统，现代街车设计，Indian首款运动车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:ftr-r-carbon",
+      "brand": "Indian",
+      "names": {
+        "en": "FTR R Carbon",
+        "zh-CN": "FTR R Carbon 碳纤维高端运动街车",
+        "zh-TW": "FTR R Carbon 碳纖維高端運動街車",
+        "ja": "FTR R カーボン"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "FTR系列旗舰，全碳纤维车身件，Ohlins悬挂，高规格运动街车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:challenger",
+      "brand": "Indian",
+      "names": {
+        "en": "Challenger",
+        "zh-CN": "Challenger 挑战者 水冷Bagger",
+        "zh-TW": "Challenger 挑戰者 水冷Bagger",
+        "ja": "チャレンジャー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bagger",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "108ci PowerPlus水冷V缸，固定式整流罩，印第安首款水冷Bagger，高性能",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:scout-sixty",
+      "brand": "Indian",
+      "names": {
+        "en": "Scout Sixty",
+        "zh-CN": "Scout Sixty 侦察兵60 入门巡航车",
+        "zh-TW": "Scout Sixty 偵察兵60 入門巡航車",
+        "ja": "スカウトシクスティ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "999cc V缸水冷，60立方英寸，Scout系列入门版巡航车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:scout",
+      "brand": "Indian",
+      "names": {
+        "en": "Scout",
+        "zh-CN": "Scout 侦察兵 巡航车",
+        "zh-TW": "Scout 偵察兵 巡航車",
+        "ja": "スカウト"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "1133cc V缸水冷，印第安现代经典巡航，Scout系列基础版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:chief",
+      "brand": "Indian",
+      "names": {
+        "en": "Chief",
+        "zh-CN": "Chief 酋长 巡航车",
+        "zh-TW": "Chief 酋長 巡航車",
+        "ja": "チーフ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "1890cc Thunderstroke 116 V缸，2021年全新Chief系列标准版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:chief-bobber",
+      "brand": "Indian",
+      "names": {
+        "en": "Chief Bobber",
+        "zh-CN": "Chief Bobber 酋长Bobber 巡航车",
+        "zh-TW": "Chief Bobber 酋長Bobber 巡航車",
+        "ja": "チーフボバー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bobber",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "1890cc Thunderstroke 116，单座Bobber风格，短尾暗黑元素",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:chieftain",
+      "brand": "Indian",
+      "names": {
+        "en": "Chieftain",
+        "zh-CN": "Chieftain 酋长 袋式Bagger",
+        "zh-TW": "Chieftain 酋長 袋式Bagger",
+        "ja": "チーフテン"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bagger",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "1890cc Thunderstroke 116，固定整流罩Bagger，Ride Command系统",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:roadmaster-dark-horse",
+      "brand": "Indian",
+      "names": {
+        "en": "Roadmaster Dark Horse",
+        "zh-CN": "Roadmaster Dark Horse 公路大师黑马 顶级旅行车",
+        "zh-TW": "Roadmaster Dark Horse 公路大師黑馬 頂級旅行車",
+        "ja": "ロードマスターダークホース"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:touring",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "1890cc Thunderstroke 116，暗黑涂装顶级旅行车，全行李系统",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:springfield-dark-horse",
+      "brand": "Indian",
+      "names": {
+        "en": "Springfield Dark Horse",
+        "zh-CN": "Springfield Dark Horse 斯普林菲尔德黑马 巡航车（停产）",
+        "zh-TW": "Springfield Dark Horse 斯普林菲爾德黑馬 巡航車（停產）",
+        "ja": "スプリングフィールドダークホース"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2021",
+      "note": "1890cc Thunderstroke 116，暗黑巡航，2021年被新Chief系列取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:vintage",
+      "brand": "Indian",
+      "names": {
+        "en": "Vintage",
+        "zh-CN": "Vintage 复古 巡航车（停产）",
+        "zh-TW": "Vintage 復古 巡航車（停產）",
+        "ja": "ヴィンテージ"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2019",
+      "note": "1811cc Thunderstroke 111，复古风格旅行巡航，大挡风皮革边箱，2019年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:powerplus",
+      "brand": "Indian",
+      "names": {
+        "en": "Powerplus",
+        "zh-CN": "Powerplus 强力 巡航车（停产）",
+        "zh-TW": "Powerplus 強力 巡航車（停產）",
+        "ja": "パワープラス"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1916–1924",
+      "note": "1916年推出的61立方英寸（1000cc）侧阀V缸，性能强劲，一战后印第安主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:scout-original",
+      "brand": "Indian",
+      "names": {
+        "en": "Scout (Original)",
+        "zh-CN": "Scout 侦察兵 初代 巡航车（停产）",
+        "zh-TW": "Scout 偵察兵 初代 巡航車（停產）",
+        "ja": "スカウト（オリジナル）"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1920–1949",
+      "note": "1920年推出，查尔斯·富兰克林设计，600cc侧阀V缸，1927年扩至745cc，伯德·蒙罗破纪录座驾",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:chief-original",
+      "brand": "Indian",
+      "names": {
+        "en": "Chief (Original)",
+        "zh-CN": "Chief 酋长 初代 巡航车（停产）",
+        "zh-TW": "Chief 酋長 初代 巡航車（停產）",
+        "ja": "チーフ（オリジナル）"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1922–1953",
+      "note": "1922年推出的印第安旗舰车型，1000cc起步后扩至1200cc，1950年扩至1300cc，生产至1953年公司停业",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:prince",
+      "brand": "Indian",
+      "names": {
+        "en": "Prince",
+        "zh-CN": "Prince 王子 轻量街车（停产）",
+        "zh-TW": "Prince 王子 輕量街車（停產）",
+        "ja": "プリンス"
+      },
+      "segment": "class:disp:400cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1925–1928",
+      "note": "1925–1928年的入门级350cc单缸车型，面向新手与出口市场，车架后被Motoplane沿用",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:four",
+      "brand": "Indian",
+      "names": {
+        "en": "Indian Four",
+        "zh-CN": "Indian Four 四缸 巡航车（停产）",
+        "zh-TW": "Indian Four 四缸 巡航車（停產）",
+        "ja": "インディアンフォー"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1927–1942",
+      "note": "1927年收购Ace后推出的1200cc直列四缸豪华车，历经Ace、401、402演变，1942年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:model-101-scout",
+      "brand": "Indian",
+      "names": {
+        "en": "Model 101 Scout",
+        "zh-CN": "Model 101 Scout 侦察兵101 巡航车（停产）",
+        "zh-TW": "Model 101 Scout 偵察兵101 巡航車（停產）",
+        "ja": "モデル101 スカウト"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1928–1931",
+      "note": "1928年推出的第二代侦察兵，加长轴距、低座高，被公认为印第安操控最佳车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:junior-scout",
+      "brand": "Indian",
+      "names": {
+        "en": "Junior Scout",
+        "zh-CN": "Junior Scout 少年侦察兵 巡航车（停产）",
+        "zh-TW": "Junior Scout 少年偵察兵 巡航車（停產）",
+        "ja": "ジュニアスカウト"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1932–1942",
+      "note": "1932年起生产的小排量侦察兵，500cc（30.5立方英寸），前身为Pony Scout，入门车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:sport-scout",
+      "brand": "Indian",
+      "names": {
+        "en": "Sport Scout",
+        "zh-CN": "Sport Scout 运动侦察兵 巡航车（停产）",
+        "zh-TW": "Sport Scout 運動偵察兵 巡航車（停產）",
+        "ja": "スポーツスカウト"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1934–1942",
+      "note": "1934年推出的运动版750cc侦察兵，轻量化车架，1937年赢下首届Daytona 200",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:military-841",
+      "brand": "Indian",
+      "names": {
+        "en": "Model 841",
+        "zh-CN": "Model 841 军版轴驱 越野车（停产）",
+        "zh-TW": "Model 841 軍版軸驅 越野車（停產）",
+        "ja": "モデル841"
+      },
+      "segment": "class:disp:750cc",
+      "body_style": "body:enduro",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1941–1942",
+      "note": "1941–1942年为沙漠作战研制的750cc轴驱动军车，参考BMW R71设计，共产约千余辆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:papoose",
+      "brand": "Indian",
+      "names": {
+        "en": "Papoose",
+        "zh-CN": "Papoose 帕普斯 小型踏板车（停产）",
+        "zh-TW": "Papoose 帕普斯 小型踏板車（停產）",
+        "ja": "パプース"
+      },
+      "segment": "class:disp:125cc",
+      "body_style": "body:scooter",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1948–1954",
+      "note": "100cc小型踏板车，源自二战伞兵摩托设计，战后由英国Brockhouse代工转为民用",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:warrior-1950",
+      "brand": "Indian",
+      "names": {
+        "en": "Warrior (1950)",
+        "zh-CN": "Warrior 战士 运动街车（停产）",
+        "zh-TW": "Warrior 戰士 運動街車（停產）",
+        "ja": "ウォリアー（1950）"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:sport",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1950–1952",
+      "note": "1950年推出的500cc并列双缸运动车型，含TT高排气管版本，印第安末期经典之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:tomahawk",
+      "brand": "Indian",
+      "names": {
+        "en": "Tomahawk",
+        "zh-CN": "Tomahawk 战斧 街车（停产）",
+        "zh-TW": "Tomahawk 戰斧 街車（停產）",
+        "ja": "トマホーク"
+      },
+      "segment": "class:disp:600cc",
+      "body_style": "body:naked",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1955–1960",
+      "note": "1955–1960年英国皇家恩菲尔德500cc双缸贴牌车型，Brockhouse时期复兴产品线之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:chief-gilroy",
+      "brand": "Indian",
+      "names": {
+        "en": "Chief (Gilroy)",
+        "zh-CN": "Chief 酋长 吉尔罗伊 巡航车（停产）",
+        "zh-TW": "Chief 酋長 吉爾羅伊 巡航車（停產）",
+        "ja": "チーフ（ギルロイ）"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1999–2003",
+      "note": "1999年加州吉尔罗伊工厂复兴之作，S&S 88立方英寸发动机，2002年起换装100立方英寸Powerplus",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:scout-gilroy",
+      "brand": "Indian",
+      "names": {
+        "en": "Scout (Gilroy)",
+        "zh-CN": "Scout 侦察兵 吉尔罗伊 巡航车（停产）",
+        "zh-TW": "Scout 偵察兵 吉爾羅伊 巡航車（停產）",
+        "ja": "スカウト（ギルロイ）"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2001–2003",
+      "note": "2001–2003年吉尔罗伊工厂复产的Scout，88立方英寸S&S V缸，含百年纪念等版本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:spirit-gilroy",
+      "brand": "Indian",
+      "names": {
+        "en": "Spirit",
+        "zh-CN": "Spirit 精神 巡航车（停产）",
+        "zh-TW": "Spirit 精神 巡航車（停產）",
+        "ja": "スピリット"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2001–2003",
+      "note": "2001–2003年吉尔罗伊工厂的88立方英寸巡航车型，与Chief同平台，走亲民路线",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:chief-dark-horse-2016",
+      "brand": "Indian",
+      "names": {
+        "en": "Chief Dark Horse (2016)",
+        "zh-CN": "Chief Dark Horse 酋长黑马 2016款 巡航车（停产）",
+        "zh-TW": "Chief Dark Horse 酋長黑馬 2016款 巡航車（停產）",
+        "ja": "チーフダークホース（2016）"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2020",
+      "note": "2016年推出的哑光黑Chief，Thunderstroke 111发动机，2021年被新一代Chief系列取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:scout-classic",
+      "brand": "Indian",
+      "names": {
+        "en": "Scout Classic",
+        "zh-CN": "Scout Classic 侦察兵经典 巡航车",
+        "zh-TW": "Scout Classic 偵察兵經典 巡航車",
+        "ja": "スカウトクラシック"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025年全新一代Scout系列基础版，Speed Plus 1250cc水冷V缸110马力，全新车架与电控",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:sport-scout-2025",
+      "brand": "Indian",
+      "names": {
+        "en": "Sport Scout",
+        "zh-CN": "Sport Scout 运动侦察兵 巡航车",
+        "zh-TW": "Sport Scout 運動偵察兵 巡航車",
+        "ja": "スポーツスカウト"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025年全新Scout系列运动版，Speed Plus 1250cc V缸，运动化调校与骑行三角",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:super-scout",
+      "brand": "Indian",
+      "names": {
+        "en": "Super Scout",
+        "zh-CN": "Super Scout 超级侦察兵 巡航车",
+        "zh-TW": "Super Scout 超級偵察兵 巡航車",
+        "ja": "スーパースカウト"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025年全新Scout系列旅行巡航版，Speed Plus 1250cc V缸，带风挡与边箱的长途版本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:scout-101",
+      "brand": "Indian",
+      "names": {
+        "en": "101 Scout",
+        "zh-CN": "101 Scout 侦察兵101 高性能巡航车",
+        "zh-TW": "101 Scout 偵察兵101 高性能巡航車",
+        "ja": "101スカウト"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "2025年全新Scout系列性能旗舰，Speed Plus 1250cc V缸，Öhlins悬挂，致敬传奇101侦察兵",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:challenger-dark-horse-112",
+      "brand": "Indian",
+      "names": {
+        "en": "Challenger Dark Horse 112",
+        "zh-CN": "Challenger Dark Horse 112 挑战者黑马112 水冷Bagger",
+        "zh-TW": "Challenger Dark Horse 112 挑戰者黑馬112 水冷Bagger",
+        "ja": "チャレンジャーダークホース112"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:bagger",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "2026年重大更新，PowerPlus 112水冷V缸1834cc约126马力，暗黑涂装高性能Bagger",
+      "verified": "verified"
+    },
+    {
+      "id": "model:indian:chief-vintage-125th-anniversary",
+      "brand": "Indian",
+      "names": {
+        "en": "Chief Vintage 125th Anniversary Edition",
+        "zh-CN": "Chief Vintage 酋长复古 125周年纪念版",
+        "zh-TW": "Chief Vintage 酋長復古 125週年紀念版",
+        "ja": "チーフヴィンテージ125周年記念"
+      },
+      "segment": "class:disp:1000cc",
+      "body_style": "body:cruiser",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026",
+      "note": "2026年限量纪念车型，纪念印第安创立125周年（1901-2026），复古涂装配Thunderstroke 116",
+      "verified": "verified"
+    }
+  ]
+}
