@@ -4,6 +4,10 @@
 
 A curated, multilingual reference of global motorcycle brands, models, terminology, and classes. Built for humans and AI — every entry is available in **English, Simplified Chinese, Traditional Chinese, and Japanese**.
 
+<p align="center">
+  <img src="assets/banner.jpg" alt="Multilingual Motorcycle Name Database" width="100%">
+</p>
+
 ## 为什么做这个项目 / Why
 
 摩托车车名在不同市场间常不一致：同一车型在不同地区使用不同名称、译名或本地变体。本项目将全球摩托车数据整理为干净、机器可读的数据集，并提供可核验的来源标注。
