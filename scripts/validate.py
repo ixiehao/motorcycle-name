@@ -12,7 +12,7 @@ validate.py — 数据完整性校验
   2. 车型条目:id 唯一、字段齐全、4 语言键齐全。
   3. 车型引用的 segment / body_style / powertrain 必须存在于 motorcycle_classes。
   4. 车型 brand 必须存在于 brands(英文名匹配)。
-  5. 品牌 id 唯一;术语 id 唯一;跨市场异名 id 唯一。
+  5. 品牌 id 唯一;术语 id 唯一;跨市场异名 id 唯一且具有 4 语言主名。
   6. 车型 status 取值限 current / discontinued / concept。
   7. 待核实清单条目编号唯一。
 
@@ -50,6 +50,13 @@ def load_json(path):
     except Exception as e:
         errors.append(f"JSON 解析失败: {os.path.relpath(path, ROOT)} -> {e}")
         return None
+
+
+def missing_languages(names):
+    """返回缺失、非字符串或空白的必需语言键。"""
+    if not isinstance(names, dict):
+        return list(LANGS)
+    return [lang for lang in LANGS if not isinstance(names.get(lang), str) or not names[lang].strip()]
 
 
 def build_id_sets():
@@ -114,7 +121,7 @@ def main():
             errors.append(f"品牌 {bid} names 字段缺失或非对象")
             continue
         brand_en[names.get("en", "").strip().lower()] = bid
-        missing = [l for l in LANGS if l not in names]
+        missing = missing_languages(names)
         if missing:
             errors.append(f"品牌 {bid} 缺少语言键: {missing}")
 
@@ -135,7 +142,7 @@ def main():
         if t.get("category") not in glossary_cat_ids:
             errors.append(f"术语 {tid} 类别无效: {t.get('category')}")
         names = t.get("names", {})
-        missing = [l for l in LANGS if l not in names]
+        missing = missing_languages(names)
         if missing:
             errors.append(f"术语 {tid} 缺少语言键: {missing}")
 
@@ -150,6 +157,13 @@ def main():
             if cid in cm_ids:
                 errors.append(f"跨市场异名 id 重复: {cid}")
             cm_ids.add(cid)
+            names = c.get("names", {})
+            missing = missing_languages(names)
+            if missing:
+                errors.append(f"跨市场异名 {cid} 缺少或包含空白语言键: {missing}")
+            aliases = c.get("aliases")
+            if not isinstance(aliases, dict) or not aliases:
+                errors.append(f"跨市场异名 {cid} aliases 字段缺失、非对象或为空")
     else:
         errors.append("cross_market.json 需为数组")
 
@@ -186,7 +200,7 @@ def main():
         if not isinstance(names, dict):
             errors.append(f"车型 {mid} names 非对象 (@ {src})")
         else:
-            missing = [l for l in LANGS if l not in names]
+            missing = missing_languages(names)
             if missing:
                 errors.append(f"车型 {mid} 缺少语言键 {missing} (@ {src})")
         # segment / body_style / powertrain 引用

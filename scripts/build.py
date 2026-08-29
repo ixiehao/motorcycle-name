@@ -69,7 +69,9 @@ def render_markdown(merged):
     lines = []
     lines.append("# 多语言摩托车车名资料库(Multilingual Motorcycle Name Database)")
     lines.append("")
-    lines.append(f"> 更新日期: {meta['updated']}  \n> 数据库版本: v{meta['database_version']}  \n> 许可证: {meta['license']}")
+    lines.append(f"> 更新日期: {meta['updated']}<br>")
+    lines.append(f"> 数据库版本: v{meta['database_version']}<br>")
+    lines.append(f"> 许可证: {meta['license']}")
     lines.append("")
     lines.append("---")
     lines.append("")
@@ -199,11 +201,16 @@ def render_markdown(merged):
     lines.append("## 5. 跨市场异名对照 (Cross-Market Aliases)")
     lines.append("")
     if cm:
-        lines.append("| ID | 主名 | 别名/市场对照 |")
-        lines.append("|----|------|---------------|")
+        lines.append("| ID | English | 简体中文 | 繁體中文 | 日本語 | 别名/市场对照 |")
+        lines.append("|----|---------|----------|----------|--------|---------------|")
         for c in cm:
+            names = c.get("names", {})
             aliases = "; ".join([f"{k}:{v}" for k, v in c.get("aliases", {}).items()])
-            lines.append(f"| {c.get('id','')} | {c.get('main','')} | {aliases} |")
+            lines.append(
+                f"| {c.get('id','')} | {names.get('en', c.get('main',''))} | "
+                f"{names.get('zh-CN', c.get('main',''))} | {names.get('zh-TW', c.get('main',''))} | "
+                f"{names.get('ja', c.get('main',''))} | {aliases} |"
+            )
     else:
         lines.append("(暂无数据)")
     lines.append("")

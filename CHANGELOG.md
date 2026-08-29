@@ -4,6 +4,12 @@
 
 The format follows [Keep a Changelog](https://keepachangelog.com/) and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [1.1.0] — 2026-08-29
+
+跨市场异名条目现已具备英语、简体中文、繁体中文和日语主名，并由校验脚本强制检查；合并 Markdown 产物同步展示四种语言。
+
+Cross-market alias entries now provide English, Simplified Chinese, Traditional Chinese, and Japanese primary names, enforced by validation and displayed in the merged Markdown output.
+
 ## [1.0.0] — 2026-08-10
 
 首个版本：多语言摩托车车名资料库。

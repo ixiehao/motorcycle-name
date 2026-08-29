@@ -1,7 +1,7 @@
 # 多语言摩托车车名资料库(Multilingual Motorcycle Name Database)
 
-> 更新日期: 2026-08-10  
-> 数据库版本: v1.0.0  
+> 更新日期: 2026-08-29<br>
+> 数据库版本: v1.1.0<br>
 > 许可证: CC BY-SA 4.0
 
 ---
@@ -2419,85 +2419,85 @@
 
 ## 5. 跨市场异名对照 (Cross-Market Aliases)
 
-| ID | 主名 | 别名/市场对照 |
-|----|------|---------------|
-| cm:suzuki:skywave-burgman | Burgman | 日本:スカイウェイブ (Skywave); 欧洲:Burgman; 北美:Burgman; 中国大陆:汉堡人 |
-| cm:suzuki:gsx1300r-hayabusa | GSX1300R Hayabusa | 日本:隼 (ハヤブサ); 北美:Hayabusa; 欧洲:Hayabusa |
-| cm:yamaha:fz-mt | MT-07/MT-09 | 北美:FZ-07 / FZ-09 (2015-2017); 欧洲:MT-07 / MT-09; 中国大陆:MT-07 / MT-09 |
-| cm:yamaha:virago-dragstar | Virago / DragStar | 日本:ドラッグスター (DragStar); 北美:Virago; 欧洲:DragStar |
-| cm:yamaha:star-vstar | XV950 / Bolt | 北美:Star Bolt / V-Star; 欧洲:XV950 / Bolt; 日本:ボルト (Bolt) |
-| cm:honda:cmx-rebel | CMX500 Rebel | 日本:レブル (Rebel); 北美:Rebel 500; 欧洲:CMX500 Rebel; 中国大陆:CMX500 Rebel |
-| cm:honda:gold-wing | GL1800 Gold Wing | 日本:ゴールドウイング (Gold Wing); 北美:Gold Wing; 欧洲:Gold Wing; 中国大陆:金翼 |
-| cm:honda:super-cub | Super Cub | 日本:スーパーカブ; 东南亚:Super Cub / Cub; 中国大陆:幼兽 |
-| cm:honda:cb400sf | CB400 Super Four | 日本:CB400スーパーフォア; 中国大陆:CB400 超级四缸 |
-| cm:kawasaki:gpz-ninja | GPZ900R Ninja | 日本:GPZ900R ニンジャ; 北美:Ninja 900; 欧洲:GPZ900R |
-| cm:kawasaki:vn-vulcan | Vulcan (VN) | 日本:バルカン (VN); 北美:Vulcan; 欧洲:Vulcan |
-| cm:kawasaki:versys | Versys | 日本:バーシス (Versys); 欧洲:Versys; 北美:Versys |
-| cm:bmw:r1200gs-r1250gs | R 1250 GS | 中国大陆:水鸟; 北美:R 1250 GS; 欧洲:R 1250 GS |
-| cm:bmw:k1600 | K 1600 GTL | 中国大陆:大GT; 欧洲:K 1600 GTL; 北美:K 1600 GTL |
-| cm:ducati:monster | Monster | 日本:モンスター; 中国大陆:怪兽; 欧洲:Monster |
-| cm:triumph:bonneville | Bonneville | 中国大陆:邦尼维尔; 欧洲:Bonneville; 日本:ボンネビル |
-| cm:harley:heritage-softail | Heritage Softail | 中国大陆:继承者; 北美:Heritage Classic; 欧洲:Heritage Classic |
-| cm:harley:sportster | Sportster | 中国大陆:运动者; 北美:Sportster; 日本:スポーツスター |
-| cm:ktm:duke | Duke | 中国大陆:公爵; 欧洲:Duke; 日本:デューク |
-| cm:ktm:adventure | Adventure | 中国大陆:探险家; 欧洲:Adventure; 北美:Adventure |
-| cm:royal-enfield:bullet | Bullet | 印度:बुलेट (Bullet); 中国大陆:子弹头; 英国:Bullet |
-| cm:honda:cbr650r-cb650r | CB650R / CBR650R | 北美:CB650R / CBR650R; 欧洲:CB650R / CBR650R; 中国大陆:CB650R / CBR650R |
-| cm:suzuki:v-strom | V-Strom (DL) | 日本:Vストローム (DL); 欧洲:V-Strom; 北美:V-Strom; 中国大陆:维斯托姆 |
-| cm:yamaha:tmax | TMAX | 日本:ティーマックス; 欧洲:TMAX; 中国大陆:踢妈克斯 |
-| cm:honda:pcx | PCX | 日本:PCX; 东南亚:PCX; 中国大陆:PCX |
-| cm:vespa:primavera | Primavera | 日本:プリマヴェーラ; 中国大陆:春天; 意大利:Primavera |
-| cm:vespa:sprint | Sprint | 日本:スプリント; 中国大陆:冲刺; 意大利:Sprint |
-| cm:aprilia:rsv4 | RSV4 | 日本:RSV4; 欧洲:RSV4; 北美:RSV4 |
-| cm:qjmotor:benelli-tnt | Benelli TNT (QJMOTOR 同平台) | 中国大陆:钱江 TNT 系列; 欧洲:Benelli TNT; 东南亚:Benelli |
-| cm:cfmoto:450sr | CFMoto 450SR | 中国大陆:春风 450SR; 欧洲:CFMoto 450SR; 北美:CFMoto 450SR |
-| cm:haojue:gsx250r | Suzuki GSX250R (Haojue 合资) | 中国大陆:豪爵铃木 GSX250R; 海外:Suzuki GSX250R |
-| cm:yamaha:r15 | YZF-R15 | 印度:YZF-R15 V4; 东南亚:YZF-R15; 中国大陆:R15 |
-| cm:honda:cbr150r | CBR150R | 东南亚:CBR150R; 拉美:CBR150R; 日本:CBR150R |
-| cm:kawasaki:klx | KLX | 东南亚:KLX; 北美:KLX; 日本:KLX |
-| cm:suzuki:address | Address | 日本:アドレス; 东南亚:Address; 中国大陆:时代 |
-| cm:yamaha:jog | Jog | 日本:ジョグ; 中国大陆:巧格; 东南亚:Jog |
-| cm:yamaha:cygnus | Cygnus (劲战) | 台湾:勁戰; 日本:シグナス (Cygnus); 东南亚:Cygnus |
-| cm:kymco:like | Like | 台湾:Like; 欧洲:Like; 中国大陆:丽可 |
-| cm:sym:jet | Jet | 台湾:JET; 欧洲:Jet; 中国大陆:捷特 |
-| cm:piaggio:mp3 | MP3 | 欧洲:MP3; 日本:MP3; 中国大陆:MP3 倒三轮 |
-| cm:indian:scout | Scout | 北美:Scout; 欧洲:Scout; 中国大陆:侦察兵 |
-| cm:indian:chief | Chief | 北美:Chief; 欧洲:Chief; 中国大陆:首领 |
-| cm:moto-guzzi:v7 | V7 | 欧洲:V7; 日本:V7; 中国大陆:V7 |
-| cm:honda:forza | Forza | 日本:フォルツァ; 欧洲:Forza; 中国大陆:佛沙 |
-| cm:honda:xadv | X-ADV | 日本:X-ADV; 欧洲:X-ADV; 中国大陆:X-ADV |
-| cm:yamaha:nmax | NMAX | 东南亚:NMAX; 欧洲:NMAX; 中国大陆:NMAX |
-| cm:suzuki:dr | DR (DualSport) | 北美:DR650; 欧洲:DR650; 日本:DR650 |
-| cm:kawasaki:z900rs | Z900RS | 日本:Z900RS ゼファー; 欧洲:Z900RS; 北美:Z900RS |
-| cm:bmw:s1000rr | S 1000 RR | 日本:S1000RR; 欧洲:S 1000 RR; 中国大陆:S 1000 RR |
-| cm:kawasaki:eliminator-400-450 | Eliminator 400/450 | 日本:エリミネーター 400 (Eliminator 400); 北美:Eliminator 450; 欧洲:Eliminator 450; 中国大陆:Eliminator 450 |
-| cm:suzuki:gixxer | Gixxer 155 | 印度:Gixxer 155; 东南亚:Gixxer 155; 中国大陆:极客飒 GIXXER 155 |
-| cm:honda:wave-supra | Wave 系列 | 泰国:Wave; 马来西亚:Wave; 中国大陆:威武 |
-| cm:honda:varadero | VTR1000 Varadero | 欧洲:Varadero; 日本:バラデロ (Varadero); 北美:Varadero |
-| cm:honda:ct125-hunter-cub | CT125 Hunter Cub | 日本:ハンターカブ (Hunter Cub); 欧洲:CT125 Hunter Cub; 中国大陆:猎人幼兽 |
-| cm:honda:cub-trail | C50/C90 Trail | 日本:カブ (Cub); 东南亚:Cub / Wave; 中国大陆:幼兽 |
-| cm:yamaha:mt15 | MT-15 | 印度:MT-15; 东南亚:MT-15; 欧洲:MT-125 |
-| cm:yamaha:aerox | Aerox 155 | 东南亚:Aerox 155; 欧洲:NMAX 155; 中国大陆:Aerox 155 |
-| cm:yamaha:fino | Fino | 泰国:Fino; 印度尼西亚:Fino; 台湾:Vinoora |
-| cm:suzuki:burgman-street | Burgman Street | 印度:Burgman Street EX; 东南亚:Burgman Street EX; 中国大陆:汉堡人 Street |
-| cm:suzuki:raider | Raider 150 | 印度尼西亚:Raider 150; 菲律宾:Raider 150; 马来西亚:Raider 150 |
-| cm:suzuki:lets | Let's 系列 | 日本:レッツ (Let's); 东南亚:Let's / Next; 欧洲:Let's |
-| cm:honda:benly | Benly 系列 | 日本:ベンリー (Benly); 东南亚:Benly; 中国大陆:本利 |
-| cm:kawasaki:ksr | KSR | 日本:KSR; 欧洲:KSR; 北美:KSR |
-| cm:honda:cb350-hness | H'ness CB350 / GB350 | 印度:H'ness CB350 / CB350RS; 日本:GB350 / GB350S; 欧洲:CB350; 中国大陆:GB350 |
-| cm:suzuki:gsx-s125 | GSX-S125 | 欧洲:GSX-S125; 日本:GSX-S125; 北美:GSX-R125 |
-| cm:yamaha:yzf-r125 | YZF-R125 | 欧洲:YZF-R125; 日本:YZF-R125; 北美:YZF-R15 (导入) |
-| cm:honda:rebel-300 | Rebel 300 | 北美:Rebel 300; 欧洲:CMX300; 日本:レブル 300 |
-| cm:kawasaki:w800 | W800 | 日本:W800; 欧洲:W800 Street / W800 Cafe; 中国大陆:W800 |
-| cm:yamaha:xv950 | XV950 | 北美:Bolt; 欧洲:XV950; 日本:ボルト (Bolt) |
-| cm:suzuki:gsx250 | GSX250R | 日本:GSX250R; 欧洲:GSX250R; 中国大陆:豪爵铃木 GSX250R |
-| cm:honda:dio | Dio | 日本:ディオ (Dio); 东南亚:Dio; 印度:Activa (同级) |
-| cm:honda:activa | Activa | 印度:Activa; 东南亚:Activa; 日本:(无对应) |
-| cm:yamaha:lexi | Lexi 125 | 泰国:Lexi 125; 马来西亚:Lexi 125; 欧洲:Lexi 125 |
-| cm:honda:supra-gtr | Supra GTR 150 | 印度尼西亚:Supra GTR 150; 马来西亚:Supra GTR 150; 泰国:Supra GTR 150 |
-| cm:royal-enfield:classic-350 | Classic 350 | 印度:क्लासिक 350 (Classic 350); 欧洲:Classic 350; 北美:Classic 350 |
-| cm:ktm:390-duke | 390 Duke | 印度:390 Duke; 欧洲:390 Duke; 北美:390 Duke |
-| cm:bmw:g310 | G 310 R | 印度:G 310 R; 欧洲:G 310 R; 北美:G 310 R |
+| ID | English | 简体中文 | 繁體中文 | 日本語 | 别名/市场对照 |
+|----|---------|----------|----------|--------|---------------|
+| cm:suzuki:skywave-burgman | Burgman | 汉堡人 | Burgman | スカイウェイブ (Skywave) | 日本:スカイウェイブ (Skywave); 欧洲:Burgman; 北美:Burgman; 中国大陆:汉堡人 |
+| cm:suzuki:gsx1300r-hayabusa | GSX1300R Hayabusa | GSX1300R Hayabusa | GSX1300R Hayabusa | 隼 (ハヤブサ) | 日本:隼 (ハヤブサ); 北美:Hayabusa; 欧洲:Hayabusa |
+| cm:yamaha:fz-mt | MT-07/MT-09 | MT-07 / MT-09 | MT-07/MT-09 | MT-07/MT-09 | 北美:FZ-07 / FZ-09 (2015-2017); 欧洲:MT-07 / MT-09; 中国大陆:MT-07 / MT-09 |
+| cm:yamaha:virago-dragstar | Virago / DragStar | Virago / DragStar | Virago / DragStar | ドラッグスター (DragStar) | 日本:ドラッグスター (DragStar); 北美:Virago; 欧洲:DragStar |
+| cm:yamaha:star-vstar | XV950 / Bolt | XV950 / Bolt | XV950 / Bolt | ボルト (Bolt) | 北美:Star Bolt / V-Star; 欧洲:XV950 / Bolt; 日本:ボルト (Bolt) |
+| cm:honda:cmx-rebel | CMX500 Rebel | CMX500 Rebel | CMX500 Rebel | レブル (Rebel) | 日本:レブル (Rebel); 北美:Rebel 500; 欧洲:CMX500 Rebel; 中国大陆:CMX500 Rebel |
+| cm:honda:gold-wing | GL1800 Gold Wing | 金翼 | GL1800 Gold Wing | ゴールドウイング (Gold Wing) | 日本:ゴールドウイング (Gold Wing); 北美:Gold Wing; 欧洲:Gold Wing; 中国大陆:金翼 |
+| cm:honda:super-cub | Super Cub | 幼兽 | Super Cub | スーパーカブ | 日本:スーパーカブ; 东南亚:Super Cub / Cub; 中国大陆:幼兽 |
+| cm:honda:cb400sf | CB400 Super Four | CB400 超级四缸 | CB400 Super Four | CB400スーパーフォア | 日本:CB400スーパーフォア; 中国大陆:CB400 超级四缸 |
+| cm:kawasaki:gpz-ninja | GPZ900R Ninja | GPZ900R Ninja | GPZ900R Ninja | GPZ900R ニンジャ | 日本:GPZ900R ニンジャ; 北美:Ninja 900; 欧洲:GPZ900R |
+| cm:kawasaki:vn-vulcan | Vulcan (VN) | Vulcan (VN) | Vulcan (VN) | バルカン (VN) | 日本:バルカン (VN); 北美:Vulcan; 欧洲:Vulcan |
+| cm:kawasaki:versys | Versys | Versys | Versys | バーシス (Versys) | 日本:バーシス (Versys); 欧洲:Versys; 北美:Versys |
+| cm:bmw:r1200gs-r1250gs | R 1250 GS | 水鸟 | R 1250 GS | R 1250 GS | 中国大陆:水鸟; 北美:R 1250 GS; 欧洲:R 1250 GS |
+| cm:bmw:k1600 | K 1600 GTL | 大GT | K 1600 GTL | K 1600 GTL | 中国大陆:大GT; 欧洲:K 1600 GTL; 北美:K 1600 GTL |
+| cm:ducati:monster | Monster | 怪兽 | Monster | モンスター | 日本:モンスター; 中国大陆:怪兽; 欧洲:Monster |
+| cm:triumph:bonneville | Bonneville | 邦尼维尔 | Bonneville | ボンネビル | 中国大陆:邦尼维尔; 欧洲:Bonneville; 日本:ボンネビル |
+| cm:harley:heritage-softail | Heritage Softail | 继承者 | Heritage Softail | Heritage Softail | 中国大陆:继承者; 北美:Heritage Classic; 欧洲:Heritage Classic |
+| cm:harley:sportster | Sportster | 运动者 | Sportster | スポーツスター | 中国大陆:运动者; 北美:Sportster; 日本:スポーツスター |
+| cm:ktm:duke | Duke | 公爵 | Duke | デューク | 中国大陆:公爵; 欧洲:Duke; 日本:デューク |
+| cm:ktm:adventure | Adventure | 探险家 | Adventure | Adventure | 中国大陆:探险家; 欧洲:Adventure; 北美:Adventure |
+| cm:royal-enfield:bullet | Bullet | 子弹头 | Bullet | Bullet | 印度:बुलेट (Bullet); 中国大陆:子弹头; 英国:Bullet |
+| cm:honda:cbr650r-cb650r | CB650R / CBR650R | CB650R / CBR650R | CB650R / CBR650R | CB650R / CBR650R | 北美:CB650R / CBR650R; 欧洲:CB650R / CBR650R; 中国大陆:CB650R / CBR650R |
+| cm:suzuki:v-strom | V-Strom (DL) | 维斯托姆 | V-Strom (DL) | Vストローム (DL) | 日本:Vストローム (DL); 欧洲:V-Strom; 北美:V-Strom; 中国大陆:维斯托姆 |
+| cm:yamaha:tmax | TMAX | 踢妈克斯 | TMAX | ティーマックス | 日本:ティーマックス; 欧洲:TMAX; 中国大陆:踢妈克斯 |
+| cm:honda:pcx | PCX | PCX | PCX | PCX | 日本:PCX; 东南亚:PCX; 中国大陆:PCX |
+| cm:vespa:primavera | Primavera | 春天 | Primavera | プリマヴェーラ | 日本:プリマヴェーラ; 中国大陆:春天; 意大利:Primavera |
+| cm:vespa:sprint | Sprint | 冲刺 | Sprint | スプリント | 日本:スプリント; 中国大陆:冲刺; 意大利:Sprint |
+| cm:aprilia:rsv4 | RSV4 | RSV4 | RSV4 | RSV4 | 日本:RSV4; 欧洲:RSV4; 北美:RSV4 |
+| cm:qjmotor:benelli-tnt | Benelli TNT (QJMOTOR platform counterpart) | 钱江 TNT 系列 | Benelli TNT（QJMOTOR 同平台車型） | ベネリ TNT（QJMOTOR同プラットフォーム） | 中国大陆:钱江 TNT 系列; 欧洲:Benelli TNT; 东南亚:Benelli |
+| cm:cfmoto:450sr | CFMoto 450SR | 春风 450SR | CFMoto 450SR | CFMoto 450SR | 中国大陆:春风 450SR; 欧洲:CFMoto 450SR; 北美:CFMoto 450SR |
+| cm:haojue:gsx250r | Suzuki GSX250R (Haojue joint venture) | 豪爵铃木 GSX250R | 鈴木 GSX250R（豪爵合資） | スズキ GSX250R（豪爵合弁） | 中国大陆:豪爵铃木 GSX250R; 海外:Suzuki GSX250R |
+| cm:yamaha:r15 | YZF-R15 | R15 | YZF-R15 | YZF-R15 | 印度:YZF-R15 V4; 东南亚:YZF-R15; 中国大陆:R15 |
+| cm:honda:cbr150r | CBR150R | CBR150R | CBR150R | CBR150R | 东南亚:CBR150R; 拉美:CBR150R; 日本:CBR150R |
+| cm:kawasaki:klx | KLX | KLX | KLX | KLX | 东南亚:KLX; 北美:KLX; 日本:KLX |
+| cm:suzuki:address | Address | 时代 | Address | アドレス | 日本:アドレス; 东南亚:Address; 中国大陆:时代 |
+| cm:yamaha:jog | Jog | 巧格 | Jog | ジョグ | 日本:ジョグ; 中国大陆:巧格; 东南亚:Jog |
+| cm:yamaha:cygnus | Cygnus | 劲战 | 勁戰 | シグナス (Cygnus) | 台湾:勁戰; 日本:シグナス (Cygnus); 东南亚:Cygnus |
+| cm:kymco:like | Like | 丽可 | Like | Like | 台湾:Like; 欧洲:Like; 中国大陆:丽可 |
+| cm:sym:jet | Jet | 捷特 | JET | Jet | 台湾:JET; 欧洲:Jet; 中国大陆:捷特 |
+| cm:piaggio:mp3 | MP3 | MP3 倒三轮 | MP3 | MP3 | 欧洲:MP3; 日本:MP3; 中国大陆:MP3 倒三轮 |
+| cm:indian:scout | Scout | 侦察兵 | Scout | Scout | 北美:Scout; 欧洲:Scout; 中国大陆:侦察兵 |
+| cm:indian:chief | Chief | 首领 | Chief | Chief | 北美:Chief; 欧洲:Chief; 中国大陆:首领 |
+| cm:moto-guzzi:v7 | V7 | V7 | V7 | V7 | 欧洲:V7; 日本:V7; 中国大陆:V7 |
+| cm:honda:forza | Forza | 佛沙 | Forza | フォルツァ | 日本:フォルツァ; 欧洲:Forza; 中国大陆:佛沙 |
+| cm:honda:xadv | X-ADV | X-ADV | X-ADV | X-ADV | 日本:X-ADV; 欧洲:X-ADV; 中国大陆:X-ADV |
+| cm:yamaha:nmax | NMAX | NMAX | NMAX | NMAX | 东南亚:NMAX; 欧洲:NMAX; 中国大陆:NMAX |
+| cm:suzuki:dr | DR (DualSport) | DR (DualSport) | DR (DualSport) | DR650 | 北美:DR650; 欧洲:DR650; 日本:DR650 |
+| cm:kawasaki:z900rs | Z900RS | Z900RS | Z900RS | Z900RS ゼファー | 日本:Z900RS ゼファー; 欧洲:Z900RS; 北美:Z900RS |
+| cm:bmw:s1000rr | S 1000 RR | S 1000 RR | S 1000 RR | S1000RR | 日本:S1000RR; 欧洲:S 1000 RR; 中国大陆:S 1000 RR |
+| cm:kawasaki:eliminator-400-450 | Eliminator 400/450 | Eliminator 450 | Eliminator 400/450 | エリミネーター 400 (Eliminator 400) | 日本:エリミネーター 400 (Eliminator 400); 北美:Eliminator 450; 欧洲:Eliminator 450; 中国大陆:Eliminator 450 |
+| cm:suzuki:gixxer | Gixxer 155 | 极客飒 GIXXER 155 | Gixxer 155 | Gixxer 155 | 印度:Gixxer 155; 东南亚:Gixxer 155; 中国大陆:极客飒 GIXXER 155 |
+| cm:honda:wave-supra | Wave series | 威武 | Wave 系列 | Waveシリーズ | 泰国:Wave; 马来西亚:Wave; 中国大陆:威武 |
+| cm:honda:varadero | VTR1000 Varadero | VTR1000 Varadero | VTR1000 Varadero | バラデロ (Varadero) | 欧洲:Varadero; 日本:バラデロ (Varadero); 北美:Varadero |
+| cm:honda:ct125-hunter-cub | CT125 Hunter Cub | 猎人幼兽 | CT125 Hunter Cub | ハンターカブ (Hunter Cub) | 日本:ハンターカブ (Hunter Cub); 欧洲:CT125 Hunter Cub; 中国大陆:猎人幼兽 |
+| cm:honda:cub-trail | C50/C90 Trail | 幼兽 | C50/C90 Trail | カブ (Cub) | 日本:カブ (Cub); 东南亚:Cub / Wave; 中国大陆:幼兽 |
+| cm:yamaha:mt15 | MT-15 | MT-15 | MT-15 | MT-15 | 印度:MT-15; 东南亚:MT-15; 欧洲:MT-125 |
+| cm:yamaha:aerox | Aerox 155 | Aerox 155 | Aerox 155 | Aerox 155 | 东南亚:Aerox 155; 欧洲:NMAX 155; 中国大陆:Aerox 155 |
+| cm:yamaha:fino | Fino | Fino | Vinoora | Fino | 泰国:Fino; 印度尼西亚:Fino; 台湾:Vinoora |
+| cm:suzuki:burgman-street | Burgman Street | 汉堡人 Street | Burgman Street | Burgman Street | 印度:Burgman Street EX; 东南亚:Burgman Street EX; 中国大陆:汉堡人 Street |
+| cm:suzuki:raider | Raider 150 | Raider 150 | Raider 150 | Raider 150 | 印度尼西亚:Raider 150; 菲律宾:Raider 150; 马来西亚:Raider 150 |
+| cm:suzuki:lets | Let's series | Let's 系列 | Let's 系列 | レッツシリーズ | 日本:レッツ (Let's); 东南亚:Let's / Next; 欧洲:Let's |
+| cm:honda:benly | Benly series | 本利 | Benly 系列 | ベンリー (Benly) | 日本:ベンリー (Benly); 东南亚:Benly; 中国大陆:本利 |
+| cm:kawasaki:ksr | KSR | KSR | KSR | KSR | 日本:KSR; 欧洲:KSR; 北美:KSR |
+| cm:honda:cb350-hness | H'ness CB350 / GB350 | GB350 | H'ness CB350 / GB350 | GB350 / GB350S | 印度:H'ness CB350 / CB350RS; 日本:GB350 / GB350S; 欧洲:CB350; 中国大陆:GB350 |
+| cm:suzuki:gsx-s125 | GSX-S125 | GSX-S125 | GSX-S125 | GSX-S125 | 欧洲:GSX-S125; 日本:GSX-S125; 北美:GSX-R125 |
+| cm:yamaha:yzf-r125 | YZF-R125 | YZF-R125 | YZF-R125 | YZF-R125 | 欧洲:YZF-R125; 日本:YZF-R125; 北美:YZF-R15 (导入) |
+| cm:honda:rebel-300 | Rebel 300 | Rebel 300 | Rebel 300 | レブル 300 | 北美:Rebel 300; 欧洲:CMX300; 日本:レブル 300 |
+| cm:kawasaki:w800 | W800 | W800 | W800 | W800 | 日本:W800; 欧洲:W800 Street / W800 Cafe; 中国大陆:W800 |
+| cm:yamaha:xv950 | XV950 | XV950 | XV950 | ボルト (Bolt) | 北美:Bolt; 欧洲:XV950; 日本:ボルト (Bolt) |
+| cm:suzuki:gsx250 | GSX250R | 豪爵铃木 GSX250R | GSX250R | GSX250R | 日本:GSX250R; 欧洲:GSX250R; 中国大陆:豪爵铃木 GSX250R |
+| cm:honda:dio | Dio | Dio | Dio | ディオ (Dio) | 日本:ディオ (Dio); 东南亚:Dio; 印度:Activa (同级) |
+| cm:honda:activa | Activa | Activa | Activa | Activa | 印度:Activa; 东南亚:Activa; 日本:(无对应) |
+| cm:yamaha:lexi | Lexi 125 | Lexi 125 | Lexi 125 | Lexi 125 | 泰国:Lexi 125; 马来西亚:Lexi 125; 欧洲:Lexi 125 |
+| cm:honda:supra-gtr | Supra GTR 150 | Supra GTR 150 | Supra GTR 150 | Supra GTR 150 | 印度尼西亚:Supra GTR 150; 马来西亚:Supra GTR 150; 泰国:Supra GTR 150 |
+| cm:royal-enfield:classic-350 | Classic 350 | Classic 350 | Classic 350 | Classic 350 | 印度:क्लासिक 350 (Classic 350); 欧洲:Classic 350; 北美:Classic 350 |
+| cm:ktm:390-duke | 390 Duke | 390 Duke | 390 Duke | 390 Duke | 印度:390 Duke; 欧洲:390 Duke; 北美:390 Duke |
+| cm:bmw:g310 | G 310 R | G 310 R | G 310 R | G 310 R | 印度:G 310 R; 欧洲:G 310 R; 北美:G 310 R |
 
 ---
 

@@ -61,6 +61,10 @@ python3 scripts/build.py
 
 Same model sold under different names across markets go in `data/models/cross_market.json` (e.g., Kawasaki Eliminator 400 vs. Eliminator 450, Honda H'ness CB350 vs. GB350).
 
+跨市场异名同样是公开数据条目，必须提供 `names.en`、`names.zh-CN`、`names.zh-TW` 和 `names.ja`。`main` 保留为向后兼容的规范主名；`aliases` 则保留各市场实际使用的名称。
+
+Cross-market aliases are public data entries too, so they must include `names.en`, `names.zh-CN`, `names.zh-TW`, and `names.ja`. Keep `main` as the backwards-compatible canonical label, and use `aliases` for the name actually used in each market.
+
 ## 核验标记 / Verification Flags
 
 - `verified: "verified"` — 已对照可靠来源确认（官方网站、维基百科）/ confirmed against a reliable source (official site, Wikipedia).

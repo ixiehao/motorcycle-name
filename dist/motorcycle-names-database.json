@@ -2,10 +2,10 @@
   "schema_version": "1.0.0",
   "meta": {
     "schema_version": "1.0.0",
-    "database_version": "1.0.0",
-    "updated": "2026-08-10",
+    "database_version": "1.1.0",
+    "updated": "2026-08-29",
     "title": "多语言摩托车车名资料库 Multilingual Motorcycle Name Database",
-    "repository": "",
+    "repository": "https://github.com/ixiehao/motorcycle-name",
     "languages": [
       "en",
       "zh-CN",
@@ -29818,6 +29818,12 @@
       {
         "id": "cm:suzuki:skywave-burgman",
         "main": "Burgman",
+        "names": {
+          "en": "Burgman",
+          "zh-CN": "汉堡人",
+          "zh-TW": "Burgman",
+          "ja": "スカイウェイブ (Skywave)"
+        },
         "aliases": {
           "日本": "スカイウェイブ (Skywave)",
           "欧洲": "Burgman",
@@ -29829,6 +29835,12 @@
       {
         "id": "cm:suzuki:gsx1300r-hayabusa",
         "main": "GSX1300R Hayabusa",
+        "names": {
+          "en": "GSX1300R Hayabusa",
+          "zh-CN": "GSX1300R Hayabusa",
+          "zh-TW": "GSX1300R Hayabusa",
+          "ja": "隼 (ハヤブサ)"
+        },
         "aliases": {
           "日本": "隼 (ハヤブサ)",
           "北美": "Hayabusa",
@@ -29839,6 +29851,12 @@
       {
         "id": "cm:yamaha:fz-mt",
         "main": "MT-07/MT-09",
+        "names": {
+          "en": "MT-07/MT-09",
+          "zh-CN": "MT-07 / MT-09",
+          "zh-TW": "MT-07/MT-09",
+          "ja": "MT-07/MT-09"
+        },
         "aliases": {
           "北美": "FZ-07 / FZ-09 (2015-2017)",
           "欧洲": "MT-07 / MT-09",
@@ -29849,6 +29867,12 @@
       {
         "id": "cm:yamaha:virago-dragstar",
         "main": "Virago / DragStar",
+        "names": {
+          "en": "Virago / DragStar",
+          "zh-CN": "Virago / DragStar",
+          "zh-TW": "Virago / DragStar",
+          "ja": "ドラッグスター (DragStar)"
+        },
         "aliases": {
           "日本": "ドラッグスター (DragStar)",
           "北美": "Virago",
@@ -29859,6 +29883,12 @@
       {
         "id": "cm:yamaha:star-vstar",
         "main": "XV950 / Bolt",
+        "names": {
+          "en": "XV950 / Bolt",
+          "zh-CN": "XV950 / Bolt",
+          "zh-TW": "XV950 / Bolt",
+          "ja": "ボルト (Bolt)"
+        },
         "aliases": {
           "北美": "Star Bolt / V-Star",
           "欧洲": "XV950 / Bolt",
@@ -29869,6 +29899,12 @@
       {
         "id": "cm:honda:cmx-rebel",
         "main": "CMX500 Rebel",
+        "names": {
+          "en": "CMX500 Rebel",
+          "zh-CN": "CMX500 Rebel",
+          "zh-TW": "CMX500 Rebel",
+          "ja": "レブル (Rebel)"
+        },
         "aliases": {
           "日本": "レブル (Rebel)",
           "北美": "Rebel 500",
@@ -29880,6 +29916,12 @@
       {
         "id": "cm:honda:gold-wing",
         "main": "GL1800 Gold Wing",
+        "names": {
+          "en": "GL1800 Gold Wing",
+          "zh-CN": "金翼",
+          "zh-TW": "GL1800 Gold Wing",
+          "ja": "ゴールドウイング (Gold Wing)"
+        },
         "aliases": {
           "日本": "ゴールドウイング (Gold Wing)",
           "北美": "Gold Wing",
@@ -29891,6 +29933,12 @@
       {
         "id": "cm:honda:super-cub",
         "main": "Super Cub",
+        "names": {
+          "en": "Super Cub",
+          "zh-CN": "幼兽",
+          "zh-TW": "Super Cub",
+          "ja": "スーパーカブ"
+        },
         "aliases": {
           "日本": "スーパーカブ",
           "东南亚": "Super Cub / Cub",
@@ -29901,6 +29949,12 @@
       {
         "id": "cm:honda:cb400sf",
         "main": "CB400 Super Four",
+        "names": {
+          "en": "CB400 Super Four",
+          "zh-CN": "CB400 超级四缸",
+          "zh-TW": "CB400 Super Four",
+          "ja": "CB400スーパーフォア"
+        },
         "aliases": {
           "日本": "CB400スーパーフォア",
           "中国大陆": "CB400 超级四缸"
@@ -29910,6 +29964,12 @@
       {
         "id": "cm:kawasaki:gpz-ninja",
         "main": "GPZ900R Ninja",
+        "names": {
+          "en": "GPZ900R Ninja",
+          "zh-CN": "GPZ900R Ninja",
+          "zh-TW": "GPZ900R Ninja",
+          "ja": "GPZ900R ニンジャ"
+        },
         "aliases": {
           "日本": "GPZ900R ニンジャ",
           "北美": "Ninja 900",
@@ -29920,6 +29980,12 @@
       {
         "id": "cm:kawasaki:vn-vulcan",
         "main": "Vulcan (VN)",
+        "names": {
+          "en": "Vulcan (VN)",
+          "zh-CN": "Vulcan (VN)",
+          "zh-TW": "Vulcan (VN)",
+          "ja": "バルカン (VN)"
+        },
         "aliases": {
           "日本": "バルカン (VN)",
           "北美": "Vulcan",
@@ -29930,6 +29996,12 @@
       {
         "id": "cm:kawasaki:versys",
         "main": "Versys",
+        "names": {
+          "en": "Versys",
+          "zh-CN": "Versys",
+          "zh-TW": "Versys",
+          "ja": "バーシス (Versys)"
+        },
         "aliases": {
           "日本": "バーシス (Versys)",
           "欧洲": "Versys",
@@ -29940,6 +30012,12 @@
       {
         "id": "cm:bmw:r1200gs-r1250gs",
         "main": "R 1250 GS",
+        "names": {
+          "en": "R 1250 GS",
+          "zh-CN": "水鸟",
+          "zh-TW": "R 1250 GS",
+          "ja": "R 1250 GS"
+        },
         "aliases": {
           "中国大陆": "水鸟",
           "北美": "R 1250 GS",
@@ -29950,6 +30028,12 @@
       {
         "id": "cm:bmw:k1600",
         "main": "K 1600 GTL",
+        "names": {
+          "en": "K 1600 GTL",
+          "zh-CN": "大GT",
+          "zh-TW": "K 1600 GTL",
+          "ja": "K 1600 GTL"
+        },
         "aliases": {
           "中国大陆": "大GT",
           "欧洲": "K 1600 GTL",
@@ -29960,6 +30044,12 @@
       {
         "id": "cm:ducati:monster",
         "main": "Monster",
+        "names": {
+          "en": "Monster",
+          "zh-CN": "怪兽",
+          "zh-TW": "Monster",
+          "ja": "モンスター"
+        },
         "aliases": {
           "日本": "モンスター",
           "中国大陆": "怪兽",
@@ -29970,6 +30060,12 @@
       {
         "id": "cm:triumph:bonneville",
         "main": "Bonneville",
+        "names": {
+          "en": "Bonneville",
+          "zh-CN": "邦尼维尔",
+          "zh-TW": "Bonneville",
+          "ja": "ボンネビル"
+        },
         "aliases": {
           "中国大陆": "邦尼维尔",
           "欧洲": "Bonneville",
@@ -29980,6 +30076,12 @@
       {
         "id": "cm:harley:heritage-softail",
         "main": "Heritage Softail",
+        "names": {
+          "en": "Heritage Softail",
+          "zh-CN": "继承者",
+          "zh-TW": "Heritage Softail",
+          "ja": "Heritage Softail"
+        },
         "aliases": {
           "中国大陆": "继承者",
           "北美": "Heritage Classic",
@@ -29990,6 +30092,12 @@
       {
         "id": "cm:harley:sportster",
         "main": "Sportster",
+        "names": {
+          "en": "Sportster",
+          "zh-CN": "运动者",
+          "zh-TW": "Sportster",
+          "ja": "スポーツスター"
+        },
         "aliases": {
           "中国大陆": "运动者",
           "北美": "Sportster",
@@ -30000,6 +30108,12 @@
       {
         "id": "cm:ktm:duke",
         "main": "Duke",
+        "names": {
+          "en": "Duke",
+          "zh-CN": "公爵",
+          "zh-TW": "Duke",
+          "ja": "デューク"
+        },
         "aliases": {
           "中国大陆": "公爵",
           "欧洲": "Duke",
@@ -30010,6 +30124,12 @@
       {
         "id": "cm:ktm:adventure",
         "main": "Adventure",
+        "names": {
+          "en": "Adventure",
+          "zh-CN": "探险家",
+          "zh-TW": "Adventure",
+          "ja": "Adventure"
+        },
         "aliases": {
           "中国大陆": "探险家",
           "欧洲": "Adventure",
@@ -30020,6 +30140,12 @@
       {
         "id": "cm:royal-enfield:bullet",
         "main": "Bullet",
+        "names": {
+          "en": "Bullet",
+          "zh-CN": "子弹头",
+          "zh-TW": "Bullet",
+          "ja": "Bullet"
+        },
         "aliases": {
           "印度": "बुलेट (Bullet)",
           "中国大陆": "子弹头",
@@ -30030,6 +30156,12 @@
       {
         "id": "cm:honda:cbr650r-cb650r",
         "main": "CB650R / CBR650R",
+        "names": {
+          "en": "CB650R / CBR650R",
+          "zh-CN": "CB650R / CBR650R",
+          "zh-TW": "CB650R / CBR650R",
+          "ja": "CB650R / CBR650R"
+        },
         "aliases": {
           "北美": "CB650R / CBR650R",
           "欧洲": "CB650R / CBR650R",
@@ -30040,6 +30172,12 @@
       {
         "id": "cm:suzuki:v-strom",
         "main": "V-Strom (DL)",
+        "names": {
+          "en": "V-Strom (DL)",
+          "zh-CN": "维斯托姆",
+          "zh-TW": "V-Strom (DL)",
+          "ja": "Vストローム (DL)"
+        },
         "aliases": {
           "日本": "Vストローム (DL)",
           "欧洲": "V-Strom",
@@ -30051,6 +30189,12 @@
       {
         "id": "cm:yamaha:tmax",
         "main": "TMAX",
+        "names": {
+          "en": "TMAX",
+          "zh-CN": "踢妈克斯",
+          "zh-TW": "TMAX",
+          "ja": "ティーマックス"
+        },
         "aliases": {
           "日本": "ティーマックス",
           "欧洲": "TMAX",
@@ -30061,6 +30205,12 @@
       {
         "id": "cm:honda:pcx",
         "main": "PCX",
+        "names": {
+          "en": "PCX",
+          "zh-CN": "PCX",
+          "zh-TW": "PCX",
+          "ja": "PCX"
+        },
         "aliases": {
           "日本": "PCX",
           "东南亚": "PCX",
@@ -30071,6 +30221,12 @@
       {
         "id": "cm:vespa:primavera",
         "main": "Primavera",
+        "names": {
+          "en": "Primavera",
+          "zh-CN": "春天",
+          "zh-TW": "Primavera",
+          "ja": "プリマヴェーラ"
+        },
         "aliases": {
           "日本": "プリマヴェーラ",
           "中国大陆": "春天",
@@ -30081,6 +30237,12 @@
       {
         "id": "cm:vespa:sprint",
         "main": "Sprint",
+        "names": {
+          "en": "Sprint",
+          "zh-CN": "冲刺",
+          "zh-TW": "Sprint",
+          "ja": "スプリント"
+        },
         "aliases": {
           "日本": "スプリント",
           "中国大陆": "冲刺",
@@ -30091,6 +30253,12 @@
       {
         "id": "cm:aprilia:rsv4",
         "main": "RSV4",
+        "names": {
+          "en": "RSV4",
+          "zh-CN": "RSV4",
+          "zh-TW": "RSV4",
+          "ja": "RSV4"
+        },
         "aliases": {
           "日本": "RSV4",
           "欧洲": "RSV4",
@@ -30101,6 +30269,12 @@
       {
         "id": "cm:qjmotor:benelli-tnt",
         "main": "Benelli TNT (QJMOTOR 同平台)",
+        "names": {
+          "en": "Benelli TNT (QJMOTOR platform counterpart)",
+          "zh-CN": "钱江 TNT 系列",
+          "zh-TW": "Benelli TNT（QJMOTOR 同平台車型）",
+          "ja": "ベネリ TNT（QJMOTOR同プラットフォーム）"
+        },
         "aliases": {
           "中国大陆": "钱江 TNT 系列",
           "欧洲": "Benelli TNT",
@@ -30111,6 +30285,12 @@
       {
         "id": "cm:cfmoto:450sr",
         "main": "CFMoto 450SR",
+        "names": {
+          "en": "CFMoto 450SR",
+          "zh-CN": "春风 450SR",
+          "zh-TW": "CFMoto 450SR",
+          "ja": "CFMoto 450SR"
+        },
         "aliases": {
           "中国大陆": "春风 450SR",
           "欧洲": "CFMoto 450SR",
@@ -30121,6 +30301,12 @@
       {
         "id": "cm:haojue:gsx250r",
         "main": "Suzuki GSX250R (Haojue 合资)",
+        "names": {
+          "en": "Suzuki GSX250R (Haojue joint venture)",
+          "zh-CN": "豪爵铃木 GSX250R",
+          "zh-TW": "鈴木 GSX250R（豪爵合資）",
+          "ja": "スズキ GSX250R（豪爵合弁）"
+        },
         "aliases": {
           "中国大陆": "豪爵铃木 GSX250R",
           "海外": "Suzuki GSX250R"
@@ -30130,6 +30316,12 @@
       {
         "id": "cm:yamaha:r15",
         "main": "YZF-R15",
+        "names": {
+          "en": "YZF-R15",
+          "zh-CN": "R15",
+          "zh-TW": "YZF-R15",
+          "ja": "YZF-R15"
+        },
         "aliases": {
           "印度": "YZF-R15 V4",
           "东南亚": "YZF-R15",
@@ -30140,6 +30332,12 @@
       {
         "id": "cm:honda:cbr150r",
         "main": "CBR150R",
+        "names": {
+          "en": "CBR150R",
+          "zh-CN": "CBR150R",
+          "zh-TW": "CBR150R",
+          "ja": "CBR150R"
+        },
         "aliases": {
           "东南亚": "CBR150R",
           "拉美": "CBR150R",
@@ -30150,6 +30348,12 @@
       {
         "id": "cm:kawasaki:klx",
         "main": "KLX",
+        "names": {
+          "en": "KLX",
+          "zh-CN": "KLX",
+          "zh-TW": "KLX",
+          "ja": "KLX"
+        },
         "aliases": {
           "东南亚": "KLX",
           "北美": "KLX",
@@ -30160,6 +30364,12 @@
       {
         "id": "cm:suzuki:address",
         "main": "Address",
+        "names": {
+          "en": "Address",
+          "zh-CN": "时代",
+          "zh-TW": "Address",
+          "ja": "アドレス"
+        },
         "aliases": {
           "日本": "アドレス",
           "东南亚": "Address",
@@ -30170,6 +30380,12 @@
       {
         "id": "cm:yamaha:jog",
         "main": "Jog",
+        "names": {
+          "en": "Jog",
+          "zh-CN": "巧格",
+          "zh-TW": "Jog",
+          "ja": "ジョグ"
+        },
         "aliases": {
           "日本": "ジョグ",
           "中国大陆": "巧格",
@@ -30180,6 +30396,12 @@
       {
         "id": "cm:yamaha:cygnus",
         "main": "Cygnus (劲战)",
+        "names": {
+          "en": "Cygnus",
+          "zh-CN": "劲战",
+          "zh-TW": "勁戰",
+          "ja": "シグナス (Cygnus)"
+        },
         "aliases": {
           "台湾": "勁戰",
           "日本": "シグナス (Cygnus)",
@@ -30190,6 +30412,12 @@
       {
         "id": "cm:kymco:like",
         "main": "Like",
+        "names": {
+          "en": "Like",
+          "zh-CN": "丽可",
+          "zh-TW": "Like",
+          "ja": "Like"
+        },
         "aliases": {
           "台湾": "Like",
           "欧洲": "Like",
@@ -30200,6 +30428,12 @@
       {
         "id": "cm:sym:jet",
         "main": "Jet",
+        "names": {
+          "en": "Jet",
+          "zh-CN": "捷特",
+          "zh-TW": "JET",
+          "ja": "Jet"
+        },
         "aliases": {
           "台湾": "JET",
           "欧洲": "Jet",
@@ -30210,6 +30444,12 @@
       {
         "id": "cm:piaggio:mp3",
         "main": "MP3",
+        "names": {
+          "en": "MP3",
+          "zh-CN": "MP3 倒三轮",
+          "zh-TW": "MP3",
+          "ja": "MP3"
+        },
         "aliases": {
           "欧洲": "MP3",
           "日本": "MP3",
@@ -30220,6 +30460,12 @@
       {
         "id": "cm:indian:scout",
         "main": "Scout",
+        "names": {
+          "en": "Scout",
+          "zh-CN": "侦察兵",
+          "zh-TW": "Scout",
+          "ja": "Scout"
+        },
         "aliases": {
           "北美": "Scout",
           "欧洲": "Scout",
@@ -30230,6 +30476,12 @@
       {
         "id": "cm:indian:chief",
         "main": "Chief",
+        "names": {
+          "en": "Chief",
+          "zh-CN": "首领",
+          "zh-TW": "Chief",
+          "ja": "Chief"
+        },
         "aliases": {
           "北美": "Chief",
           "欧洲": "Chief",
@@ -30240,6 +30492,12 @@
       {
         "id": "cm:moto-guzzi:v7",
         "main": "V7",
+        "names": {
+          "en": "V7",
+          "zh-CN": "V7",
+          "zh-TW": "V7",
+          "ja": "V7"
+        },
         "aliases": {
           "欧洲": "V7",
           "日本": "V7",
@@ -30250,6 +30508,12 @@
       {
         "id": "cm:honda:forza",
         "main": "Forza",
+        "names": {
+          "en": "Forza",
+          "zh-CN": "佛沙",
+          "zh-TW": "Forza",
+          "ja": "フォルツァ"
+        },
         "aliases": {
           "日本": "フォルツァ",
           "欧洲": "Forza",
@@ -30260,6 +30524,12 @@
       {
         "id": "cm:honda:xadv",
         "main": "X-ADV",
+        "names": {
+          "en": "X-ADV",
+          "zh-CN": "X-ADV",
+          "zh-TW": "X-ADV",
+          "ja": "X-ADV"
+        },
         "aliases": {
           "日本": "X-ADV",
           "欧洲": "X-ADV",
@@ -30270,6 +30540,12 @@
       {
         "id": "cm:yamaha:nmax",
         "main": "NMAX",
+        "names": {
+          "en": "NMAX",
+          "zh-CN": "NMAX",
+          "zh-TW": "NMAX",
+          "ja": "NMAX"
+        },
         "aliases": {
           "东南亚": "NMAX",
           "欧洲": "NMAX",
@@ -30280,6 +30556,12 @@
       {
         "id": "cm:suzuki:dr",
         "main": "DR (DualSport)",
+        "names": {
+          "en": "DR (DualSport)",
+          "zh-CN": "DR (DualSport)",
+          "zh-TW": "DR (DualSport)",
+          "ja": "DR650"
+        },
         "aliases": {
           "北美": "DR650",
           "欧洲": "DR650",
@@ -30290,6 +30572,12 @@
       {
         "id": "cm:kawasaki:z900rs",
         "main": "Z900RS",
+        "names": {
+          "en": "Z900RS",
+          "zh-CN": "Z900RS",
+          "zh-TW": "Z900RS",
+          "ja": "Z900RS ゼファー"
+        },
         "aliases": {
           "日本": "Z900RS ゼファー",
           "欧洲": "Z900RS",
@@ -30300,6 +30588,12 @@
       {
         "id": "cm:bmw:s1000rr",
         "main": "S 1000 RR",
+        "names": {
+          "en": "S 1000 RR",
+          "zh-CN": "S 1000 RR",
+          "zh-TW": "S 1000 RR",
+          "ja": "S1000RR"
+        },
         "aliases": {
           "日本": "S1000RR",
           "欧洲": "S 1000 RR",
@@ -30310,6 +30604,12 @@
       {
         "id": "cm:kawasaki:eliminator-400-450",
         "main": "Eliminator 400/450",
+        "names": {
+          "en": "Eliminator 400/450",
+          "zh-CN": "Eliminator 450",
+          "zh-TW": "Eliminator 400/450",
+          "ja": "エリミネーター 400 (Eliminator 400)"
+        },
         "aliases": {
           "日本": "エリミネーター 400 (Eliminator 400)",
           "北美": "Eliminator 450",
@@ -30321,6 +30621,12 @@
       {
         "id": "cm:suzuki:gixxer",
         "main": "Gixxer 155",
+        "names": {
+          "en": "Gixxer 155",
+          "zh-CN": "极客飒 GIXXER 155",
+          "zh-TW": "Gixxer 155",
+          "ja": "Gixxer 155"
+        },
         "aliases": {
           "印度": "Gixxer 155",
           "东南亚": "Gixxer 155",
@@ -30331,6 +30637,12 @@
       {
         "id": "cm:honda:wave-supra",
         "main": "Wave 系列",
+        "names": {
+          "en": "Wave series",
+          "zh-CN": "威武",
+          "zh-TW": "Wave 系列",
+          "ja": "Waveシリーズ"
+        },
         "aliases": {
           "泰国": "Wave",
           "马来西亚": "Wave",
@@ -30341,6 +30653,12 @@
       {
         "id": "cm:honda:varadero",
         "main": "VTR1000 Varadero",
+        "names": {
+          "en": "VTR1000 Varadero",
+          "zh-CN": "VTR1000 Varadero",
+          "zh-TW": "VTR1000 Varadero",
+          "ja": "バラデロ (Varadero)"
+        },
         "aliases": {
           "欧洲": "Varadero",
           "日本": "バラデロ (Varadero)",
@@ -30351,6 +30669,12 @@
       {
         "id": "cm:honda:ct125-hunter-cub",
         "main": "CT125 Hunter Cub",
+        "names": {
+          "en": "CT125 Hunter Cub",
+          "zh-CN": "猎人幼兽",
+          "zh-TW": "CT125 Hunter Cub",
+          "ja": "ハンターカブ (Hunter Cub)"
+        },
         "aliases": {
           "日本": "ハンターカブ (Hunter Cub)",
           "欧洲": "CT125 Hunter Cub",
@@ -30361,6 +30685,12 @@
       {
         "id": "cm:honda:cub-trail",
         "main": "C50/C90 Trail",
+        "names": {
+          "en": "C50/C90 Trail",
+          "zh-CN": "幼兽",
+          "zh-TW": "C50/C90 Trail",
+          "ja": "カブ (Cub)"
+        },
         "aliases": {
           "日本": "カブ (Cub)",
           "东南亚": "Cub / Wave",
@@ -30371,6 +30701,12 @@
       {
         "id": "cm:yamaha:mt15",
         "main": "MT-15",
+        "names": {
+          "en": "MT-15",
+          "zh-CN": "MT-15",
+          "zh-TW": "MT-15",
+          "ja": "MT-15"
+        },
         "aliases": {
           "印度": "MT-15",
           "东南亚": "MT-15",
@@ -30381,6 +30717,12 @@
       {
         "id": "cm:yamaha:aerox",
         "main": "Aerox 155",
+        "names": {
+          "en": "Aerox 155",
+          "zh-CN": "Aerox 155",
+          "zh-TW": "Aerox 155",
+          "ja": "Aerox 155"
+        },
         "aliases": {
           "东南亚": "Aerox 155",
           "欧洲": "NMAX 155",
@@ -30391,6 +30733,12 @@
       {
         "id": "cm:yamaha:fino",
         "main": "Fino",
+        "names": {
+          "en": "Fino",
+          "zh-CN": "Fino",
+          "zh-TW": "Vinoora",
+          "ja": "Fino"
+        },
         "aliases": {
           "泰国": "Fino",
           "印度尼西亚": "Fino",
@@ -30401,6 +30749,12 @@
       {
         "id": "cm:suzuki:burgman-street",
         "main": "Burgman Street",
+        "names": {
+          "en": "Burgman Street",
+          "zh-CN": "汉堡人 Street",
+          "zh-TW": "Burgman Street",
+          "ja": "Burgman Street"
+        },
         "aliases": {
           "印度": "Burgman Street EX",
           "东南亚": "Burgman Street EX",
@@ -30411,6 +30765,12 @@
       {
         "id": "cm:suzuki:raider",
         "main": "Raider 150",
+        "names": {
+          "en": "Raider 150",
+          "zh-CN": "Raider 150",
+          "zh-TW": "Raider 150",
+          "ja": "Raider 150"
+        },
         "aliases": {
           "印度尼西亚": "Raider 150",
           "菲律宾": "Raider 150",
@@ -30421,6 +30781,12 @@
       {
         "id": "cm:suzuki:lets",
         "main": "Let's 系列",
+        "names": {
+          "en": "Let's series",
+          "zh-CN": "Let's 系列",
+          "zh-TW": "Let's 系列",
+          "ja": "レッツシリーズ"
+        },
         "aliases": {
           "日本": "レッツ (Let's)",
           "东南亚": "Let's / Next",
@@ -30431,6 +30797,12 @@
       {
         "id": "cm:honda:benly",
         "main": "Benly 系列",
+        "names": {
+          "en": "Benly series",
+          "zh-CN": "本利",
+          "zh-TW": "Benly 系列",
+          "ja": "ベンリー (Benly)"
+        },
         "aliases": {
           "日本": "ベンリー (Benly)",
           "东南亚": "Benly",
@@ -30441,6 +30813,12 @@
       {
         "id": "cm:kawasaki:ksr",
         "main": "KSR",
+        "names": {
+          "en": "KSR",
+          "zh-CN": "KSR",
+          "zh-TW": "KSR",
+          "ja": "KSR"
+        },
         "aliases": {
           "日本": "KSR",
           "欧洲": "KSR",
@@ -30451,6 +30829,12 @@
       {
         "id": "cm:honda:cb350-hness",
         "main": "H'ness CB350 / GB350",
+        "names": {
+          "en": "H'ness CB350 / GB350",
+          "zh-CN": "GB350",
+          "zh-TW": "H'ness CB350 / GB350",
+          "ja": "GB350 / GB350S"
+        },
         "aliases": {
           "印度": "H'ness CB350 / CB350RS",
           "日本": "GB350 / GB350S",
@@ -30462,6 +30846,12 @@
       {
         "id": "cm:suzuki:gsx-s125",
         "main": "GSX-S125",
+        "names": {
+          "en": "GSX-S125",
+          "zh-CN": "GSX-S125",
+          "zh-TW": "GSX-S125",
+          "ja": "GSX-S125"
+        },
         "aliases": {
           "欧洲": "GSX-S125",
           "日本": "GSX-S125",
@@ -30472,6 +30862,12 @@
       {
         "id": "cm:yamaha:yzf-r125",
         "main": "YZF-R125",
+        "names": {
+          "en": "YZF-R125",
+          "zh-CN": "YZF-R125",
+          "zh-TW": "YZF-R125",
+          "ja": "YZF-R125"
+        },
         "aliases": {
           "欧洲": "YZF-R125",
           "日本": "YZF-R125",
@@ -30482,6 +30878,12 @@
       {
         "id": "cm:honda:rebel-300",
         "main": "Rebel 300",
+        "names": {
+          "en": "Rebel 300",
+          "zh-CN": "Rebel 300",
+          "zh-TW": "Rebel 300",
+          "ja": "レブル 300"
+        },
         "aliases": {
           "北美": "Rebel 300",
           "欧洲": "CMX300",
@@ -30492,6 +30894,12 @@
       {
         "id": "cm:kawasaki:w800",
         "main": "W800",
+        "names": {
+          "en": "W800",
+          "zh-CN": "W800",
+          "zh-TW": "W800",
+          "ja": "W800"
+        },
         "aliases": {
           "日本": "W800",
           "欧洲": "W800 Street / W800 Cafe",
@@ -30502,6 +30910,12 @@
       {
         "id": "cm:yamaha:xv950",
         "main": "XV950",
+        "names": {
+          "en": "XV950",
+          "zh-CN": "XV950",
+          "zh-TW": "XV950",
+          "ja": "ボルト (Bolt)"
+        },
         "aliases": {
           "北美": "Bolt",
           "欧洲": "XV950",
@@ -30512,6 +30926,12 @@
       {
         "id": "cm:suzuki:gsx250",
         "main": "GSX250R",
+        "names": {
+          "en": "GSX250R",
+          "zh-CN": "豪爵铃木 GSX250R",
+          "zh-TW": "GSX250R",
+          "ja": "GSX250R"
+        },
         "aliases": {
           "日本": "GSX250R",
           "欧洲": "GSX250R",
@@ -30522,6 +30942,12 @@
       {
         "id": "cm:honda:dio",
         "main": "Dio",
+        "names": {
+          "en": "Dio",
+          "zh-CN": "Dio",
+          "zh-TW": "Dio",
+          "ja": "ディオ (Dio)"
+        },
         "aliases": {
           "日本": "ディオ (Dio)",
           "东南亚": "Dio",
@@ -30532,6 +30958,12 @@
       {
         "id": "cm:honda:activa",
         "main": "Activa",
+        "names": {
+          "en": "Activa",
+          "zh-CN": "Activa",
+          "zh-TW": "Activa",
+          "ja": "Activa"
+        },
         "aliases": {
           "印度": "Activa",
           "东南亚": "Activa",
@@ -30542,6 +30974,12 @@
       {
         "id": "cm:yamaha:lexi",
         "main": "Lexi 125",
+        "names": {
+          "en": "Lexi 125",
+          "zh-CN": "Lexi 125",
+          "zh-TW": "Lexi 125",
+          "ja": "Lexi 125"
+        },
         "aliases": {
           "泰国": "Lexi 125",
           "马来西亚": "Lexi 125",
@@ -30552,6 +30990,12 @@
       {
         "id": "cm:honda:supra-gtr",
         "main": "Supra GTR 150",
+        "names": {
+          "en": "Supra GTR 150",
+          "zh-CN": "Supra GTR 150",
+          "zh-TW": "Supra GTR 150",
+          "ja": "Supra GTR 150"
+        },
         "aliases": {
           "印度尼西亚": "Supra GTR 150",
           "马来西亚": "Supra GTR 150",
@@ -30562,6 +31006,12 @@
       {
         "id": "cm:royal-enfield:classic-350",
         "main": "Classic 350",
+        "names": {
+          "en": "Classic 350",
+          "zh-CN": "Classic 350",
+          "zh-TW": "Classic 350",
+          "ja": "Classic 350"
+        },
         "aliases": {
           "印度": "क्लासिक 350 (Classic 350)",
           "欧洲": "Classic 350",
@@ -30572,6 +31022,12 @@
       {
         "id": "cm:ktm:390-duke",
         "main": "390 Duke",
+        "names": {
+          "en": "390 Duke",
+          "zh-CN": "390 Duke",
+          "zh-TW": "390 Duke",
+          "ja": "390 Duke"
+        },
         "aliases": {
           "印度": "390 Duke",
           "欧洲": "390 Duke",
@@ -30582,6 +31038,12 @@
       {
         "id": "cm:bmw:g310",
         "main": "G 310 R",
+        "names": {
+          "en": "G 310 R",
+          "zh-CN": "G 310 R",
+          "zh-TW": "G 310 R",
+          "ja": "G 310 R"
+        },
         "aliases": {
           "印度": "G 310 R",
           "欧洲": "G 310 R",

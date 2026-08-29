@@ -1,9 +1,9 @@
 {
   "schema_version": "1.0.0",
-  "database_version": "1.0.0",
-  "updated": "2026-08-10",
+  "database_version": "1.1.0",
+  "updated": "2026-08-29",
   "title": "多语言摩托车车名资料库 Multilingual Motorcycle Name Database",
-  "repository": "",
+  "repository": "https://github.com/ixiehao/motorcycle-name",
   "languages": ["en", "zh-CN", "zh-TW", "ja"],
   "license": "CC BY-SA 4.0",
   "coverage": {

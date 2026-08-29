@@ -26,7 +26,7 @@ Motorcycle names are notoriously inconsistent across markets: the same model shi
 
 ## 语言 / Languages
 
-每个条目均包含四种语言变体 / Every entry includes four language variants:
+品牌、车型、术语与跨市场异名条目均包含四种语言变体 / Brand, model, glossary, and cross-market-alias entries each include four language variants:
 
 - `en` — English / 英语
 - `zh-CN` — Simplified Chinese / 简体中文
