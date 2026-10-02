@@ -75,7 +75,7 @@
       .repository-link:hover { border-color: rgba(237, 155, 25, .8); background: rgba(237, 155, 25, .12); }
 
       .hero { overflow: hidden; color: white; background: var(--navy); }
-      .hero .wrap { position: relative; padding: 3.65rem 0 4.2rem; }
+      .hero .wrap { position: relative; padding: 3.65rem 0 4.8rem; }
       .hero .wrap::before, .hero .wrap::after { position: absolute; border-radius: 50%; content: ""; pointer-events: none; }
       .hero .wrap::before { top: -17rem; right: -11rem; width: 38rem; height: 38rem; border: 1px solid rgba(255,255,255,.08); box-shadow: 0 0 0 5rem rgba(255,255,255,.018), 0 0 0 10rem rgba(255,255,255,.014); }
       .hero .wrap::after { right: 18%; bottom: -17rem; width: 25rem; height: 25rem; background: radial-gradient(circle, rgba(237,155,25,.19), transparent 68%); }
@@ -89,15 +89,15 @@
       .button.primary { color: #1e1a0e; background: var(--amber); box-shadow: 0 8px 18px rgba(0,0,0,.2); }
       .button.secondary { border-color: rgba(255,255,255,.22); color: #edf1f7; background: rgba(255,255,255,.045); }
 
-      main { margin-top: -1.8rem; padding-bottom: 4rem; }
-      .stats { position: relative; z-index: 2; display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; overflow: hidden; border: 1px solid var(--line); border-radius: var(--radius); background: var(--line); box-shadow: var(--shadow); }
-      .stat { min-height: 7.7rem; padding: 1.2rem 1.35rem; background: var(--paper); }
-      .stat small { display: block; color: var(--muted); font-size: .68rem; font-weight: 800; letter-spacing: .08em; }
-      .stat strong { display: block; margin-top: .55rem; color: var(--navy); font-size: clamp(1.55rem, 2.4vw, 2.1rem); font-variant-numeric: tabular-nums; letter-spacing: -.04em; }
+      main { padding: 2rem 0 4rem; }
+      .stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; overflow: hidden; border: 1px solid var(--line); border-radius: var(--radius); background: var(--line); box-shadow: var(--shadow); }
+      .stat { display: grid; align-content: center; min-width: 0; min-height: 8rem; padding: clamp(1.15rem, 2vw, 1.5rem); background: var(--paper); }
+      .stat small { display: block; min-width: 0; color: var(--muted); font-size: .68rem; font-weight: 800; letter-spacing: .08em; line-height: 1.45; overflow-wrap: anywhere; }
+      .stat strong { display: block; margin-top: .6rem; color: var(--navy); font-size: clamp(1.65rem, 2.4vw, 2.2rem); font-variant-numeric: tabular-nums; letter-spacing: -.04em; line-height: 1; }
       .stat:first-child strong { color: #bd7310; }
 
-      .directory-section { margin-top: 3.3rem; }
-      .section-heading { display: flex; align-items: end; justify-content: space-between; gap: 2rem; margin-bottom: 1.4rem; }
+      .directory-section { margin-top: 3.5rem; scroll-margin-top: 2rem; }
+      .section-heading { display: flex; align-items: flex-end; justify-content: space-between; gap: 2.5rem; margin-bottom: 1.5rem; }
       .section-heading h2 { margin: 0; color: var(--navy); font-size: clamp(1.55rem, 3vw, 2.2rem); letter-spacing: -.045em; }
       .section-heading p { max-width: 36rem; margin: 0; color: var(--muted); font-size: .92rem; line-height: 1.65; }
 
@@ -144,7 +144,8 @@
       footer { padding: 1.35rem 0 2.6rem; color: var(--muted); font-size: .75rem; line-height: 1.65; text-align: center; }
 
       @media (max-width: 900px) {
-        .stats { grid-template-columns: repeat(2, 1fr); }
+        main { padding-top: 1.5rem; }
+        .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
         .filters { grid-template-columns: 1fr 1fr; }
         .reset { width: 100%; }
         .directory { overflow-x: auto; box-shadow: var(--shadow), inset -18px 0 16px -20px rgba(22,35,61,.8); }
@@ -158,14 +159,14 @@
         .mark strong { font-size: .85rem; }
         .mark small { font-size: .52rem; }
         .repository-link { min-height: 2.25rem; padding: 0 .52rem; font-size: .7rem; }
-        .hero .wrap { padding: 2.65rem 0 3.75rem; }
+        .hero .wrap { padding: 2.65rem 0 3.9rem; }
         .hero .wrap::before { right: -19rem; }
         h1 { font-size: 2.3rem; }
         .hero-copy { font-size: .96rem; }
-        main { margin-top: -1.2rem; }
-        .stats { grid-template-columns: 1fr 1fr; }
-        .stat { min-height: 6.8rem; padding: 1rem; }
-        .directory-section { margin-top: 2.5rem; }
+        main { padding: 1.25rem 0 3rem; }
+        .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+        .stat { min-height: 7rem; padding: 1rem; }
+        .directory-section { margin-top: 2.75rem; }
         .section-heading, .summary { display: block; }
         .section-heading p { margin-top: .75rem; }
         .filters { grid-template-columns: 1fr; gap: .72rem; padding: .82rem; }
